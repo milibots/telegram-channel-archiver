@@ -4,9 +4,8 @@ permissions:
   contents: write
 
 on:
-  schedule:
-    - cron: '*/10 * * * *'
-  workflow_dispatch:
+  # We removed the schedule because the VPS now handles timing
+  workflow_dispatch: 
 
 jobs:
   fetch-and-save:
@@ -17,7 +16,7 @@ jobs:
       uses: actions/checkout@v4
       with:
         persist-credentials: true
-        fetch-depth: 0  # This ensures the full history is available for pushing
+        fetch-depth: 1 # Faster for frequent scraping
 
     - name: Set up Python
       uses: actions/setup-python@v5
