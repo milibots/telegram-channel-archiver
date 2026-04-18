@@ -2,7 +2,7 @@
   "success": true,
   "channel": "matinsenpaii",
   "channel_title": "Matin SenPai",
-  "channel_subscribers": "53K subscribers",
+  "channel_subscribers": "53.1K subscribers",
   "total_posts": 70,
   "returned_posts": 70,
   "posts": [
@@ -10,7 +10,7 @@
       "datetime": "2026-04-18T20:02:25+00:00",
       "time_text": "20:02",
       "link": "https://t.me/MatinSenPaii/2759",
-      "views": "16.9K"
+      "views": "17.1K"
     },
     {
       "text": "متد اسپوف SNI بسته شده 99 درصد مناطق دوباره."
@@ -22,7 +22,7 @@
       "datetime": "2026-04-18T20:01:35+00:00",
       "time_text": "20:01",
       "link": "https://t.me/MatinSenPaii/2758",
-      "views": "16.6K"
+      "views": "16.7K"
     },
     {
       "text": "فیلترچی بین وایت کردن + اسپوف زدن ملت و بستن کامل گزینه‌ی دوم رو انتخاب کرد انگار. زورش نرسید هم وایت کنه هم SNI رو ببنده"
@@ -34,7 +34,7 @@
       "datetime": "2026-04-18T18:41:34+00:00",
       "time_text": "18:41",
       "link": "https://t.me/MatinSenPaii/2757",
-      "views": "21.6K"
+      "views": "21.7K"
     },
     {
       "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
@@ -46,7 +46,7 @@
       "datetime": "2026-04-18T14:23:55+00:00",
       "time_text": "14:23",
       "link": "https://t.me/MatinSenPaii/2756",
-      "views": "27.8K"
+      "views": "27.9K"
     },
     {
       "text": "هیچکس توقع نداره کار کنه🤣🤣"
@@ -105,7 +105,7 @@
       "datetime": "2026-04-18T06:22:15+00:00",
       "time_text": "06:22",
       "link": "https://t.me/MatinSenPaii/2751",
-      "views": "31.7K"
+      "views": "31.8K"
     },
     {
       "text": "خب، وقت SNI جدیده انگار. البته ما که از پریروز داریم اسکن میکنیم و میگردیم. چیزی پیدا شد می‌ذارم همینجا"
@@ -159,7 +159,7 @@
       "datetime": "2026-04-17T21:48:37+00:00",
       "time_text": "21:48",
       "link": "https://t.me/MatinSenPaii/2747",
-      "views": "33.9K"
+      "views": "34K"
     },
     {
       "text": "حیف وقت. حتی دیگه بهش نمی‌پردازم فقط دوست داشتم ممبرهای خودم عقاید من و دیدگاهم رو در رابطه با این قضیه بدونن که دو بار صحبت کردم."
@@ -245,7 +245,7 @@
       "datetime": "2026-04-17T18:39:35+00:00",
       "time_text": "18:39",
       "link": "https://t.me/MatinSenPaii/2740",
-      "views": "30.6K"
+      "views": "30.7K"
     },
     {
       "text": "منطقه‌ای وصله اما پرسرعت. طبیعتا روی Spoof Sni"
@@ -282,7 +282,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-18T23:40:20.101723",
+    "last_updated_at": "2026-04-18T23:50:17.209028",
     "status": "success",
     "new_posts_found": 0
   }
