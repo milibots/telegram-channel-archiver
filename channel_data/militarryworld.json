@@ -1,14 +1,72 @@
 {
   "success": true,
   "channel": "MilitarryWorld",
-  "total_posts": 64,
-  "returned_posts": 64,
+  "total_posts": 69,
+  "returned_posts": 69,
   "posts": [
+    {
+      "datetime": "2026-04-18T20:28:25+00:00",
+      "time_text": "20:28",
+      "link": "https://t.me/MilitarryWorld/75673",
+      "views": "383"
+    },
+    {
+      "text": "⭕️پست&nbsp; سردار مجید موسوی فرمانده هوافضای سپاه: \n\nمردم ایران، جنگ همچنان ادامه دارد&#33; باید از خاک وطن دفاع کنید&#33; \n\n@MilitarryWorld | Parsa"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/tB6t-zqHjOxpHjm78zX7uM0dsFfGpii5tLxSY6fE4mImXrP1IMB1Yxq3vqaNsDRLVtulzDoe2KhDNVCnoQAo1V_3oMXeHhGF1C_ufGiDmiwNpUhwQPQ5HzRJU7TzAcsuVcMGqjgCVjSBZR5uxBnGiYJUqDhIa_W2CQI-FjcSeDTynA3ro5_suonzoWcvGSRzX6mQRiFnYz5JcqKx1OjDPSmus3QE5x2L5mli_CEifZJIjPQyfR_ZnENY1B_9B-DNVXItHiyWqtOjOuTgWhpvon3yNblrbBnjFzmtA-5lVKc6oDCPzO0qVO7KgCk6-LbxtkCOLt4YI_jjQzGqyOwojg.jpg"
+      ]
+    },
+    {
+      "post_id": "75673"
+    },
+    {
+      "datetime": "2026-04-18T20:23:36+00:00",
+      "time_text": "20:23",
+      "link": "https://t.me/MilitarryWorld/75672",
+      "views": "500"
+    },
+    {
+      "text": "⭕️هشدار روسیه به ایران: با وجود ادعاهای دیپلماتیک، ایالات متحده در حال افزایش نیروهای نظامی خود در منطقه از جمله گروه‌های دلتا و لشکر ۸۲ هوابرد است که احتمال وقوع یک عملیات مستقیم را بالا می‌برد\n\n@MilitarryWorld | Parsa"
+    },
+    {
+      "post_id": "75672"
+    },
+    {
+      "datetime": "2026-04-18T20:00:58+00:00",
+      "time_text": "20:00",
+      "link": "https://t.me/MilitarryWorld/75671",
+      "views": "859"
+    },
+    {
+      "text": "⭕️نتانیاهو: به عملیات خود در منطقه امنیتی لبنان ادامه خواهیم داد\n\n@MilitarryWorld | Parsa"
+    },
+    {
+      "post_id": "75671"
+    },
+    {
+      "datetime": "2026-04-18T20:00:01+00:00",
+      "time_text": "20:00",
+      "link": "https://t.me/MilitarryWorld/75670",
+      "views": "884"
+    },
+    {
+      "text": "⭕️ترافیک ورود هواپیماهای سوخت‌رسان به فرودگاه بن گوریون در تل‌ آویو\n\n@MilitarryWorld | Parsa"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/GQP1xtzb-iTjmaXlDXYjRRlNa3zsqDcR896ZxvzMWF8xRGSK8LucahN3CSXbEUkhms3bm7y-cBeooNpKAYkkg8-dwBKbEAkl6p15jAlCrq_7ZCklt04muwOdRjL-72itSHzC1jA6TYdgxj4jxAiEm8Eq6gefjQNTWNFXF7VIG3Ut2H-JjTqmWuWH03rrbiIPIPDgFWQF_K9ufkt4MRQQhbZ9BGH-6iU_mZukWIuWXTGTmkmYxiY2t1aFqAR53dode8DRn9iOeC0lFLTBBhF7g4z6z0hhy7gNXVRzhUiCbdbJFoej0-A0puVGj2KaDCwrN2fZ-PidG3CzFCKkYYm_lw.jpg"
+      ]
+    },
+    {
+      "post_id": "75670"
+    },
     {
       "datetime": "2026-04-18T19:44:01+00:00",
       "time_text": "19:44",
       "link": "https://t.me/MilitarryWorld/75669",
-      "views": "427"
+      "views": "1.04K"
     },
     {
       "text": "⭕️خواجه آصف، وزیر دفاع پاکستان:\n\nانتظار می‌رود دور جدیدی از مذاکرات بین ایران و آمریکا بزودی آغاز شود\n\n@MilitarryWorld | Parsa"
@@ -20,7 +78,7 @@
       "datetime": "2026-04-18T19:17:07+00:00",
       "time_text": "19:17",
       "link": "https://t.me/MilitarryWorld/75668",
-      "views": "796"
+      "views": "1.27K"
     },
     {
       "text": "⭕️اکسیوس: جلسه ترامپ در کاخ سفید درمورد مذاکرات و مسدودی تنگه با حضور مقامات زیر برگزار شد:\n\n-معاون رئیس‌جمهور، ونس\n-وزیر امور خارجه، مارکو روبیو\n-وزیر دفاع، پیت هگست\n-وزیر خزانه‌داری، اسکات بسنت\n-رئیس دفتر کاخ سفید، سوزی وایلز\n-فرستادهٔ کاخ سفید، استیو ویتکاف\n-رئیس سازمان سیا، جان رتکلیف\n-رئیس ستاد مشترک ارتش، دن کین\n@MilitarryWorld | Parsa"
@@ -35,7 +93,7 @@
       "datetime": "2026-04-18T19:13:48+00:00",
       "time_text": "19:13",
       "link": "https://t.me/MilitarryWorld/75667",
-      "views": "822"
+      "views": "1.26K"
     },
     {
       "text": "⭕️رئیس ستادهای مشترک، ژنرال دن کین، پس از پایان جلسه امنیتی درباره ایران از کاخ سفید خارج شد\n\n@MilitarryWorld | Parsa"
@@ -47,7 +105,7 @@
       "datetime": "2026-04-18T19:04:01+00:00",
       "time_text": "19:04",
       "link": "https://t.me/MilitarryWorld/75666",
-      "views": "913"
+      "views": "1.31K"
     },
     {
       "text": "⭕️سپاه پاسداران انقلاب اسلامی:\nدشمن آمریکایی محاصره دریایی کشتی‌ها و بنادر ایرانی را برننمیدارد؛ بنابراین از امروز بعدازظهر، تنگه هرمز تا زمان رفع این محاصره مسدود خواهد شد.\n\nبیانات رئیس‌جمهور ایالات متحده در مورد تنگه هرمز و خلیج فارس اعتباری ندارند و کشتی‌ها باید تنها از منبع رسمی نیروی دریایی ما به‌روزرسانی‌ها را دنبال کنند.\n\n@MilitarryWorld | Parsa"
@@ -59,7 +117,7 @@
       "datetime": "2026-04-18T18:48:01+00:00",
       "time_text": "18:48",
       "link": "https://t.me/MilitarryWorld/75665",
-      "views": "1.04K"
+      "views": "1.35K"
     },
     {
       "text": "⭕️سی‌ان‌ان: اولویت عبور از تنگهٔ هرمز با شناور‌هایی است که با سرعت بیشتری هزینه‌ پرداخت کنند\n\n@MilitarryWorld | Parsa"
@@ -71,7 +129,7 @@
       "datetime": "2026-04-18T18:30:00+00:00",
       "time_text": "18:30",
       "link": "https://t.me/MilitarryWorld/75664",
-      "views": "1.23K"
+      "views": "1.47K"
     },
     {
       "text": "⭕️قالیباف:\n\nدر اسلام آباد ، به هیئت آمریکایی گفتم که اگر پاکسازی مین آنها حتی کمی به جلو از جای خود حرکت کند ، ما قطعا به آن شلیک خواهیم کرد. اونا 15 دقيقه خواستند که دستور برگشتن رو بدن و اين کار رو کردن\n\n@MilitarryWorld | Parsa"
@@ -86,7 +144,7 @@
       "datetime": "2026-04-18T18:21:40+00:00",
       "time_text": "18:21",
       "link": "https://t.me/MilitarryWorld/75663",
-      "views": "1.27K"
+      "views": "1.5K"
     },
     {
       "text": "⭕️قالیباف: \n\nاگر آمریکا محاصره را رها نکند، حتما در تنگه هرمز محدود خواهد شد\n\n@MilitarryWorld | Parsa"
@@ -98,7 +156,7 @@
       "datetime": "2026-04-18T18:18:40+00:00",
       "time_text": "18:18",
       "link": "https://t.me/MilitarryWorld/75662",
-      "views": "1.3K"
+      "views": "1.51K"
     },
     {
       "text": "⭕️ترامپ امروز جلسه امنیتی محرمانه‌ای با ژنرال دن کین، رئیس ستاد مشترک نیروهای مسلح، و وزیر جنگ پیت هگست برگزار کرد،\nیک منبع مطلع اطلاعاتی آمریکا به Axios گفته است که آمادگی‌ها برای بازگشت به جنگ با ایران در صورت عدم پیشرفت دیپلماتیک تا پایان این هفته در حال انجام است،\n\n@MilitarryWorld | Parsa"
@@ -110,7 +168,7 @@
       "datetime": "2026-04-18T18:12:58+00:00",
       "time_text": "18:12",
       "link": "https://t.me/MilitarryWorld/75661",
-      "views": "1.26K"
+      "views": "1.46K"
     },
     {
       "text": "⭕️رئیس کمیسیون امنیت ملی مجلس: تحویل اورانیوم به آمریکا و تعلیق غنی‌سازی، دروغ آوریل ترامپ است\n\n@MilitarryWorld | Parsa"
@@ -122,7 +180,7 @@
       "datetime": "2026-04-18T17:52:23+00:00",
       "time_text": "17:52",
       "link": "https://t.me/MilitarryWorld/75660",
-      "views": "1.52K"
+      "views": "1.77K"
     },
     {
       "text": "🚨روزنامه دیلی تلگراف :\n ایرانیان یک اسم بد روی کی‌یر استارمر نخست وزیر انگلیس گذاشته اند.\nدر این گزارش آمده است نامه کوچک نخست وزیر انگلیس شبیه نام آلت تناسلی مردان در زبان فارسی است و همین امر سوژه خنده در فضای آنلاین شده است. \n\n@MilitarryWorld | Maverick"
@@ -139,7 +197,7 @@
       "datetime": "2026-04-18T17:46:50+00:00",
       "time_text": "17:46",
       "link": "https://t.me/MilitarryWorld/75659",
-      "views": "1.34K"
+      "views": "1.5K"
     },
     {
       "text": "⭕️آکسیوس به نقل از یک منبع آگاه: بحران تنگه هرمز پس از آن که طرفین اختلافات را در مورد غنی سازی اورانیوم ایران و ذخایر آن محدود کردند ، تشدید شد‌‌\n\n@MilitarryWorld | Parsa"
@@ -151,7 +209,7 @@
       "datetime": "2026-04-18T17:42:35+00:00",
       "time_text": "17:42",
       "link": "https://t.me/MilitarryWorld/75658",
-      "views": "1.36K"
+      "views": "1.53K"
     },
     {
       "text": "⭕️اکسیوس به نقل از یک مقام آمریکایی: جنگ با ایران احتمالا در روزهای آینده از سر گرفته می‌شود\n\n@MilitarryWorld | Parsa"
@@ -163,7 +221,7 @@
       "datetime": "2026-04-18T17:36:40+00:00",
       "time_text": "17:36",
       "link": "https://t.me/MilitarryWorld/75657",
-      "views": "1.39K"
+      "views": "1.56K"
     },
     {
       "text": "⭕️کانال ۱۲ عبری به نقل از مقامات اسرائیلی: در حال آماده‌سازی برای ازسرگیری احتمالی جنگ هستیم\n\n@MilitarryWorld | Parsa"
@@ -175,7 +233,7 @@
       "datetime": "2026-04-18T16:55:00+00:00",
       "time_text": "16:55",
       "link": "https://t.me/MilitarryWorld/75656",
-      "views": "1.57K"
+      "views": "1.69K"
     },
     {
       "text": "⭕️پاپ : علاقه‌ای ندارم درباره جنگ ایران با ترامپ بحث کنم\n\n@MilitarryWorld | Parsa"
@@ -187,7 +245,7 @@
       "datetime": "2026-04-18T16:40:20+00:00",
       "time_text": "16:40",
       "link": "https://t.me/MilitarryWorld/75655",
-      "views": "1.7K"
+      "views": "1.83K"
     },
     {
       "text": "⭕️ویس منتشر شده مربوط به نفتکش هندی سانمار هرالد خطاب به نیروی دریایی سپاه.\n\n@MilitarryWorld | Maverick"
@@ -210,7 +268,7 @@
       "datetime": "2026-04-18T16:24:35+00:00",
       "time_text": "16:24",
       "link": "https://t.me/MilitarryWorld/75653",
-      "views": "1.66K"
+      "views": "1.76K"
     },
     {
       "text": "🚨موج جدید و گسترده ورود هواپیماهای ترابری نظامی ارتش آمریکا به منطقه\n\n@MilitarryWorld | Maverick"
@@ -227,46 +285,10 @@
     },
     {
       "post_id": "75653"
-    },
-    {
-      "datetime": "2026-04-18T16:05:55+00:00",
-      "time_text": "16:05",
-      "link": "https://t.me/MilitarryWorld/75652",
-      "views": "1.72K"
-    },
-    {
-      "text": "⭕️فوری / وال استریت ژورنال به نقل از مقامات آمریکایی: نیروهای ایالات متحده در حال انجام اقدامات لازم برای توقیف نفتکش‌های مرتبط با ایران در آب‌های بین‌المللی در منطقه مذکور می‌باشند. همچنین اعلام شده است که نیروهای نظامی در حال برنامه‌ریزی برای حمله به کشتی‌های وابسته به ایران در روزهای آینده هستند.\n\n@MilitarryWorld | Parsa"
-    },
-    {
-      "post_id": "75652"
-    },
-    {
-      "datetime": "2026-04-18T15:51:48+00:00",
-      "time_text": "15:51",
-      "link": "https://t.me/MilitarryWorld/75651",
-      "views": "1.75K"
-    },
-    {
-      "text": "⭕️ خبرگزاری الجزیره : قطر با دو کشتی قصد عبور از تنگه ی هرمز رو داشت اما ایران به کشتی های قطری اجازه ی عبور نداد و دستور برگشت کشتی هارو صادر کرد.\n\n@MilitarryWorld | Parsa"
-    },
-    {
-      "post_id": "75651"
-    },
-    {
-      "datetime": "2026-04-18T15:14:05+00:00",
-      "time_text": "15:14",
-      "link": "https://t.me/MilitarryWorld/75649",
-      "views": "1.91K"
-    },
-    {
-      "text": "⭕️سردار نقدی: اگر جنگ را دوباره شروع کنند موشک‌ها و پهپاد‌هایی شلیک خواهیم کرد که تاریخ تولیدشان اردیبهشت ۱۴۰۵ است\n\n@MilitarryWorld | Maverick"
-    },
-    {
-      "post_id": "75649"
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-18T19:59:24.987591",
+    "last_updated_at": "2026-04-18T20:42:16.634391",
     "status": "success"
   }
 }
