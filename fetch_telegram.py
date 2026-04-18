@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 
 # Configuration
-CHANNELS = ["VahidOnline", "BBCPersian", " some_other_channel"] # Add your 50,000 channels here
+CHANNELS = ["VahidOnline", "BBCPersian", "Man_Zad1"]
 BASE_URL = "https://telegram-feed-reader.milaadfarzian.workers.dev/telegram/channel?channel="
 OUTPUT_DIR = "channel_data"
 
