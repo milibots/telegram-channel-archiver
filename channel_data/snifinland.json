@@ -1,0 +1,277 @@
+{
+  "success": true,
+  "channel": "snifinland",
+  "channel_title": "SNI SPOOFING",
+  "channel_subscribers": "3.43K subscribers",
+  "total_posts": 66,
+  "returned_posts": 66,
+  "posts": [
+    {
+      "datetime": "2026-04-18T19:39:28+00:00",
+      "time_text": "19:39",
+      "link": "https://t.me/SniFinland/203",
+      "views": "1.69K"
+    },
+    {
+      "text": "بچه ها هنوز نزده دیسلایک نزنید، برید واقعاً تست کنید، یک بار هم نه چند باری پروسه رو از اول برید و تست کنید. \n\nمن برا خودم نیومد ولی تیری در تاریکیه دیگه بزنید شاید منطقه ای وصل شد."
+    },
+    {
+      "text": "تست کنید.  { &nbsp; \"LISTEN_HOST\": \"0.0.0.0\", &nbsp; \"LISTEN_PORT\": 40443, &nbsp; \"CONNECT_IP\": \"104.18.20.213\", &nbsp; \"CONNECT_PORT\": 443, &nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\" }"
+    },
+    {
+      "post_id": "203"
+    },
+    {
+      "datetime": "2026-04-18T19:35:34+00:00",
+      "time_text": "19:35",
+      "link": "https://t.me/SniFinland/202",
+      "views": "1.85K"
+    },
+    {
+      "text": "تست کنید.\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}"
+    },
+    {
+      "post_id": "202"
+    },
+    {
+      "datetime": "2026-04-18T19:34:16+00:00",
+      "time_text": "19:34",
+      "link": "https://t.me/SniFinland/201",
+      "views": "1.78K"
+    },
+    {
+      "text": "Operator: IRANCELL-5G-Tehran\nTime: 2026-04-18 22:58:56\n\nThe status of this service has changed to:\n✅ e7.c.lencr.org : 104.18.20.213"
+    },
+    {
+      "post_id": "201"
+    },
+    {
+      "datetime": "2026-04-18T19:24:21+00:00",
+      "time_text": "19:24",
+      "link": "https://t.me/SniFinland/199",
+      "views": "1.9K"
+    },
+    {
+      "text": "وصله."
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/XmvVstAx4AhSZGMBx2r_GaqdjpS2w6kLUX_TUiEyke5XSGOPdUOc03qG4iO44SIqsvBznpgblaxyaqjM0aXlUhSypgN1etDOwW53v9GDjk5Jw77d6RvgZTTsEEEqYg5XKs9cIl3O6UacDyuhB76TM8q7I9Dy1cIjZo8y-2IzLmtwB_3HdUyDjTPWmiCKhztrk2krkTqhl7tw0suNuFZCs3mCVDB-yQOp3lXjkW6XGY2arp9L4OFUIqhj-incq_i4JLbIMP45eauwA4oi3Un12nKOeC0wp8JQawP3keGhRLQnDBPKMgaDj7kcAAB27VOBPs_euCeGrFjFT4ggcarV2g.jpg"
+      ]
+    },
+    {
+      "post_id": "199"
+    },
+    {
+      "datetime": "2026-04-18T19:23:51+00:00",
+      "time_text": "19:23",
+      "link": "https://t.me/SniFinland/198",
+      "views": "1.87K"
+    },
+    {
+      "text": "@SniFinland رمز\nتانله، یکم صبر کنید وصله.\nدانلود نکنید بیشتر وصل بمونه."
+    },
+    {
+      "post_id": "198"
+    },
+    {
+      "datetime": "2026-04-18T19:23:33+00:00",
+      "time_text": "19:23",
+      "link": "https://t.me/SniFinland/197",
+      "views": "2.62K"
+    },
+    {
+      "text": "@SniFinland رمز\nتانله، یکم صبر کنید وصله.\nدانلود نکنید بیشتر وصل بمونه."
+    },
+    {
+      "post_id": "197"
+    },
+    {
+      "datetime": "2026-04-18T18:35:28+00:00",
+      "time_text": "18:35",
+      "link": "https://t.me/SniFinland/183",
+      "views": "3.13K"
+    },
+    {
+      "text": "بچه ها این لابه‌لا اصلا سمت IP-SPOOFING نرید و اصلا لحظه ای بهش فکر نکنید &#33;&#33;&#33;\n\nببینید به طور خیلی ساده، SNI-SPOOFING مسیر مقصدی که میخوای بری رو جعل میکنی (که جرم نیست و فقط کشور فیلترکننده میتونه یقتو بگیره که اونم زیاد جای نگرانی نیست).\nاما IP-SPOOFING یعنی تو آی پی و هویت‌تو جعل میکنی، (خودتو جای یکی دیگه جا میزنی که جرم بین‌المللیه و سنگینه).\n\nاصلا ذره ای ارزششو نداره که یه ذره اینترنت ۱ درصد باعث بشه جرمی مرتکب شید، به فکرش نباشید و نگران نباشید بازم یه راهی پیدا میشه وصل بشید :)"
+    },
+    {
+      "post_id": "183"
+    },
+    {
+      "datetime": "2026-04-18T18:13:16+00:00",
+      "time_text": "18:13",
+      "link": "https://t.me/SniFinland/182",
+      "views": "2.33K"
+    },
+    {
+      "text": "۲ گیگ رو هوا خوردین، حلال باشه."
+    },
+    {
+      "post_id": "182"
+    },
+    {
+      "datetime": "2026-04-18T18:04:25+00:00",
+      "time_text": "18:04",
+      "link": "https://t.me/SniFinland/181",
+      "views": "2.39K"
+    },
+    {
+      "text": "وصله."
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/gMUPhMuli6t66O6sWv09QJZRlwcMNZb2OyNtMQkhzu_WMsuDVsJ7v9a00F1FcI79IIrr732b4k36bPDGa1qvc2D1xLaAfXxoQt6VhirqgYiRKn27MIAFO7OFCB7BGp-SUl9XVvrvGdAxo450HlJ25Kjn1-gRDlsP-Vrbin6QpTb6ZygdzflJ0-eWJiYKai83rRb3cl6JXxSh_Gu6pXUHSxn9868Br0hNKR6AhycM_GUNKKFjMsqBEjw_Fip8B7FKwMnCDquwiu-fMGzD-0PCJufrmXHUuDcaRs-n2Ha3dldmvzoCI9PQ6iOMSt0GosM05AP1oZ1txYZ5Xok16zfkGg.jpg"
+      ]
+    },
+    {
+      "post_id": "181"
+    },
+    {
+      "datetime": "2026-04-18T17:59:59+00:00",
+      "time_text": "17:59",
+      "link": "https://t.me/SniFinland/180",
+      "views": "3.09K"
+    },
+    {
+      "text": "@SniFinland رمز\nتانله، یکم صبر کنید وصله.\nدانلود نکنید بیشتر وصل بمونه.\nاتمام حجم"
+    },
+    {
+      "post_id": "180"
+    },
+    {
+      "datetime": "2026-04-18T17:57:37+00:00",
+      "time_text": "17:57",
+      "link": "https://t.me/SniFinland/179",
+      "views": "3.06K"
+    },
+    {
+      "text": "@SniFinland رمز\nتانله، یکم صبر کنید وصله.\nدانلود نکنید بیشتر وصل بمونه.\nاتمام حجم"
+    },
+    {
+      "post_id": "179"
+    },
+    {
+      "datetime": "2026-04-18T17:54:23+00:00",
+      "time_text": "17:54",
+      "link": "https://t.me/SniFinland/178",
+      "views": "2.33K"
+    },
+    {
+      "text": "باشید یه دوتا کانفیگ نپستر بدم بزنید یادتون بره."
+    },
+    {
+      "post_id": "178"
+    },
+    {
+      "datetime": "2026-04-18T17:51:38+00:00",
+      "time_text": "17:51",
+      "link": "https://t.me/SniFinland/177",
+      "views": "2.33K"
+    },
+    {
+      "text": "فدای سرتون، ما آدم باخت نیستیم."
+    },
+    {
+      "post_id": "177"
+    },
+    {
+      "datetime": "2026-04-18T17:48:59+00:00",
+      "time_text": "17:48",
+      "link": "https://t.me/SniFinland/176",
+      "views": "2.4K"
+    },
+    {
+      "text": "ظاهراً فیلترینگ پدرسگ خیلی هوشمند تر شده."
+    },
+    {
+      "post_id": "176"
+    },
+    {
+      "datetime": "2026-04-18T17:48:23+00:00",
+      "time_text": "17:48",
+      "link": "https://t.me/SniFinland/175",
+      "views": "2.36K"
+    },
+    {
+      "text": "یه لحظه وصل شد باز رفت تو کما."
+    },
+    {
+      "text": "{ &nbsp; \"LISTEN_HOST\": \"0.0.0.0\", &nbsp; \"LISTEN_PORT\": 40443, &nbsp; \"CONNECT_IP\": \"87.236.208.39\", &nbsp; \"CONNECT_PORT\": 443, &nbsp; \"FAKE_SNI\": \"hcaptcha.com\" }  – آپدیت: اینو چند تا از بچه ها دادن گفتن وصله منم که زدم لاگ انداخت فکر کردم وصل شده ولی ظاهراً نشده بود، الان چک…"
+    },
+    {
+      "post_id": "175"
+    },
+    {
+      "datetime": "2026-04-18T17:45:34+00:00",
+      "time_text": "17:45",
+      "link": "https://t.me/SniFinland/174",
+      "views": "3.11K"
+    },
+    {
+      "text": "{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"87.236.208.39\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"hcaptcha.com\"\n}\n\n– آپدیت: اینو چند تا از بچه ها دادن گفتن وصله منم که زدم لاگ انداخت فکر کردم وصل شده ولی ظاهراً نشده بود، الان چک کردم آیپی ایران بود :))))))))"
+    },
+    {
+      "post_id": "174"
+    },
+    {
+      "datetime": "2026-04-18T17:44:20+00:00",
+      "time_text": "17:44",
+      "link": "https://t.me/SniFinland/173",
+      "views": "2.52K"
+    },
+    {
+      "text": "عزیزان گیت‌هاب رو نمیشه sni زد\nباید پشت کلاد باشن، گیت‌هاب نیست،\nدرضمن ظاهراً سیستم پدرسگ فیلترینگ الان دیگه سایتایی که پشت کلاد هستن هم ریدایرکت و هایجک میکنه به رنج های داخلی زیرنظر خودشون و عملاً راه اتصال از این طریق به خارج از کشور و سرور های خارج هم بسته شده."
+    },
+    {
+      "text": "سایت‌هایی که از کلودفلر استفاده می‌کنند و در حال حاضر قابل دسترسی هستند، ظاهراً به‌صورت ریدایرکت یا هایجک به رنج‌های 2.189.52.0/24 و 2.189.53.0/24 (منتسب به ارتباطات زیرساخت / آی‌پی‌های پیشگامان) هدایت می‌شوند و ترافیک آن‌ها مستقیماً از گیت‌وی اصلی اینترنت…"
+    },
+    {
+      "post_id": "173"
+    },
+    {
+      "datetime": "2026-04-18T17:41:40+00:00",
+      "time_text": "17:41",
+      "link": "https://t.me/SniFinland/172",
+      "views": "2.34K"
+    },
+    {
+      "text": "این خیلی مهم بود، \nیعنی فیلترینگ جدیدتر و پیشرفته تر."
+    },
+    {
+      "text": "سایت‌هایی که از کلودفلر استفاده می‌کنند و در حال حاضر قابل دسترسی هستند، ظاهراً به‌صورت ریدایرکت یا هایجک به رنج‌های 2.189.52.0/24 و 2.189.53.0/24 (منتسب به ارتباطات زیرساخت / آی‌پی‌های پیشگامان) هدایت می‌شوند و ترافیک آن‌ها مستقیماً از گیت‌وی اصلی اینترنت…"
+    },
+    {
+      "post_id": "172"
+    },
+    {
+      "datetime": "2026-04-18T17:40:56+00:00",
+      "time_text": "17:40",
+      "link": "https://t.me/SniFinland/171",
+      "views": "2.34K"
+    },
+    {
+      "text": "سایت‌هایی که از کلودفلر استفاده می‌کنند و در حال حاضر قابل دسترسی هستند، ظاهراً به‌صورت ریدایرکت یا هایجک به رنج‌های 2.189.52.0/24 و 2.189.53.0/24 (منتسب به ارتباطات زیرساخت / آی‌پی‌های پیشگامان) هدایت می‌شوند و ترافیک آن‌ها مستقیماً از گیت‌وی اصلی اینترنت کشور خارج نمی‌شود"
+    },
+    {
+      "post_id": "171"
+    },
+    {
+      "datetime": "2026-04-18T17:31:38+00:00",
+      "time_text": "17:31",
+      "link": "https://t.me/SniFinland/170",
+      "views": "2.3K"
+    },
+    {
+      "text": "فیلترشکن فروش ها دولتونو بخورم کجایید؟ 😂"
+    },
+    {
+      "post_id": "170"
+    }
+  ],
+  "fetch_metadata": {
+    "last_updated_at": "2026-04-19T01:08:06.991190",
+    "status": "success",
+    "new_posts_found": 20
+  }
+}
