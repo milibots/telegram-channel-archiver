@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T10:10:59+00:00",
       "time_text": "10:10",
       "link": "https://t.me/papFransiz/379",
-      "views": "150"
+      "views": "151"
     },
     {
       "text": "یه ایده زده به سرم یه بدافزاری بنویسم که وقتی تزریق شد به سرور وایت و گوشی بسیجی و... بتونیم ازشون به صورت اتوباند دیتا رد کنیم 🙂‍↕️"
@@ -134,7 +134,7 @@
       "datetime": "2026-04-17T06:44:18+00:00",
       "time_text": "06:44",
       "link": "https://t.me/papFransiz/369",
-      "views": "889"
+      "views": "890"
     },
     {
       "text": "و Sni Spoofing روی OpenWrt میتونید ران کنید. \nhttps://github.com/aleskxyz/SNI-Spoofing-Go"
@@ -270,7 +270,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T20:09:52.825859",
+    "last_update": "2026-04-19T20:16:05.211596",
     "new_count": 0
   }
 }
