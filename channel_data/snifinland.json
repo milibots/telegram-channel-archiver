@@ -1,9 +1,9 @@
 {
   "success": true,
   "channel": "snifinland",
-  "channel_title": "Neo",
+  "channel_title": "SNI SPOOFING",
   "channel_username": "@snifinland",
-  "channel_avatar": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzUzZWRkNiIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzI4YzliNyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPk48L3RleHQ%2BPC9zdmc%2B",
+  "channel_avatar": "https://cdn4.telesco.pe/file/KC0eVWtNFMvzOaMGh9JoBMuhq0VTcVUBNHnniTG6RxS2AzzBjtJdhgL7MTlpZcMxe56godn_k8ZPolDqjVlMMfAFdeac-DKzUlWhsVlMkH4pskAuiTn_LQclGIznSfTL74pdanIc_BHxNVaLyvHZAsQUFIt-f1fFIDstqJfewDxXsydvAqgutVT4xnokoK_UcSDTnM06_oj81rbWniFqu3kS30ktmr2hzTHarqfEOBF8jrs_TT4rVlwEuEwNRB-dX7r2qeYVLg8iUqPewrFcnnPRV4DHf1DyYESI9GJaaEJmTjgELClbdUIPiJqbbDknKXlpyJHnNhhyNXB9y7_DnA.jpg",
   "channel_verified": false,
   "channel_subscribers": "2",
   "channel_photos": null,
@@ -17,7 +17,7 @@
     {
       "datetime": "2026-04-19T20:36:27+00:00",
       "time_text": "20:36",
-      "link": "https://t.me/snifinland/3",
+      "link": "https://t.me/SniFinland/3",
       "views": "12"
     },
     {
@@ -29,7 +29,7 @@
     {
       "datetime": "2026-04-19T18:41:48+00:00",
       "time_text": "18:41",
-      "link": "https://t.me/snifinland/2",
+      "link": "https://t.me/SniFinland/2",
       "views": "12"
     },
     {
@@ -41,7 +41,7 @@
     {
       "datetime": "2025-04-25T05:03:50+00:00",
       "time_text": "05:03",
-      "link": "https://t.me/snifinland/1"
+      "link": "https://t.me/SniFinland/1"
     },
     {
       "text": "Channel created"
@@ -51,7 +51,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T00:48:16.640302",
+    "last_update": "2026-04-20T00:54:26.948837",
     "new_count": 0
   }
 }
