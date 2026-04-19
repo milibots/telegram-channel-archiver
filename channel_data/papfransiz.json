@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T20:19:06+00:00",
       "time_text": "20:19",
       "link": "https://t.me/papFransiz/380",
-      "views": "30"
+      "views": "44"
     },
     {
       "text": "#"
@@ -33,7 +33,7 @@
       "datetime": "2026-04-19T10:10:59+00:00",
       "time_text": "10:10",
       "link": "https://t.me/papFransiz/379",
-      "views": "165"
+      "views": "170"
     },
     {
       "text": "یه ایده زده به سرم یه بدافزاری بنویسم که وقتی تزریق شد به سرور وایت و گوشی بسیجی و... بتونیم ازشون به صورت اتوباند دیتا رد کنیم 🙂‍↕️"
@@ -45,7 +45,7 @@
       "datetime": "2026-04-18T18:23:44+00:00",
       "time_text": "18:23",
       "link": "https://t.me/papFransiz/378",
-      "views": "251"
+      "views": "252"
     },
     {
       "text": "رفتن یه سایتی رو روبه اینترنت بین المللی باز کردن که اون ایران تحریم کرده و نیازمند VPN تشریف داره 🫩\n\n\n#تاوان‌جوانی"
@@ -173,7 +173,7 @@
       "datetime": "2026-04-16T08:08:55+00:00",
       "time_text": "08:08",
       "link": "https://t.me/papFransiz/365",
-      "views": "446"
+      "views": "448"
     },
     {
       "text": "Securing NTP\n\nhttps://blog.apnic.net/2026/03/10/securing-ntp/"
@@ -185,7 +185,7 @@
       "datetime": "2026-04-15T18:34:38+00:00",
       "time_text": "18:34",
       "link": "https://t.me/papFransiz/364",
-      "views": "1.15K"
+      "views": "1.16K"
     },
     {
       "text": "راستی Accel-PPP هم روی DDWRT/Openwrt هم میگم این بار"
@@ -200,7 +200,7 @@
       "datetime": "2026-04-15T18:16:38+00:00",
       "time_text": "18:16",
       "link": "https://t.me/papFransiz/363",
-      "views": "1.58K"
+      "views": "1.59K"
     },
     {
       "text": "مباحث مربوط به DDWRT/podkop/dssh به زودی مطالبی آماده میکنم 🫩 \n\nیه روش جدید هم برای اینترنت ملی آموزش میدم. فعلا آموزش دیروز جواب میدن استفاده کنید تا ببینیم چه میشه"
@@ -212,7 +212,7 @@
       "datetime": "2026-04-15T16:46:06+00:00",
       "time_text": "16:46",
       "link": "https://t.me/papFransiz/362",
-      "views": "526"
+      "views": "529"
     },
     {
       "text": "ورژن جدید کرنل هم رلیز شده. ولی من ایرانی بدبخت هنوز درگیر وصل موندمم"
@@ -227,7 +227,7 @@
       "datetime": "2026-04-14T23:44:05+00:00",
       "time_text": "23:44",
       "link": "https://t.me/papFransiz/361",
-      "views": "740"
+      "views": "741"
     },
     {
       "text": "بزودی یه نرم افزار برای DNSTT مشابه slipnet برای کاربران آیفون و مک عرضه میشه 😃 \nدر حال طراحی های نهایه 🤧 \nحرکات باحالی پیاده سازی کردم 😁 \n\nاگه حمایتی شد از مطالب و محتوا شاید زودتر رلیز بشه"
@@ -239,7 +239,7 @@
       "datetime": "2026-04-14T23:06:26+00:00",
       "time_text": "23:06",
       "link": "https://t.me/papFransiz/360",
-      "views": "535"
+      "views": "536"
     },
     {
       "text": "فکت:\n\nیادگیری Openwrt به خاطر یه انسان با 160 قد کمر منو شکست"
@@ -251,7 +251,7 @@
       "datetime": "2026-04-14T17:13:54+00:00",
       "time_text": "17:13",
       "link": "https://t.me/papFransiz/359",
-      "views": "529"
+      "views": "531"
     },
     {
       "text": "تنظیم پروکسی برای میرور .... \nبرای توزیع‌های مبتنی بر Debian/Ubuntu:\n  \n      sudo nano /etc/apt/apt.conf\n   \n\n      Acquire::http::Proxy \"socks5://username:password@proxyserver:port/\";\n   Acquire::https::Proxy \"socks5://username:password@proxyserver:port/\";"
@@ -263,7 +263,7 @@
       "datetime": "2026-04-14T16:58:55+00:00",
       "time_text": "16:58",
       "link": "https://t.me/papFransiz/356",
-      "views": "461"
+      "views": "462"
     },
     {
       "text": "https://github.com/bol-van/zapret"
@@ -273,7 +273,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T22:26:12.043094",
+    "last_update": "2026-04-19T22:32:23.735770",
     "new_count": 0
   }
 }
