@@ -1,86 +1,291 @@
 {
   "success": true,
-  "meta": {
-    "channel": "alonews",
-    "title": "اخبار جنگ الونیوز AloNews",
-    "username": "alonews",
-    "avatar": "https://cdn4.telesco.pe/file/uJ06GHizIgT-eA2PImIilaIljnSTxPwww76UBV_3CReRRuH8Ad-WBY61sOOtVPZo4ah4KjjWdYjqnjvFN7TpkWwU3kcHNccqotL09-TJJ9a8GW4ZKW2POzGDE0aOIlKYt_SDRgqGwrbl-rR26dj8y6ZunBCXHrhBVvP0dBH8xtpVrwbLjrd-q36sXd-5v_XRvTpveCzfOXKtfrAEoR4tSpEU-XxBmrvaA96lfjErEHyAV1lH3VRKyz1z9Su56QwX2PlNNPYzMyR2Lcq-PpBMQrkzuZUyokx8RkXcNTb1ScHg3TzrLKGXUFi8iFehrA4cwHToAupYHqeWynhxyHuV3g.jpg",
-    "is_verified": false,
-    "description": "با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش&#33;\n\nاخبار جنگ بدون سانسور در الونیوز 👌\n\nپشتیبانی کانال 🕵️ \nhttps://t.me/AloNews?direct\n\nادمین کانال 🎩 \n@AloNewsBot\n\nجهت رزرو تبلیغات👇\nhttps://t.me/ads_alonews\nhttps://t.me/ads_alonews",
-    "counters": {
-      "subscribers": "934K",
-      "photos": "39.3K",
-      "videos": "19.7K",
-      "files": "3",
-      "links": "788"
-    },
-    "total_posts_in_view": 20,
-    "returned_posts": 20
-  },
+  "channel": "alonews",
+  "channel_title": "اخبار جنگ الونیوز AloNews",
+  "channel_username": "@alonews",
+  "channel_avatar": "https://cdn4.telesco.pe/file/uJ06GHizIgT-eA2PImIilaIljnSTxPwww76UBV_3CReRRuH8Ad-WBY61sOOtVPZo4ah4KjjWdYjqnjvFN7TpkWwU3kcHNccqotL09-TJJ9a8GW4ZKW2POzGDE0aOIlKYt_SDRgqGwrbl-rR26dj8y6ZunBCXHrhBVvP0dBH8xtpVrwbLjrd-q36sXd-5v_XRvTpveCzfOXKtfrAEoR4tSpEU-XxBmrvaA96lfjErEHyAV1lH3VRKyz1z9Su56QwX2PlNNPYzMyR2Lcq-PpBMQrkzuZUyokx8RkXcNTb1ScHg3TzrLKGXUFi8iFehrA4cwHToAupYHqeWynhxyHuV3g.jpg",
+  "channel_verified": false,
+  "channel_subscribers": "934K",
+  "channel_photos": null,
+  "channel_videos": null,
+  "channel_files": null,
+  "channel_links": null,
+  "channel_description": "با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش&#33;\n\nاخبار جنگ بدون سانسور در الونیوز 👌\n\nپشتیبانی کانال 🕵️ \nhttps://t.me/AloNews?direct\n\nادمین کانال 🎩 \n@AloNewsBot\n\nجهت رزرو تبلیغات👇\nhttps://t.me/ads_alonews\nhttps://t.me/ads_alonews",
+  "total_posts": 67,
+  "returned_posts": 67,
   "posts": [
     {
+      "datetime": "2026-04-18T22:55:55+00:00",
+      "time_text": "22:55",
+      "link": "https://t.me/alonews/114270",
+      "views": "8.15K"
+    },
+    {
+      "text": "👈معاون وزیر خارجه: هیچ مواد غنی‌سازی شده‌ای به آمریکا ارسال نخواهد شد و این موضوع قابل طرح نیست\n\n✅ @AloNews خبر جنگ"
+    },
+    {
       "post_id": "114270"
+    },
+    {
+      "datetime": "2026-04-18T22:47:34+00:00",
+      "time_text": "22:47",
+      "link": "https://t.me/alonews/114269",
+      "views": "8.83K"
+    },
+    {
+      "text": "👈برخی منابع: روسیه هشداری مبنی بر احتمال بالای وقوع حمله زمینی آمریکا را به مقامات جمهوری اسلامی ارسال کرده\n\n✅ @AloNews خبر جنگ"
     },
     {
       "post_id": "114269"
     },
     {
+      "datetime": "2026-04-18T22:29:45+00:00",
+      "time_text": "22:29",
+      "link": "https://t.me/alonews/114268",
+      "views": "9.71K"
+    },
+    {
+      "text": "👈واشنگتن پست:\nفعلا خبری از تمدید آتش بس نیست\n\n✅ @AloNews خبر جنگ"
+    },
+    {
       "post_id": "114268"
+    },
+    {
+      "datetime": "2026-04-18T22:18:13+00:00",
+      "time_text": "22:18",
+      "link": "https://t.me/alonews/114267",
+      "views": "11.8K"
+    },
+    {
+      "text": "👈از جا سیگاری ترامپ رونمایی شد\n\n✅ @AloNews خبر جنگ"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/54b6c77124.mp4?token=QwOe2-a14Qi1_SkYVxiVxssvKp0S6B-jSLiKUsnLEKN-2X3R_b_ZKU1dZtKk3kAIpKhH08ZATtx4cd3H2SS5xDSiVwuDWVRbQMdkpozYYLvDk1LifF6Op13kNpAvW2intkNU0HeLqGEVXdhNgr-XR0RGxdSM5Pipl1eINrNAg1VDrbwNQ2bGhBapuRfTH3SxF4_gh1M5Dfc9dXIjQ__5x6--df8gSMNKrWUr0hsk3nEvv8Fj-P2sH7qNyPf4X5t1lkRU6GL6kWffoLE8xCHfm8BX6jKpXj4F5BqZDLWJftbiFhzQtdedtbwIcKEZtcon099a-c4WswP3Y1VDW1noaQ"
+      ]
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/54b6c77124.mp4?token=QwOe2-a14Qi1_SkYVxiVxssvKp0S6B-jSLiKUsnLEKN-2X3R_b_ZKU1dZtKk3kAIpKhH08ZATtx4cd3H2SS5xDSiVwuDWVRbQMdkpozYYLvDk1LifF6Op13kNpAvW2intkNU0HeLqGEVXdhNgr-XR0RGxdSM5Pipl1eINrNAg1VDrbwNQ2bGhBapuRfTH3SxF4_gh1M5Dfc9dXIjQ__5x6--df8gSMNKrWUr0hsk3nEvv8Fj-P2sH7qNyPf4X5t1lkRU6GL6kWffoLE8xCHfm8BX6jKpXj4F5BqZDLWJftbiFhzQtdedtbwIcKEZtcon099a-c4WswP3Y1VDW1noaQ"
+      ]
     },
     {
       "post_id": "114267"
     },
     {
+      "datetime": "2026-04-18T22:16:10+00:00",
+      "time_text": "22:16",
+      "link": "https://t.me/alonews/114266",
+      "views": "11.6K"
+    },
+    {
+      "text": "👈قالیباف: دوست دارم شهید بشم\n\n✅ @AloNews خبر جنگ"
+    },
+    {
       "post_id": "114266"
+    },
+    {
+      "datetime": "2026-04-18T22:10:44+00:00",
+      "time_text": "22:10",
+      "link": "https://t.me/alonews/114265",
+      "views": "11.3K"
+    },
+    {
+      "text": "👈این مصاحبه و تعریف حمید فرخ نژاد از قالیباف در ایران اینترنشنال مجددا بازنشر شد\n\n✅ @AloNews خبر جنگ"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/b08e77667b.mp4?token=e-CCNRPtYyCvXNRCyOOOPZFS8b3W7-Jfiazte9NcI7vdltR3_bU4l72JhD4upTQri3BSs5KjinEuAwmq5ZOG5FKeGd0GNfD3FUeiiHCgtbcXXd3xaThT3WzZ6AkDI6_HLF81zxEzq-VoGhE0N8-8jJ2nHWKCfdM6oT0BRT24hCDOlnGSsRWm-K2LTtgBaqJ0kbH_COeC_dru_IQxee-JXtKxrulK_EPl7Yx9k_whXOQ-wSo8jD_yCk3heYjmOJ3dgS9yUJu77mlET85-2xXOm9oXb0JV_AwR9GLq4I_Jlao-2mVYBzdxBULKoh7gDgImFEmd1DZ6j6_eR-0yl4l-5Q"
+      ]
     },
     {
       "post_id": "114265"
     },
     {
+      "datetime": "2026-04-18T22:09:15+00:00",
+      "time_text": "22:09",
+      "link": "https://t.me/alonews/114264",
+      "views": "12K"
+    },
+    {
+      "text": "👈قالیباف: تو بعضی مسائل در مذاکرات به جمع بندی رسیدیم\n\n✅ @AloNews خبر جنگ"
+    },
+    {
+      "text": "👈قالیباف: ما و آمریکایی ها به یک درک مشخصی در مذاکرات رسیده ایم  ✅ @AloNews خبر جنگ"
+    },
+    {
       "post_id": "114264"
+    },
+    {
+      "datetime": "2026-04-18T22:05:11+00:00",
+      "time_text": "22:05",
+      "link": "https://t.me/alonews/114262",
+      "views": "12.3K"
+    },
+    {
+      "text": "👈قالیباف: ما و آمریکایی ها به یک درک مشخصی در مذاکرات رسیده ایم\n\n✅ @AloNews خبر جنگ"
+    },
+    {
+      "text": "👈قالیباف: گره ایی که با دست باز میشه چرا با دندون باز بشه😐  ✅ @AloNews خبر جنگ"
     },
     {
       "post_id": "114262"
     },
     {
+      "datetime": "2026-04-18T22:01:34+00:00",
+      "time_text": "22:01",
+      "link": "https://t.me/alonews/114261",
+      "views": "12.2K"
+    },
+    {
+      "text": "👈قالیباف: گره ایی که با دست باز میشه چرا با دندون باز بشه😐\n\n✅ @AloNews خبر جنگ"
+    },
+    {
       "post_id": "114261"
+    },
+    {
+      "datetime": "2026-04-18T22:01:08+00:00",
+      "time_text": "22:01",
+      "link": "https://t.me/alonews/114260",
+      "views": "12.1K"
+    },
+    {
+      "text": "👈قالیباف: هشدار دادیم اگر اتش بس اجرا نشود یکساعت دیگر با موشک اسرائیل را می‌زنیم، اسرائیل گفت اجازه بدید ۹ مکان دیگر در بیروت را بزنم و دیگر اتش بس صورت بگیرد گفتیم اگر بزنید زده ایم\n\n🔴اتش بس همان لحظه در لبنان برقرار شد\n\n✅ @AloNews خبر جنگ"
     },
     {
       "post_id": "114260"
     },
     {
+      "datetime": "2026-04-18T21:55:13+00:00",
+      "time_text": "21:55",
+      "link": "https://t.me/alonews/114259",
+      "views": "12.6K"
+    },
+    {
+      "text": "👈قالیباف: همه ما تحت رهبری آقا مجتبی جلو برویم نه جلو تر و نه عقب‌تر\n\n✅ @AloNews خبر جنگ"
+    },
+    {
       "post_id": "114259"
+    },
+    {
+      "datetime": "2026-04-18T21:54:48+00:00",
+      "time_text": "21:54",
+      "link": "https://t.me/alonews/114258",
+      "views": "12.3K"
+    },
+    {
+      "text": "👈قالیباف: دیروز ترامپ ۸ تا توئیت زد ولی ۷ تاش دروغ بود\n\n✅ @AloNews خبر جنگ"
     },
     {
       "post_id": "114258"
     },
     {
+      "datetime": "2026-04-18T21:53:26+00:00",
+      "time_text": "21:53",
+      "link": "https://t.me/alonews/114257",
+      "views": "12.3K"
+    },
+    {
+      "text": "👈قالیباف: ترامپ گفت همین که مذاکره کننده‌های ایرانی زنده‌اند یعنی ما برای مذاکره آمدیم که گفتم این همان رفتار شما آمریکایی ها است\n\n🔴گفتم ما به شما بی‌اعتماد بودیم اما به مردم خودمان و نصرت الهی اعتماد و ایمان داریم\n\n✅ @AloNews خبر جنگ"
+    },
+    {
       "post_id": "114257"
+    },
+    {
+      "datetime": "2026-04-18T21:48:05+00:00",
+      "time_text": "21:48",
+      "link": "https://t.me/alonews/114256",
+      "views": "12.5K"
+    },
+    {
+      "text": "👈قالیباف: آقای ونس به من گفت من با حسن نیت آمده‌ام\nبه او گفتم من در توییتم که شما هم خواندید گفتم که ما هم با حسن نیت آمدیم اما هیچ اعتمادی به شما نداریم\nاول باید اعتماد سازی کنید\n\n✅ @AloNews خبر جنگ"
     },
     {
       "post_id": "114256"
     },
     {
+      "datetime": "2026-04-18T21:46:32+00:00",
+      "time_text": "21:46",
+      "link": "https://t.me/alonews/114255",
+      "views": "12.6K"
+    },
+    {
+      "text": "👈قالیباف: می‌خواهیم کشورهایی که طرف تخاصم با ما نیستند و با دشمن همراه نیستند بتوانند از تنگه عبور کنند ما به دنبال ایجاد نامنی نیستیم\n\n✅ @AloNews خبر جنگ"
+    },
+    {
       "post_id": "114255"
+    },
+    {
+      "datetime": "2026-04-18T21:44:51+00:00",
+      "time_text": "21:44",
+      "link": "https://t.me/alonews/114254",
+      "views": "12.6K"
+    },
+    {
+      "text": "👈ادعای قالیباف: دانستن حق مردم است\n\n✅ @AloNews خبر جنگ"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/d8eb712916.mp4?token=oXiEsziNxRf9yMn1u_M2YfltzaraUv6-2TpbLCLU9CQ3-K9l9YIxKQNnlN399HtbZuXFLxXjvQkTxT1WG37sljDwzZlTUPT29W8TIac15gQrYYe14lizT6caqOyZx0yE8254ZFPvlTHWB9tpqFf5KDdIzqNmqVBEDU7gRrDBGPnLLMbCyxLPnnjX-2540pVx9k6PGK4V8O7fYVVjWiUsoaFz74YHRwxkEHP6H3rOh3ziXKiHzijEyI4tUTzybG6DQ4qOQN4mlw6bwsGJQysYpTlkXyR6zVn9tp9_1kIdRSZvTNTuq0jjQjPsBUnpamnk3PaLO-UEhVRonK4p08U57A"
+      ]
     },
     {
       "post_id": "114254"
     },
     {
+      "datetime": "2026-04-18T21:35:15+00:00",
+      "time_text": "21:35",
+      "link": "https://t.me/alonews/114253",
+      "views": "13.1K"
+    },
+    {
+      "text": "👈قالیباف: پدافند ما خیلی قوی شده\n\n✅ @AloNews خبر جنگ"
+    },
+    {
       "post_id": "114253"
+    },
+    {
+      "datetime": "2026-04-18T21:31:01+00:00",
+      "time_text": "21:31",
+      "link": "https://t.me/alonews/114252",
+      "views": "13.3K"
+    },
+    {
+      "text": "👈قالیباف: مذاکره یک روش مبارزه هست\n\n✅ @AloNews خبر جنگ"
     },
     {
       "post_id": "114252"
     },
     {
+      "datetime": "2026-04-18T21:29:01+00:00",
+      "time_text": "21:29",
+      "link": "https://t.me/alonews/114251",
+      "views": "13.6K"
+    },
+    {
+      "text": "👈قالیباف: ترامپ درخواست آتش بس کرد چون ما پیروز میدان جنگ بودیم\n\n✅ @AloNews خبر جنگ"
+    },
+    {
+      "text": "👈قالیباف: دشمن باید درک کرده باشد که ساختار کشور ما متکی به افراد نیست   🔴رئیس مجلس: همین که ما بلافاصله بعد از جنگ پاسخ دشمن را می‌دهیم نشان‌دهنده این است که کشور ما به پشتوانه مردم پاسخ دشمن را می‌دهیم.  ✅ @AloNews خبر جنگ"
+    },
+    {
       "post_id": "114251"
+    },
+    {
+      "datetime": "2026-04-18T21:28:10+00:00",
+      "time_text": "21:28",
+      "link": "https://t.me/alonews/114250",
+      "views": "12.7K"
+    },
+    {
+      "text": "👈جهت رزرو تبلیغات برای VPN در کانال #الونیوز به کانال زیر مراجعه کنید👇\n\n📃https://t.me/ads_alonews\n📃https://t.me/ads_alonews"
     },
     {
       "post_id": "114250"
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T01:40:16.151841",
+    "last_updated_at": "2026-04-19T01:44:20.479913",
     "status": "success",
     "new_posts_found": 0
   }

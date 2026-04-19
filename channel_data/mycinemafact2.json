@@ -1,86 +1,375 @@
 {
   "success": true,
-  "meta": {
-    "channel": "mycinemafact2",
-    "title": "🎥 CinemaFact 📺",
-    "username": "mycinemafact2",
-    "avatar": "https://cdn4.telesco.pe/file/Fawi_9TKRjlxi7B_cxtK_9SZxV0qQcvIpz5N5AMFH7CAK0X7ric9cpzFfU9G7XjnONjXFousf0oOoTDY2V39YA-Wj8NXLkGpC33L5eChuCYAhILnY5COxhjcHCvRxiME4AR3QRJjVwe1-ll9NQV8qRtOXd3ylUMAqKM4H_AihRVG-BW0RS4gks2NrAcCvFJCvIBay9xepNEe4ORpdfiZvWjsOSYbShZuKlfM4whke8YGhx62cmdTK6I10r-SA0rkiTmrPyj_q7hqX-hTjHvSGaVk2Zh4c17y094vxN8f1pZkAE-FLPggb--eAlTrZn1rc2oIJSO-l6zmICkbPQvmgA.jpg",
-    "is_verified": false,
-    "description": "کانال رسمی سینمافکت در تلگرام\n@MyCinemaFact\n\nتبلیغات:\n @MYCF_ADS\n\nتماس:\n@CinemaFactBot\n\nDMCA: @JustADZ",
-    "counters": {
-      "subscribers": "298K",
-      "photos": "20.7K",
-      "videos": "6.15K",
-      "files": "213",
-      "links": "15.8K"
-    },
-    "total_posts_in_view": 20,
-    "returned_posts": 20
-  },
+  "channel": "mycinemafact2",
+  "channel_title": "🎥 CinemaFact 📺",
+  "channel_username": "@mycinemafact2",
+  "channel_avatar": "https://cdn4.telesco.pe/file/Fawi_9TKRjlxi7B_cxtK_9SZxV0qQcvIpz5N5AMFH7CAK0X7ric9cpzFfU9G7XjnONjXFousf0oOoTDY2V39YA-Wj8NXLkGpC33L5eChuCYAhILnY5COxhjcHCvRxiME4AR3QRJjVwe1-ll9NQV8qRtOXd3ylUMAqKM4H_AihRVG-BW0RS4gks2NrAcCvFJCvIBay9xepNEe4ORpdfiZvWjsOSYbShZuKlfM4whke8YGhx62cmdTK6I10r-SA0rkiTmrPyj_q7hqX-hTjHvSGaVk2Zh4c17y094vxN8f1pZkAE-FLPggb--eAlTrZn1rc2oIJSO-l6zmICkbPQvmgA.jpg",
+  "channel_verified": false,
+  "channel_subscribers": "298K",
+  "channel_photos": null,
+  "channel_videos": null,
+  "channel_files": null,
+  "channel_links": null,
+  "channel_description": "کانال رسمی سینمافکت در تلگرام\n@MyCinemaFact\n\nتبلیغات:\n @MYCF_ADS\n\nتماس:\n@CinemaFactBot\n\nDMCA: @JustADZ",
+  "total_posts": 82,
+  "returned_posts": 82,
   "posts": [
     {
+      "datetime": "2026-04-18T19:30:30+00:00",
+      "time_text": "19:30",
+      "link": "https://t.me/MyCinemaFact2/30495",
+      "views": "6.52K"
+    },
+    {
+      "text": "بهترین فیلمهایی که ذهنتون رو به چالش می‌کشند، از نظر کاربران Ranker\n\n🤖ربات دانلود فیلم و سریال \n@MyCinemaFact"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/CPVCkHxQSAxenWBRblAQED6UeETeydpbmwq3mCXFEjlmNaBfaHeoblJ0vynmuvZFNpnQ0mLRJlFSArkF4t333RsiqB1xeD5EgBm_nOmQmkIBHzIxuUTTV8DlF2LOTF_bwQBaVcxpyFSHlzgwXcC_wysf2jByVBW2ZBcbHlbEKe7lf67tgJrW0IpPK9ckrClabV3cvTHxjj6DLFGqI-OubbCAx5D-t5JpRfkZPusFs8kYOKLMtzJ7fUey8JexA0EPykY90hsrz2Z_9D-TCPWVFqCwzV22khXKJIOrliSqS8Hw-zFt2OlfWUsSvHmFafmZtqPSzKTWYm-RcNSo2grCAw.jpg"
+      ]
+    },
+    {
       "post_id": "30495"
+    },
+    {
+      "datetime": "2026-04-18T14:34:20+00:00",
+      "time_text": "14:34",
+      "link": "https://t.me/MyCinemaFact2/30494",
+      "views": "9.91K"
+    },
+    {
+      "text": "اگر انیمیشن The Incredibles به صورت لایواکشن ساخته میشد.\n\n🤖ربات دانلود فیلم و سریال \n@MyCinemaFact"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/675c76562e.mp4?token=Q1yYV8S_gVMD75xfjx4cGvuO5ahHqoxJq59neFRSPW20NPV5nFNam3fEzSlpKinA3oo66Qf5pVkB1sk3GaGj7wL73I9DbF5ssgqeMBPq8JjVfu6LRYfx2EAAJjUnsBLrTCe-FBrIavq6ckkWPlh4EyEcBp98uugxJRN8T4MmTmO6jdkAXVCIzna_yIiMk31ZkN7kS_VmD5uDnH7dMe2sq6Rfj_EV90KE13ID65txB1rg3R2oLxCyD7ZRzBhYj84AdPPge-BcK0n7OW4ANIMOvqP7BbywJ_OyiIElqy6ejrx9fmGUlnVTS4UDpsfFzmwBU8sxg30DKoPHBYaMdV3ovQ"
+      ]
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/675c76562e.mp4?token=Q1yYV8S_gVMD75xfjx4cGvuO5ahHqoxJq59neFRSPW20NPV5nFNam3fEzSlpKinA3oo66Qf5pVkB1sk3GaGj7wL73I9DbF5ssgqeMBPq8JjVfu6LRYfx2EAAJjUnsBLrTCe-FBrIavq6ckkWPlh4EyEcBp98uugxJRN8T4MmTmO6jdkAXVCIzna_yIiMk31ZkN7kS_VmD5uDnH7dMe2sq6Rfj_EV90KE13ID65txB1rg3R2oLxCyD7ZRzBhYj84AdPPge-BcK0n7OW4ANIMOvqP7BbywJ_OyiIElqy6ejrx9fmGUlnVTS4UDpsfFzmwBU8sxg30DKoPHBYaMdV3ovQ"
+      ]
     },
     {
       "post_id": "30494"
     },
     {
+      "datetime": "2026-04-18T12:54:01+00:00",
+      "time_text": "12:54",
+      "link": "https://t.me/MyCinemaFact2/30493",
+      "views": "10.4K"
+    },
+    {
+      "text": "۱۰ فیلم محبوب هفته در Letterboxd\n\n1. The Drama (2026)\n2. Project Hail Mary (2026)\n3. The Super Mario Galaxy Movie (2026)\n4. Thrash (2026)\n5. Ready or Not 2: Here I Come (2026)\n6. Exit 8 (2025)\n7. Pizza Movie (2026)\n8. You, Me & Tuscany (2026)\n9. Hoppers (2026)\n10. The Devil Wears Prada (2006)\n\n🤖ربات دانلود فیلم و سریال\n@MyCinemaFact"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/JMKCYe_U2vbco0PfS_b0mU3PuWg-UWHy4tchaO45qj9rvz42dKyPiJOPQoNFE8X9wTwnBwNEqiR9azRFQw8-PDBLC0ki-mlfy64PBW3yL_wlpMdrTzENjVq7-egW6IaB51Y_qsNcLzz-nLcDj5TJF32URM07WGcVRchfMtA_vUmZ-PrTd5wWFPsBPTTTZ3V7cohsbQ1rYwyhyEr9bz1zGYn5YCBU3gftwSvRftBwB_EohoFHGJ-diYlYZ_QXWUGhXoCT1X1X1KjKb2mJDSJd6BGsuGl8AtWnldjDm__tgMb-_OouCjFQ-spZqFb1tX1cSth74l6ev5Zdfb2sy4R4pA.jpg"
+      ]
+    },
+    {
       "post_id": "30493"
+    },
+    {
+      "datetime": "2026-04-18T12:50:47+00:00",
+      "time_text": "12:50",
+      "link": "https://t.me/MyCinemaFact2/30492",
+      "views": "9.91K"
+    },
+    {
+      "text": "🐈 از CatRay با 3 سال سابقه، کیفیت رو بخواید&#33;\nپرسرعت و امن با پشتیبانی قوی❤️‍🔥\nاتصال پایدار + سازگاری کامل با تمام سایت‌ها\n\nفیلترشکن مخصوص اینستاگرام فقط گیگی 200\n\n🤖 خرید اتومات از ربات تلگرامی:\n@CatRayBot"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/v4TrY_Csox37JVUFYQwKfHGQZ7iVp2o8RJwZLalWAhtSpLmniwXkoiw0a8ghWtk6-Cio-ugwryUXcG7lT8KeMkbdDYtjA-zHBADve2nhkS3aW0axMClIoIW9JW-c9NUlHJvr_oyrOmeG4iZVKjR8tGkkRRv6aOkPMeeTb5or_PqyE1gGBxe3pV4D7rdul7kSGhcNYzXfMfTUXMSJ2apgXtmi3194zoFlPNrYVq84vjmVzuT1XZDg-7XCpnMuTbR5U77rXWzttGDH_dMTsOAoZRqDsC6oh39LfohhwYw4hSdroY8r714RCk3vNsZBFtb1wIcyyx8eLDB4JJetsI-vzw.jpg"
+      ]
     },
     {
       "post_id": "30492"
     },
     {
+      "datetime": "2026-04-18T09:20:26+00:00",
+      "time_text": "09:20",
+      "link": "https://t.me/MyCinemaFact2/30491",
+      "views": "11.4K"
+    },
+    {
+      "text": "فیلمبرداری فصل دوم سریال Shogun به صورت رسمی آغاز شد.\n\n🤖ربات دانلود فیلم و سریال\n@MyCinemaFact"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/967841ba40.mp4?token=BeVGo2DrlBmHCmgswR9537Z8kC_2MS4ei8IKrM4cy3B4XSYgf3Zl9e_tYtmezjQth3ZQb59LpzD-yg0NJ94HElR1l_U_BeNks1hRRlde9A4Yr9SIZslcr7W0H-dIeLwDtuwa7C41dMWWvANDJjcRy3CAKth5uJpf_dBhu917fyB3Wd_DgNn9lLapCCmEevFMip2w1uoS7sKF6Iz8jI4glInyXvCIugn1x4IGkgVexK-2t-oviNXXf2Gqaa9Nca30Pj6znqGiHe3kDAHlQ1pR_DnbgUR1AesTitWcRTJYoS0SIaBGgFNjbfeolm60fJOQ0uCsez0zSdf4gKseMnKkIw"
+      ]
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/967841ba40.mp4?token=BeVGo2DrlBmHCmgswR9537Z8kC_2MS4ei8IKrM4cy3B4XSYgf3Zl9e_tYtmezjQth3ZQb59LpzD-yg0NJ94HElR1l_U_BeNks1hRRlde9A4Yr9SIZslcr7W0H-dIeLwDtuwa7C41dMWWvANDJjcRy3CAKth5uJpf_dBhu917fyB3Wd_DgNn9lLapCCmEevFMip2w1uoS7sKF6Iz8jI4glInyXvCIugn1x4IGkgVexK-2t-oviNXXf2Gqaa9Nca30Pj6znqGiHe3kDAHlQ1pR_DnbgUR1AesTitWcRTJYoS0SIaBGgFNjbfeolm60fJOQ0uCsez0zSdf4gKseMnKkIw"
+      ]
+    },
+    {
       "post_id": "30491"
+    },
+    {
+      "datetime": "2026-04-17T20:09:09+00:00",
+      "time_text": "20:09",
+      "link": "https://t.me/MyCinemaFact2/30490",
+      "views": "13.9K"
+    },
+    {
+      "text": "اون جایزه امی بود و من Better Call Saul\n\n@MyCinemaFact"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/d2b055d2d8.mp4?token=XJTOVvhkJMCKJkEy5nwugSLRU_3Y4Mpfgh96DaDYKjY6LwzDy-6-9l9iFrChuqD-30sYKefgc2FyLGvySoTSxULxCol-egcd3i6tETkINJRU4m4y6YyWM_guvSO-z6g5ypZquUBnWAfoDAosb1I2IbIuUyWTA0xyIFROrN7cBPTqvLjgRrqkZQtFhO4LrsmKYRlF1yTSiDFOgdKLgO0dByUy_Z2bOazid4yWT9c74ewumOVfLgdyiSBPvG65ck9ImTgbR3ULzQizDHFSi4Nu90Ju5_sP7j6GH6ZvABjqqZIJvfQ06Z6gi05xHj-HlxyUR48W9BhTE0N1DNpbt_2ZXw"
+      ]
+    },
+    {
+      "text": "53 نامزدی امی 0 برد امی  🤖ربات دانلود فیلم و سریال @MyCinemaFact",
+      "videos": [
+        "https://cdn4.telesco.pe/file/d2b055d2d8.mp4?token=XJTOVvhkJMCKJkEy5nwugSLRU_3Y4Mpfgh96DaDYKjY6LwzDy-6-9l9iFrChuqD-30sYKefgc2FyLGvySoTSxULxCol-egcd3i6tETkINJRU4m4y6YyWM_guvSO-z6g5ypZquUBnWAfoDAosb1I2IbIuUyWTA0xyIFROrN7cBPTqvLjgRrqkZQtFhO4LrsmKYRlF1yTSiDFOgdKLgO0dByUy_Z2bOazid4yWT9c74ewumOVfLgdyiSBPvG65ck9ImTgbR3ULzQizDHFSi4Nu90Ju5_sP7j6GH6ZvABjqqZIJvfQ06Z6gi05xHj-HlxyUR48W9BhTE0N1DNpbt_2ZXw"
+      ]
     },
     {
       "post_id": "30490"
     },
     {
+      "datetime": "2026-04-17T16:30:04+00:00",
+      "time_text": "16:30",
+      "link": "https://t.me/MyCinemaFact2/30489",
+      "views": "14.3K"
+    },
+    {
+      "text": "9 فیلم ارزشمند با پیچش داستانی (Plot twist) که باید ببینید:\n\nThe Usual Suspects (1995)\n⭐️8,5/10\n\nGone Girl (2014)\n⭐️8,1/10\n\nSe7en (1995)\n⭐️8,6/10\n\nArrival (2016)\n⭐️7,9/10\n\nEx Machina (2014)\n⭐️7,7/10\n\nPredestination (2014)\n⭐️7,4/10\n\nPrimal Fear (1996)\n⭐️7,7/10\n\nShutter Island (2010)\n⭐️8,2/10\n\nAtonement (2007)\n⭐️7,8/10\n\n\n🤖ربات دانلود فیلم و سریال\n@MyCinemaFact"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/WfMhaC5l8phEzmEeVbNgBthKAUPN992DgeGySJWWj2uZ-ILsoFo-gxFShTpKrC7oLesosfI5L_BZuw7YI2gZYybAS9B2BkqdOOTaq1m-JjAMO9MmfXEbgBG02l9QXsWBkTX26vghbkOSJMYRbSIcL446Pdy7yxnwxBhKf7HdTsk_aPY72hh-D7kXjOXUZ3hXBqyA__XM88uLjDF4uXMZDick9o_Dt71zBYywhRkvkgZOkl9xqPNbqkph06wLwaL6FV0mcZ_k_db30G5p2tK4SFhsBfq-75qD16uI_RN7TjiAeOpIXpqdyATa2dBkZSGebnQTzEu42ETRZKlWcYEs6A.jpg"
+      ]
+    },
+    {
       "post_id": "30489"
+    },
+    {
+      "datetime": "2026-04-17T11:04:11+00:00",
+      "time_text": "11:04",
+      "link": "https://t.me/MyCinemaFact2/30488",
+      "views": "14.5K"
+    },
+    {
+      "text": "لیست بهترین فیلم های اروتیک هیجانی تاریخ به انتخاب وبسایت ایندی‌وایر:\n\n▪️American Gigolo (1980)\n▪️Cruising (1980)\n▪️Body Heat (1981)\n▪️Body Double (1984)\n▪️Fatal Attraction (1987)\n▪️Angel Heart (1987)\n▪️The Cook, The Thief, His Wife, and Her Lover (1989)\n▪️The Comfort of Strangers (1990)\n▪️Single White Female (1992)\n▪️Basic Instinct (1992)\n▪️Damage (1992)\n▪️Bound (1996)\n▪️Crash (1996)\n▪️Cruel Intentions (1999)\n▪️Vanilla Sky (2001)\n▪️Unfaithful (2002)\n▪️In the Cut (2003)\n▪️Stranger by the Lake (2013)\n▪️The Handmaiden (2016)\n\n🤖ربات دانلود فیلم و سریال\n@MyCinemaFact"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/WTPC0oWgrxd2vsrrTZ3Qgb1rqAPkaUscGlnRjoKhXRw1EodVaz-jKj9eANHsQ1R9FW1HI-Acqef95qbKrxo9jxVBsh6sdJ-LPdFbBY0Y01_MjzjR03xlafCM1vsfSc5IMYRb4LyzmUJYdGHTAXVIvpdSwZRKBiMrBdUSnknaL-KBjvV5dGAOH2_6hCg49fbuDuLg5jGfOeiZi1dvUAn5RuY0rZpBCiRebG0IDh0DXYLh7X6N2Bf2LfivX1oVTvS8LK2ccdllXdJZpwjlkvsmG3f4GE-a-hBKcuYRq0xUGPbX8I1-Wouqw6QISgBNdrbeNNzMhtkmOBmTr7842VWNBg.jpg"
+      ]
     },
     {
       "post_id": "30488"
     },
     {
+      "datetime": "2026-04-17T09:35:02+00:00",
+      "time_text": "09:35",
+      "link": "https://t.me/MyCinemaFact2/30487",
+      "views": "14.5K"
+    },
+    {
+      "text": "نمرات فصل چهارم سریال Invincible در IMDb تا به اینجای کار:\n\nS04E01: 8.3/10 (17K Votes)\nS04E02: 9.3/10 (20K Votes)\nS04E03: 8.1/10 (16K Votes)\nS04E04: 6.6/10 (21K Votes)\nS04E05: 9.8/10 (36K Votes)\nS04E06: 9.2/10 (19K Votes)\nS04E07: 9.9/10 (25K Votes)\nS04E08: ?\n\n🤖ربات دانلود فیلم و سریال\n@MyCinemaFact"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/addMhxLKlDb2ox4xuC_5NKyBjOMZoUmFUYb326jHRUkOWhxa3o3lBGMgmGK_2XvP22S2K4iNJRWaXCVSV1BO5lxFk4cbaLX1HXFSPu3bYV8ODXYOwlINLpXtRHARBTv6vxOtuU2fpIHlvYxJqDKu-VrHkHvj8VdJJ3mETLr7so2JOrJXzPwIGyCr5JoDVEtx2CSAYMmzrrSLhOg-NFEhh4LmPRVdA-Gt4i3YUXrdX7oCRF8VWo1qw9Lg53ZPJE7h8EgYEteRPZ3HA97p4ix6TEfYb8oig3qQXESt5WRUjNs81o1Lx5UkezynNiRCRTJtyOZkNFFhwsX2pWFRxZ3OZg.jpg"
+      ]
+    },
+    {
       "post_id": "30487"
+    },
+    {
+      "datetime": "2026-04-17T06:03:39+00:00",
+      "time_text": "06:03",
+      "link": "https://t.me/MyCinemaFact2/30485",
+      "views": "15.5K"
+    },
+    {
+      "text": "۱۵ سال پیش در چنین روزی پخش سریال Game of Thrones از شبکه HBO آغاز شد.\n\n🤖ربات دانلود فیلم و سریال\n@MyCinemaFact"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/hH6odIqDrTyyIuyCqxw3BF8kXxjqvSfnI2engORk4K_Wf7NFRF4Z3K7QVKC-ppDb11mPTL5iCtBClL5c-w8MOF81Pv2p1hLjOWsdlhM64gsXxiolv4uJN0kLBeyDr-yHJoaWSWlhMgb-UMmRlU_Nc8C6agaktXm98ss1JHKXC5TZFEQW6op63UgnVCAnF-FXvWY9bbgJuVJX96dHMBX0ZVQ4l0AqaiANe2r6lNQugx1PdZ-hyZZgEZg2A6cwBZ0F_CF38QCcrMV1AGb0GFPgYS2mqRBe0ZBm4DBPQArWYSmkPiVbOcNJ8p2lrQ_s5Z9vOKJRrWcI5K_FYixg2xJzSw.jpg"
+      ]
     },
     {
       "post_id": "30485"
     },
     {
+      "datetime": "2026-04-16T17:40:06+00:00",
+      "time_text": "17:40",
+      "link": "https://t.me/MyCinemaFact2/30484",
+      "views": "17.2K"
+    },
+    {
+      "text": "▫️تاریخ رسمی اکران فیلم Call of Duty اعلام شد، این فیلم در تاریخ 30 ژوئن 2028 (۱۰ تیر ۱۴۰۷) اکران می‌شود.\n\n🤖ربات دانلود فیلم و سریال\n@MyCinemaFact"
+    },
+    {
+      "text": "تیلور شریدان فیلم Call Of Duty را می‌سازد  شریدان (خالق دنیای Yellowstone و کارگردان فیلم Wind River و نویسنده فیلم‌های Hell or High Water و Sicario) به همراه پیتر برگ (نامزد 2 امی، خالق سریال Friday Night Lights، کارگردان کل مینی‌سریال American Primeval،…",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Q6dwCR_INsymhyIUR7r0rSOFKG3mfPjgLulYT9_JXyoZRicl_kyS3K12XkYL4neycgcP5ws98_YjHUngv0MU7pTMtQkQ8bdlyNcJHed5UyiWCBu3-Aa14twLlYZXgPuyzHdEMwjoWNt8q5RU8d4LjcL8z2snpLim5Xtk8dC0GKOpnEfuB7_LS8e4YapI6KVU7Ke52cI3xRTfO4vfoJx0xKu7ymsZcoINWLJkEq9iSKfid9juhnm9tKMJFT3FcDKHk_jeWextCH0O70SG8KGsKzqhBhaTKqUKDR6LOtcoEE74Tk53TUE18EM7YbvzMOE7WMK2hlVsvMt7yKtnZzu_7A.jpg"
+      ]
+    },
+    {
       "post_id": "30484"
+    },
+    {
+      "datetime": "2026-04-16T14:49:27+00:00",
+      "time_text": "14:49",
+      "link": "https://t.me/MyCinemaFact2/30483",
+      "views": "17.4K"
+    },
+    {
+      "text": "فیلمبرداری فصل دوم سریال «پلوریبوس» به طور رسمی از پاییز امسال آغاز خواهد شد.\n\nانتظار می‌رود این سریال در اواخر سال ۲۰۲۷ یا اوایل سال ۲۰۲۸ از طریق اپل تی‌وی پلاس منتشر شود.\n\n🤖ربات دانلود فیلم و سریال\n@MyCinemaFact"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/HmeVy3uwoFtrR6tdd8w4a9uKrZ40N6eHYihqRmCMvh-19ii-XqP3aqpvKZJkSxJhXI6S4LfHT84i3a4y2r-W6gDqN0CRCbIeOeNjYvTyJOCdQeN_4rkOuCd7rcomSxeOmlA5YNYvbmQd9A1CR7TEIWWlMEmctWj48elkLdV9F3D9iPBNN64FfEKf251iDnTuvR7j0T0Dy8W13XYt19L2OzRNVFDGL_wivoWcolCRWILgunBpegzIYaTXdzn0e7HJFZRLw3jc6AXzZRuhr0K6WaXg44C25tcDp3QZwgcmL_M6jgTR46Q8cAektHIEz3h3w5hbqFUZcOWFnBVg4kSDHw.jpg"
+      ]
     },
     {
       "post_id": "30483"
     },
     {
+      "datetime": "2026-04-16T09:41:41+00:00",
+      "time_text": "09:41",
+      "link": "https://t.me/MyCinemaFact2/30482",
+      "views": "18.3K"
+    },
+    {
+      "text": "بازیگران فیلم\n🎬The Lord of the Rings: The Hunt for Gollum\n\n· Andy Serkis as Gollum / Sméagol\n· Jamie Dornan as Aragorn\n· Elijah Wood as Frodo Baggins\n· Ian McKellen as Gandalf\n· Lee Pace as Thranduil\n· Kate Winslet as Marigol\n· Leo Woodall as Halvard\n\n🤖ربات دانلود فیلم و سریال\n@MyCinemaFact"
+    },
+    {
+      "text": "الایجا وود درباره‌ی فیلم The Lord of the Rings: The Hunt for Gollum:  \"[فیلمنامه] رو خوندم. واقعاً عالیه... تیم اصلی پشت «ارباب حلقه‌ها» حسابی درگیر پروژه‌ان، همون طراح‌های صحنه هم برگشتن. فیلم قراره تو نیوزیلند فیلم‌برداری بشه. آدم واقعاً حس می‌کنه انگار…",
+      "photos": [
+        "https://cdn4.telesco.pe/file/ciX_G32NpEZr48slYDkdIwvMPlTd0A3QMZr_BK0nG5_3ENVR6aze7h9QWQTGXDJ8Jak69etjpELZWGrQqt0HOtRrU2t7p7wfRylnOim38n7ruPyAabJdrJCqOv40B97Z3FoKPPO8hOF-DNK0KLbdmISWO261Qb8T2n8qaIov6kC7_c_-G12Ta0-NkvQaP3SiOzO9juhD-cpZjZL9UldV9KIZsUU7AbKMOgLfEgFV3LAlEWnHhE__UrypB8IK39yos0Hh6kM0OEzOpEnJOLvzPf-vIafzKs5IT7myVk7o7Ob3sMTcmnhgq4tVaxE9nDBC0CDUC20vhDl8UdQQ0PR-Yg.jpg"
+      ]
+    },
+    {
       "post_id": "30482"
+    },
+    {
+      "datetime": "2026-04-15T15:11:00+00:00",
+      "time_text": "15:11",
+      "link": "https://t.me/MyCinemaFact2/30481",
+      "views": "20K"
+    },
+    {
+      "text": "سریال From برای فصل پنجم و پایانی تمدید شد.\nبه گزارش هالیوود ریپورتر، جان گریفین (خالق سریال) در گفتگویی اختصاصی اعلام کرد که برنامه اولیه همیشه پنج فصل بوده است.\n\nفصل چهارم این سریال از ۱۹ آوریل (۳۰ فروردین) پخش خود را آغاز می‌کند.\n\n🤖ربات دانلود فیلم و سریال\n@MyCinemaFact"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/K9Vrg5nLYEjDwMKT0304WYYnXdl8-5qezOd0VsMC0nfoDHD_vG5_60g1UuoitIYo5bviG-Uri6Ylojo5XflgKPrYK1vR1VQZ2CWjG0xHUaJA4OMZseuayFIO3NexD4HhUPpeoCFcRQEyGuEjndsSuVWbWccu-tnBBBO3cX0m3dReVn0WUyNfoiL0tpmSQL_BBNqxU7uBYdQwZuhZ-0HQx2wwJSK7ES2KnCVuShXTNXrRprIBkopc4X2D5khkHxPulqsQe2iS4qd12x3W7EVAawrkyPuhj1NOzQuaHkBIcudd-SCvzWkSp-_hOthQDLyz3fvZ_bEPC9OtY7ZkLL0Rig.jpg"
+      ]
     },
     {
       "post_id": "30481"
     },
     {
+      "datetime": "2026-04-14T18:36:36+00:00",
+      "time_text": "18:36",
+      "link": "https://t.me/MyCinemaFact2/30480",
+      "views": "21.7K"
+    },
+    {
+      "text": "گیج کننده ترین فیلم های تاریخ سینما به انتخاب کاربران وبسایت Ranker\n\n🤖ربات دانلود فیلم و سریال\n@MyCinemaFact"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/MZ6DkRPwDkaTdBDcgLreLkbbHLBZlmIjjeQm2MG7hWmvGLz5iLInGcVXPbzPtiAk6YLqkOCvDzezAmkgbSpid1OjQUiImwZEnSQOt7Mer7E0z1qkA8fK_wgTNDlIiALRFpjL44WdTNag6jF7WKizyJ6tqd62wkNi5uWk2sAldFW4HRmP6LTTQsKm99eazax6p26JNNXamzN1WE4Z6yjBOXwX9T_FaG2eyHrIuRSePTRBf-VTav_mhpxCqvF5ctRdnCqP9OFqj57mEXABe_DrVDiQPb73RHFQHDe2GBLJPezlhsreRGg-dpJP64nL9Nt1r6NJkAgZkB2LDpx51Adgng.jpg"
+      ]
+    },
+    {
       "post_id": "30480"
+    },
+    {
+      "datetime": "2026-04-14T15:01:34+00:00",
+      "time_text": "15:01",
+      "link": "https://t.me/MyCinemaFact2/30479",
+      "views": "22K"
+    },
+    {
+      "text": "فیلم های دلهره آور روانشناختی با تم اروتیک\n\n🤖ربات دانلود فیلم و سریال\n@MyCinemaFact"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/ZwisUwQTgSSbqhHl5vDbS-txa1Xfj1bIg1n_olzlaWUE0sjkplTaHrtPYN9_Pj_nwLQ5v92lBOz5Cf3M-A64sjvpOYDJ8p0gHYUkjKWF5eJ6K6v2MWgcTu6PjPnO83APm9ogrjkBVnNiNm7wQ5z4Rgfj0hUI97XpQZMGcYNLApyYxp3dUin5cX49MXk_Gj7O3_bfVTNMCOOLUWWpZU5W3Az-YM23C16MybqgPFR8NLPSWU09Z130rQitseBeT_x1pQqhIyrEQevP-Q4G7AHKs_DPp5VT_awC9EBqJG7E69e2Nk1ykJfZhhc96ypVgwPNjpdWmi49DBlMoTMPjZuxsQ.jpg"
+      ]
     },
     {
       "post_id": "30479"
     },
     {
+      "datetime": "2026-04-13T19:24:50+00:00",
+      "time_text": "19:24",
+      "link": "https://t.me/MyCinemaFact2/30477",
+      "views": "25.6K"
+    },
+    {
+      "text": "فیلم‌های قدیمی هالیوود که حسِ یک بغلِ گرم رو میدن\n\nدیدن لیست کامل در لترباکسد\n\n🤖ربات دانلود فیلم و سریال\n@MyCinemaFact"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/D6_tBIiUFvZmXHo6Lsq3yAydpN83aQ-qU242XILOyM-ftdKFj9F9Kf2A7Z0g56NESsHvxKWAj2XeZqoybJ3--zbxbiCsnyEJEz1soCd8-e3PGqj5q2j3IAelIQzJ1kPCqR95n7NqdTNXdmETZZcF4e149mcy31C92BtTlv1Fs_dv-5TDBKPayMTXJRzs5deYV3s_Zvt72_srQJE818JsDFKPm1VTp9gvmCPWeuqUSds07jf1K91lBysY9sQAR2P8qGsyA2U719vGf2xScbKoxTZ7mAOEETIFz2oltGKFEGbPMtHJnD_I8wTGA_eeGhWh9Lskd5uL6t6RKKO-bsu7WQ.jpg"
+      ]
+    },
+    {
       "post_id": "30477"
+    },
+    {
+      "datetime": "2026-04-13T19:24:31+00:00",
+      "time_text": "19:24",
+      "link": "https://t.me/MyCinemaFact2/30476",
+      "views": "22.4K"
+    },
+    {
+      "text": "❗مجموعه «سینمافکت» در هیچ زمانی و تحت هیچ شرایطی در نرم افزارهای داخلی فعالیت نداشته و نخواهد داشت."
     },
     {
       "post_id": "30476"
     },
     {
+      "datetime": "2026-04-13T09:42:35+00:00",
+      "time_text": "09:42",
+      "link": "https://t.me/MyCinemaFact2/30475",
+      "views": "25.9K"
+    },
+    {
+      "text": "قسمت اول از فصل سوم سریال Euphoria منتشر شده و در ربات فایل مووی قابل دانلود است.\nکیفیت‌های بیشتر بزودی...\n\n📥دانلود این سریال\n@MyCinemaFact"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/duzbAJ6OPhWRVfQRiD0Ek5wzyZOI0-jZE7uYX-J1zKtBbzd4N11oA5RLJ_4zuv48IdIL3WEsE7BtU7kWgYh9DvjsoOS5Qvrda5dhck-klcBvw_nemcaZwcp3I9Jj6vFbdJlGRs4dietpDAWEbY3h2qZbRv-c7FhXUN4JceHPR1cSwvFKBTIZmPOT2brxwjgvNtc4CmI-X8E8rQTRrAt-dc7o9H5cKIS2v6aEwzVy4qKZy4soalD4i3GHX_2Cd1KzPtfaXBmT2MM15m8y3lJ_to4JGq_oWXYm6hMvSud_f4r4MupoQ-L_WrVtRfR29kjyj7WyM8LxaYmtsJALdt-uUA.jpg"
+      ]
+    },
+    {
       "post_id": "30475"
+    },
+    {
+      "datetime": "2026-04-12T17:32:15+00:00",
+      "time_text": "17:32",
+      "link": "https://t.me/MyCinemaFact2/30474",
+      "views": "23.8K"
+    },
+    {
+      "text": "The Lives of Others (2006)  ⭐️8.4\nDas Boot (1981)  ⭐️8.3\nM (1931)  ⭐️8.3\nDownfall (2004)  ⭐️8.2\nThe Cabinet of Dr. Caligari (1920)  ⭐️8.1\nThe Last Laugh (1924)  ⭐️8.1\nNosferatu (1922)  ⭐️7.9\nAguirre, the Wrath of God (1972)  ⭐️7.9\nGood Bye Lenin&#33; (2003)  ⭐️7.7\nFunny Games (1997)  ⭐️7.6\nRun Lola Run (1998)  ⭐️7.6\nChristiane F. (1981)  ⭐️7.6\nNosferatu the Vampyre (1979)  ⭐️7.5\nVampyr (1932)  ⭐️7.5\nBefore the Fall (2004)  ⭐️7.4\nTriumph of the Will (1935)  ⭐️7.3\n\n🖊معرفی 25 فیلم ارزشمند به زبان آلمانی (مرتب شده بر اساس امتیاز IMDb)\n\n🤖 ربات دانلود فیلم و سریال\n@MyCinemaFact"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/DyDxC48XEqriojxVBUmNqNQ7nuNlko1N8RkZD1BL3nrvb_ZkuLKByq3C3A_7LtGZvu5yzbtvzXy0PAfvoamsTtiitnI0wLidFaTtRrLvnmoFZy2B85sWZF-54spxrJy4W1F09OiEBCMeG72oYXOaFAY2lFMkuzZHYF7YG1_nnFRzwxa3rM_DL_NQ2xBsYYPn1OctUqwyGO7leB6-at1KGbz3HS4dF2ogCca-sU0qtRSp6-49smA9ZgcJTfzM55EvPM6ZMr1qELg8r68SZmQeHxMVaPUoagVOn4GzJ-Lxga5nj8qNCBNh88jG5RgcxW_AkMxpXzdkGiF7wDSl1kwVgA.jpg"
+      ]
     },
     {
       "post_id": "30474"
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T01:40:28.438743",
+    "last_updated_at": "2026-04-19T01:44:35.826188",
     "status": "success",
     "new_posts_found": 0
   }

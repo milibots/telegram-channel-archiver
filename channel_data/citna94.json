@@ -2,7 +2,15 @@
   "success": true,
   "channel": "citna94",
   "channel_title": "سیتنا | CITNA",
-  "channel_subscribers": "3.23K subscribers",
+  "channel_username": "@citna94",
+  "channel_avatar": "https://cdn4.telesco.pe/file/tCo--tQJSv-L9mfVkDRBbTyNE38KLvWDGXdt4qEqNr5_tOopixIYi_bkRGvCuD1EGd6WJspWY0YUKzZVVhDgE2ujyuux99-xzeGPtSp8xwoVXmnKiOYVz6hrrL_jeYFa6bbO3emYEsHdz3eqFV7UTECI0WiifJ0i7q4r6KK-VGImNGWqoHPGMWP1gdptEoVjGpDd3eiN-cw-32R1lG7Bz0xMakWNl0ndqt9M0duNhI7MstKuZMIzfCCWbBRr_M_PCCO1St_OeyVr9pBjb7tZfAcbJH0KX69SFxKTTzv9vQO3uQWnaMy3nuHsukmkys45v6UR-efhdHPVJAv51zX9Sg.jpg",
+  "channel_verified": false,
+  "channel_subscribers": "3.23K",
+  "channel_photos": null,
+  "channel_videos": null,
+  "channel_files": null,
+  "channel_links": null,
+  "channel_description": "جدیدترین و مهمترین اخبار حوزه فناوری\n💠 ادمین                                     @office2020\n\nتوئیتر: https://x.com/citnanewsagency\n\nhttp://t.me/itdmcbot?start=citna94",
   "total_posts": 80,
   "returned_posts": 80,
   "posts": [
@@ -348,7 +356,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T01:40:22.069656",
+    "last_updated_at": "2026-04-19T01:44:27.383987",
     "status": "success",
     "new_posts_found": 0
   }

@@ -2,7 +2,15 @@
   "success": true,
   "channel": "snifinland",
   "channel_title": "SNI SPOOFING",
-  "channel_subscribers": "3.43K subscribers",
+  "channel_username": "@snifinland",
+  "channel_avatar": "https://cdn4.telesco.pe/file/p70KQeqqeI5ZXwDviIal3al-McwhiWFZnaEWQE7DX6l8S68S-gCB4XNXm69uKMQFLvx1q2ljy2EAh9AuyjakfnI3oTxSnawx4GwY5im1_j1QNvJ-jol6x22olAZRR5QSC-dyWGoAMnIVBO_WOrS63H2LV_5B9VgGQLDJv3wEgJq6HvP35sgw7sw8CHlyW7uTfi61aqRM04RRdxZTOaTZSihLdWRhOi_ZmirWV5xmstP_5I3EXrxGLXfpG9fe9X3c8g5_-6Ji76wcki2zsY5R7JW8SWvjco3CKDRjQz3GJybHpRbEcw8J-GY0grYNoy6d7UsOUWPz4BRMhkE-tNGfDQ.jpg",
+  "channel_verified": false,
+  "channel_subscribers": "3.43K",
+  "channel_photos": null,
+  "channel_videos": null,
+  "channel_files": null,
+  "channel_links": null,
+  "channel_description": null,
   "total_posts": 66,
   "returned_posts": 66,
   "posts": [
@@ -78,7 +86,7 @@
       "datetime": "2026-04-18T19:23:33+00:00",
       "time_text": "19:23",
       "link": "https://t.me/SniFinland/197",
-      "views": "2.63K"
+      "views": "2.64K"
     },
     {
       "text": "@SniFinland رمز\nتانله، یکم صبر کنید وصله.\nدانلود نکنید بیشتر وصل بمونه."
@@ -270,7 +278,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T01:40:22.302888",
+    "last_updated_at": "2026-04-19T01:44:27.691236",
     "status": "success",
     "new_posts_found": 0
   }

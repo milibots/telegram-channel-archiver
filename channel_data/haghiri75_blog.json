@@ -1,86 +1,280 @@
 {
   "success": true,
-  "meta": {
-    "channel": "haghiri75_blog",
-    "title": "ذهن زیبا - A beautiful Mind",
-    "username": "haghiri75_blog",
-    "avatar": "https://cdn4.telesco.pe/file/FJE0vf1bD-RGNuChwrssgtfW5KmLyBFpVoW2wxZTnzrubw6IzGrMIt1ny8u1NOWSRENjbh2XHBi14OgfhlQIruiVUKlOOWkKQNjSiZrDTOyUOqSpeGVlj-5xzkw8kAuwXbve_GV5JoK408UzfKzQgpQ94pa9ZOnKHSe5NbjskLzbc5QtJQ4uVLJWZ0D0J74TgAvbeaEKieitJ613R5U7svdqlUD38e-qxPQNKIbrwK6nDR7eoGHLNMu011GAh_yijL0F5hQLMG1AURYiBLbj8kvRV7Bgry7OSvqH_eR_9SI9G1QDTcIZ2Enwt1Acx1gLU5xg47uzRynky-OlRc7d2w.jpg",
-    "is_verified": false,
-    "description": "بلاگ فارسی : \nhttp://haghiri75.com\nبلاگ انگلیسی : \nhttp://haghiri75.com/en",
-    "counters": {
-      "subscribers": "2.2K",
-      "photos": "360",
-      "videos": "6",
-      "files": "13",
-      "links": "598"
-    },
-    "total_posts_in_view": 20,
-    "returned_posts": 20
-  },
+  "channel": "haghiri75_blog",
+  "channel_title": "ذهن زیبا - A beautiful Mind",
+  "channel_username": "@haghiri75_blog",
+  "channel_avatar": "https://cdn4.telesco.pe/file/FJE0vf1bD-RGNuChwrssgtfW5KmLyBFpVoW2wxZTnzrubw6IzGrMIt1ny8u1NOWSRENjbh2XHBi14OgfhlQIruiVUKlOOWkKQNjSiZrDTOyUOqSpeGVlj-5xzkw8kAuwXbve_GV5JoK408UzfKzQgpQ94pa9ZOnKHSe5NbjskLzbc5QtJQ4uVLJWZ0D0J74TgAvbeaEKieitJ613R5U7svdqlUD38e-qxPQNKIbrwK6nDR7eoGHLNMu011GAh_yijL0F5hQLMG1AURYiBLbj8kvRV7Bgry7OSvqH_eR_9SI9G1QDTcIZ2Enwt1Acx1gLU5xg47uzRynky-OlRc7d2w.jpg",
+  "channel_verified": false,
+  "channel_subscribers": "2.2K",
+  "channel_photos": null,
+  "channel_videos": null,
+  "channel_files": null,
+  "channel_links": null,
+  "channel_description": "بلاگ فارسی : \nhttp://haghiri75.com\nبلاگ انگلیسی : \nhttp://haghiri75.com/en",
+  "total_posts": 64,
+  "returned_posts": 64,
   "posts": [
     {
+      "datetime": "2026-04-18T17:41:38+00:00",
+      "time_text": "17:41",
+      "link": "https://t.me/haghiri75_blog/1953",
+      "views": "519"
+    },
+    {
+      "text": "گیتهاب بدون شکن/وی‌پی‌ان باز میشه. \n\n@haghiri75_blog"
+    },
+    {
       "post_id": "1953"
+    },
+    {
+      "datetime": "2026-04-18T16:28:29+00:00",
+      "time_text": "16:28",
+      "link": "https://t.me/haghiri75_blog/1952",
+      "views": "487"
+    },
+    {
+      "text": "تحلیل الگوریتمیک از اتفاقاتی که ممکنه در پایان آتش‌بس رخ بده: \n\n~40-60% likelihood of war resuming shortly after the ceasefire ends (~April 22).\n\nThe two-week ceasefire (started ~April 8) is set to expire mid-week. Trump has repeatedly warned he may not extend it without a broader deal, stating “maybe I won’t extend it… we have to start dropping bombs again.” Talks (including in Islamabad) have been slow/failed so far, with ongoing disputes over the Strait of Hormuz, US naval blockade, sanctions, and nuclear issues. Iran recently closed the strait again over the blockade, raising immediate tensions.\n\nBoth sides signal openness to extension or a framework deal, and Trump has called talks “going very well” at times. However, the fragile truce, hardened rhetoric, and unresolved core issues make quick resumption of strikes a real risk if no breakthrough occurs by the deadline. A short extension is possible but far from guaranteed.\n\n۱. تحلیل چیزی نیست که با یک پرامپت به دست آمده باشه و LLM فقط زحمت خلاصه‌سازیش رو می‌کشه. \n۲. نظراتی که می‌بینید نظرات من نیست و برعهده AI ئه. \n۳. هوش مصنوعی هم قاعدتا اطلاعات عمومی رو یکپارچه، جهت‌یابی و خلاصه‌سازی می‌کنه. \n\n@haghiri75_blog"
     },
     {
       "post_id": "1952"
     },
     {
+      "datetime": "2026-04-18T15:39:05+00:00",
+      "time_text": "15:39",
+      "link": "https://t.me/haghiri75_blog/1951",
+      "views": "504"
+    },
+    {
+      "text": "بعضی دوستان IP سفید و اینترنت پرو گرفتند و در همین حال هم تابناک تیتر زده که «می‌گویند اینترنت را باز کنید که براندازی‌مان را کنیم». \nبسیار خوب، ابتدا از قطع کردن IP های سفید شروع کنید چرا که احتمالا جواسیسی که به دنبالشان هستید، همونجان&#33; \n\n@haghiri75_blog"
+    },
+    {
       "post_id": "1951"
+    },
+    {
+      "datetime": "2026-04-18T15:29:31+00:00",
+      "time_text": "15:29",
+      "link": "https://t.me/haghiri75_blog/1950",
+      "views": "531"
+    },
+    {
+      "text": "صد روز گذشت."
     },
     {
       "post_id": "1950"
     },
     {
+      "datetime": "2026-04-17T16:50:17+00:00",
+      "time_text": "16:50",
+      "link": "https://t.me/haghiri75_blog/1949",
+      "views": "683"
+    },
+    {
+      "text": "سوال اینه که خب الان که ظاهرا همه چیز داره خوب پیش میره چرا اینترنت وصل نمیشه؟ \n\n@haghiri75_blog"
+    },
+    {
       "post_id": "1949"
+    },
+    {
+      "datetime": "2026-04-17T16:17:47+00:00",
+      "time_text": "16:17",
+      "link": "https://t.me/haghiri75_blog/1948",
+      "views": "777"
+    },
+    {
+      "text": "دوستان ظاهرا CDN آروان هم از خارج دیده میشه. \n\n@haghiri75_blog"
     },
     {
       "post_id": "1948"
     },
     {
+      "datetime": "2026-04-17T15:54:03+00:00",
+      "time_text": "15:54",
+      "link": "https://t.me/haghiri75_blog/1947",
+      "views": "659"
+    },
+    {
+      "text": "تحلیل الگوریتمیک و فاندامنتال روی بازار: \n\n📊 Markets on the Iran-US Conflict (April 2026)\n\n- Oil 🛢 → Supply shock + relief rally  \n  Surged to &#036;100–144/barrel on Strait of Hormuz disruptions and energy infrastructure hits. Now plunging 10–20% as ceasefire holds and Iran reopens the strait. Markets say: *Geopolitical risk is real but de-escalating fast.*\n\n- Gold 🪙 → Traditional haven failing  \n  Down ~14% since strikes began — silver even worse. Investors sold off despite chaos. Markets say: *Not the safe haven this time; dollar strength and yields won.*\n\n- Bitcoin ₿ → Digital gold winning  \n  Up 5–7%+ since war started, outperforming stocks and gold with strong ETF inflows. Markets say: *Crypto acting as resilient safe haven amid uncertainty.*\n\n- Stocks 📈 → Risk-on, war nearly ignored  \n  Erased all losses, hit fresh records on ceasefire news and Trump de-escalation signals. Markets say: *Quick resolution priced in — economy looks past the conflict.*\n\nBottom line: Markets are pricing in de-escalation and limited long-term damage. Oil shows the scar, Bitcoin the new hedge, while gold and stocks vote “it’s over.” Stay alert — ceasefires can break.\n\nنکات مهم: \n۱. این چیزی نیست که با صرف یک پرامپت به دست بیاد و نتایج رو با LLM صرفا مرتب کردم. \n۲. گفته‌ها بر عهده هوش مصنوعیه و نظر من نقشی درش نداره. \n\n@haghiri75_blog"
+    },
+    {
       "post_id": "1947"
+    },
+    {
+      "datetime": "2026-04-17T13:29:30+00:00",
+      "time_text": "13:29",
+      "link": "https://t.me/haghiri75_blog/1946",
+      "views": "653"
+    },
+    {
+      "text": "با توجه به این که وزیر خارجه سیدعباس عراقچی، توییت کرد که تنگه هرمز باز شده، و از طرفی شرایط آمریکا هم هنوز سر جاشه ولی خب ظاهرا باز شدن تنگه یکم تنش رو کاهش داده یک تحلیل دیگه رفتیم. \n\nپ.ن: بازار نفت هم سقوط داشته و بازار هیچوقت دروغ نمیگه&#33; \n\n@haghiri75_blog"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/lP6gv26mYQJ9OZbVX9YBwkM8IYsU65uri_r7qUM8YpYjYl1_6UFfIwn5UoeGvhVnOg7F2rirLk43VTyfvYrFwIQEQSF2i_e68NhnWKk5_6-5tAirfRePN2hpnzvwqLjRGp4nkWHNBhXfJO4NTMTJjP-1ImZVQaDa1r1hRJZ-HtzJoK_bpm_RdO0MTgKmdYwpIjWTKRSIGYPJu6MQ8HlmGoZ3TM55SdFG_8CT5-rh-JQHZIIrNfbgrnjzVIVryp5rLzObPWLMVVPqrvSD3EPj7RXX5j23vTi-MNTObkmynYHKsNWO0EXslCZNchcIBKu7Xuwx2Ba6K7hLAppY25rRcg.jpg"
+      ]
     },
     {
       "post_id": "1946"
     },
     {
+      "datetime": "2026-04-17T10:33:55+00:00",
+      "time_text": "10:33",
+      "link": "https://t.me/haghiri75_blog/1945",
+      "views": "2.55K"
+    },
+    {
+      "text": "تحلیل‌های الگوریتمیک رو سعی می‌کنم به محض دسترسی به ابزارهام انجام بدم. هنوز بین ۴۵ تا ۶۵ درصد احتمال می‌ره که ایران-آمریکا راه حل دیپلماتیک رو پیش بگیرن. \n\n@haghiri75_blog"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/UVSm4VBg1GysrOPT_VCNnqdIT5bJlOkEztC7etjoCr5lc0lD_H7IZIZ9fr7EoF_oQPynWy0T6yjPBonVf_vku6jbhkrIP51osxrHYkKzJRBIHFDRywwGh1zF9ygD-tHksoNBLh_KqJZExdGT9SzJ96AUCy53cCCkMs71vYeDV3V6qVmmeXhG44QRuKADDgLmdS5dOMfCdKXtPm01Bz4w7zLahxQFBHr0ivBw-2J-LnMLdTW0_66wZnKiS6MREY_0QoU54kjJYdoLZaJbBdLMmO8msNAhPfNRN73afpQzIC9EN0gYHeyZyEGQavcVZE9Xp6fzWnnLq4NB-4qmqOVuSw.jpg"
+      ]
+    },
+    {
       "post_id": "1945"
+    },
+    {
+      "datetime": "2026-04-16T17:35:23+00:00",
+      "time_text": "17:35",
+      "link": "https://t.me/haghiri75_blog/1944",
+      "views": "723"
+    },
+    {
+      "text": "خبر خوشحال‌کننده اینه که افراد بیشتری دارند متصل می‌شن. \n\n@haghiri75_blog"
     },
     {
       "post_id": "1944"
     },
     {
+      "datetime": "2026-04-16T17:08:27+00:00",
+      "time_text": "17:08",
+      "link": "https://t.me/haghiri75_blog/1943",
+      "views": "728"
+    },
+    {
+      "text": "هوش مصنوعی دیپ‌سیک هم باز شده. \nهم در وب هم موبایل. کاربران موبایل نیازمند آپدیت هستند. \n\n@haghiri75_blog"
+    },
+    {
       "post_id": "1943"
+    },
+    {
+      "datetime": "2026-04-16T16:56:22+00:00",
+      "time_text": "16:56",
+      "link": "https://t.me/haghiri75_blog/1942",
+      "views": "722"
+    },
+    {
+      "text": "دوستان ظاهرا گوگل‌میت و گوگل‌پلی هم باز شدند. \nبرای من روی TD LTE ایرانسل گوگل‌میت باز نشده هنوز، پلی هم چون دستگاه اندرویدی ندارم تست نگرفتم. \nدر کل سرویس‌های خارجی بدون شکن، وی‌پی‌ان یا هرگونه ژانگولربازی دیگری براتون باز شد رو اطلاع‌رسانی کنید. \n\n@haghiri75_blog"
     },
     {
       "post_id": "1942"
     },
     {
+      "datetime": "2026-04-16T16:06:59+00:00",
+      "time_text": "16:06",
+      "link": "https://t.me/haghiri75_blog/1941",
+      "views": "727"
+    },
+    {
+      "text": "در همین حال، تماس‌های بین‌الملل هم مجدد برقرار شدند. \nظاهرا پله‌هاشون یکم زیادی بلنده و زانو درد می‌گیرن ازش بیان بالا. \n\n@haghiri75_blog"
+    },
+    {
       "post_id": "1941"
+    },
+    {
+      "datetime": "2026-04-16T15:27:51+00:00",
+      "time_text": "15:27",
+      "link": "https://t.me/haghiri75_blog/1940",
+      "views": "733"
+    },
+    {
+      "text": "دوستان جیمیل هم بدون ژانگولربازی و از دامنه mail.google.com داره باز میشه. \n\n@haghiri75_blog"
     },
     {
       "post_id": "1940"
     },
     {
+      "datetime": "2026-04-16T15:10:23+00:00",
+      "time_text": "15:10",
+      "link": "https://t.me/haghiri75_blog/1939",
+      "views": "753"
+    },
+    {
+      "text": "این نه قراره کسی رو دلسرد کنه نه امید واهی بده نه چیزی. ولی خب ۴۸ ساعت قبل شروع جنگ هم این داستان الگوریتمیک ۸۰٪ احتمال حمله رو محاسبه کرده بود. \nحالا هم ۶۰ الی ۷۰ درصد احتمال اتمام می‌ده. حالا به قولی خواهیم دید چه خواهد شد. \n\n@haghiri75_blog"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/NFhjGeysroNk8zikqrpwWfbtilsA_zsZAaCKr_-Dc0uhBCClydj31oYbauzlF2kUNuIifJfNVW9uYZ3jEmCASLIPrjMp5W8ce5XP5NFx_F0eN8LbnSGejyZxajloxGvm4ej9ASYaLcYrhUYEPsKjYbcsHBiWNJE5aAEiMGSopaZ1gstujoulXIbNv3xN7YiqXkrTk4uNfPFZdPT3DpmMg1ibEyAg--pk9nfnBJH0mWTP62z6gG8GXHYUfoJkpWiDaxMGaR8yi-Q_lb3dsbiMU_PCrKN2Rv5CzY_KQzmGkPNvHeHvkK2di0gUsnN7eKNVSYfaSUGGcM2LFIi27lbyMA.jpg"
+      ]
+    },
+    {
       "post_id": "1939"
+    },
+    {
+      "datetime": "2026-04-16T10:59:00+00:00",
+      "time_text": "10:59",
+      "link": "https://t.me/haghiri75_blog/1938",
+      "views": "727"
+    },
+    {
+      "text": "گوگل مجدد در دسترس قرار گرفت. \n\n@haghiri75_blog"
     },
     {
       "post_id": "1938"
     },
     {
+      "datetime": "2026-04-15T17:24:05+00:00",
+      "time_text": "17:24",
+      "link": "https://t.me/haghiri75_blog/1937",
+      "views": "786"
+    },
+    {
+      "text": "این کارزار هم ۱۰۰٪ شد: \n\nhttps://www.karzar.net/291129 \n\nو بله، مثل همیشه به هیچ کجای کسی نبود. حالا نکته اینه که خود سایت کارزار هم تماس گرفت گفت مایل به برگزاری رویدادش هستی و خب من چون به گوشی دسترسی نداشتم رفته بود روی پیامگیر. ولی جدی، نه. \n\nمسولی که در چنین رویدادی بیاد هم میخواد یک سری لاطائلات تحویل بده دیگه، غیر اینه؟ \n\n@haghiri75_blog"
+    },
+    {
       "post_id": "1937"
+    },
+    {
+      "datetime": "2026-04-15T16:43:13+00:00",
+      "time_text": "16:43",
+      "link": "https://t.me/haghiri75_blog/1936",
+      "views": "732"
+    },
+    {
+      "text": "هنوز که هنوزه rubygems با شکن باز نمیشه. جالبه. \n\n@haghiri75_blog"
     },
     {
       "post_id": "1936"
     },
     {
+      "datetime": "2026-04-15T15:35:07+00:00",
+      "time_text": "15:35",
+      "link": "https://t.me/haghiri75_blog/1935",
+      "views": "750"
+    },
+    {
+      "text": "مطابق گفته تیم شکن (به نقل از یک کاربر بله): \nتیم شکن مدعی شده فعلا نمی‌تونه گیتهاب یا سرویس‌های AI رو باز کنه&#33; \n\nپ.ن: فکر کنم AI های رانتی و احسان عزیزی اوف شدن 😂 \n\n@haghiri75_blog"
+    },
+    {
       "post_id": "1935"
+    },
+    {
+      "datetime": "2026-04-15T14:35:14+00:00",
+      "time_text": "14:35",
+      "link": "https://t.me/haghiri75_blog/1934",
+      "views": "763"
+    },
+    {
+      "text": "دوستان عزیز در پنج دسته اعلامی شکن اگر سرویسی می‌شناسید که در لیست زیر نیست، ممنون میشم بیایید بگید که لیست جدید رو درست کنیم: \n\n1. Cloudflare Dashboard \n2. Google Docs \n3.Figma \n4. PyPi\n5. Go Lang \n6. NPM JS \n7. Cloudflare AI API \n8. Microsoft Copilot \n9. Sony (Playstation)\n10. XBoX \n11. iCloud \n12. Let's Encrypt \n13. Perplexity (🔴) \n14. Sourceforge (🔴)\n15. Steam \n16. Epic Games\n17. Unpkg \n18.  jQuery \n19. Bootstrap CDN \n20. CDNJS \n21. Django Project\n22. Udemy (🔴)\n23. Docker \n24. Microsoft \n25. Outlook \n26. Nintendo US \n27. Speedrun.com \n28. Nexus Mods \n29. Curseforge \n30. SQLite website \n31. MySQL \n32. React \n33. PHP \n34. NextJS \n35. Docker Hub \n36. Yarn \n37. Nuget\n\n\nبازی‌ها: \n\n1. Valorant \n2. Riot Client \n3.  Blizzard\n\n توزیع‌های لینوکس: \n\n1. Ubuntu (archive.ubuntu.com) \n2. Debian \n3. Fedora \n\nاین‌ها چیزاییه که «خود من» و با TD LTE ایرانسل و «شکن طلایی» تست کردم. شکن نقره‌ای هم هست که تست کنم ولی خب مطابق گفته خود شکن، طلایی و نقره‌ای تفاوت زیادی ندارد. \n\nپ.ن: شکن هنوز تمدید نکرده و این رو میشه به این معنی دونست که هنوز سرویس کامل برنگشته. \nپ.ن: اینایی که توپ قرمز دارند برای من کار ندادند. \nپ.ن: من اکانت استیم، اپیک گیمز و ... ندارم. اگر دارید تست کنید ببینید به بازی‌هاتون دسترسی دارید یا خیر.\nپ.ن: شکن اعلام کرده گیتهاب و سرویس‌های هوش مصنوعی رو نمی‌تونه باز کنه (البته بعضا باز میشن)\n\n@haghiri75_blog"
+    },
+    {
+      "text": "📢 اطلاع‌رسانی  در روزهای اخیر، سرویس‌هایی در حوزه‌های زیر تحت پوشش «شکن» قرار گرفته‌اند: ۱. بازی ۲. برنامه‌نویسی ۳. طراحی ۴. علمی و پژوهشی ۵. زیرساختی  برای بررسی اینکه سرویس موردنظر شما در حال حاضر پشتیبانی می‌شود یا نه، می‌توانید به بخش «پشتیبانی دامنه»…"
     },
     {
       "post_id": "1934"
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T01:40:29.000140",
+    "last_updated_at": "2026-04-19T01:44:36.550352",
     "status": "success",
     "new_posts_found": 0
   }

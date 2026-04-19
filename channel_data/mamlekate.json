@@ -1,80 +1,333 @@
 {
   "success": true,
-  "meta": {
-    "channel": "mamlekate",
-    "title": "مملکته",
-    "username": "mamlekate",
-    "avatar": "https://cdn4.telesco.pe/file/CAtCuu7c8lem4WlqmhZv3FqAyVzrwg93zSRUqZ110qnoWXYVRcPGo1qBQIup4aIvR81RvWo6cxnK8g5jPVYCne-Dr4uN50dADKMUxOm3XS-XqrWgkRYGIanYuHi7_GDIWLWF-eXPp2xlHUBC_vKNvCmNSX47kwvxpR2Yj9b01ZICN_te18Jg-60zIHlpO3EqILd2cSRt_ST_G1p7Nff0nQ6fGd2OxQgkEVOepoyhuEFfE1GCaY65ENYhBIE8WK3Eaq2lYmWimUTld2oKDIQ6XwakSM5I3EV0x6VwBaVAZZzdzFI_i7I6cRHWsm9rSHTDKhx8oUzf-K4LZ4UWH8Aq9A.jpg",
-    "is_verified": true,
-    "description": "رسانه فضای مجازی فارسی\n\n🙏لطفا حتما زمان و مکان رو کامل بنویسید 🙏\nمثال: تهران شنبه ۹ اسفند ۱۴۰۴ ساعت ۰۹:۴۰ \n@mamlekate_pm\n\nچو بر گورم بخواهی بوسه:\nbuymeacoffee.com/mamlekate",
-    "counters": {
-      "subscribers": "597K",
-      "photos": "43.7K",
-      "videos": "21.2K",
-      "files": "134",
-      "links": "46K"
-    },
-    "total_posts_in_view": 18,
-    "returned_posts": 18
-  },
+  "channel": "mamlekate",
+  "channel_title": "مملکته",
+  "channel_username": "@mamlekate",
+  "channel_avatar": "https://cdn4.telesco.pe/file/CAtCuu7c8lem4WlqmhZv3FqAyVzrwg93zSRUqZ110qnoWXYVRcPGo1qBQIup4aIvR81RvWo6cxnK8g5jPVYCne-Dr4uN50dADKMUxOm3XS-XqrWgkRYGIanYuHi7_GDIWLWF-eXPp2xlHUBC_vKNvCmNSX47kwvxpR2Yj9b01ZICN_te18Jg-60zIHlpO3EqILd2cSRt_ST_G1p7Nff0nQ6fGd2OxQgkEVOepoyhuEFfE1GCaY65ENYhBIE8WK3Eaq2lYmWimUTld2oKDIQ6XwakSM5I3EV0x6VwBaVAZZzdzFI_i7I6cRHWsm9rSHTDKhx8oUzf-K4LZ4UWH8Aq9A.jpg",
+  "channel_verified": true,
+  "channel_subscribers": "597K",
+  "channel_photos": null,
+  "channel_videos": null,
+  "channel_files": null,
+  "channel_links": null,
+  "channel_description": "رسانه فضای مجازی فارسی\n\n🙏لطفا حتما زمان و مکان رو کامل بنویسید 🙏\nمثال: تهران شنبه ۹ اسفند ۱۴۰۴ ساعت ۰۹:۴۰ \n@mamlekate_pm\n\nچو بر گورم بخواهی بوسه:\nbuymeacoffee.com/mamlekate",
+  "total_posts": 73,
+  "returned_posts": 73,
   "posts": [
     {
+      "datetime": "2026-04-18T17:09:12+00:00",
+      "time_text": "17:09",
+      "link": "https://t.me/mamlekate/103272",
+      "views": "73.6K"
+    },
+    {
+      "text": "دونالد ترامپ، رئیس‌جمهور ایالات متحده، ساعتی پس از آن که ایران اعلام کرد تنگه هرمز را دوباره مسدود کرده است، به تهران هشدار داد با تغییر موضع خود قصد «باج‌گیری» نداشته باشد. او در یک رویداد در کاخ سفید گفت: «ما با آن‌ها در حال گفت‌وگو هستیم. آن‌ها می‌خواستند دوباره تنگه را ببندند، همان‌طور که سال‌هاست این کار را می‌کنند. آنها نمی‌توانند از ما باج‌گیری کنند.»\n\nدر پی تداوم محاصره دریایی ایران توسط آمریکا، سپاه پاسداران و شورای عالی امنیت ملی ایران اعلام کردند تنگه هرمز که ساعاتی در روز شنبه باز شده بود، بار دیگر به حالت قبل برگشته و مسدود است. همچنین گزارش‌هایی درباره تیراندازی سپاه پاسداران به دو کشتی که قصد عبور از تنگه هرمز را داشتند، منتشر شده است.\n\nRadioFarda\n@mamlekate"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/99b754118f.mp4?token=buMokAdSB_sZ6EjbCjLXwAHvd41cm6njdBAoLSVlI7ccWdnJdThqwkiY-ux7--laEgmzK7faxAk_39P__9dW_N8h1LzxX3is8cqtSTet9mEAsouWTjVl7hTdXiS2cGBgWs_DU5PQRS84eobqUMZYkE3qBOa2EAqrgqgKVBzkEThkE6otsStzQM3-Fi8nLbWBTtVaTcgPO7LSSTHKkCl0FjQQiqXZDB6AiQ1ECPZnxOlziMAwc3FOUV2hWEvHE0z9Vs-LdPnbc29FPiSGILqFwNLKF9LDvP1csHyzazmaxse_4dpkVuza6l_90NJ0bTOgc_GBC6IlCcoPGPTIsMajig"
+      ]
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/99b754118f.mp4?token=buMokAdSB_sZ6EjbCjLXwAHvd41cm6njdBAoLSVlI7ccWdnJdThqwkiY-ux7--laEgmzK7faxAk_39P__9dW_N8h1LzxX3is8cqtSTet9mEAsouWTjVl7hTdXiS2cGBgWs_DU5PQRS84eobqUMZYkE3qBOa2EAqrgqgKVBzkEThkE6otsStzQM3-Fi8nLbWBTtVaTcgPO7LSSTHKkCl0FjQQiqXZDB6AiQ1ECPZnxOlziMAwc3FOUV2hWEvHE0z9Vs-LdPnbc29FPiSGILqFwNLKF9LDvP1csHyzazmaxse_4dpkVuza6l_90NJ0bTOgc_GBC6IlCcoPGPTIsMajig"
+      ]
+    },
+    {
       "post_id": "103272"
+    },
+    {
+      "datetime": "2026-04-18T11:42:45+00:00",
+      "time_text": "11:42",
+      "link": "https://t.me/mamlekate/103271",
+      "views": "91K"
+    },
+    {
+      "text": "📝 جمهوری اسلامی دوباره تنگه هرمز را مسدود کرد\n\nدر حالی که اظهارات عباس عراقچی، وزیر خارجه جمهوری اسلامی، درباره بازگشایی تنگه هرمز با استقبال دونالد ترامپ، رئيس‌جمهوری آمریکا، روبه‌رو شد، اما این موضع&nbsp;چند ساعت بیشتر دوام نیاورد&nbsp;و&nbsp;صبح روز شنبه&nbsp;قرارگاه مرکزی خاتم‌الانبیا&nbsp;از مسدود شدن دوباره این آبراه کلیدی خبر داد.\n\nدر بیانیه قرارگاه خاتم‌الانبیا&nbsp;آمده است: «جمهوری اسلامی ایران پیرو توافقات قبلی در مذاکرات صورت‌گرفته، با حسن‌نیت با عبور تعداد محدودی از کشتی‌های نفتکش و تجاری از تنگه هرمز به صورت مدیریت‌شده موافقت کرد ولی متاسفانه آمریکایی‌ها با بدعهدی‌های مکرر که در سابقه خود دارند همچنان به راهزنی و دزدی دریایی تحت عنوان به‌اصطلاح محاصره&nbsp;ادامه می‌دهند. به همین دلیل کنترل تنگه هرمز به حالت قبل برگشت و این تنگه راهبردی تحت مدیریت و کنترل شدید نیروهای مسلح قرار دارد.»\n\n\n📝 تیراندازی به دست‌کم دو کشتی تجاری در تنگه هرمز\n\nخبرگزاری رویترز به نقل از سه منبع امنیت دریایی و کشتیرانی گزارش داد که دست‌کم دو کشتی تجاری اعلام کردند که روز شنبه هنگام تلاش برای عبور از تنگه هرمز هدف تیراندازی قرار گرفته‌اند.\n\n@mamlekate"
     },
     {
       "post_id": "103271"
     },
     {
+      "datetime": "2026-04-18T09:34:35+00:00",
+      "time_text": "09:34",
+      "link": "https://t.me/mamlekate/103270",
+      "views": "95.9K"
+    },
+    {
+      "text": "- کیهان: حرفتو پس بگیر. تنگه هرمز رو باز نکنید\n- سازندگی و روزنامه‌های اسهالات: تنگه گشاد شد، پیروز شدیم\n- روزنامه ولایتی: پیروز شدیم. چرا صدای ترامپ شدید\n- روزنامه سپاه: تنگه از قبل هم بسته‌تره... 😂\n\nnetvand\n@mamlekate"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/qJGa0fTkb41_sr0GttZOBI1xWkJknMaiyNe6RRe-7RhomIojTbKaOQwlVwBa9nStPUdBgoOEQgJlctGzojEdG7ARx4EjZ1HPRVk_ypokkAie7qzZlym8Q3QBZwadhx87Mp17T4AahLnBMMACiGiUjj33xVFEmiJ9h9peGzN2pO95llepn5glQDSPnv22Hgu_Nojv7eAizxpDJ5ohmTtrWOKEnJGdzZt5A2UtOJrgAhynmnnwvBxT3pXVeYXtnj6gn7UGJ36Du9lHBqG502kIlBl9DSwyz2y_21w5R2STTy9rSrmPSvxaOU0vXP-d3lpC1WuibR_xuiRDLgQBG5oHvw.jpg"
+      ]
+    },
+    {
       "post_id": "103270"
+    },
+    {
+      "datetime": "2026-04-18T09:33:04+00:00",
+      "time_text": "09:33",
+      "link": "https://t.me/mamlekate/103269",
+      "views": "93.2K"
+    },
+    {
+      "text": "📝 مقام آستان قدس: هنوز محل دفن و زمان تشییع جنازه خامنه‌ای مشخص نیست\n\nعبدالحمید طالبی، دبیر ستاد مناسبت‌های ویژه آستان قدس گفت: «قطعا محل دفن رهبر شهید در مشهد و حرم رضوی خواهد بود، اما هنوز مکانی برای دفن او در حرم امام رضا مشخص نشده است.» با وجود گذشت ۵۰ روز از کشته شدن علی خامنه ای، جنازه او هنوز دفن نشده است.\n\n\n📿 با این حساب الان مثل فاطمه یه رهبر داریم که معلوم نیست قبرش کجاست؛ مثل امام زمان هم یه رهبر غائب داریم: مجتبی إی‌آی.\n\n@mamlekate"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/bSE3fy3D1-Gq_8RSVdDqnungDGNqXXMNhrhWMFUM9F_nA4Yrk_FuV8I31xCkaepU9wB6fNJNXed3bgsD-3qSH-a-mZvVT5e9Xa1cgOXlGqn9g7zeiBrNSzXhbHwaHN425EvBYhEN_Fq1x1eUMCDdtZmMWuH_1hoC44ReBz5IX9b1ILALPyNTJgufy3XJZqOxhwxyr0hD7LtB475H3spiJqity5Ftz4DNPZ7D-vql4WBTZMikC8EmgC5KrUAloUIsBnHYO9fSUFxB_tdhVrQkPbP1O7FsUdMrU8bJ_k4O_PLZHpbhmF1k3qXjjN0yg9pja674S89ID9N66WpyTqsMKQ.jpg"
+      ]
     },
     {
       "post_id": "103269"
     },
     {
+      "datetime": "2026-04-18T06:13:02+00:00",
+      "time_text": "06:13",
+      "link": "https://t.me/mamlekate/103268",
+      "views": "101K"
+    },
+    {
+      "text": "خامنه‌ای رو فروختند؛ چارتا عرزشی موتوری که چیزی نیست. \n\n@mamlekate"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/9865bc9d0b.mp4?token=IPIpWApJqqFWU5yPZG9eeK85-_3QtxNNCLezcC0Jm9MPt6JEqVpmqQKnjhvajCMgPmRn36MPCifEc71WmteFRm8oHI8S9I5I0rUyPJc3zsVQZwuCBYkl8rdd7fivfS0zjtfyGY-dSp8ucH-OzKFmeugG4iJF5zGBVOO-ktk-ot6z_CYtqnyxfRefpdg_qpoe6za55LX9olFm3R9lGck8grjIJspt5U4frA19V5H0lj7VrgohpOEppHRTT6zB69ImqDPIue9-MW9ITvfv0LdYfnl1ejZrOY5_3fqLX-pm9d9hjk9Eax9IkIM0WoOMKuKVWyuPCQz6X9S_yRcI_rq9vA"
+      ]
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/9865bc9d0b.mp4?token=IPIpWApJqqFWU5yPZG9eeK85-_3QtxNNCLezcC0Jm9MPt6JEqVpmqQKnjhvajCMgPmRn36MPCifEc71WmteFRm8oHI8S9I5I0rUyPJc3zsVQZwuCBYkl8rdd7fivfS0zjtfyGY-dSp8ucH-OzKFmeugG4iJF5zGBVOO-ktk-ot6z_CYtqnyxfRefpdg_qpoe6za55LX9olFm3R9lGck8grjIJspt5U4frA19V5H0lj7VrgohpOEppHRTT6zB69ImqDPIue9-MW9ITvfv0LdYfnl1ejZrOY5_3fqLX-pm9d9hjk9Eax9IkIM0WoOMKuKVWyuPCQz6X9S_yRcI_rq9vA"
+      ]
+    },
+    {
       "post_id": "103268"
+    },
+    {
+      "datetime": "2026-04-18T06:03:46+00:00",
+      "time_text": "06:03",
+      "link": "https://t.me/mamlekate/103267",
+      "views": "98K"
+    },
+    {
+      "text": "⬆️ توی رسانه‌های عرزشی درباره قالیباف چه خبره؟\n\n✅ البته سروصداها درباره مخالفت‌ها «فیک» هستند، رسایی یه بار جنس خوب زده بود خوشحال بود جلو دوربین اقرار کرد که مخالفت‌های ما الکی است. عراقچی از ما می‌خواهد مخالفت کنیم&#33;\nt.me/mamlekate/94200\n\n❌ اگر هم سروصدای زیادی «واقعی» بکنند مثل حجاب‌ بان های جلوی مجلس با کتک‌کاری جمعشون می‌کنند.\nt.me/mamlekate/94008\n\n📝 مخالفت‌ها اگر چه در مذاکرات قدرت چانه‌زنی به دوزاریایی مثل تخت روانچی نمیده، اما شبکه رسانه‌ای ظریف و اصلاحات این روایت‌ها رو در رسانه‌های آمریکا پخش می‌کنند. بمب که نمیتونن بریزن، فقط رسانه دارن. که با پول‌پاشی شدید، کار هم می‌کنه تقریباً. نگاه کنید، توی سوالاتی که خبرنگارانِ از ایران بی‌خبر خارجی از ترامپ می‌پرسن، اثرش داره می‌رسه.\n\n🧠 اما خب از طرفی، خود ترامپ استاد این بازی رسانه ست. تنگه، باز یا بسته، نفت رو برگردوند زیر ۱۰۰. مارکت هم از نظر روانی دیگه از تنگه عبور کرد. یعنی تنگه که بمب اتم بود، تو چند روز در عمل گوز nم شد. \n\n🤏 شعار برای جیپ صورتی:\nرهبر قاتل رو ندادیم که سازش کنیم&#33;\n\n\n@mamlekate"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/PxnRrbOfEExQldXyr8-vNSB01lFFdhY9aBgGzUiQbRruOiALd4SJjpuTc-J_4GJCrbKN_e3H-OJ60S1IOGo2qhPi4mIFfdOBe54lgLGa5UdiXPLj-rbZgui4Mwt9kzojCzDjmTmtKnivugyCOsl7kyh8x_CAVIlctOIn8lN4pVSoF0yK7fg_ofJmvuvGKaIAdvYk1v-ABDyfaOmizlS-gFStP4BeJYnxvsHOvIZLqD-f_mHx170fEl97I9rEcomgOjN7SUv6uFq-bhPqSU6HKsehGoRxpTbiNEqFPia1KkTs_8wyh64TYYPtCyIAx6HKR5DRfWE1BDtLMrVkXlPlng.jpg"
+      ]
     },
     {
       "post_id": "103267"
     },
     {
+      "datetime": "2026-04-18T05:49:48+00:00",
+      "time_text": "05:49",
+      "link": "https://t.me/mamlekate/103266",
+      "views": "90.7K"
+    },
+    {
+      "text": "🚨 کانال آموزشی و تخصصی و تحلیل گفت پول بزنین فلان می‌کنیم، با پولتون خدافظی کنید 🚨 ممبر بالا هرگز دلیل اعتبار نیست. ما همین الان کلی کانال خبری داریم ممبرریزی فیک براشون میشه، این مارکت و کریپتویی‌ها که هیچ 🚨 درباره تبلیغاتی که اینجا بین پست‌ها یا در انتهای کانال خودتون هم می‌بینید، پست پین رو بخونید.  تبلیغات با هماهنگی کانال‌ها نیست. اتوماتیک از طرف تلگرام نمایش داده میشه⚡️\n\n@mamlekate"
+    },
+    {
       "post_id": "103266"
+    },
+    {
+      "datetime": "2026-04-18T05:34:34+00:00",
+      "time_text": "05:34",
+      "link": "https://t.me/mamlekate/103263",
+      "views": "95.7K"
+    },
+    {
+      "text": "ترامپ تمام حرف‌های قبلی خودش رو تایید کرد و گفت حرف‌هایی که خلاف اون گفته میشه مصرف داخلی [خر کردن عرزشیا] داره\n\n\nدو گزارش متنی:\n\n📝 تهدید در برابر تهدید؛ ترامپ می‌گوید اگر توافق نشود، بمباران از سر گرفته می‌شود\n\n\n📝 ترامپ: ذخایر اورانیوم غنی‌شده را به هر شکل ممکن از جمهوری اسلامی می‌گیریم\n\n\n@mamlekate"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/fa43756f63.mp4?token=XPJQbRcqjwJ51t3BADp4P6pPM-7yMcJ28EmvN9G0vibpD4rTqiyGNHxEAmFAsw4VQv6t8g6w7s6Wsa-5s3o2DKhKyviN18NSFfp0LC4zseyqGMM0HsArFZdcub0MpWpCCncm47cpuinJ_GnEe-Ayc8Fjbb2RWa4bnjTvia28x0nS4RBWYYw3sqQaGg6h-l3LlAdl6gbT1U2hn8QaEm6fc_ZPeV7TOuCc2AIIZWJSQcMP7TlsZ4c6mWpDCbfyYva906di83ixmKquMUa1nlDR-vXlOz_cbvBA8im8570jGnWR8xDB0g-hurV5xP0vi2_cfdu_773LGBIkxg7Y3pXmTw"
+      ]
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/87b506b16f.mp4?token=bWMeZumkiHzABSNlNYDnGBPu-xHVVYr8EWUlf4-L19FPcyppx631xJUrq9hIPbcM-YJzlYBRrkfQE82xyF6jtLkhzBhik9wdDL8MKJHVbJlEoOIthOEU8HbNCz8r-HYWuiGlZncQmWDY1QIB5EeG1Eijsp7HuelJZGcUqGIL4jDr9LL-CgGeQrfKUsN3uADbirs7omsflkhwg2wO4rZQu2hCp4j6Cac4Ed2PiXi1E2Mb5wnHP7C3Ek3ftxzCK-I7H5bwjTiUgUyzOVRHtzXcx5a4Xrt7eWS5SltCRtuQM4QOvfyL_QwlZXhEPEbiDXTxashFWB2wXVufANFsleMuQg"
+      ]
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/e38c7b7f55.mp4?token=pTa9BGtbeyOewANzW_mMpFXKcBGHIcBsvd5pJbhhIajrsf17aIbCJWCAuB5zlFEXXknakAQ3Q5JDSgMMHsT8cPgyJPSxPrwMs6e4KyQEDbCI3BDRsmt_rP9HA1KPClWBgmz798Xge9gQ8R51r7ZG9DDg5I0-JMPZG2RlWqCg7ohUI7dXshE4pSafRb7ZA0TQpKwZvX2OZ1V83mu55jVWvXebJC5Mtg8O0QcCA9zvrTPwdMrYvg264Y3Z6fN61QWRG3K-1TlkOqSKHRoPj11reCjQDfgniOtgqNdMX0UHRvIDql2XWzOamcmAnymFMsxCCZdn2L8h4ryfiak86K6hsA"
+      ]
     },
     {
       "post_id": "103263"
     },
     {
+      "datetime": "2026-04-18T00:01:50+00:00",
+      "time_text": "00:01",
+      "link": "https://t.me/mamlekate/103262",
+      "views": "106K"
+    },
+    {
+      "text": "دوماد روحانی\n\n@mamlekate"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/JYvc1nt-LtZmCq-GcpDz52udLmPnkZRxDkNKTXGSDvcqWFxgug4CtH9tQZ1zcHUcvKUTu2XwOhRoSw4M-KSRFpPusOUaqt2862CZqb9ZYIFoZ0Ge2Fm2cdTkc7_zngehXDDstoxI8e5-ZFhF-8Y4EdVPAZwKob-3RJK6g9-p5G_Io-FPrjU6p3GHMhtM6HZE-RFCVWCl94xJ_ijyDCbrm_9y7y1YsVejK_MlGbsyIXKSpK5LNOaWoQBHDUkLxhDAQdaWfj0AIlQNmQRTswsnjfLSfixO18q5DgvttCAn8QxLZkrugK5hZbaOzoAmZfqXw76FJqlHxtUCHywKLrgHgg.jpg"
+      ]
+    },
+    {
       "post_id": "103262"
+    },
+    {
+      "datetime": "2026-04-17T23:35:23+00:00",
+      "time_text": "23:35",
+      "link": "https://t.me/mamlekate/103261",
+      "views": "105K"
+    },
+    {
+      "text": "حواس عرزشیا و رسانه‌شون جق‌نیوز رو با این جیپ صورتی پرت کردن امروز\n\n@mamlekate"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/337e8d731d.mp4?token=lQ-PBfZdbvpN7hvHfQUoGAVFxF-uheFX6GQ29ocg7tP3aRuY9KBrukHddB9HvBio_NJG5I_Z71etL11tBnkySFKBJAjiNdb4fXwzswHQBIuFqYd58WYpd-nP3Y6FyuzKbx3wUpd40KIihswW98KDssw_KRVLIpGtpvBke13Tq9MEg6dRIfQR2eZ1Az-V8IxKkfv9N5Zd8cotjJnpSCclvtpNNYrWIKjOtLDwFvUtoYrn8ZDAWEEEUeU8OAv_wy3_y9NY4qjqPoinJ8605SOV7TV1cQlMjSxTy8C5FRkPtmbC8Jh_hVOni5K0C9XgmFx8qtFxf63k343vFKAqeQF33g"
+      ]
     },
     {
       "post_id": "103261"
     },
     {
+      "datetime": "2026-04-17T23:27:23+00:00",
+      "time_text": "23:27",
+      "link": "https://t.me/mamlekate/103260",
+      "views": "105K"
+    },
+    {
+      "text": "ادمین قالیباف هم یا در جریان نیست یا رسما دارن عرزشیا رو به فارسی خر می‌کنند&#33; دلیل من برای این حرف اینه که این توییت ۲ نصف شب قالی اینا، اصلا اشاره‌ای به اصل داستان یعنی توییت انگلیسی عراقچی نکرده و به حرف‌های فارسی \"سخنگوی\" عراقچی استناد کرده. البته عرزشیا انگلیسی بلد نیستن بخونن بفهمن چطوری دارن پیروزیاشونو ازشون میگیرن تحویل میدن به قاتل خامنه‌ای.\n\n@mamlekate"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/akHFMZBbRzglEB4XObnLXv8NhrZli6Roa0OywLJA07uBd-kgyfn3QKGGrpBbJcLrIv-IUGmPhdNKFl6eXJeI6DSArqMjUVDQa-0ZCMYw0M3R6HvLSMx62KeOQfj9arUAPAUFD6upwyACd2TjoMKn-JhgsavDuU3TQAnqUL94rpJ2QSujdHfB-mU3w0eoCDCty7hg_KxEG-9nxhZMi5ZBRsiqpP3cCZ_NYVWdBMsNLS7ETfW2kX5PVGEJP4UioDUKJzSQkPeX6CqGE8Vz8SgLc1FdCYwqNkhBgI8NcCTostgca6TFjWBgX2P6qGvsQ2dlFe-JV0ZezJHJwkYgjj-SFw.jpg"
+      ]
+    },
+    {
       "post_id": "103260"
+    },
+    {
+      "datetime": "2026-04-17T23:10:14+00:00",
+      "time_text": "23:10",
+      "link": "https://t.me/mamlekate/103259",
+      "views": "106K"
+    },
+    {
+      "text": "این حالت شرودینگریِ مجتبی إی‌آی برای این شرایط بدرد میخوره. توافق رو میندازن گردن مجتبی. مجتبی هم که احتمال بالا مرده، چن‌وقت دیگه میان میگن حالش بد شد مرد. احتمال پایین اگه زنده هم باشه میگن مراعات حال رهبر مریض رو بکنید چیزی نگید."
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/rQXEufsCKfi6MLDjS3Xthep82qgSww-rrUTWnOIW0eBBJ4O7517gGx7TrFv9sQbWJVWma7s745FipFZZGYs1E6sAVmSFHHlIdsH-p78znIUrMg9JFN8_YxoV3-Yb3fLhuhdGbDNd2Z_z1QYNgkV2w8PKi9Zy4Tl9nW65GTDB4sg2kfhU1XkSKzVx18oWqndoFKo_ODVYDw1z7JaYLCN6rc-Zv2Z2HpNWWuxGFAuPS0uoIsAE1vbF1jO9HLRUZr6SGrFxPv04Pywh4v-kQkwxHBRwCjxyPcTinkfnVeCmYf82EY71EK6bugsNhSOSPS-hAGXO3gX7BwBHCRotXNVOZg.jpg"
+      ]
     },
     {
       "post_id": "103259"
     },
     {
+      "datetime": "2026-04-17T22:46:52+00:00",
+      "time_text": "22:46",
+      "link": "https://t.me/mamlekate/103258",
+      "views": "108K"
+    },
+    {
+      "text": "خامنه‌ای حذف شد، صداوسیما هم دیگه تو بازی نیست. اگه تو بازی بودن، بهشون از قبل گفته بودن و این فاحشه‌ها، همون توییت رو روبان پیروزی می‌زدن می‌کردن تو مخ عرزشیا&#33;\n\n@mamlekate"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/024384de86.mp4?token=Zuyai90upXg6H-DeF94hvsIPAQ3cXkuJ7AeCwQ_V-CeQa4CEN2u7DLOH3awpsBjVkQ6wUImP6JtHN5GnlGWm0ZscNmLBWgflTaX8ErHv9-y5CDXVl6ZUl3ktSicuMrKmA0Cg_aGhFO3Pl2iJeDwwyWAMdtVmUBPkla682jPmDnwEffFbLCijc0pisn9Zcid7SMOp3DWamDd4FyEu0Jasu96UFlxSOh76gDJQ-uF4Wqsuwz_7j1YfimJkej_t_vuLdc7FRzOGLiP3erLmrzXPi4mvuuXYOKAh0O7ZoX5Oa_gf6GeNqBBJmH1mRuy8f8q15HI7Zm24Xa5MEXacZRvHSQ"
+      ]
+    },
+    {
       "post_id": "103258"
+    },
+    {
+      "datetime": "2026-04-17T21:47:39+00:00",
+      "time_text": "21:47",
+      "link": "https://t.me/mamlekate/103257",
+      "views": "111K"
+    },
+    {
+      "text": "مجری شبکه خبر: طبق اطلاعات کسب‌ شده، تمام توییت‌های ترامپ دروغ است\nRoknaPress\n\nقالی فروختتون\n\nsami19795\n@mamlekate"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/827feef126.mp4?token=iMuAvWB2cWG7ORlxNn7ZlMtQrl7RWjzfDUJKrjz-8TlnG9jVWAMAPF7a9iV2nCj_MHmPw375fGfxi6VBvepijqbeX113JUjh5xTSVlR2eEpoq0d0EDxFP6Z7a5C1Ldn2VwSp9R5EgDAe1tr9eUfpPHvrwh0HGsXB3ng5--IEBGLDHCsxfxZvplXlOx9a0lAqcLjVRv031_ybA3uqV-I7R4krIk3oQBPWkIFKNX_ZrVXS89XP-AedrSNfo6V305gZ1oojWW-GaBn61Zkzdumkdk_Psp8DsGutZme0RY6EPSJ-rZ_bhg1e7ku5QBPlhfyj9SAidSBbCT_5iwv_p17DKA"
+      ]
     },
     {
       "post_id": "103257"
     },
     {
+      "datetime": "2026-04-17T20:30:49+00:00",
+      "time_text": "20:30",
+      "link": "https://t.me/mamlekate/103256",
+      "views": "124K"
+    },
+    {
+      "text": "محسن رضائی: با دشمن توافق کردیم کشتی های عبوری از تنگه، به جای پرداخت پول به عنوان عوارض، فاتحه ای برای رهبری بخوانند و عبور کنند.\n\nAmirBlueStar1\n@mamlekate"
+    },
+    {
       "post_id": "103256"
+    },
+    {
+      "datetime": "2026-04-17T19:50:13+00:00",
+      "time_text": "19:50",
+      "link": "https://t.me/mamlekate/103255",
+      "views": "116K"
+    },
+    {
+      "text": "اسماعیل بقایی، سخنگوی وزارت امور خارجه جمهوری اسلامی جمعه‌شب، ۲۸ فروردین با حضور در برنامه خبری صداوسیما، اظهارات دونالد ترامپ، رئیس‌جمهوری آمریکا درباره ذخایر اورانیوم غنی‌سازی شده ایران را رد کرد. بقایی ذخایر اورانیوم غنی‌شده را به خاک ایران تشبیه کرد و گفت: «ذخیره اورانیوم غنی‌شده ما قرار نیست به جایی منتقل شود. به همان اندازه که خاک ایران برای ما مهم و مقدس است این موضوع هم برای ما اهمیت دارد.»\n\nبقایی مدعی شد که جمهوری اسلامی اساسا مسئله انتقال اورانیوم غنی‌شده به آمریکا را در گزینه‌های خود ندارد.\n\n@mamlekate"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/a31e404a54.mp4?token=LxtsPaic1W3_A8dxXhfnM5Jx1sEqsuQk9hnaroTzIgTW1dsD9jJQDGWDOk8WkpWPHv78xXOJxIo7fMsuon0SYeADognD4e_g82snY9W7-TvEZ8in5R7dg6xb75vTS-6vh6DwFUf6BlfHf9ZrzXPT_D0Kx8_kY1H_mJah_zfNu60CvO7VkaktPg15Crtibl4DrXho3uBpsTuG_B_aNPmHbcIIrXhH5iqpJ7gCN8S-UXPPWMqivXw3g1nmGJUhF36zDQAJJKS4mfQQ75IhTcRGPMR-Uj7ri73IJ1fyFOllrYNYG_DpF4v9Yiknlys3GASh80s958ksUOZqHF6s0S9Fkw"
+      ]
     },
     {
       "post_id": "103255"
     },
     {
+      "datetime": "2026-04-17T18:27:08+00:00",
+      "time_text": "18:27",
+      "link": "https://t.me/mamlekate/103254",
+      "views": "115K"
+    },
+    {
+      "text": "خامنه‌ای رو چال نکرده تنگه رو هم کامل وا کردن\n\n@mamlekate"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/0f3151c42e.mp4?token=VCDPIrp1vJxoth5DwN0MgOiaqsz_BtJMmA7cRk5ETZBUOtasEStEczYVmC9ZAfayM0an-y5xU5v5mCxvRK6w9MIWxbGIIYJbnOdjoTuMTA18k3LC_mKnjVkR-qnMcK6kHTg-OwWI-PR5LPcy8WviaSOTAMUE-RD514omWCMmFm_Q9Y5VNxQULVnEWqqNaBhorMGdt01tBnZnDGJUsVfeWRwFYZexdDLWx89YGsZXYi5ydnUageRUFVg8o5Jjmlx7q_FvYt9pqyU9U5SKS9crIPEoeEwQWhZF8KrJwPpCnrVtnnMUTpzVxBM0vDeRDrXt6eqHeWnTQHAnmKjotT5qwg"
+      ]
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/0f3151c42e.mp4?token=VCDPIrp1vJxoth5DwN0MgOiaqsz_BtJMmA7cRk5ETZBUOtasEStEczYVmC9ZAfayM0an-y5xU5v5mCxvRK6w9MIWxbGIIYJbnOdjoTuMTA18k3LC_mKnjVkR-qnMcK6kHTg-OwWI-PR5LPcy8WviaSOTAMUE-RD514omWCMmFm_Q9Y5VNxQULVnEWqqNaBhorMGdt01tBnZnDGJUsVfeWRwFYZexdDLWx89YGsZXYi5ydnUageRUFVg8o5Jjmlx7q_FvYt9pqyU9U5SKS9crIPEoeEwQWhZF8KrJwPpCnrVtnnMUTpzVxBM0vDeRDrXt6eqHeWnTQHAnmKjotT5qwg"
+      ]
+    },
+    {
       "post_id": "103254"
+    },
+    {
+      "datetime": "2026-04-17T17:05:55+00:00",
+      "time_text": "17:05",
+      "link": "https://t.me/mamlekate/103253",
+      "views": "119K"
+    },
+    {
+      "text": "🏓 ترامپ: اورانیوم ایران را می‌گیریم، پولی جابه‌جا نمی‌شود و تنگه هرمز دیگر بسته نخواهد شد\n\nدونالد ترامپ، رییس جمهوری آمریکا، جمعه ۲۸ فروردین اعلام کرد که ایالات متحده تمام اورانیوم غنی شده ایران را دریافت خواهد کرد و در قبال آن هیچ پولی به هیچ وجه جابه جا نخواهد شد. او همچنین گفت تنگه هرمز دیگر هرگز بسته نمی شود و موضوع لبنان هیچ جایی در توافق با جمهوری اسلامی ندارد\n\n@mamlekate"
     },
     {
       "post_id": "103253"
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T01:40:17.116333",
+    "last_updated_at": "2026-04-19T01:44:21.710887",
     "status": "success",
     "new_posts_found": 0
   }

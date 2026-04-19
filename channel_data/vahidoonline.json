@@ -1,86 +1,347 @@
 {
   "success": true,
-  "meta": {
-    "channel": "vahidoonline",
-    "title": "VahidOOnline وحید اون‌لاین",
-    "username": "vahidoonline",
-    "avatar": "https://cdn1.telesco.pe/file/MsOk2Y3KTUZ4NC17BIhp9bcS75RyhyMG8bQJRPvBmrbQV1FBAIpBRwjRwXpy8GUod0BSd6Mw1vv0US4lXVmJVgQMemHYtBbLiG-U-LuLvxgyfNWbJ0F0MMiQnxgIUsFCy1YzbthlMdoW1JOy5iFvjiR5DCkiTUUt4tRYv-viWmeFLRCOU27O0JkrmnyQQ07SbYYfIgg9ZvFTMrV3gjmjc5fYexI5bAKn0Yod9FDlXMhCWmE8-N8EWj-n8jJVprA5FdZFBYmxtN3pYbTzww8-sJMzHjxzZnE5wLg0SqrT3XLv-WfNCeEumCxfHKgw3tGrKHUaWuArHFQmNxOzJY-8uA.jpg",
-    "is_verified": false,
-    "description": "مطالب #وحیداونلاین خودکار منتشر می‌شوند.\nنرم‌افزاری نوشتم که مطالب بعضی از رسانه‌های فارسی زبان رو بخونه و بعضی‌هاشون رو اینجا پست کنه.\nاون نرم‌افزار رو برای رصدگری نوشتم برای همین ممکنه یک خبر چند بار از چند منبع تکرار بشه.\n\n👈 کانال اصلی من: @VahidOnline",
-    "counters": {
-      "subscribers": "81.1K",
-      "photos": "78.4K",
-      "videos": "55.5K",
-      "files": "34",
-      "links": "221K"
-    },
-    "total_posts_in_view": 20,
-    "returned_posts": 20
-  },
+  "channel": "vahidoonline",
+  "channel_title": "VahidOOnline وحید اون‌لاین",
+  "channel_username": "@vahidoonline",
+  "channel_avatar": "https://cdn1.telesco.pe/file/MsOk2Y3KTUZ4NC17BIhp9bcS75RyhyMG8bQJRPvBmrbQV1FBAIpBRwjRwXpy8GUod0BSd6Mw1vv0US4lXVmJVgQMemHYtBbLiG-U-LuLvxgyfNWbJ0F0MMiQnxgIUsFCy1YzbthlMdoW1JOy5iFvjiR5DCkiTUUt4tRYv-viWmeFLRCOU27O0JkrmnyQQ07SbYYfIgg9ZvFTMrV3gjmjc5fYexI5bAKn0Yod9FDlXMhCWmE8-N8EWj-n8jJVprA5FdZFBYmxtN3pYbTzww8-sJMzHjxzZnE5wLg0SqrT3XLv-WfNCeEumCxfHKgw3tGrKHUaWuArHFQmNxOzJY-8uA.jpg",
+  "channel_verified": false,
+  "channel_subscribers": "81.1K",
+  "channel_photos": null,
+  "channel_videos": null,
+  "channel_files": null,
+  "channel_links": null,
+  "channel_description": "مطالب #وحیداونلاین خودکار منتشر می‌شوند.\nنرم‌افزاری نوشتم که مطالب بعضی از رسانه‌های فارسی زبان رو بخونه و بعضی‌هاشون رو اینجا پست کنه.\nاون نرم‌افزار رو برای رصدگری نوشتم برای همین ممکنه یک خبر چند بار از چند منبع تکرار بشه.\n\n👈 کانال اصلی من: @VahidOnline",
+  "total_posts": 77,
+  "returned_posts": 77,
   "posts": [
     {
+      "datetime": "2026-04-19T01:41:11+00:00",
+      "time_text": "01:41",
+      "link": "https://t.me/VahidOOnLine/234642",
+      "views": "152"
+    },
+    {
+      "text": "♦️همزمان با افزایش تنش‌ها میان واشنگتن و تهران و نیز در آستانه پایان آتش‌بس ۱۴ روزه، دونالد ترامپ، رئیس‌ جمهوری ایالات متحده، روز شنبه، ۲۹ فروردین‌ماه، تصاویری از درخواست کمک مردم در داخل ایران از او، و تجمعات ایرانیان خارج از کشور در سراسر جهان را در شبکه اجتماعی «تروث سوشال» منتشر کرد. صدای او در پایان این ویدیو شنیده می‌شود که می‌گوید: «من در کنار شما هستم، برای شما مبارزه می‌کنم و پیروزی را برایتان به ارمغان می‌آورم».\n‌🇸🇦  Indypersian\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "post_id": "234642"
+    },
+    {
+      "datetime": "2026-04-19T01:39:31+00:00",
+      "time_text": "01:39",
+      "link": "https://t.me/VahidOOnLine/234641",
+      "views": "204"
+    },
+    {
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت: «صرف‌نظر از این‌که کسی اسرائیل را دوست داشته باشند یا نه، آنها ثابت کرده‌اند متحدی بزرگ آمریکا هستند.»\n\nاو افزود: «آنها شجاع، جسور، وفادار و باهوش‌اند و برخلاف دیگرانی که در لحظه درگیری و فشار چهره واقعی خود را نشان داده‌اند، اسرائیل سخت می‌جنگد و می‌داند چگونه پیروز شود.»\n\n‌🏁 🇬🇧 IranintlTV\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/WUqjsvOLr03t7KHZthoiUZHVqAvhszjw3Qy-Y3g0w9ctptOSAWAO62bu0DgIUQ9EFywxAoFRb1dqt-o4f9txnNxbcFAJMjd4Tg-ALYx5f0pSpV6uNrmbBT-UlN_mqXg2NWE1rzMCcPMUtsiwxczb3E5JoUImu5gDmyqqP5UvocFO8SunYMeUlulp_sfYYcXHd-4wSd9HTIs3JRmBtc2Q17KFU4R0usmGucQ2ZnjHDTZLMi1Hx8v6aw-ocnB-AvIAWKgoSsjdy-MEaMtgkCTmQrENxRcXbitbeQfxaDyx78ngq_JSAc_m_S5cFkH8e0hQzKFaM0h8poqMLEOkXfwpgA.jpg"
+      ]
+    },
+    {
       "post_id": "234641"
+    },
+    {
+      "datetime": "2026-04-19T01:30:28+00:00",
+      "time_text": "01:30",
+      "link": "https://t.me/VahidOOnLine/234640",
+      "views": "398"
+    },
+    {
+      "text": "🗣روایت شما از وضعیت اقتصادی در زمان آتش‌بس- یک‌شنبه ۳۰ فروردین ۱۴۰۵\n🔹این سختی که امروز می‌کشیم نتیجه سال‌ها مدارا و کمک غیرمستقیم قشر بی‌تفاوت خاکستری به رشد سرطان سپاه در ایران است. امروز ۹۵ درصد مردم مخالف هستند ولی همه مبارز نیستند. مبارزه هم فقط جنگیدن در خیابون نیست، ده‌ها روش دارد. تا زمانی که همه یا اکثریت مبارز نشوند اوضاع همین است.🔹\n🔹از شیراز: بعد از ۵۰ روز وصل شدم آن‌هم با کلی بدبختی. ۵۰۰ مگ می‌خریم ۵۵۰ هزار تومان و این تازه بهترین قیمته. فقط صبر همه‌چیز را مشخص می‌کند. صبر کنید دوستان، صبر.🔹\n🔹انگار دو طرف دارن یه بازی شطرنج رو بازی می‌کنن و مردم ایران نقش اون ساعته رو دارن که هر کسی هر حرکتی می‌کنه یه دونه می‌زنه تو سرش.🔹\n🔹ممکنه چند بار دیگه آتش‌بس کنن و مذاکره کنن. روحیه خودتون رو حفظ کنید. ما پیروز هستیم. ممکنه چندین ماه هم طول بکشه. می‌دونم سخته اما چاره‌ای جز قوی بودن نداریم. وسوسه یأس نباشید. ازتون خواهش می‌کنم به هم امید بدین.🔹\n🔹در بهبهان هر شب از ساعت ۷ تا ۱۱ حکومتی‌ها و سرکوبگران در فلکه اصلی شهر تجمع می‌کنند و مانع کاسبی مغازه‌دارها می‌شوند.🔹\n🔹از لاهیجان: به‌زودی پیروز می‌شیم. تمام این مذاکرات سیرکی بیش نیست و به‌زودی جمهوری پلید اسلامی سقوط می‌کنه. پاینده باد ایران شاهنشاهی.🔹\n🔹ایران و مردم ایران فقط تنگه هرمز یا ۴۰۰ کیلو اورانیوم نیستن. این خبرها که مدام پخش میشه نفرت مردم ایران رو از همه دنیا بیشتر می‌کنه.🔹\n🔹اگر می‌خواستن همه‌چیز از جمله اتمی، نیابتی، عبور رایگان تنگه، موشکی و عدم غنی‌سازی رو بدهند، چرا از اول، ۴۰ سال پیش با آمریکا دست دوستی ندادن؟ چرا خودشون رو به کشتن دادن؟🔹\n🔹از مشهد: از تاریخ ۹ اسفند به طرز عجیبی آب‌وهوای مشهد خوب شده، به شدت بارندگی داریم، برکت به مشهد برگشته است. واقعاً از مزاحم‌های شبانه آسایش نداریم. با بلندگوهای بسیار بزرگ هر شب تا ساعت ۲ بامداد موزیک پخش می‌کنند. جمهوری اسلامی واقعاً طرفداراش هم یک عده روانی‌اند.🔹\n🔹از ونکوور: حکومتی که بقای خودش رو در قطعی اینترنت جستجو می‌کند خیلی وقته سرنگون شده است. امسال جمهوری اسلامی به زباله‌دان تاریخ انداخته می‌شود.🔹\n‌🏁 🇬🇧 IranintlTV\n\n🤖 @VahidOOnLine"
     },
     {
       "post_id": "234640"
     },
     {
+      "datetime": "2026-04-19T01:16:42+00:00",
+      "time_text": "01:16",
+      "link": "https://t.me/VahidOOnLine/234639",
+      "views": "722"
+    },
+    {
+      "text": "♦️دونالد ترامپ، رئیس‌ جمهوری ایالات متحده، روز شنبه، ۲۹ فروردین‌ماه، با انتشار پیامی در تروث سوشال نوشت: «چه مردم اسرائیل را دوست داشته باشند چه نه، آنها ثابت کرده‌اند که متحدی بزرگ برای ایالات متحده آمریکا هستند.» ترامپ افزود: «اسرائیل شجاع، جسور، وفادار و باهوش است» و گفت برخلاف برخی دیگر که «در لحظه بحران و فشار چهره واقعی خود را نشان دادند»، اسرائیل «سخت می‌جنگد و می‌داند چگونه پیروز شود.»\n‌🇸🇦  Indypersian\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/UhOFMGZsFw_OiRfkGR8lrv1b4qREeBydhmLh_upew0kAXgZS8Z2SJ74jYtuHuG0itivNc7Fy-1b6z0_vNoXd-OwFXRJEwYw11xiFhpRmLYD6S2XTLy9ZoTz6JxkUS4DQ6qEJEMOEcgVw2fZo6SQD-_fxJeVGQxL8DthOL7ngX1LVNzqNcdzCqDImCw401ZczgsmnXAGnjXepEKYD9MVCogcjpNpX3hGzeRt8aYMTBu9VJrfE9b8BsIZxsdkrJZpleJDuPVilYDBa3KUnZhbuIhK-bgNQ_nTKGUYwA7c8cCRxz5KlvIdptZWtuDlBanGDREpIIpdj-fxK60oWX0H92w.jpg"
+      ]
+    },
+    {
       "post_id": "234639"
+    },
+    {
+      "datetime": "2026-04-19T01:08:21+00:00",
+      "time_text": "01:08",
+      "link": "https://t.me/VahidOOnLine/234638",
+      "views": "890"
+    },
+    {
+      "text": "♦️سنتکام، فرماندهی مرکزی ایالات متحده، اعلام کرد ملوانان و نیروهای تفنگدار دریایی مستقر در ناو آبی‌خاکی «یواس‌اس راشمور» (USS Rushmore) عملیات محاصره دریایی را در دریای عرب انجام می‌دهند. سنتکام با انتشار تصاویری در اکس نوشت این عملیات با حضور نیروهای مستقر در ناو «یواس‌اس راشمور» (LSD 47) در حال اجرا است.\n‌🇸🇦  Indypersian\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/STHCckAeVYkcEqqAnEkJVDwiYM3Z32KOs_y7oH1G6kYDW1g-SRS3Osxd8Lot9_0U6tx6OcQiXVZM6Swos7W2N59b1i95HDW-6XfSz346In48vmO_8GRgmlUaJW7Q3DX4fE3aZRSfbdZEt-vQZ9VAb0ByQL_6RGqbm3-651Bcuq7psNTcA5nuOYIJk5KRSWHMdRDuaTMN68d9tqt1ZikeugqM8YPLIMYuBCy_IvtuD8Zl8FEER1ScwZllbQdjU4sQszLJ7xeOVsu-nu4fqRXrQQHNEC4TL0wK0Fw_wPP2q6ApChTPko64Y6H5HGok1CcvI6upZlxbsXNi69DZtX-eRw.jpg"
+      ]
     },
     {
       "post_id": "234638"
     },
     {
+      "datetime": "2026-04-19T00:50:35+00:00",
+      "time_text": "00:50",
+      "link": "https://t.me/VahidOOnLine/234637",
+      "views": "1.14K"
+    },
+    {
+      "text": "روزنامه نیویورک تایمز با استناد به «ارزیابی‌های اطلاعاتی ایالات متحده» ‌نوشت که جمهوری اسلامی «احتمالاً به حدود ۷۰ درصد از ذخایر موشک‌های بالستیک پیش از جنگ خود و حدود ۶۰ درصد از پرتابگرهای موشک خود دسترسی دارد.»\n\nاین گزارش به نقل از مقامات اطلاعاتی و نظامی ایالات متحده می‌گوید که جمهوری اسلامی همچنین حدود ۴۰ درصد از پهپادهای خود را حفظ کرده است.\n\nبه نوشته نیویورک تایمز، هنگامی که آتش‌بس دو هفته‌ای بین ایران و ایالات متحده به اجرا درآمد، تهران به حدود نیمی از پرتابگرهای موشک بالستیک خود دسترسی داشت.\n\nاین گزارش حاکی از آن است که از آن پس، جمهوری اسلامی موفق شده است ۱۰۰ پرتابگر دیگر را از زیر زمین خارج کند و شمار پرتابگرهای عملیاتی خود را به حدود ۶۰ درصد از کل پرتابگرهای پیش از جنگ برساند.\n\nاین روزنامه نوشت که جمهوری اسلامی علاوه بر پرتابگرها، درصدد است تا هرگونه ذخایر موشکی را که در زیر آوار ناشی از حملات ایالات متحده و اسرائیل مدفون شده است، بیرون بیاورد که در صورت موفقیت در انجام این کار، ذخایر موشکی معادل حدود ۷۰ درصد از ذخایر پیش از جنگ خود در اختیار خواهد داشت.\n‌🏁 🇬🇧 IranintlTV\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/JtzUjnNuFnAVuG6HYuXBRjEPo2M9khYGgQ8eOhnJgZ9oeyXeI4AXf6vNZBTyC9I1nVZfKK0OIknoNrjhUIkMd1y660Rj3KWWBlAdaUKBwgYSr_bM-dpiNFJsqbc0u7QBAUCdtlxu5ziiWgrHuXU76GVtj2OrkcaRXdP6DdvxODd8evIBsI-zqPclmyAMLt4_p_Z2Nx1v_4Z3hpkc9-skGDQb-8eS02s3AjWp8zt_G6Tc0e4MAUnZPqZEF53fxP1u1uXG6k0rVaWtF1R1GFQb3AT2Wk6HN7eP-6m8XymmDvVDR4fRnr2vekrHLLZKQ2gQq081P-ksVVScZ72LjznLig.jpg"
+      ]
+    },
+    {
       "post_id": "234637"
+    },
+    {
+      "datetime": "2026-04-19T00:50:17+00:00",
+      "time_text": "00:50",
+      "link": "https://t.me/VahidOOnLine/234636",
+      "views": "1.04K"
+    },
+    {
+      "text": "♦️باراک اوباما، رئیس‌جمهوری پیشین ایالات متحده، و زهران ممدانی، شهردار نیویورک، روز شنبه در مرکز پیش‌دبستانی «یادگیری از طریق بازی» در برانکس جنوبی با کودکان دیدار کردند. آنها برای نخستین بار در این برنامه مشترک، همراه کودکان کتاب خواندند و اجرای ترانه «چرخ‌های اتوبوس» (Wheels on the Bus) را رهبری کردند.\n‌🇸🇦  Indypersian\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/886829ab01.mp4?token=ni3DxGA9iPPAy2uCnuMBP8bpdO-RJ0BhLP3h_wNuMB6X_eG8w_poE1k3-CxS-quoQVbfmEC5ChKOM5SMiYph9P6sZZEOUff22_WMpUtkvoJO_LXWn_23VPTDYcgx4WvkunqxPzYKTEGFhl1z2d7TKGtw6EMTatECABq79yjXIou2Wg64nHb-9gr3syG5TEPKhCEmO0ycU2BM0xWv2wJEsCc7h0rKuWLlRN5DBOn0B-2w5Eq1GgbMD0IVFbc2GpdIaPxo7868B1ae_SoEvpV2wceeMo3JJchFpfSSGrFM63Gz0XU6zmpbfmEie3L4HZiqCuBH_C_EZIc7rt9WgcBCNQ"
+      ]
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/886829ab01.mp4?token=ni3DxGA9iPPAy2uCnuMBP8bpdO-RJ0BhLP3h_wNuMB6X_eG8w_poE1k3-CxS-quoQVbfmEC5ChKOM5SMiYph9P6sZZEOUff22_WMpUtkvoJO_LXWn_23VPTDYcgx4WvkunqxPzYKTEGFhl1z2d7TKGtw6EMTatECABq79yjXIou2Wg64nHb-9gr3syG5TEPKhCEmO0ycU2BM0xWv2wJEsCc7h0rKuWLlRN5DBOn0B-2w5Eq1GgbMD0IVFbc2GpdIaPxo7868B1ae_SoEvpV2wceeMo3JJchFpfSSGrFM63Gz0XU6zmpbfmEie3L4HZiqCuBH_C_EZIc7rt9WgcBCNQ"
+      ]
     },
     {
       "post_id": "234636"
     },
     {
+      "datetime": "2026-04-19T00:42:45+00:00",
+      "time_text": "00:42",
+      "link": "https://t.me/VahidOOnLine/234635",
+      "views": "1.15K"
+    },
+    {
+      "text": "شبکه خبری فاکس گزارش داد در پی افزایش قیمت سوخت جت به‌دلیل اختلال در تنگه هرمز، شرکت‌های هواپیمایی در حال افزایش هزینه‌های بار و کاهش برخی مسیرهای پروازی هستند. به گفته این شبکه، رشد بهای سوخت فشار قابل توجهی بر صنعت هوانوردی وارد کرده است.\n\nکریس سونونو، رییس و مدیرعامل «ایرلاینز فور آمریکا»، شنبه به فاکس گفت افزایش جهانی هزینه‌های سوخت، شرکت‌های هواپیمایی را تحت فشار قرار داده است. او افزود: «ما به اندازه اروپا نگران نیستیم، اما شرایط را زیر نظر داریم. ممکن است تابستان بسیار سنگینی در پیش داشته باشیم.»\n\nبر اساس این گزارش، برای جلوگیری از جهش شدید قیمت بلیت، شرکت‌های هواپیمایی به منابع درآمد جایگزین، از جمله افزایش هزینه‌های بار و کاهش مسیرها روی آورده‌اند.\n\nسونونو تاکید کرد قیمت بلیت‌ها شاید تنها ۵ تا ۶ درصد افزایش یابد، اما سوخت همچنان ۲۵ تا ۳۰ درصد از هزینه‌های عملیاتی را تشکیل می‌دهد و این صنعت ممکن است در سال جاری با زیانی دست‌کم ۲۵ میلیارد دلاری روبه‌رو شود.\n‌🏁 🇬🇧 IranintlTV\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn1.telesco.pe/file/U4pJmnLCCGR69MW-OZIC_N8qpAX8eKhqYBQuc63gETPIEmJjxLoGgfzuNoZlLtPUymzm_uqn1Vcohpm_l-YDpLiJUiVT-6ex51VP9qCvU-qkf9-B6Xy44vrrUDndqYIh5v-WX4FGw68i1m7pp4ayHOuASZtJ02ldbYY7lHlvPSBlLKGpETBPWLRNaRPEBxfGM92BlBQgm8a3tUfXJGQ9ftF7_B2_2jXjBHLQtlRxKcVbsdhchNIZ8-YcDEIPsc3YkhgF0Cz6IjNEKLvBRc0CVgV6TroPM-f00HeefnWe8UtGf4OsUEyutRQ2_D3SMKXV_nV3EmnhqCupFzaooWuwXw.jpg"
+      ]
+    },
+    {
       "post_id": "234635"
+    },
+    {
+      "datetime": "2026-04-19T00:29:29+00:00",
+      "time_text": "00:29",
+      "link": "https://t.me/VahidOOnLine/234634",
+      "views": "1.3K"
+    },
+    {
+      "text": "♦️وزارت خارجه بحرین، روز شنبه، ۲۹ فروردین‌ماه، اعلام کرد منامه از تصمیم سازمان بین‌المللی دریانوردی مبنی بر محکوم کردن بستن تنگه هرمز توسط جمهوری اسلامی استقبال می‌کند. این وزارتخانه در بیانیه‌ای گفت این تصمیم همچنین تهدید کشتی‌ها، حملات به کشورهای عضو شورای همکاری خلیج فارس و اردن، تهدید به مین‌گذاری و اعمال عوارض بر کشتی‌ها در این آبراه را محکوم کرده است.\nوزارت خارجه بحرین همچنین از نقش امارات متحده عربی در تهیه این قطعنامه قدردانی کرد و گفت این تصمیم بر حق عبور ترانزیتی در تنگه هرمز تاکید دارد. منامه بار دیگر از جامعه جهانی خواست همکاری و هماهنگی برای حفظ آزادی کشتیرانی بین‌المللی و جلوگیری از هرگونه نقض آینده آن را ادامه دهد و این موضوع را از ارکان اصلی صلح و امنیت جهانی دانست.\n‌🇸🇦  Indypersian\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/vEXjwYYMTXwnPQpDn3qD_m1A1GtSXRrRSZjJHEWpHydqVeyFYLCaOpMOJUBTZOozd8rWwFKQ2HUJDyp86_7Td99oaoa5fxfazAshCiZEskNDxoFUAKmt8gWBXbzK2bz_NyIkBnIz4JDAho9iAbgGLdKyR3RXd3p9vdkGYMOeycNV4wVydfD5rfh5uxmYPZGx0B6F_-R9nyYTqX4tdcIbKdkdRRdCLF0T5FQDYLTpAY1JB3Lz6v1u0ajQmQv54hYowB5FZI_hkOlq2pms3oBWcTKRe4hrTFMuDMks4MfpPihGDNqrdDRocRR6k9UUJjBvOmJyKN_VBuZ6CtlC5sYvIQ.jpg"
+      ]
     },
     {
       "post_id": "234634"
     },
     {
+      "datetime": "2026-04-19T00:25:13+00:00",
+      "time_text": "00:25",
+      "link": "https://t.me/VahidOOnLine/234633",
+      "views": "1.3K"
+    },
+    {
+      "text": "مسرور بارزانی، نخست‌وزیر اقلیم کردستان عراق، در شبکه اجتماعی ایکس حملات پهپادی مداوم علیه این منطقه طی چند روز گذشته را به شدت محکوم کرد. \nاو با اشاره به کشته و زخمی شدن تعدادی در پی این حملات، آن‌ها را تلاش برای تضعیف آتش‌بس و آسیب بیشتر به اقلیم کردستان عراق دانست.. \nبارزانی در سخنان خود اشاره‌ای به جمهوری اسلامی به عنوان عامل این حملات نکرد. \nپیش‌تر احزاب کرد ایرانی جمهوری اسلامی را عامل حملات پهپادی و موشکی به اردوگاه‌ها و کمپ‌های خوددر اقلیم کردستان عراق کرده‌اند. \nبارزانی از دولت عراق خواست که اقدامات عملی برای پایان دادن به این حملات انجام دهد و از شرکای بین‌المللی اقلیم کردستان عراق خواست تجهیزات لازم برای محافظت از این منطقه در برابر این تهدیدات مداوم، از جمله زیرساخت‌های غیرنظامی و انرژی ما را فراهم کنند.\n‌🏁 🇬🇧 IranintlTV\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn1.telesco.pe/file/snXp_lH9OKSVjUb86IPy2pElYoT1LV1rMqkb8J_CnM6Uo-4r3R1viHO_LO53honU7VHN-6j0_Lzp24SnVLyzyBoigRzzs5buQeo4-GhPvWmYcAl8Ob3NRlEkWmcP9I61tseFSJ8MlVzNZ1Ls9tFOReXawmPynRJGTOk391TkaGGfIKTHmVG9yWoifyl2SV_8rDFwlydAmTJzhg_TC-BHFkafsqPKQZ1kDQHiRskFdBCG7Hg3ftjOXAPohKUweud5rpCv7ZzE5ANGkmTGiXGFI8Ci3guPDrjzYBUnlgqT2tv7TKn52ypS6djxWcU7s1pu1GMyxEXqj4Vz4ywK0tdA3g.jpg"
+      ]
+    },
+    {
       "post_id": "234633"
+    },
+    {
+      "datetime": "2026-04-19T00:19:04+00:00",
+      "time_text": "00:19",
+      "link": "https://t.me/VahidOOnLine/234632",
+      "views": "1.38K"
+    },
+    {
+      "text": "♦️جی‌دی ونس، معاون رئیس‌جمهوری ایالات متحده، در پیامی در اکس از اظهارات پاپ لئو که گفته بود روایت‌ها درباره تنش با دونالد ترامپ دقیق نبوده و قصدی برای مجادله با رئیس‌جمهوری ندارد، استقبال کرد و نوشت: «از اینکه پاپ لئو این سخنان را بیان کرد سپاسگزارم.» او افزود روایت رسانه‌ای به‌طور مداوم تنش‌ها را برجسته می‌کند، در حالی که «واقعیت اغلب بسیار پیچیده‌تر است.» ونس همچنین گفت پاپ لئو همان‌گونه که باید، پیام انجیل را موعظه می‌کند و طبیعی است درباره مسائل اخلاقی روز نیز دیدگاه خود را بیان کند. به گفته او، دونالد ترامپ و دولت آمریکا نیز تلاش می‌کنند این اصول اخلاقی را «در جهانی آشفته» اجرا کنند.\nپاپ لئو پیش‌تر گفته بود روایت‌هایی که درباره اختلاف او با ترامپ مطرح شده، «در همه ابعاد دقیق نبوده است.» او افزود بسیاری از مطالب منتشرشده، صرفا تفسیرهایی بر تفسیرهای قبلی بوده و برخی سخنان او نادرست تعبیر شده است. پاپ تاکید کرد پیام اخیرش درباره صلح از دو هفته قبل آماده شده بود و ارتباطی با اظهارات ترامپ نداشت. او همچنین گفت «اصلا علاقه‌ای ندارم وارد مجادله با رئیس‌جمهوری شوم» و قصد دارد همچنان پیام صلح را ترویج کند.\n‌🇸🇦  Indypersian\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/ENtLl0tSE6DnZPOsnFnpf6fi0GqqsQf2LPX9dmJEiKjuRN_z4sAmzsdruyGTPoR-FPXIlUjHCSGTF7cZiBeCiKc491mHbez_uX-CMwRpjKCqPbFTXt0YadveyLkrOjf5V0Wq_wymnELQjBqo7oK68Af_WCEE7LfDASXDeXBKFo_xHVM4F2kOnne47zAa4TnhShlBoD2DO4bwEdp5uazyDZqaOuNuPYsvFJ0IsDEevDsONqtRpkm2oekS4e4UbwwcoyJ4nc6z9GkGuyp4kGQnHlypxaygLh8__54TnqJ4mCFn6_kHH4isVIgbygL1Rf0x6qwFPbreMJKiE-h4r3OG9A.jpg"
+      ]
     },
     {
       "post_id": "234632"
     },
     {
+      "datetime": "2026-04-19T00:14:09+00:00",
+      "time_text": "00:14",
+      "link": "https://t.me/VahidOOnLine/234631",
+      "views": "1.4K"
+    },
+    {
+      "text": "مسرور بارزانی حملات پهپادی اخیر به اقلیم کردستان عراق را محکوم کرد و آنها را تلاشی برای تضعیف آتش‌بس دانست. او از دولت عراق خواست برای توقف این حملات اقدام کند و از شرکای بین‌المللی درخواست کرد تجهیزات لازم برای حفاظت از زیرساخت‌های غیرنظامی و انرژی را فراهم کنند.\n‌🏁 🇬🇧 IranintlTV\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/OHvzxfWiYxueKjgjJ_C6dnCYrK5yP8Jw7J8dIyRVpts6Qo8UuX1EhByip5y7qF7nfYbxA_9rZLabxLhzAXgGRw-jgqdvrWoozKUZbclDeLfdmhd-2Cm86Eltu1QMnaqeeLg1R1Zy6a1yIL0JPCatRn6pk10WEZnTvyHDtgg2FMWXY4Hmqa8w_xmrOKnullXa4B1r3trWubH5AagPqTG3mZtVNYdpu59njhUbgIEt819ajrajoVGcmGzl18DqKpBPjae5H2yaeFvXjrOI7InzxbgJ4WVR6Sc00QmvnbR53g3fmzdXp_r8xay81_tm94AjHyGjXBL04iPjQtKx7UY6Fg.jpg"
+      ]
+    },
+    {
       "post_id": "234631"
+    },
+    {
+      "datetime": "2026-04-19T00:11:55+00:00",
+      "time_text": "00:11",
+      "link": "https://t.me/VahidOOnLine/234630",
+      "views": "1.44K"
+    },
+    {
+      "text": "♦️محمدباقر قالیباف، رئیس مجلس شورای اسلامی، روز شنبه، ۲۹ فروردین‌ماه، درباره مذاکرات با آمریکا گفت: «در برخی موضوعات به جمع‌بندی رسیده‌ایم و در برخی موضوعات خیر و پیشنهادهای دیگری مطرح شده است. هنوز با بحث نهایی فاصله داریم».\nقالیباف با بیان اینکه «در مجموع در مذاکرات پیشرفت داشته‌ایم، اما فاصله‌ها همچنان زیاد است و برخی نکات اساسی باقی مانده»، تاکید کرد: «آمریکا باید تصمیم بگیرد اعتماد ما را جلب کند.» او افزود اگر واشنگتن قصد پاسخ با حسن نیت دارد، باید «از یک‌جانبه‌گرایی و روحیه تحمیل در رویکرد گفتگو دست بردارد.» او تاکید کرد: «در صورت توافق، یک گام ما برمی‌داریم و یک گام نیز آنها باید بردارند.»\n‌🇸🇦  Indypersian\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/Bvd7UkmvELUyiRd7_FyR5mNgJaVLe0V-xv_lv3l6axdU9oXhkphLcf9kHk-0F9nKBE8_5_yKI61u2s8XA0vOiSp1-IrwiHoObMakjMux2Ak9ubJlqE64RHil0tYPn9S91swI3Lo5MBDg0znGPmgblMrZcjDXayWR1FKEAoJw1CJ0XnD8bS3C4f5Zc_QG397Yp1IFjZ737aE2oAs96zRZNXD3TcnC8dsjOUH-TOTL51gciiz7VDex7aLpQK3b4Oc61zKm-uKH9vuBnnHem4W9Tgd-p_FnsaEFW88lQI8lr3CTocPexZHMG4vBF1_ibe7O8xFa24GN7fdH_M7CeWTrLQ.jpg"
+      ]
     },
     {
       "post_id": "234630"
     },
     {
+      "datetime": "2026-04-19T00:04:14+00:00",
+      "time_text": "00:04",
+      "link": "https://t.me/VahidOOnLine/234629",
+      "views": "1.6K"
+    },
+    {
+      "text": "محمدباقر قالیباف، رییس مجلس شورای اسلامی، در گفت‌وگویی تلویزیونی اعلام کرد: ‌«صلح پایداری می‌خواهیم که دوباره جنگ تکرار نشود.»\n\nاو اشاره کرد که جمهوری اسلامی و آمریکا در چند موضوع هسته‌ای و تنگه هرمز اختلاف نظر دارند و افزود اکنوننیز در این موارد اختلاف نظر داریم.\n\nقالیباف گفت: «البته نفس مذاکره برای تفاهم است ولی ما اصول خود را داریم.»\n\nاو همچنین گفت:‌ «در مذاکرات سه جانبه خیلی تاکید داشتیم که ما کاملا به آمریکا بی اعتمادیم و روشن آن را بیان کردیم.»\n‌🏁 🇬🇧 IranintlTV\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/WPtCkfHXDZspDswhPhs623xt3iENbnevgPdHDuKVy_M6OqG--9qOl8-AKnw3UItpoD9drYDokBijq_tXa5IDqj17fQWxTqasnkXJBH6NBOA2J_CMtZF1T2mJ5poDWd9vNvOk5jJRsgdlDT8sUrrrwlCZjlzOb8GOzScOL0bDgZpk2xoPDfuWIBJ5EgFRD3_0Hqd2M2i26lycH8i2ZeZcSN5UCyq2c0xNDBjN30lJqylugG83JShFrrQDFdjLGUPLqz7X8_cA99HYPyfhssiBTjQ6Kwc3LU3Gv5jHOINwX--7CVzTuQtCE07_T7EwRbTx1IAbqh_2WZMDPu8O_iq_2Q.jpg"
+      ]
+    },
+    {
       "post_id": "234629"
+    },
+    {
+      "datetime": "2026-04-18T23:41:11+00:00",
+      "time_text": "23:41",
+      "link": "https://t.me/VahidOOnLine/234626",
+      "views": "2.05K"
+    },
+    {
+      "text": "♦️خبرنگار الجزیره با انتشار پیامی در اکس نوشت هیئت پاکستانی تا عصر شنبه، ۲۹ فروردین‌ماه، در تهران حضور داشت و «در تلاش بود پاسخ روشن ایران به خواسته‌های آمریکا را دریافت کند»، اما «تا این لحظه نتیجه این تلاش‌ها مشخص نیست.» او افزود: «فضای حاکم تا ساعات ابتدایی عصر چندان نزدیک به خوش‌بینی نبود» و به نظر می‌رسد تهران همچنان بر «خطوط قرمز اولیه خود درباره غنی‌سازی و ذخایر اورانیوم با غنای بالا» پافشاری می‌کند. خبرنگار آکسیوس نیز در واکنش به این گزارش نوشت: «به نظر می‌رسد این سومین محاسبه اشتباه رژیم ایران در کمتر از یک سال باشد».\nخبرنگار الجزیره همچنین نوشت «وضعیت تنگه به تصمیم آمریکا برای لغو محاصره بستگی دارد» و پاکستان همچنان برای یافتن «هرگونه گشایش ممکن به منظور جلوگیری از ازسرگیری درگیری‌ها» تلاش می‌کند. هاشم افزود آتش‌بس شکننده در لبنان نیز بر این صحنه سایه انداخته و «اصرار روشنی برای پیوند دادن همه پرونده‌ها» وجود دارد. به گفته او، سفر اعلام‌شده اسماعیل قاآنی، فرمانده نیروی قدس، به بغداد برای گفتگو درباره انتخاب نخست‌وزیر، پیامی از سوی جمهوری اسلامی است که «تهران از نفوذ خود در عراق عقب‌نشینی نمی‌کند و جنگ تغییری در سیاست منطقه‌ای آن ایجاد نکرده است.» او در پایان نوشت: «گام بعدی چیست؟ همه چیز به اقدام بعدی واشنگتن بستگی دارد.»\n‌🇸🇦  Indypersian\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/cnZAsSafzB-jtX2Kffl2eKQkDYi8KlWeo0BSYXAyfPeNLeYWRGMKGSBmUPp3GPmfHzIx4HhOoygYq3ZrduO6LlyiFZnmRYtLYXplvG3HpSecxLHOwGeX3sT-8ZrqIr4TXMnQ5e8I4iA9DXCcXKDFfd6bZ1u9cRoDPjBTTlOzoE6JoGaq__UbpkIAiG3c7xpPXNp7qhgJH3lPYhBLwiJwoNeg4mGMGjp1Yx4aA76wmO7_if1rhOZiTL4KHOdAPuj8dV2CwTLli4AHxG49UPAsN67apY7Sq-WozhR1S6KN3sP8KODXfs-5iYqTOJnUkJ_iN4zepE56fUdhHu06xHXzGw.jpg"
+      ]
     },
     {
       "post_id": "234626"
     },
     {
+      "datetime": "2026-04-18T23:19:19+00:00",
+      "time_text": "23:19",
+      "link": "https://t.me/VahidOOnLine/234624",
+      "views": "2.27K"
+    },
+    {
+      "text": "در کمتر از یک روز، وضعیت تنگه هرمز از «بازگشایی کامل» به تهدید دوباره انسداد تغییر کرد. سی‌ان‌ان گزارش داد دونالد ترامپ از اعلام تهران درباره باز بودن تنگه استقبال کرد و عباس عراقچی نیز از ازسرگیری عبور کشتی‌ها با «هماهنگی ایران» خبر داد؛ خبری که باعث افت ۱۰ درصدی قیمت نفت شد.\n\nاما ترامپ تاکید کرد محاصره بنادر ایران ادامه دارد و ساعاتی بعد سپاه پاسداران از مسدود شدن دوباره تنگه خبر داد و هشدار داد هر شناوری که تخلف کند هدف قرار می‌گیرد. گزارش‌هایی نیز از تیراندازی به کشتی‌ها منتشر شد.\n\nدر حالی که تنها سه روز تا پایان آتش‌بس باقی مانده، اختلافات بر سر برنامه هسته‌ای، ذخایر اورانیوم و شرایط عبور از تنگه پابرجاست. ترامپ تمدید آتش‌بس را قطعی ندانسته و تهدید به ازسرگیری بمباران کرده است، در حالی که تهران نیز از آمادگی برای پاسخ نظامی سخن می‌گوید.\nبیشتر بخوانید\n‌🏁 🇬🇧 IranintlTV\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/Dohs_o7wg4TleZrUJk79WMcH_GWtnexNT5VjRiWjD-to7JkonA0XZigeU5o975hOrKt-dgU012MZanZXL5v45gdPVGP44hoPiejXEumC5Vt0DkJiCInqA5jVBXPXoSbir2YTHPcLm9wQSga08L8wSV00xfqflYPkCin73bgRDONQEDKKcI_9WM1LdDuP0j8WZtx3u7Lq-MiKzYdpcw93-LgyT6KkeYYOhRqdvUwQUNwPWJd0j-1BKcDV7kyhDdXrBNGnYOVQWNidTS4f3TAcSi15rOWu2vMXSIBrmZ7qh5UWFdUZ1_0wY2SG6CG0U1vwV6171JiiH1p1--yq7_WaWg.jpg"
+      ]
+    },
+    {
       "post_id": "234624"
+    },
+    {
+      "datetime": "2026-04-18T22:29:42+00:00",
+      "time_text": "22:29",
+      "link": "https://t.me/VahidOOnLine/234623",
+      "views": "2.98K"
+    },
+    {
+      "text": "🗣روایت شما از وضعیت اقتصادی در زمان آتش‌بس- یک‌شنبه ۳۰ فروردین ۱۴۰۵\n🔹از اصفهان: نزدیک به چهار شب است که جو خیلی امنیتی شده، چندین جا ایست‌ بازرسی گذاشتن، بیش از ۶۰ نفرن و بیشترشون حشدالشعبی هستند.🔹\n🔹ما روزی که تلاش می‌کردیم به کمک شاهزاده رضا پهلوی و بی‌بی و ترامپ انتقام بگیریم می‌دونستیم این راه راحت نیست و گرونی و بیکاری کوچک‌ترین هزینه‌ای هست که می‌دیم و یکی دو شبه این رژیم جمع نمی‌شه، پس الان ناامیدی بی‌معنیه. صبور باشید، جاوید شاه.🔹\n🔹ترامپ داره با آدم‌هایی مذاکره می‌کنه که خودشون در اکیپ مذاکره‌کننده چنددستگی دارن. عراقچی درباره بازگشایی تنگه حرف می‌زنه، ۹ ساعت بعدش قالیباف که در تیم مذاکره‌کننده هست عراقچی رو تهدید می‌کنه. ترامپ اگر توافقی هم بکنه سر ۲۴ ساعت می‌زنن زیرش.🔹\n🔹تنها کسی که حرف ما را می‌فهمد نتانیاهو است. اگر دست او بود تا الان این‌ها نابود شده بودند.🔹\n🔹ما هزاران عزیز شجاع میهنمون را از دست دادیم، بعد عده‌ای نگران بیکاری و بی‌پولی موقتی هستند؟ ما که می‌دانستیم این راه آسان نیست، پس ناامیدی برای چیست؟ صبر کنید، همه به کارتان برمی‌گردید و پولتان برمی‌گردد. خود من هم کارم وابسته به اینترنت است اما دارم تحمل می‌کنم.🔹\n🔹از روزی که جنگ شروع شد شاهد افزایش نجومی قیمت‌ها بودیم. همه‌چیز گرون شده، از مایحتاج اولیه زندگی مردم تا دارو. این فاجعه است.🔹\n🔹مردم یادمون نره جمهوری اسلامی در پروپاگاندا قوی است و نمی‌گذارد بفهمیم چقدر به سقوط نزدیک شده، ولی چیزی تا آن لحظه نمانده است. گول تئاترهای خیابانی‌شان را نخوریم.🔹\n🔹یک چهارم حقوق ماهانه‌ام را برای اینترنت دادم. گرونی بیداد می‌کنه، تورم وحشتناک است.🔹\n🔹به یاد سحر بیات عزیزم، جاویدنام کشته‌شده در هفت‌حوض تهران. ناامید نشوید، قوی بمانید، ما فقط همدیگه را داریم. پاینده ایران و ایرانی، جاوید شاه.🔹\n🔹از رشت: سبزه میدان پرچم حزب‌الله و حشدالشعبی را علم کردند.🔹\n🔹به عنوان یک کنکوری، قطعی اینترنت در این سن دیگه قابل تحمل نیست. دیدن بیکاری و فقر و دیدن یه مشت ارزشی در خیابون قابل تحمل نیست.🔹\n🔹مردم عزیزم چرا ناامید شدین؟ نگاه کنین به مسیری که اومدیم، ۴۷ سال مبارزه و این همه جاویدنام. رژیم در لبه پرتگاهه، رهبر ندارن، بینشون تفرقه است و طرفداراشون ریزش کردن. شرایط از دستشون خارج شده و ناچار به تسلیم شدن هستن. پیروزی نزدیکه.🔹\n🔹از مونترال کانادا به هم‌میهنان شجاع: ما فریب پروپاگاندای رژیم رو نمی‌خوریم. حکومت هرگز این‌قدر ضعیف نبوده، آزادی نزدیکه. پاینده ایران و جاوید شاه🔹\n‌🏁 🇬🇧 IranintlTV\n\n🤖 @VahidOOnLine"
     },
     {
       "post_id": "234623"
     },
     {
+      "datetime": "2026-04-18T22:19:23+00:00",
+      "time_text": "22:19",
+      "link": "https://t.me/VahidOOnLine/234622",
+      "views": "3.07K"
+    },
+    {
+      "text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل اعلام کرد: «نیروهای ما مطابق با توافق آتش‌بس، به عملیات خود در منطقه امنیتی تعیین شده در لبنان برای خنثی کردن تهدیدات ادامه خواهند داد.»\n\nکمی قبلتر، ارتش اسرائیل اعلام کرد که روز شنبه چند عضو حزب‌الله را در جنوب لبنان کشته است.\n\nدر اطلاعیه ارتش اسرائیل اعلام شده که این اعضای حزب‌الله «به‌گونه‌ای به نیروهای ارتش نزدیک شدند که تهدیدی فوری ایجاد می‌کرد».\n‌🏁 🇬🇧 IranintlTV\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/Xe-V0qn0fM2-Ag4Q0ITMGkQZh2AuYKLqlKCQ_hgEcFuIFb0R1bCBX__96Sclx47x0JQj-lxl0NHRC1oBjvMP1B5V1ZzAZbPcoNjkNO70v6T2go3LJr57IXJknHSo-IJ6oGW5jf6cFLT8O3c1lFf0RmMkA5xdzBMSs4y3MXsrx3E1O-wVxxcc8f9JboALvoqUE6xq0Tqw4c6fheaFD0Aiwq9Tnu6PYGBcyGZtSgZCRX7-28pevE95K9_u5aQiZDs6-1pkY-Bf1yXroO42wDbldvFACTXy7MH0Pg46d55PemHHftThAARLluITfzYOzuwRAh9gZmcPRCtdkOYFJ_EDWw.jpg"
+      ]
+    },
+    {
       "post_id": "234622"
+    },
+    {
+      "datetime": "2026-04-18T22:13:56+00:00",
+      "time_text": "22:13",
+      "link": "https://t.me/VahidOOnLine/234621",
+      "views": "3.06K"
+    },
+    {
+      "text": "♦️دفتر رئیس عملیات نیروی دریایی آمریکا در واکنش به گزارش‌هایی درباره کمبود غذا در ناوهای «آبراهام لینکلن» و «تریپولی» اعلام کرد: «گزارش‌های اخیر درباره کمبود مواد غذایی و کیفیت نامناسب غذا در کشتی‌های مستقر، نادرست است.» این بیانیه می‌افزاید: «هر دو ناو به میزان کافی مواد غذایی در اختیار دارند تا گزینه‌های سالم برای خدمه فراهم شود.»\nدر ادامه این بیانیه آمده است: «سلامت و رفاه ملوانان و نیروهای تفنگدار دریایی، اولویت اصلی ماست و همه اعضای خدمه همچنان وعده‌های غذایی کامل، با سهمیه مناسب و از نظر تغذیه‌ای متعادل دریافت می‌کنند.» مقام‌های نیروی دریایی آمریکا تاکید کردند شرایط پشتیبانی نیروها به‌صورت مستمر زیر نظر قرار دارد.\n‌🇸🇦  Indypersian\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/N-OsPhgtkR0LOvB90OrmR-lyzaYusHGtVj9bOQZQ6tP_E4Hucx-QMJgvmEq2w44aqZFIW_DXYqtAjkrv3dc4--eynqlZPZFOFugc8Z0qd0Pr1hTW8rslAb8OPm4MfM6P_dynnZT0dB1xbBuoGbIgdgRO0K3n-_Ikc85YE8xpAku8OvVEDw2IIhBwpOxcZhYjcmFmb6tIxm75c7kurMNoRhdvTWIHlZcKPeyuryj3Ml_HhIyn-qeppvRSAjRWUCtHyLUXk2krsPWvZ3prD4wkt1PsX276l-Ei25RV2zRjvTPxafDQi1kMFL6N_grBEs3wC6MSZxqBCJ21fxKkro88Ug.jpg"
+      ]
     },
     {
       "post_id": "234621"
     },
     {
-      "post_id": "234620"
+      "datetime": "2026-04-18T22:02:15+00:00",
+      "time_text": "22:02",
+      "link": "https://t.me/VahidOOnLine/234620",
+      "views": "3.34K"
     },
     {
-      "post_id": "234619"
+      "text": "♦️محمدباقر قالیباف، رئیس مجلس و سرپرست هیات مذاکره‌کننده جمهوری اسلامی، شنبه‌شب، ۲۹ فروردین‌ماه، در صداوسیما گفت: «ما در قدرت نظامی از آمریکا قوی‌تر نیستیم؛ روشن است که پول، تجهیزات و امکانات آنها بیشتر است و تجربه بیشتری هم دارند.» او افزود: «اسرائیل هم از قدرت بالایی برخوردار است، اما این‌گونه نیست که ما آنها را نابود کرده باشیم. ما در این جنگ برنده میدان هستیم، چون در یک جنگ نامتقارن با طراحی و آمادگی خودمان دشمن را پس زدیم.»\nقالیباف همچنین گفت: «گاهی از مردم و حتی صداوسیما می‌شنوم که می‌گویند تمام قدرت نظامی آنان نابود شده و باید پیش برویم و مذاکره نکنیم، نه، اما برتری میدان به دست ماست و به همین دلیل ترامپ درخواست آتش‌بس دارد.»\n‌🇸🇦  Indypersian\n\n🤖 @VahidOOnLine"
+    },
+    {
+      "post_id": "234620"
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T01:40:29.350985",
+    "last_updated_at": "2026-04-19T01:44:36.994623",
     "status": "success",
     "new_posts_found": 1
   }

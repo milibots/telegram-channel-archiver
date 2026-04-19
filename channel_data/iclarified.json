@@ -1,86 +1,335 @@
 {
   "success": true,
-  "meta": {
-    "channel": "iclarified",
-    "title": "iClarified",
-    "username": "iclarified",
-    "avatar": "https://cdn4.telesco.pe/file/DcPWy2AyP-fCva0VNB92A7DdsZL_SIuGAEv92NDdUCj-BpugMtY0ZBpHZ8I6oX6E1cfoWdLE3NxAbBwhHDHxVRVx-E4EoJBhVf3kpiBgWGCdbfVRKJriSOeiUbp1smtFlVAh2a_glqPxrjZHc7Tidmhx8y0nR9HsmfkpvvRzTX9YpRn8I5BPGBP3iiAyrnyUZ_WnDs7doCbrCE89NhbDFZpDOZ1p2XP6J6lK_h7P0psCNiF5K3-gTS0AHrGNTg5Rv9JKkeXH6pASai1r34g6qGvHFtc0lSh7gucxvF6upXEFG1PSEiuBCJxfihYCYiwgAZJqWu9FZPr3vUQOI16Y9A.jpg",
-    "is_verified": false,
-    "description": "تکنولوژی و بیشتر از دید آیکلاریفاید\n\nاينستاگرام: instagram.com/iClarified\n\nرزرو تبليغات : @iclarified_ads",
-    "counters": {
-      "subscribers": "49.1K",
-      "photos": "16.9K",
-      "videos": "1.61K",
-      "files": "4.38K",
-      "links": "9.89K"
-    },
-    "total_posts_in_view": 20,
-    "returned_posts": 20
-  },
+  "channel": "iclarified",
+  "channel_title": "iClarified",
+  "channel_username": "@iclarified",
+  "channel_avatar": "https://cdn4.telesco.pe/file/DcPWy2AyP-fCva0VNB92A7DdsZL_SIuGAEv92NDdUCj-BpugMtY0ZBpHZ8I6oX6E1cfoWdLE3NxAbBwhHDHxVRVx-E4EoJBhVf3kpiBgWGCdbfVRKJriSOeiUbp1smtFlVAh2a_glqPxrjZHc7Tidmhx8y0nR9HsmfkpvvRzTX9YpRn8I5BPGBP3iiAyrnyUZ_WnDs7doCbrCE89NhbDFZpDOZ1p2XP6J6lK_h7P0psCNiF5K3-gTS0AHrGNTg5Rv9JKkeXH6pASai1r34g6qGvHFtc0lSh7gucxvF6upXEFG1PSEiuBCJxfihYCYiwgAZJqWu9FZPr3vUQOI16Y9A.jpg",
+  "channel_verified": false,
+  "channel_subscribers": "49.1K",
+  "channel_photos": null,
+  "channel_videos": null,
+  "channel_files": null,
+  "channel_links": null,
+  "channel_description": "تکنولوژی و بیشتر از دید آیکلاریفاید\n\nاينستاگرام: instagram.com/iClarified\n\nرزرو تبليغات : @iclarified_ads",
+  "total_posts": 75,
+  "returned_posts": 75,
   "posts": [
     {
+      "datetime": "2026-04-18T19:14:07+00:00",
+      "time_text": "19:14",
+      "link": "https://t.me/iclarified/36802",
+      "views": "2.63K"
+    },
+    {
+      "text": "💻آپدیت بعدی سیستم عامل مک پایان یک دوران خواهد بود\n\nآپدیت macOS 27 پایان رسمی پشتیبانی از مک‌های اینتلی است؛ از این نسخه به بعد فقط دستگاه‌های مجهز به Apple Silicon (چیپ‌های سری M و جدیدتر) آپدیت می‌گیرند.\n\nسیستم عامل macOS 26 آخرین نسخه برای مک‌های قدیمی بود و اپل از اینجا به بعد کاملاً روی معماری جدید خودش تمرکز می‌کند. انتشار این نسخه هم مثل روال هر سال، از WWDC شروع می‌شود و پاییز به‌صورت عمومی عرضه خواهد شد.\n\n@iClarified"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/KetaVOELMG4gajoQ7CgTIJ5FWw-rAD_jZyoeRlK4Eyx5ZdctnLwJoTtUT14FUxXRytt6CH8EhIQTEtaH0I8V9kwV9XXEen7DopeYuVozpxlfbSDoKYR9sYxevPX4a5kmbqXB60Q7m99O4dOMU6uMjUazyy7FNC9xhjlvhcv2D621zvBtiBB5TXEPIggMuoZghpgvcJqaXqhNPtfFfMLN8-eX6rgPHZFx9qS_YDwX8G-mcxmyRu7NJEpN4uI53n2-ThjL9cShAGRk29w9fx2vafig750NhpOzBRxnWfCleNI_QMWKoWumb3ZcqDFg5eXWpUtAwf76T5kFYJmHbsAG5A.jpg"
+      ]
+    },
+    {
       "post_id": "36802"
+    },
+    {
+      "datetime": "2026-04-18T19:05:26+00:00",
+      "time_text": "19:05",
+      "link": "https://t.me/iclarified/36800",
+      "views": "2.88K"
+    },
+    {
+      "text": "🚨🚨اطلاعات جدیدی از iOS 27 منتشر شد\n\nآپدیت iOS 27 بیش از اینکه یک آپدیت پر از قابلیت‌های جدید باشد، تمرکزش روی بهینه‌سازی، رفع باگ‌ها و بهتر کردن عملکرد کلی سیستم است.\n\nپر اهمیت ترین تغییرات احتمالی شامل اینترنت ماهواره‌ای 5G (برای مدل‌های جدید)، قابلیت‌های پیشرفته‌تر ارتباط ماهواره‌ای، بهبود طراحی Liquid Glass و یک کیبورد هوشمندتر با پیشنهادهای نوشتاری پیشرفته ا‌ست. به‌طور کلی، این نسخه بیشتر تجربه کاربری رو صیقل می‌ده تا اینکه تغییرات بزرگ و انقلابی ایجاد کنه.\n\n@iClarified"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/dtjuOaXA7MHFz_dSfAgRUxLwX7bOo7iGq4QrxK5jeC8vn38juV4i4NI2AeGpE6mo5KkGG0SaH-X6gHb5WDeyosq0WY-hs6EguM2pBCXwnhUaCdHjhDLxj_S4mUPRIEAGGI1_ShamTBuINxCgYl89mu7DJ31Ql4IbBrYAh3rCCSopsPCZU2rj_v-0SxdFxEI_P6M0IEypTauCZlRQoHYjJE1ZmH6FJtfPis4cSj98MmFkFpvHeGk4XWXVHLdP34G63dnE8ULh84lY3Tn4yBj0lGaVRZXN5Yzc7Zat4djCNmK58hGVEByvXgXhAt9-DcsIhzhmqT2QPoSgkSpJ1iP5fw.jpg"
+      ]
     },
     {
       "post_id": "36800"
     },
     {
+      "datetime": "2026-04-18T14:21:05+00:00",
+      "time_text": "14:21",
+      "link": "https://t.me/iclarified/36799",
+      "views": "3.92K"
+    },
+    {
+      "text": "بدون اپلیکیشن خاصی هم به اینترنت آزاد متصل شوید☄️\n\n🏎️۳ پروتکل V2Ray ، L2TP و Open VPN برای نخستین بار در یک اکانت ؛ فروش وی پی ان V2Ray اینترنت ملی با بهترین سرعت ممکن در بهار وی پی ان\n\n••دارای لینک ساب (دیدن حجم باقی مانده)\n••سرعت فوق العاده بالا حتی مناسب گیمینگ ، ترید و گشت و گذار در اپ های مجازی\n••پایداری فوق العاده بالا در شرایط اینترنت ملی\n••متصل روی تمامی خطوط همراه و وایفای\n\nسرعت بالا توسط تیم آیکلاریفاید تایید شده✅\n\nلینک خرید از ربات👇🏻\nhttps://t.me/BaharVPNV2ray_bot\n\n☄️کد تخفیف ۱۰ درصدی فقط برای امشب :\niclarified"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/687c37ff28.mp4?token=PhSaMq301pw4ix9hQImwfz4Rvy9eItmYVV7AwbRigK3dG2w1NVGirbnzN9X6LzM48xyM-Nv0CtLdExk9voYLmFpjn4fe-VEDQ7OyRuqhOkXgZW9O_jdUV2NtehxXAE6YBkXZcBAWA1IsIoibNMmsKNr2bXwg8iX5TJllhSAECMhBk38RJE0aVrheI-V6yUZx2txjrsEEBj9M9HcqD3ETn19QvVJ8nJsuzzWr1QD-fHvQmc_YXinyzINzuSpdKO7fqxDkaAmtV06jHS7SG9DpHcQGhXg9WfUD4n4RTlpXrN3Y1eA3m46_55YxgGN07Wn-UoRtImspAj_lDoBwHNkjAQ"
+      ]
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/687c37ff28.mp4?token=PhSaMq301pw4ix9hQImwfz4Rvy9eItmYVV7AwbRigK3dG2w1NVGirbnzN9X6LzM48xyM-Nv0CtLdExk9voYLmFpjn4fe-VEDQ7OyRuqhOkXgZW9O_jdUV2NtehxXAE6YBkXZcBAWA1IsIoibNMmsKNr2bXwg8iX5TJllhSAECMhBk38RJE0aVrheI-V6yUZx2txjrsEEBj9M9HcqD3ETn19QvVJ8nJsuzzWr1QD-fHvQmc_YXinyzINzuSpdKO7fqxDkaAmtV06jHS7SG9DpHcQGhXg9WfUD4n4RTlpXrN3Y1eA3m46_55YxgGN07Wn-UoRtImspAj_lDoBwHNkjAQ"
+      ]
+    },
+    {
       "post_id": "36799"
+    },
+    {
+      "datetime": "2026-04-18T14:05:25+00:00",
+      "time_text": "14:05",
+      "link": "https://t.me/iclarified/36798",
+      "views": "4.01K"
+    },
+    {
+      "text": "🚨فضل الله رنجبر ، عضو کمیسیون امنیت اجتماعی مجلس : فعلا مصلحت نیست اینترنت متصل شود.\n\n@iClarified"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/My7_1ewTUIvUBN4NqHT_ymaUFC3dDYv44GKU9wjI7MrE66K4JpVHP0jiMgYIeXzP6JEsEr6FYPo_YH5s7MaBSdnShpB_lXzT-7t6O2eWOu_H1wnvL_PoUlT6-HtXi_Khq0Z2rbxTTDkSQk8elH78IiWeMJeo_wZst5dpxyWGNeQcGVBI9b98e0pqxjFWl2lbxhDul8qpFx601C2aGHf6-rg4TZmSE9L3uk0J6b3WOf67Eatdf8HnExG_zvqH7aQqpl64RAJ7CwPuDGdrlCeh-yb_ADOuh-5HnD5UkCKSOM11KpVetfzjaNr86MhYx2TDUoZRQn50DlXeyfqaybCLtg.jpg"
+      ]
     },
     {
       "post_id": "36798"
     },
     {
+      "datetime": "2026-04-17T20:58:58+00:00",
+      "time_text": "20:58",
+      "link": "https://t.me/iclarified/36797",
+      "views": "6.19K"
+    },
+    {
+      "text": "رنگ‌ های احتمالی آیفون ۱۸ پرو\n\n@iClarified"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/erVOim6SdyDwUQgHZ8PoozXXP8R0ZZy2mcEHtrQdKzB1tZZMnlW9UsL57FZqF-BfBQgC534h7TzAO4qxFR1xjNCTVoCUX-5rmBwV8aglSqo9tklHfhDfjPdm_tjQiuUDQlZ1DLG4zun3rwAK0MvIjd2BKn5-GSr5oSIUWFtJFnEPDjkJUDpKKsAWFFiAlzJ40zpvs8ycu3hMB3MgSJkVooA3dU_38XdKoi3KG3ZJrF95KK66eCQJ9MEwR9rOWEvpEuuuCSQZtnttce4-mZi1JgRaC-rAjWzCVqlRaMhbcSrh5PzhQGIUoXdf9HEekguvEAPxmqke04NcvdzNc4VCoQ.jpg"
+      ]
+    },
+    {
       "post_id": "36797"
+    },
+    {
+      "datetime": "2026-04-15T19:01:42+00:00",
+      "time_text": "19:01",
+      "link": "https://t.me/iclarified/36792",
+      "views": "6.83K"
+    },
+    {
+      "text": "گوگل بالاخره اپ نیتیو Gemini رو برای سیستم های مک هم عرضه کرد.\n\n@iClarified"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/GfMX1SAAzAf82P9irmKc5zftr5YbQAqjJyrJ6ycUxrKWp60USODKGHJz4zX-j1ZBg49DdkFgl221pewnRYKJQ5OlveU3rE21n23RqJHnXT07cfeAlxTdmciTyLX7EmBv5n9x3j0BKO1PD1GJh6NQqIqbTJ4c2ZOsYLI7vwS1-sDucpHLfMWMXYGRiOqX3SUdwEAfCVTCrD14lMyjxLtiY1S-0jakLrrcpIP1Da5cWXmU8ELJ4C-y_xSPrcPniMZnwR-xsqiK1TDtwYtFDyl3V3gk0iaWEvcQBd7d9YJibzFJ80gdn7kkeBl2tE5PjtjHe1f-8XVXyO23COT_QnKyKg.jpg"
+      ]
     },
     {
       "post_id": "36792"
     },
     {
+      "datetime": "2026-04-15T18:44:17+00:00",
+      "time_text": "18:44",
+      "link": "https://t.me/iclarified/36791",
+      "views": "6.82K"
+    },
+    {
+      "text": "دوستان عزیزم یک پلی استیشن ۵ فت دیسک خور دسته دوم داریم که در حد آکبند هست.\n\nفوق العاده تمیز و تضمینی به خصوص برای شرایط الان که واردات بسته ست و آکبند این محصول به ۱۳۰ میلیون تومان رسیده.\n\nقیمت فروش : ۹۰ میلیون تومان\nقیمت امشب : ۸۷ میلیون تومان\n\nخرید از آیدی پایین👇🏻\n@iClarified_ads"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/cARM5-OoKMfGIukJlEbpj2EjEzq0IKfQ4ET6fVhV_qVIYcFd8_wmIZl16RCEB3z7mrOEibnLFf33DPl8XKG6sBCFLmw5tE5JEqWPS6cVHpRA3OXQq5Meod__21FWAsk_BJ_sLAO8pw-jZvk2PJNpkvYRsVyt7ZIXiB8O4cI6vJs9hdLgOS8zvRBXigJxA8OgOhd4Bex4JHR7PI8fiMOw9PAagXESrlcW-fOdh0GJomFBTYxELC9UlrVtmgTpNBc7qkaqjn-mEuYp7B2rkW2Jd6wAHI6ITSnKSbN7hmSol6ywAbT0e46OTeDJZFpJJnQ_yZNTvs4cbU27BhY9262gRw.jpg"
+      ]
+    },
+    {
       "post_id": "36791"
+    },
+    {
+      "datetime": "2026-04-14T21:58:23+00:00",
+      "time_text": "21:58",
+      "link": "https://t.me/iclarified/36789",
+      "views": "7.2K"
+    },
+    {
+      "text": "هوش مصنوعی GPT-5.4 Thinking معرفی شد که نسخه‌ای پیشرفته از مدل‌های ChatGPT است که برای کارهای پیچیده و حرفه‌ای طراحی شده.\n\nاین مدل در شش بخش اصلی بهبود پیدا کرده: \n۱-درک بهتر دستورات و کدنویسی\n۲-توانایی قوی‌تر در پردازش تصویر\n۳-انجام کارهای چندمرحله‌ای\n۴-مصرف بهینه‌تر منابع\n۵-جستجوی هوشمند در وب و عملکرد بهتر در کارهای سازمانی مثل تحلیل داده و اسناد.\n۶-همچنین با پشتیبانی از ورودی‌های بسیار بزرگ و قابلیت کار مستقیم با کامپیوتر، عملاً به یک «ایجنت هوشمند» تبدیل شده که می‌تواند پروژه‌های پیچیده را مدیریت کند.\n\n@iClarified"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/VwHgIgUPa86q6eLds1waSRv8RAFD15la7lV2P35ojfKrkOnxg772HYaUfyYTbT87dlFZ_nApA2gLUzvn8GH0TgkrC1n6KzeNxnEHMH17wEPrL3PlVt_uz5AHBojFdKpTF7hvGxS4KRKMAphq2CVLXAcZYnvu5aJN3d6yQkya_BhVpLW8S6TyFux25tHxrHLR7RUlJ66sk9HmFWH8HLGdhfnSyblSzojqsS16Y3dXU3G2McaNy74HjeD_JoSCZKzzzj2ZPu8gu8nWaBXXPFrbvdprlc1FbvpNIUXTPixn70bt1BlCarulzgPIM91_mUW-HxVVFyUoc3t1PFfJy7kFnw.jpg"
+      ]
     },
     {
       "post_id": "36789"
     },
     {
+      "datetime": "2026-04-14T16:51:36+00:00",
+      "time_text": "16:51",
+      "link": "https://t.me/iclarified/36786",
+      "views": "6.2K"
+    },
+    {
+      "text": "طبق آخرین گزارشات قیمت آیفون فولد یا همان آیفون اولترا حتی یک دلار نیز زیر ۱۹۹۹ دلار نخواهد بود.\n\n@iClarified"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/ePkcj8oDf6Tt1EH82Tga147vViTqyPWVm_UGa0VS9a768olFsz0uKQeXA4TvXD95C64qg98Kmw7LqHI6jZzlOMZdBbncbg1PuHZSE8PnNwJ0OYYn1KFMtmERum8hZMuIKVvbYtexPtkkUTb3F4NI6P3rLQvmWBOwqxZup0nV5MEVtU67g2COxUjDnnXOZ8q08--uyfRTv2TT0DILmdIaMRVADcNHiQpwcx5zUE8F12vy1bJ3XdJecxCt_f0QZLo80Q3j8J61-DLkaIvV8mKKdDUEY_m6JrVKuD7ClfmePW8H4FCP6M0ak4SwBk0GjV5BuVa8oublOUvYrBa35O91CA.jpg"
+      ]
+    },
+    {
       "post_id": "36786"
+    },
+    {
+      "datetime": "2026-04-14T16:49:06+00:00",
+      "time_text": "16:49",
+      "link": "https://t.me/iclarified/36785",
+      "views": "6.75K"
+    },
+    {
+      "text": "الان توی اینستاگرام می تونید حتی کامنت خودتون رو هم ادیت کنید.\n\nاین ادیت فقط تا ۱۵ دقیقه پس از قراردادن کامنت ممکن هست.\n\n@iClarified"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/mN8TeGRukygiBHut2S5-AmI_9D6bSm0D6yRfZ5aeB4bNmoq-aAAoBTmW9goJOQvxDVW37DRqUijdwrD21e8zF6CB0of7LpnNIPNHNQNJsPlvzH3QS1rvQToY-FxdijxwwHzri7528nCLZQhLZokuLmn3WDdI7xq--V5__ky9y0F--vnC7Q0OKfYXmmhBm_vizrvJDVr-KkfBvFjh2ZFKEmpX3sr_KKiZPv0thuHJGigoF-z1oaXyoGcZv__xGjIPrxbW4CHDpsZEzURnFxRGijRzdkGBOEWvfQB5b8ruvTDqJHXCCEyP8OzwQXTx3xgeqj6Iz2w1BzksGEaOlohhzw.jpg"
+      ]
     },
     {
       "post_id": "36785"
     },
     {
+      "datetime": "2026-04-14T16:47:12+00:00",
+      "time_text": "16:47",
+      "link": "https://t.me/iclarified/36784",
+      "views": "6.62K"
+    },
+    {
+      "text": "اپل دومین بتای iOS 26.5 را عرضه کرد.\n\n@iClarified"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/BnnNjIm3bhUp7n4up_IOkQKQUHnkdwBGfJcohUMIV-BlKTnKdiWX6wZCYkF9pRnDwxKU3Cwbd5-jxSTw91bqSpXjDxHe42vYaB05DCdyNktJOvp4hhJw5fdvoZAsawjCacbwDsu23fHiNTFSritk9tAhqqBO5JMtHgE-6R48hkDE-Aj5uC1bdm_HoR8lripJiCaythgtzGVnnSdRZKR8O9xXdTgt--ZeXS4uwSESxYht52Zna4FnXY-K5IfnHoNeNyqVgOStS7OLaGnj0q9ACtLHw7DN8JcY2_YeBimnfNhYoLcEgaokd9wFTFmy9XRhqFCUgDF4d1FzXZD0UUWFwQ.jpg"
+      ]
+    },
+    {
       "post_id": "36784"
+    },
+    {
+      "datetime": "2026-04-13T20:02:02+00:00",
+      "time_text": "20:02",
+      "link": "https://t.me/iclarified/36783",
+      "views": "7.88K"
+    },
+    {
+      "text": "🚨🚨دسترسی محدود به گوگل باز شده\nهنوز مشخص نیست که آپدیت فایروال در کمین است یا واقعا باز شده.\n\ngoogle.com\n\n@iClarified"
     },
     {
       "post_id": "36783"
     },
     {
+      "datetime": "2026-04-13T13:47:19+00:00",
+      "time_text": "13:47",
+      "link": "https://t.me/iclarified/36781",
+      "views": "7.75K"
+    },
+    {
+      "text": "🚨طبق گزارشی از بلومبرگ ، رنگ جدید آیفون ۱۸ پرو قرمز سیر خواهد بود.\n\n@iClarified"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/Cn1p7IwX4mp0SgAmkeZ2p5L6Dg2ax_CFBUh16hddbojljwet65TWAgAohYWuyEAsWpXugVOaQM-IuXdDjxe1kq6s9GkPb-EKfRTWUcDwoUaJZWueBvVEUXE19yWEGA_cidjN-TYJQIefO62jVqXuxvFO3GHdbbTsPS6XEmWlUoRronuagexADX7FeirzHkPfxNkDFYHYoXuXJR4lsKrbKEx_nY8CkUkLzKYs33jCyfRJWjSVdJOjh9IifPok2wEkOpCLQIWHQe-ZtkX5lD8DgPC2zOQMhk-GiVNY6RQFQnHZvGN4hElf3B7V4-D-Q0ZYek-FkagIYBe-kzrGwnljCQ.jpg"
+      ]
+    },
+    {
       "post_id": "36781"
+    },
+    {
+      "datetime": "2026-04-13T13:38:48+00:00",
+      "time_text": "13:38",
+      "link": "https://t.me/iclarified/36780",
+      "views": "7.67K"
+    },
+    {
+      "text": "مهاجرانی سخنگوی دولت : \nباز شدن اینترنت دست ما نیست ولی اگر خبری از نهادهای بالا رسید بهتون اطلاع میدیم&#33;\n\n@iClarified"
     },
     {
       "post_id": "36780"
     },
     {
+      "datetime": "2026-04-13T13:24:01+00:00",
+      "time_text": "13:24",
+      "link": "https://t.me/iclarified/36779",
+      "views": "7.77K"
+    },
+    {
+      "text": "دوستان ما زین پس تبلیغ وی پی ان معتبر قبول میکنیم.\n\nاگر کسب و کاری دارید که برپایه وی پی ان هست و قصد تبلیغ دارید ما با بهترین بازخورد انجام میدیم.\n\nارتباط با👇🏻\n@iClarified_ads"
+    },
+    {
       "post_id": "36779"
+    },
+    {
+      "datetime": "2026-03-21T03:29:08+00:00",
+      "time_text": "03:29",
+      "link": "https://t.me/iclarified/36776",
+      "views": "11.9K"
+    },
+    {
+      "text": "سال نو رو در حالی شروع می‌کنیم که دل‌هامون درگیر اتفاقات سخت این روزهاست…\n\nامیدوارم سال جدید، سال آرامش، امنیت و روزهای روشن‌تر برای همه مردم ایران باشه\n\nسال نو مبارک\n\n@iClarified"
     },
     {
       "post_id": "36776"
     },
     {
+      "datetime": "2026-03-20T19:04:18+00:00",
+      "time_text": "19:04",
+      "link": "https://t.me/iclarified/36775",
+      "views": "11.7K"
+    },
+    {
+      "text": "در صورتی که اشتراک را تهیه کردید و سرویس برایتان کار نکرد، می‌توانید از طریق سایت اپل گزارش ثبت کرده و درخواست Refund بدهید تا مبلغ پرداختی به شما بازگردانده شود.\n\nhttps://reportaproblem.apple.com/?s=6\n\n@iClarified"
+    },
+    {
+      "text": "دسترسی به آی‌پی ایران برای کاربران خارج از کشور با اپ Sedavpn  اگر خارج از ایران هستید و برای انجام کارهایی مثل استفاده از اپلیکیشن‌های بانکی یا ورود به سایت‌های ایرانی نیاز به آی‌پی ایران دارید، می‌توانید از اپلیکیشن Sedavpn استفاده کنید.  این برنامه برای…"
+    },
+    {
       "post_id": "36775"
+    },
+    {
+      "datetime": "2026-03-20T17:02:31+00:00",
+      "time_text": "17:02",
+      "link": "https://t.me/iclarified/36774",
+      "views": "11.6K"
+    },
+    {
+      "text": "دسترسی به آی‌پی ایران برای کاربران خارج از کشور با اپ Sedavpn\n\nاگر خارج از ایران هستید و برای انجام کارهایی مثل استفاده از اپلیکیشن‌های بانکی یا ورود به سایت‌های ایرانی نیاز به آی‌پی ایران دارید، می‌توانید از اپلیکیشن Sedavpn استفاده کنید.\n\nاین برنامه برای آیفون در دسترس است و از طریق App Store قابل نصب می‌باشد. برای اتصال به سرور ایران، لازم است اشتراک آن را فعال کنید که هزینه اشتراک هفتگی آن حدود ۲.۹۹ دلار است.\n\nتوجه داشته باشید که سرعت این سرویس چندان بالا نیست و بیشتر در حد انجام کارهای ضروری کاربرد دارد. همچنین طبق گزارش کاربران، در برخی مواقع با قطعی و ناپایداری همراه است و همیشه اتصال برقرار نمی‌شود.\n\nلینک دانلود\nhttps://apps.apple.com/app/id6754203404\n\n@iClarified"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/NGjhfkrL16TAmbFnJ0Y3TZQumn_Zl7Kej6iq5_iNfqOid7o0CMVGHZeOZjlvKCKFCaEuVTX22PifdQG87W9FW4BthRPeSDTtwzyTw7OwA0oKeJ0sWAUh5zdb5c7Gm63RtYRIR6uu51sucZmTt-TEsu6ZgeT4wGsSzekepXfPQJGjDFUnQ8fGEhpE9xYSBKSeCpOd18JtgXmeOynlLGwVKRLI0n2oU-OAAV2h3b7RkhjR_Uz2jL4JNtPQO50Ulc4bfKRejVTg-4IdXi9UyhDyKWaXmoX00Z8grXRyuJl76pOfPisLC4N_cXXrmiaCYfv6QuLXI4njr5WTG_CJkpjveQ.jpg"
+      ]
     },
     {
       "post_id": "36774"
     },
     {
+      "datetime": "2026-03-19T10:34:34+00:00",
+      "time_text": "10:34",
+      "link": "https://t.me/iclarified/36773",
+      "views": "8.71K"
+    },
+    {
+      "text": "سخنگوی دولت اعلام کرد که اینترنت بین‌الملل تا پایان جنگ برقرار نخواهد شد و تنها سیم‌کارت‌های مورد تأیید دولت امکان دسترسی به اینترنت را خواهند داشت.\n\n@iClarified"
+    },
+    {
       "post_id": "36773"
+    },
+    {
+      "datetime": "2026-03-19T10:27:24+00:00",
+      "time_text": "10:27",
+      "link": "https://t.me/iclarified/36772",
+      "views": "8.65K"
+    },
+    {
+      "text": "زمونه عوض شده؛ این روزها انگار قیمت کانفیگ هم رسماً به بازار نفت وصله، هر نوسانی اونجا اتفاق بیفته، اینجا هم بی‌تأثیر نمی‌مونه&#33;\n\n@iClarified"
     },
     {
       "post_id": "36772"
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T01:40:18.478674",
+    "last_updated_at": "2026-04-19T01:44:22.895925",
     "status": "success",
     "new_posts_found": 0
   }
