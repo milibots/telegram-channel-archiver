@@ -11,17 +11,29 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": null,
-  "total_posts": 37,
-  "returned_posts": 37,
+  "total_posts": 40,
+  "returned_posts": 40,
   "posts": [
+    {
+      "datetime": "2026-04-19T23:53:44+00:00",
+      "time_text": "23:53",
+      "link": "https://t.me/irnetmonitor/692",
+      "views": "269"
+    },
+    {
+      "text": "این متن هم دیروز  خودم اولین بار منتشر کردم و همه کانال‌ها  و گروه ها کپی کردن ، اگر نمیگفتم که کسی چمیدونست چه خبره \n\nبررسی‌ها نشان می‌دهد سایت‌هایی که از سرویس کلودفلر استفاده می‌کنند و در حال حاضر در دسترس هستند، به‌صورت ریدایرکت یا هایجک به رنج‌های 2.189.52.0/24 و 2.189.53.0/24 (منتسب به ارتباطات زیرساخت / آی‌پی‌های پیشگامان) هدایت شده و ترافیک آن‌ها به‌طور مستقیم از گیت‌وی بین‌الملل کشور عبور نمی‌کند."
+    },
+    {
+      "post_id": "692"
+    },
     {
       "datetime": "2026-04-19T23:47:48+00:00",
       "time_text": "23:47",
       "link": "https://t.me/irnetmonitor/684",
-      "views": "431"
+      "views": "818"
     },
     {
-      "text": "«روزی که روش SNI Spoof به‌صورت عمومی منتشر شد، عملاً تمام آدرس‌ها به‌صورت ریورس (Reverse) بودند ( به شخصه همرو بررسی کردم و به ایشان اطلاع دادم ) . با این حال دیدیم که میلیون‌ها نفر توانستند بدون مشکل به آن متصل شوند. حالا چه تغییری اتفاق افتاده که پترنیها  می‌گوید این روش دیگر قابل استفاده نیست؟"
+      "text": "«روزی که روش SNI Spoof به‌صورت عمومی منتشر شد، عملاً تمام آدرس‌ها به‌صورت ریورس (Reverse) بودند ( به شخصه همرو بررسی کردم و به ایشان نیز اطلاع دادم ) . با این حال دیدیم که میلیون‌ها نفر توانستند بدون مشکل به آن متصل شوند. حالا چه تغییری اتفاق افتاده که پترنیها  می‌گوید به خاطر ریورس بودن آن دیگر هیچ روشی قابل استفاده نیست؟"
     },
     {
       "text": "@patterniha از الان برای نت من نیز سرویس cdn-cgi/trace کلودفلر ip غیر از ip پابلیک خودم رو نشون میده اون هم هر بار یک ip غیر قابل حدس، فکر همه جاشو کردن. با این اوصاف Pat-Project کنسل هست و تنها راه دور زدن dpi با توجه به سیستم وایت لیست همان domain-fronting…"
@@ -33,7 +45,7 @@
       "datetime": "2026-04-19T23:44:52+00:00",
       "time_text": "23:44",
       "link": "https://t.me/irnetmonitor/683",
-      "views": "443"
+      "views": "703"
     },
     {
       "text": "@patterniha\nاز الان برای نت من نیز سرویس cdn-cgi/trace کلودفلر ip غیر از ip پابلیک خودم رو نشون میده اون هم هر بار یک ip غیر قابل حدس، فکر همه جاشو کردن.\nبا این اوصاف Pat-Project کنسل هست و تنها راه دور زدن dpi با توجه به سیستم وایت لیست همان domain-fronting است که بسیاری از سرویس دهنده ها از جمله cloudflare جلوی آن را گرفته اند.\nمیتوان گفت تنها سرویس ارزشمندی که در حال حاضر با domain-fronting باز میشود فقط google meet است که آموزشی تا فردا برای آن قرار خواهم داد.\nبه هر حال هر چه از پس من‌ یک نفر با یک لپتاپ در خانه برمیاید از کسی دریغ نخواهم کرد. شرمنده ی تمام پیاماتون هستم."
@@ -45,7 +57,7 @@
       "datetime": "2026-04-19T15:44:56+00:00",
       "time_text": "15:44",
       "link": "https://t.me/irnetmonitor/638",
-      "views": "4.6K"
+      "views": "4.67K"
     },
     {
       "text": "ششمین گزارش «وضعیت اینترنت در دی ماه 1404 » انجمن تجارت الکترونیک\nhttps://etchamber.ir/wp-content/uploads/2026/04/no6.1.pdf"
@@ -60,7 +72,7 @@
       "views": "11.3K"
     },
     {
-      "text": "Operator: Hetzner/Germany\nTime: 2026-04-19 23:45:55\n\n✅ chatgpt.com : 188.114.98.0\n✅ security.vercel.com : 104.18.4.130\n✅ static.cloudflareinsights.com : 104.16.80.73\n✅ sourceforge.net : 104.18.13.149\n✅ dash.cloudflare.com : 188.114.98.0\n✅ a.fsdn.com : 104.18.17.56\n✅ npmjs.com : 104.17.134.117\n✅ e7.c.lencr.org : 104.18.20.213\n✅ cdnjs.com : 104.24.196.20\n✅ creativecommons.org : 104.20.6.134\n✅ nodejs.org : 104.16.213.131\n✅ medium.com : 162.159.152.4\n✅ jsdelivr.com : 188.114.98.0\n✅ phpbb.com : 104.18.19.20\n✅ codepen.io : 104.16.147.32\n✅ google.com : 216.239.38.120\n✅ translate.google.com : 172.217.168.78\n✅ gmail.com : 142.251.20.18\n✅ github.com : 140.82.121.3\n✅ www.speedtest.net : 104.17.147.22\n✅ coingecko.cfd : 8.6.112.0\n✅ store.steampowered.com : 2.23.168.78\n✅ apple.com : 17.253.144.10\n✅ chat.deepseek.com : 3.173.21.63\n✅ wikipedia.org : 185.15.59.224\n✅ play.google.com : 142.251.20.138\n✅ whatsapp.com : 57.144.245.32\n✅ playstation.com : 52.8.87.150\n✅ xbox.com : 20.76.201.171\n✅ microsoft.com : 13.107.226.45\n✅ fastly.com : 151.101.193.57\n✅ www.hcaptcha.com : 104.19.229.21\n✅ sciencedirect.com : 203.22.241.9\n✅ code.visualstudio.com : 13.107.253.45\n✅ crelease-assets.githubusercontent.com : 185.199.108.133\n✅ DNS google.com via 8.8.8.8 : 192.178.183.102\n✅ DNS google.com via 1.1.1.1 : 142.251.110.139\n✅ DNS google.com via 9.9.9.9 : 142.251.14.102\n✅ DNS google.com via 4.2.2.4 : 142.251.110.113"
+      "text": "Operator: Hetzner/Germany\nTime: 2026-04-19 23:55:59\n\n✅ chatgpt.com : 188.114.98.0\n✅ security.vercel.com : 104.18.4.130\n✅ static.cloudflareinsights.com : 104.16.80.73\n✅ sourceforge.net : 104.18.13.149\n✅ dash.cloudflare.com : 188.114.98.0\n✅ a.fsdn.com : 104.18.17.56\n✅ npmjs.com : 104.17.134.117\n✅ e7.c.lencr.org : 104.18.20.213\n✅ cdnjs.com : 104.24.196.20\n✅ creativecommons.org : 104.20.6.134\n✅ nodejs.org : 104.16.213.131\n✅ medium.com : 162.159.152.4\n✅ jsdelivr.com : 188.114.98.0\n✅ phpbb.com : 104.18.19.20\n✅ codepen.io : 104.16.147.32\n✅ google.com : 216.239.38.120\n✅ translate.google.com : 172.217.168.78\n✅ gmail.com : 142.251.20.18\n✅ github.com : 140.82.121.3\n✅ www.speedtest.net : 104.17.147.22\n✅ coingecko.cfd : 8.6.112.0\n✅ store.steampowered.com : 2.23.168.78\n✅ apple.com : 17.253.144.10\n✅ chat.deepseek.com : 3.173.21.63\n✅ wikipedia.org : 185.15.59.224\n✅ play.google.com : 142.251.20.138\n✅ whatsapp.com : 57.144.245.32\n✅ playstation.com : 52.8.87.150\n✅ xbox.com : 20.76.201.171\n✅ microsoft.com : 13.107.226.45\n✅ fastly.com : 151.101.193.57\n✅ www.hcaptcha.com : 104.19.229.21\n✅ sciencedirect.com : 203.22.241.9\n✅ code.visualstudio.com : 13.107.253.45\n✅ crelease-assets.githubusercontent.com : 185.199.110.133\n✅ DNS google.com via 8.8.8.8 : 192.178.183.100\n✅ DNS google.com via 1.1.1.1 : 192.178.183.102\n✅ DNS google.com via 9.9.9.9 : 192.178.183.138\n✅ DNS google.com via 4.2.2.4 : 142.251.14.100"
     },
     {
       "post_id": "272"
@@ -84,7 +96,7 @@
       "views": "8.77K"
     },
     {
-      "text": "Operator: TCI-ADSL-Tehran\nTime: 2026-04-20 03:15:35\n\n❌ chatgpt.com : 188.114.98.0\n✅ security.vercel.com : 104.18.4.130\n❌ static.cloudflareinsights.com : 104.16.80.73\n✅ sourceforge.net : 104.18.13.149\n❌ dash.cloudflare.com : 188.114.98.0\n❌ a.fsdn.com : 104.18.17.56\n✅ npmjs.com : 104.17.134.117\n✅ e7.c.lencr.org : 104.18.20.213\n❌ cdnjs.com : 104.24.196.20\n❌ creativecommons.org : 104.20.6.134\n❌ nodejs.org : 104.16.213.131\n❌ medium.com : 162.159.152.4\n❌ jsdelivr.com : 188.114.98.0\n❌ phpbb.com : 104.18.19.20\n❌ codepen.io : 104.16.147.32\n✅ google.com : 216.239.38.120\n❌ translate.google.com : 172.217.168.78\n❌ gmail.com : 142.251.20.18\n✅ github.com : 140.82.121.3\n❌ www.speedtest.net : 104.17.147.22\n❌ coingecko.cfd : 8.6.112.0\n❌ store.steampowered.com : 2.23.168.78\n❌ apple.com : 17.253.144.10\n✅ chat.deepseek.com : 3.173.21.63\n❌ wikipedia.org : 185.15.59.224\n❌ play.google.com : 142.251.20.138\n❌ whatsapp.com : 57.144.245.32\n❌ playstation.com : 52.8.87.150\n❌ xbox.com : 20.76.201.171\n❌ microsoft.com : 13.107.226.45\n❌ fastly.com : 151.101.193.57\n✅ www.hcaptcha.com : 104.19.229.21\n❌ sciencedirect.com : 203.22.241.9\n✅ code.visualstudio.com : 13.107.253.45\n❌ crelease-assets.githubusercontent.com : 185.199.108.133\n❌ DNS google.com via 8.8.8.8 : timeout\n❌ DNS google.com via 1.1.1.1 : timeout\n❌ DNS google.com via 9.9.9.9 : timeout\n❌ DNS google.com via 4.2.2.4 : timeout"
+      "text": "Operator: TCI-ADSL-Tehran\nTime: 2026-04-20 03:24:46\n\n❌ chatgpt.com : 188.114.98.0\n✅ security.vercel.com : 104.18.4.130\n❌ static.cloudflareinsights.com : 104.16.80.73\n✅ sourceforge.net : 104.18.13.149\n❌ dash.cloudflare.com : 188.114.98.0\n❌ a.fsdn.com : 104.18.17.56\n✅ npmjs.com : 104.17.134.117\n✅ e7.c.lencr.org : 104.18.20.213\n❌ cdnjs.com : 104.24.196.20\n❌ creativecommons.org : 104.20.6.134\n❌ nodejs.org : 104.16.213.131\n❌ medium.com : 162.159.152.4\n❌ jsdelivr.com : 188.114.98.0\n❌ phpbb.com : 104.18.19.20\n❌ codepen.io : 104.16.147.32\n✅ google.com : 216.239.38.120\n❌ translate.google.com : 172.217.168.78\n❌ gmail.com : 142.251.20.18\n✅ github.com : 140.82.121.3\n❌ www.speedtest.net : 104.17.147.22\n❌ coingecko.cfd : 8.6.112.0\n❌ store.steampowered.com : 2.23.168.78\n❌ apple.com : 17.253.144.10\n✅ chat.deepseek.com : 3.173.21.63\n❌ wikipedia.org : 185.15.59.224\n❌ play.google.com : 142.251.20.138\n❌ whatsapp.com : 57.144.245.32\n❌ playstation.com : 52.8.87.150\n❌ xbox.com : 20.76.201.171\n❌ microsoft.com : 13.107.226.45\n❌ fastly.com : 151.101.193.57\n✅ www.hcaptcha.com : 104.19.229.21\n❌ sciencedirect.com : 203.22.241.9\n✅ code.visualstudio.com : 13.107.253.45\n❌ crelease-assets.githubusercontent.com : 185.199.111.133\n❌ DNS google.com via 8.8.8.8 : timeout\n❌ DNS google.com via 1.1.1.1 : timeout\n❌ DNS google.com via 9.9.9.9 : timeout\n❌ DNS google.com via 4.2.2.4 : timeout"
     },
     {
       "post_id": "191"
@@ -93,10 +105,10 @@
       "datetime": "2026-04-16T01:17:44+00:00",
       "time_text": "01:17",
       "link": "https://t.me/irnetmonitor/190",
-      "views": "7.51K"
+      "views": "7.55K"
     },
     {
-      "text": "Operator: Samantel(Rightel Asn)-Tehran\nTime: 2026-04-20 03:11:18\n\n❌ chatgpt.com : 188.114.98.0\n❌ security.vercel.com : 104.18.4.130\n❌ static.cloudflareinsights.com : 104.16.80.73\n❌ sourceforge.net : 104.18.13.149\n❌ dash.cloudflare.com : 188.114.98.0\n❌ a.fsdn.com : 104.18.17.56\n❌ npmjs.com : 104.17.134.117\n❌ e7.c.lencr.org : 104.18.20.213\n❌ cdnjs.com : 104.24.196.20\n❌ creativecommons.org : 104.20.6.134\n❌ nodejs.org : 104.16.213.131\n❌ medium.com : 162.159.152.4\n❌ jsdelivr.com : 188.114.98.0\n❌ phpbb.com : 104.18.19.20\n❌ codepen.io : 104.16.147.32\n✅ google.com : 216.239.38.120\n❌ translate.google.com : 172.217.168.78\n❌ gmail.com : 142.251.20.18\n✅ github.com : 140.82.121.3\n❌ www.speedtest.net : 104.17.147.22\n❌ coingecko.cfd : 8.6.112.0\n❌ store.steampowered.com : 2.23.168.78\n❌ apple.com : 17.253.144.10\n❌ chat.deepseek.com : 3.173.21.63\n❌ wikipedia.org : 185.15.59.224\n❌ play.google.com : 142.251.20.138\n❌ whatsapp.com : 57.144.245.32\n❌ playstation.com : 52.8.87.150\n❌ xbox.com : 20.76.201.171\n❌ microsoft.com : 13.107.226.45\n❌ fastly.com : 151.101.193.57\n❌ www.hcaptcha.com : 104.19.229.21\n❌ sciencedirect.com : 203.22.241.9\n✅ code.visualstudio.com : 13.107.253.45\n❌ crelease-assets.githubusercontent.com : 185.199.110.133\n❌ DNS google.com via 8.8.8.8 : timeout\n❌ DNS google.com via 1.1.1.1 : timeout\n❌ DNS google.com via 9.9.9.9 : timeout\n❌ DNS google.com via 4.2.2.4 : timeout"
+      "text": "Operator: Samantel(Rightel Asn)-Tehran\nTime: 2026-04-20 03:21:56\n\n❌ chatgpt.com : 188.114.98.0\n❌ security.vercel.com : 104.18.4.130\n❌ static.cloudflareinsights.com : 104.16.80.73\n❌ sourceforge.net : 104.18.13.149\n❌ dash.cloudflare.com : 188.114.98.0\n❌ a.fsdn.com : 104.18.17.56\n❌ npmjs.com : 104.17.134.117\n❌ e7.c.lencr.org : 104.18.20.213\n❌ cdnjs.com : 104.24.196.20\n❌ creativecommons.org : 104.20.6.134\n❌ nodejs.org : 104.16.213.131\n❌ medium.com : 162.159.152.4\n❌ jsdelivr.com : 188.114.98.0\n❌ phpbb.com : 104.18.19.20\n❌ codepen.io : 104.16.147.32\n✅ google.com : 216.239.38.120\n❌ translate.google.com : 172.217.168.78\n❌ gmail.com : 142.251.20.18\n✅ github.com : 140.82.121.3\n❌ www.speedtest.net : 104.17.147.22\n❌ coingecko.cfd : 8.6.112.0\n❌ store.steampowered.com : 2.23.168.78\n❌ apple.com : 17.253.144.10\n❌ chat.deepseek.com : 3.173.21.63\n❌ wikipedia.org : 185.15.59.224\n❌ play.google.com : 142.251.20.138\n❌ whatsapp.com : 57.144.245.32\n❌ playstation.com : 52.8.87.150\n❌ xbox.com : 20.76.201.171\n❌ microsoft.com : 13.107.226.45\n❌ fastly.com : 151.101.193.57\n❌ www.hcaptcha.com : 104.19.229.21\n❌ sciencedirect.com : 203.22.241.9\n✅ code.visualstudio.com : 13.107.253.45\n❌ crelease-assets.githubusercontent.com : 185.199.109.133\n❌ DNS google.com via 8.8.8.8 : timeout\n❌ DNS google.com via 1.1.1.1 : timeout\n❌ DNS google.com via 9.9.9.9 : timeout\n❌ DNS google.com via 4.2.2.4 : timeout"
     },
     {
       "post_id": "190"
@@ -105,10 +117,10 @@
       "datetime": "2026-04-16T01:17:44+00:00",
       "time_text": "01:17",
       "link": "https://t.me/irnetmonitor/189",
-      "views": "6.5K"
+      "views": "6.53K"
     },
     {
-      "text": "Operator: MCI-5G-Tehran\nTime: 2026-04-20 03:11:41\n\n❌ chatgpt.com : 188.114.98.0\n✅ security.vercel.com : 104.18.4.130\n❌ static.cloudflareinsights.com : 104.16.80.73\n✅ sourceforge.net : 104.18.13.149\n❌ dash.cloudflare.com : 188.114.98.0\n❌ a.fsdn.com : 104.18.17.56\n✅ npmjs.com : 104.17.134.117\n✅ e7.c.lencr.org : 104.18.20.213\n❌ cdnjs.com : 104.24.196.20\n❌ creativecommons.org : 104.20.6.134\n❌ nodejs.org : 104.16.213.131\n❌ medium.com : 162.159.152.4\n❌ jsdelivr.com : 188.114.98.0\n❌ phpbb.com : 104.18.19.20\n❌ codepen.io : 104.16.147.32\n✅ google.com : 216.239.38.120\n❌ translate.google.com : 172.217.168.78\n❌ gmail.com : 142.251.20.18\n✅ github.com : 140.82.121.3\n❌ www.speedtest.net : 104.17.147.22\n❌ coingecko.cfd : 8.6.112.0\n❌ store.steampowered.com : 2.23.168.78\n❌ apple.com : 17.253.144.10\n✅ chat.deepseek.com : 3.173.21.63\n❌ wikipedia.org : 185.15.59.224\n❌ play.google.com : 142.251.20.138\n❌ whatsapp.com : 57.144.245.32\n❌ playstation.com : 52.8.87.150\n❌ xbox.com : 20.76.201.171\n❌ microsoft.com : 13.107.226.45\n❌ fastly.com : 151.101.193.57\n✅ www.hcaptcha.com : 104.19.229.21\n❌ sciencedirect.com : 203.22.241.9\n✅ code.visualstudio.com : 13.107.253.45\n❌ crelease-assets.githubusercontent.com : 185.199.108.133\n❌ DNS google.com via 8.8.8.8 : timeout\n❌ DNS google.com via 1.1.1.1 : timeout\n❌ DNS google.com via 9.9.9.9 : timeout\n❌ DNS google.com via 4.2.2.4 : timeout"
+      "text": "Operator: MCI-5G-Tehran\nTime: 2026-04-20 03:21:02\n\n❌ chatgpt.com : 188.114.98.0\n✅ security.vercel.com : 104.18.4.130\n❌ static.cloudflareinsights.com : 104.16.80.73\n✅ sourceforge.net : 104.18.13.149\n❌ dash.cloudflare.com : 188.114.98.0\n❌ a.fsdn.com : 104.18.17.56\n✅ npmjs.com : 104.17.134.117\n✅ e7.c.lencr.org : 104.18.20.213\n❌ cdnjs.com : 104.24.196.20\n❌ creativecommons.org : 104.20.6.134\n❌ nodejs.org : 104.16.213.131\n❌ medium.com : 162.159.152.4\n❌ jsdelivr.com : 188.114.98.0\n❌ phpbb.com : 104.18.19.20\n❌ codepen.io : 104.16.147.32\n✅ google.com : 216.239.38.120\n❌ translate.google.com : 172.217.168.78\n❌ gmail.com : 142.251.20.18\n✅ github.com : 140.82.121.3\n❌ www.speedtest.net : 104.17.147.22\n❌ coingecko.cfd : 8.6.112.0\n❌ store.steampowered.com : 2.23.168.78\n❌ apple.com : 17.253.144.10\n✅ chat.deepseek.com : 3.173.21.63\n❌ wikipedia.org : 185.15.59.224\n❌ play.google.com : 142.251.20.138\n❌ whatsapp.com : 57.144.245.32\n❌ playstation.com : 52.8.87.150\n❌ xbox.com : 20.76.201.171\n❌ microsoft.com : 13.107.226.45\n❌ fastly.com : 151.101.193.57\n✅ www.hcaptcha.com : 104.19.229.21\n❌ sciencedirect.com : 203.22.241.9\n✅ code.visualstudio.com : 13.107.253.45\n❌ crelease-assets.githubusercontent.com : 185.199.111.133\n❌ DNS google.com via 8.8.8.8 : timeout\n❌ DNS google.com via 1.1.1.1 : timeout\n❌ DNS google.com via 9.9.9.9 : timeout\n❌ DNS google.com via 4.2.2.4 : timeout"
     },
     {
       "post_id": "189"
@@ -129,10 +141,10 @@
       "datetime": "2026-04-16T01:17:43+00:00",
       "time_text": "01:17",
       "link": "https://t.me/irnetmonitor/187",
-      "views": "5.84K"
+      "views": "5.87K"
     },
     {
-      "text": "Operator: Hiweb/Parsonline/Datacenter\nTime: 2026-04-20 03:13:13\n\n❌ chatgpt.com : 188.114.98.0\n✅ security.vercel.com : 104.18.4.130\n❌ static.cloudflareinsights.com : 104.16.80.73\n✅ sourceforge.net : 104.18.13.149\n❌ dash.cloudflare.com : 188.114.98.0\n❌ a.fsdn.com : 104.18.17.56\n✅ npmjs.com : 104.17.134.117\n✅ e7.c.lencr.org : 104.18.20.213\n❌ cdnjs.com : 104.24.196.20\n❌ creativecommons.org : 104.20.6.134\n❌ nodejs.org : 104.16.213.131\n❌ medium.com : 162.159.152.4\n❌ jsdelivr.com : 188.114.98.0\n❌ phpbb.com : 104.18.19.20\n❌ codepen.io : 104.16.147.32\n✅ google.com : 216.239.38.120\n❌ translate.google.com : 172.217.168.78\n❌ gmail.com : 142.251.20.18\n✅ github.com : 140.82.121.3\n❌ www.speedtest.net : 104.17.147.22\n❌ coingecko.cfd : 8.6.112.0\n❌ store.steampowered.com : 2.23.168.78\n❌ apple.com : 17.253.144.10\n✅ chat.deepseek.com : 3.173.21.63\n❌ wikipedia.org : 185.15.59.224\n❌ play.google.com : 142.251.20.138\n❌ whatsapp.com : 57.144.245.32\n❌ playstation.com : 52.8.87.150\n❌ xbox.com : 20.76.201.171\n❌ microsoft.com : 13.107.226.45\n❌ fastly.com : 151.101.193.57\n✅ www.hcaptcha.com : 104.19.229.21\n❌ sciencedirect.com : 203.22.241.9\n✅ code.visualstudio.com : 13.107.253.45\n❌ crelease-assets.githubusercontent.com : 185.199.109.133\n❌ DNS google.com via 8.8.8.8 : timeout\n❌ DNS google.com via 1.1.1.1 : timeout\n❌ DNS google.com via 9.9.9.9 : timeout\n❌ DNS google.com via 4.2.2.4 : timeout"
+      "text": "Operator: Hiweb/Parsonline/Datacenter\nTime: 2026-04-20 03:22:36\n\n❌ chatgpt.com : 188.114.98.0\n✅ security.vercel.com : 104.18.4.130\n❌ static.cloudflareinsights.com : 104.16.80.73\n✅ sourceforge.net : 104.18.13.149\n❌ dash.cloudflare.com : 188.114.98.0\n❌ a.fsdn.com : 104.18.17.56\n✅ npmjs.com : 104.17.134.117\n✅ e7.c.lencr.org : 104.18.20.213\n❌ cdnjs.com : 104.24.196.20\n❌ creativecommons.org : 104.20.6.134\n❌ nodejs.org : 104.16.213.131\n❌ medium.com : 162.159.152.4\n❌ jsdelivr.com : 188.114.98.0\n❌ phpbb.com : 104.18.19.20\n❌ codepen.io : 104.16.147.32\n✅ google.com : 216.239.38.120\n❌ translate.google.com : 172.217.168.78\n❌ gmail.com : 142.251.20.18\n✅ github.com : 140.82.121.3\n❌ www.speedtest.net : 104.17.147.22\n❌ coingecko.cfd : 8.6.112.0\n❌ store.steampowered.com : 2.23.168.78\n❌ apple.com : 17.253.144.10\n✅ chat.deepseek.com : 3.173.21.63\n❌ wikipedia.org : 185.15.59.224\n❌ play.google.com : 142.251.20.138\n❌ whatsapp.com : 57.144.245.32\n❌ playstation.com : 52.8.87.150\n❌ xbox.com : 20.76.201.171\n❌ microsoft.com : 13.107.226.45\n❌ fastly.com : 151.101.193.57\n✅ www.hcaptcha.com : 104.19.229.21\n❌ sciencedirect.com : 203.22.241.9\n✅ code.visualstudio.com : 13.107.253.45\n❌ crelease-assets.githubusercontent.com : 185.199.109.133\n❌ DNS google.com via 8.8.8.8 : timeout\n❌ DNS google.com via 1.1.1.1 : timeout\n❌ DNS google.com via 9.9.9.9 : timeout\n❌ DNS google.com via 4.2.2.4 : timeout"
     },
     {
       "post_id": "187"
@@ -141,10 +153,10 @@
       "datetime": "2026-04-16T01:17:43+00:00",
       "time_text": "01:17",
       "link": "https://t.me/irnetmonitor/186",
-      "views": "5.41K"
+      "views": "5.45K"
     },
     {
-      "text": "Operator: Asiatech/Datacenter\nTime: 2026-04-20 03:11:21\n\n❌ chatgpt.com : 188.114.98.0\n✅ security.vercel.com : 104.18.4.130\n❌ static.cloudflareinsights.com : 104.16.80.73\n✅ sourceforge.net : 104.18.13.149\n❌ dash.cloudflare.com : 188.114.98.0\n❌ a.fsdn.com : 104.18.17.56\n✅ npmjs.com : 104.17.134.117\n✅ e7.c.lencr.org : 104.18.20.213\n❌ cdnjs.com : 104.24.196.20\n❌ creativecommons.org : 104.20.6.134\n❌ nodejs.org : 104.16.213.131\n❌ medium.com : 162.159.152.4\n❌ jsdelivr.com : 188.114.98.0\n❌ phpbb.com : 104.18.19.20\n❌ codepen.io : 104.16.147.32\n✅ google.com : 216.239.38.120\n❌ translate.google.com : 172.217.168.78\n❌ gmail.com : 142.251.20.18\n✅ github.com : 140.82.121.3\n❌ www.speedtest.net : 104.17.147.22\n❌ coingecko.cfd : 8.6.112.0\n❌ store.steampowered.com : 2.23.168.78\n❌ apple.com : 17.253.144.10\n✅ chat.deepseek.com : 3.173.21.63\n❌ wikipedia.org : 185.15.59.224\n❌ play.google.com : 142.251.20.138\n❌ whatsapp.com : 57.144.245.32\n❌ playstation.com : 52.8.87.150\n❌ xbox.com : 20.76.201.171\n❌ microsoft.com : 13.107.226.45\n❌ fastly.com : 151.101.193.57\n✅ www.hcaptcha.com : 104.19.229.21\n❌ sciencedirect.com : 203.22.241.9\n✅ code.visualstudio.com : 13.107.253.45\n❌ crelease-assets.githubusercontent.com : 185.199.111.133\n❌ DNS google.com via 8.8.8.8 : timeout\n❌ DNS google.com via 1.1.1.1 : timeout\n❌ DNS google.com via 9.9.9.9 : timeout\n❌ DNS google.com via 4.2.2.4 : timeout"
+      "text": "Operator: Asiatech/Datacenter\nTime: 2026-04-20 03:20:47\n\n❌ chatgpt.com : 188.114.98.0\n✅ security.vercel.com : 104.18.4.130\n❌ static.cloudflareinsights.com : 104.16.80.73\n✅ sourceforge.net : 104.18.13.149\n❌ dash.cloudflare.com : 188.114.98.0\n❌ a.fsdn.com : 104.18.17.56\n✅ npmjs.com : 104.17.134.117\n✅ e7.c.lencr.org : 104.18.20.213\n❌ cdnjs.com : 104.24.196.20\n❌ creativecommons.org : 104.20.6.134\n❌ nodejs.org : 104.16.213.131\n❌ medium.com : 162.159.152.4\n❌ jsdelivr.com : 188.114.98.0\n❌ phpbb.com : 104.18.19.20\n❌ codepen.io : 104.16.147.32\n✅ google.com : 216.239.38.120\n❌ translate.google.com : 172.217.168.78\n❌ gmail.com : 142.251.20.18\n✅ github.com : 140.82.121.3\n❌ www.speedtest.net : 104.17.147.22\n❌ coingecko.cfd : 8.6.112.0\n❌ store.steampowered.com : 2.23.168.78\n❌ apple.com : 17.253.144.10\n✅ chat.deepseek.com : 3.173.21.63\n❌ wikipedia.org : 185.15.59.224\n❌ play.google.com : 142.251.20.138\n❌ whatsapp.com : 57.144.245.32\n❌ playstation.com : 52.8.87.150\n❌ xbox.com : 20.76.201.171\n❌ microsoft.com : 13.107.226.45\n❌ fastly.com : 151.101.193.57\n✅ www.hcaptcha.com : 104.19.229.21\n❌ sciencedirect.com : 203.22.241.9\n✅ code.visualstudio.com : 13.107.253.45\n❌ crelease-assets.githubusercontent.com : 185.199.110.133\n❌ DNS google.com via 8.8.8.8 : timeout\n❌ DNS google.com via 1.1.1.1 : timeout\n❌ DNS google.com via 9.9.9.9 : timeout\n❌ DNS google.com via 4.2.2.4 : timeout"
     },
     {
       "post_id": "186"
@@ -162,7 +174,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T01:50:29.216909",
-    "new_count": 2
+    "last_update": "2026-04-20T01:56:39.782754",
+    "new_count": 1
   }
 }
