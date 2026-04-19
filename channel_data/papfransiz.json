@@ -239,7 +239,7 @@
       "datetime": "2026-04-14T23:06:26+00:00",
       "time_text": "23:06",
       "link": "https://t.me/papFransiz/360",
-      "views": "541"
+      "views": "542"
     },
     {
       "text": "فکت:\n\nیادگیری Openwrt به خاطر یه انسان با 160 قد کمر منو شکست"
@@ -251,7 +251,7 @@
       "datetime": "2026-04-14T17:13:54+00:00",
       "time_text": "17:13",
       "link": "https://t.me/papFransiz/359",
-      "views": "537"
+      "views": "538"
     },
     {
       "text": "تنظیم پروکسی برای میرور .... \nبرای توزیع‌های مبتنی بر Debian/Ubuntu:\n  \n      sudo nano /etc/apt/apt.conf\n   \n\n      Acquire::http::Proxy \"socks5://username:password@proxyserver:port/\";\n   Acquire::https::Proxy \"socks5://username:password@proxyserver:port/\";"
@@ -273,7 +273,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T00:35:58.064602",
+    "last_update": "2026-04-20T00:42:08.836849",
     "new_count": 0
   }
 }
