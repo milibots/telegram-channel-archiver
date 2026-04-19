@@ -10,7 +10,7 @@
       "datetime": "2026-04-18T20:02:25+00:00",
       "time_text": "20:02",
       "link": "https://t.me/MatinSenPaii/2759",
-      "views": "17.5K"
+      "views": "17.6K"
     },
     {
       "text": "متد اسپوف SNI بسته شده 99 درصد مناطق دوباره."
@@ -22,7 +22,7 @@
       "datetime": "2026-04-18T20:01:35+00:00",
       "time_text": "20:01",
       "link": "https://t.me/MatinSenPaii/2758",
-      "views": "17.1K"
+      "views": "17.2K"
     },
     {
       "text": "فیلترچی بین وایت کردن + اسپوف زدن ملت و بستن کامل گزینه‌ی دوم رو انتخاب کرد انگار. زورش نرسید هم وایت کنه هم SNI رو ببنده"
@@ -34,7 +34,7 @@
       "datetime": "2026-04-18T18:41:34+00:00",
       "time_text": "18:41",
       "link": "https://t.me/MatinSenPaii/2757",
-      "views": "22K"
+      "views": "22.1K"
     },
     {
       "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
@@ -63,7 +63,7 @@
       "datetime": "2026-04-18T10:02:22+00:00",
       "time_text": "10:02",
       "link": "https://t.me/MatinSenPaii/2754",
-      "views": "31.9K"
+      "views": "32K"
     },
     {
       "text": "بفرمایید اینم آموزش دسته‌بندی شده و مرتب"
@@ -219,7 +219,7 @@
       "datetime": "2026-04-17T20:53:36+00:00",
       "time_text": "20:53",
       "link": "https://t.me/MatinSenPaii/2743",
-      "views": "31.4K"
+      "views": "31.5K"
     },
     {
       "text": "80 درصد کسایی که توی گروه آنلاینن با SNI وصلن(یا میتونن وصل شن) به نظرم"
@@ -282,7 +282,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T00:31:24.070644",
+    "last_updated_at": "2026-04-19T00:38:39.851685",
     "status": "success",
     "new_posts_found": 0
   }
