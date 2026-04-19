@@ -5,7 +5,7 @@
   "channel_username": "@snifinland",
   "channel_avatar": "https://cdn4.telesco.pe/file/Q3KXswgl65b_voWaNoIChN82XWdXD50fWD7aQih2DinmvUsRtDUu_oDryw-vrVMFSdfdUk3pKO9rfFLFOR-yh070_9MWenZWmXwUKkcr0-VYUB-OnhcbcpDxN_5dIVPoJ1zvqqM3CfDhrVLFKjMflB1TXETSUMoYk6mzMKLPf3q_ifmaA20g3FhtacYGkNEXU9VMkRxBb4p6XXTRtJ57acAQz4JhNjIfem2i-DINgok5R-oc211P4-_Q4hz8er6TKhFmzydOS49CmdRqZwHnXazoA08a4t5AUrwvxp38t8Ir_Xmgq3OvaxKTwyFeD0gD93_SrvRRjfNc5mjnkIrSfQ.jpg",
   "channel_verified": false,
-  "channel_subscribers": "3.53K",
+  "channel_subscribers": "3.54K",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T18:13:12+00:00",
       "time_text": "18:13",
       "link": "https://t.me/SniFinland/210",
-      "views": "1.65K"
+      "views": "1.75K"
     },
     {
       "text": "پروژه جدید پترنیها راجبش هنوز توضیحی نداده اما با توجه به عنوان اولیه ای که برای پروژه گذاشته اینجوریه که پروژه از دو تا تکنیک استفاده میکنه:\n\nمرحله اول (MITM): یعنی یه برنامه یا اپلیکیشنی که اینجا نقش یه واسطه رو داره، ترافیک رو قبل از خروج متوقف و آماده میکنه.\nمرحله دوم (Domain Fronting): اینجا ترافیک تو یه سری لایه‌های پنهان برای درخواست مجاز (سایت های سفید) جاسازی میشه و فرستاده میشه.\n\nاحتمالاً قراره از تکنیک tcp proxing استفاده بشه برای اینکه درخواستا مجاز بنظر برسه، بازم باید منتظر پروژه موند و ببینیم قراره چجوری اجراش کنه.\n\nلینک پروژه: https://github.com/patterniha/MITM-DomainFronting"
@@ -33,7 +33,7 @@
       "datetime": "2026-04-19T15:34:59+00:00",
       "time_text": "15:34",
       "link": "https://t.me/SniFinland/209",
-      "views": "1.82K"
+      "views": "1.85K"
     },
     {
       "text": "بخدا نمیدونم اینا دقیقاً فازشون چیه&#33;\nصاحب کسب و کار میخواد با اینترنت دقیقاً چه غلطی کنه وقتی مشتریش اینترنت نداره؟"
@@ -45,7 +45,7 @@
       "datetime": "2026-04-19T14:26:43+00:00",
       "time_text": "14:26",
       "link": "https://t.me/SniFinland/208",
-      "views": "2.94K"
+      "views": "2.96K"
     },
     {
       "text": "پترنیها کانال تلگرام نداره فقط توییتر داره که این زیر توییت جدیدشو گذاشتم. آیدی تلگرامش و توییترشم یکیه (@patterniha) آدرس ولتشم تو بیوش هست، نیاز به هیچی نداره فقط دونیت‌ش کنید بخاطر زحماتی که کشید. آدم دل‌ پاکیه توی توییت جدیدشم گفته داره رو پروژه جدید کار میکنه، هرکسی که برای مردم بدون چشم داشت فعالیت میکنه رو حمایت و دونیت کنید تا جامعه ما روزی پر از اینجور آدم‌ها بشه و این رو بتونیم توی فرهنگ مون جا بدیم.\n\n۱. این چند روز احساسات زیادی رو تجربه کردم از حس ترس از دستگیری تا حس قهرمان ملی بودن و یا حس تنفر از تهمت‌هایی که به من زدن. حرفهای زیادی برای گفتن دارم ولی کارهای زیادی برای انجام دارم و خب فقط جا داره از هزاران پیامی که از سراسر ایران برام فرستادین تشکر کنم.\n&rlm;۲. فوق العاده ترین لحظات زندگیمو گذروندم و خوشحالم که \"پس اعمالشان تباه شد\" برای من اتفاق نیفتاد و حداقل حس امید را در خیلی ها زنده کرد.\nخب sni-spoofing بسته شد (ttl های پایین دراپ یا ریرایت میشه، seq-number چک میشه و checksum نیر محاسبه میشه) بنابراین از این طریق فعلا راهی نیست.\n&rlm;۳. روش جدیدی رو از دیشب استارت زدم که اسمشو Pat-Project گذاشتم که این هم در نهایت قرار هست dpi رو بایپس کنه و دسترسی مستقیم به کلودفلر یا هر cdn دیگری رو فراهم کنه نحوه ی کارش رو بعدا توضیح خواهم داد ولی استفاده از آن به عنوان یک متد عمومی مانند sni-spoofing با چالشهایی روبروست\n۴. که البته قابل حل است ولی برای استفاده در سرورهای ایران به عنوان متد تونل مانع چندانی ندارد.\nاحتمالا چند روزی نوشتن این برنامه طول بکشه ولی قبلش با توجه به اینکه گوگل باز شده\n۵. حداکثر تا فردا توضیحی درباره ی دسترسی به سرویسهای گوگل (به غیر از فیلمهای youtube , یا سرویسهایی مثل gemini که تحریم هستند) ارائه خواهم داد که از این نظر اهمیت دارند که دسترسی به meet را فراهم میکند و میتوانید به صورت امن با عزیزانتان در خارج از کشور به صورت تصویری صحبت کنید.\n۶. این روش صرفا با تغییر ip به 216.239.38.120 متفاوت است و باید یه وقت کوتاهی برای راه اندازیش بزارید که توضیح خواهم داد.\nاز لطف همگیتون ممنونم امید همچنان زندست.\n&rlm;۷. و دو تا نکتم اضافه کنم که من قبلا با سرورلسی که خودم نوشته بودم و در اپ مهسام هست وارد توییتر میشدم به خاطر همین لوکیشنم ایران هست و نمیدونم تا چه مدت باید با vpn بیام که لوکیشنم تغییر کنه. همچنین برای ادامه راهم همچنان به کمکهای مالی شما نیاز دارم.\nبه امید ایران آزاد"
@@ -57,7 +57,7 @@
       "datetime": "2026-04-19T13:25:42+00:00",
       "time_text": "13:25",
       "link": "https://t.me/SniFinland/207",
-      "views": "2.7K"
+      "views": "2.72K"
     },
     {
       "text": "اسلیپ نت بنده خدا تازه sni هم اضافه کرده بود"
@@ -69,7 +69,7 @@
       "datetime": "2026-04-19T13:22:33+00:00",
       "time_text": "13:22",
       "link": "https://t.me/SniFinland/206",
-      "views": "2.64K"
+      "views": "2.66K"
     },
     {
       "post_id": "206"
@@ -78,7 +78,7 @@
       "datetime": "2026-04-19T13:06:35+00:00",
       "time_text": "13:06",
       "link": "https://t.me/SniFinland/205",
-      "views": "2.22K"
+      "views": "2.24K"
     },
     {
       "text": "فدا سرتون که sni بسته شد،\nفقط اینکه خالق اصلی (@patterniha) رو حمایت و دونیت کنید زحمت کشید و باعث و بانی اتصال چندین روزه چندین هزار نفر شد.\n\nبه محض اینکه راه جدیدی کشف بشه سعی میکنیم هرچه در توان هست ارائه بدیم و در تلاشیم که همه با هم از این شرایط سختی که ایجاد کردن عبور کنیم."
@@ -90,7 +90,7 @@
       "datetime": "2026-04-19T13:03:05+00:00",
       "time_text": "13:03",
       "link": "https://t.me/SniFinland/204",
-      "views": "2.19K"
+      "views": "2.2K"
     },
     {
       "text": "سلام به اولین روز بدون Sni Spoof"
@@ -102,7 +102,7 @@
       "datetime": "2026-04-18T19:39:28+00:00",
       "time_text": "19:39",
       "link": "https://t.me/SniFinland/203",
-      "views": "2.74K"
+      "views": "2.75K"
     },
     {
       "text": "بچه ها هنوز نزده دیسلایک نزنید، برید واقعاً تست کنید، یک بار هم نه چند باری پروسه رو از اول برید و تست کنید. \n\nمن برا خودم نیومد ولی تیری در تاریکیه دیگه بزنید شاید منطقه ای وصل شد."
@@ -117,7 +117,7 @@
       "datetime": "2026-04-18T19:35:34+00:00",
       "time_text": "19:35",
       "link": "https://t.me/SniFinland/202",
-      "views": "2.81K"
+      "views": "2.82K"
     },
     {
       "text": "تست کنید.\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}"
@@ -141,14 +141,14 @@
       "datetime": "2026-04-18T19:24:21+00:00",
       "time_text": "19:24",
       "link": "https://t.me/SniFinland/199",
-      "views": "2.69K"
+      "views": "2.7K"
     },
     {
       "text": "وصله."
     },
     {
       "photos": [
-        "https://cdn4.telesco.pe/file/XmvVstAx4AhSZGMBx2r_GaqdjpS2w6kLUX_TUiEyke5XSGOPdUOc03qG4iO44SIqsvBznpgblaxyaqjM0aXlUhSypgN1etDOwW53v9GDjk5Jw77d6RvgZTTsEEEqYg5XKs9cIl3O6UacDyuhB76TM8q7I9Dy1cIjZo8y-2IzLmtwB_3HdUyDjTPWmiCKhztrk2krkTqhl7tw0suNuFZCs3mCVDB-yQOp3lXjkW6XGY2arp9L4OFUIqhj-incq_i4JLbIMP45eauwA4oi3Un12nKOeC0wp8JQawP3keGhRLQnDBPKMgaDj7kcAAB27VOBPs_euCeGrFjFT4ggcarV2g.jpg"
+        "https://cdn4.telesco.pe/file/gPalQmpDi-5DAr1IP5J0k3aV1wr8Jq-ej0tnB3xvTdqBK0ZPs83ap1VfVT--8uhqHf8S5HnBWx5OY1zwxZ-iXUFFLeWPq8WGbm_AWrBZWI39-7lusDXbaIUw1upRZH-wGBV0j-Ynh7HodB1h88rfWEOWw2vP6CgKWtxpOASDO_lN087m1XDAT1PovrGxMIsTXKD82ZTdfIUcvb6ZgutugwJOAKephfbL5PEd2r3giFoMCh0clPs0Ycv08V0mvzCwv_-H1PpUFX6sX8Mhg1pRlaJUdNi3lDqwhj30CB9lBRmzokYzumWS2rOMIJ54V58SGfryuJw5Ed_emaoW88YdfQ.jpg"
       ]
     },
     {
@@ -194,7 +194,7 @@
       "datetime": "2026-04-18T18:13:16+00:00",
       "time_text": "18:13",
       "link": "https://t.me/SniFinland/182",
-      "views": "2.77K"
+      "views": "2.78K"
     },
     {
       "text": "۲ گیگ رو هوا خوردین، حلال باشه."
@@ -223,7 +223,7 @@
       "datetime": "2026-04-18T17:59:59+00:00",
       "time_text": "17:59",
       "link": "https://t.me/SniFinland/180",
-      "views": "3.43K"
+      "views": "3.44K"
     },
     {
       "text": "@SniFinland رمز\nتانله، یکم صبر کنید وصله.\nدانلود نکنید بیشتر وصل بمونه.\nاتمام حجم"
@@ -235,7 +235,7 @@
       "datetime": "2026-04-18T17:57:37+00:00",
       "time_text": "17:57",
       "link": "https://t.me/SniFinland/179",
-      "views": "3.41K"
+      "views": "3.42K"
     },
     {
       "text": "@SniFinland رمز\nتانله، یکم صبر کنید وصله.\nدانلود نکنید بیشتر وصل بمونه.\nاتمام حجم"
@@ -259,7 +259,7 @@
       "datetime": "2026-04-18T17:51:38+00:00",
       "time_text": "17:51",
       "link": "https://t.me/SniFinland/177",
-      "views": "2.64K"
+      "views": "2.65K"
     },
     {
       "text": "فدای سرتون، ما آدم باخت نیستیم."
@@ -269,7 +269,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T21:05:37.187645",
+    "last_update": "2026-04-19T21:11:48.507909",
     "new_count": 0
   }
 }
