@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T13:30:08+00:00",
       "time_text": "13:30",
       "link": "https://t.me/MatinSenPaii/2766",
-      "views": "17K"
+      "views": "17.1K"
     },
     {
       "text": "https://t.me/MatinSenPaii/2447"
@@ -48,7 +48,7 @@
       "datetime": "2026-04-19T12:27:54+00:00",
       "time_text": "12:27",
       "link": "https://t.me/MatinSenPaii/2764",
-      "views": "16.2K"
+      "views": "16.3K"
     },
     {
       "text": "🚀 آپدیت Range Scout نسخه 0.7.0\n\nاین نسخه اسکن DNS و مرحله DNSTT را خیلی منعطف‌تر کرده. حالا هم در اسکن می‌تونی بین UDP / TCP / BOTH انتخاب کنی، هم در مرحله DNSTT از UDP / TCP / DOT / DOH استفاده کنی. تنظیمات جدید هم داخل UI و فایل config کامل ذخیره و لود می‌شن.\n\n——————————————\n\n✨ چی عوض شده:\n\n🔹 پروتکل اسکن DNS قابل انتخاب شد\nحالا اسکنر فقط UDP نیست و می‌تونی UDP، TCP یا BOTH را برای probeهای سازگاری انتخاب کنی\n\n🔹 مرحله DNSTT حرفه‌ای‌تر شد\nبرای تست DNSTT حالا UDP، TCP، DOT و DOH پشتیبانی می‌شن\n\n🔹 Resolver Endpoint اضافه شد\nبرای DNSTT می‌تونی endpoint دلخواه بدی و از placeholderهای {ip} و {port} استفاده کنی\n\n🔹 تنظیمات جدید داخل config ذخیره می‌شن\nفیلدهای protocol، transport و resolverURL حالا موقع Save Config نگه داشته می‌شن و دوباره درست لود می‌شن\n\n🔹 اسکن TCP و حالت BOTH به هسته اسکن اضافه شد\nنتایج resolverها حالا می‌تونن بر اساس عملکرد واقعی روی UDP و TCP ثبت بشن\n\n🔹 تست‌ها و پایداری بهتر شد\nتست‌های scanner، DNSTT و embedded client گسترده‌تر شدن و رفتار transportهای جدید پوشش داده شد\n\n🔹 رابط کاربری و نسخه برنامه آپدیت شد\nفیلدهای جدید DNSTT وارد UI شدن و نسخه داخل هدر روی v0.7.0 قرار گرفت\n\n—————————————\n\n🔗 دانلود از گیت‌هاب\nhttps://github.com/PedramMarandi/range-scout/releases/tag/v0.7.0"
@@ -96,7 +96,7 @@
       "datetime": "2026-04-18T20:02:25+00:00",
       "time_text": "20:02",
       "link": "https://t.me/MatinSenPaii/2759",
-      "views": "31.3K"
+      "views": "31.4K"
     },
     {
       "text": "متد اسپوف SNI بسته شده 99 درصد مناطق دوباره."
@@ -291,7 +291,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T21:36:35.460453",
+    "last_update": "2026-04-19T21:42:46.965142",
     "new_count": 0
   }
 }
