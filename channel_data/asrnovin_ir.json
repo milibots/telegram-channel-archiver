@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T14:09:08+00:00",
       "time_text": "14:09",
       "link": "https://t.me/asrnovin_ir/10145",
-      "views": "7.94K"
+      "views": "8.03K"
     },
     {
       "text": "این خبری که گذاشتیم در رابطه با اپراتور بابک زنجانی با نام دات وان سل\n\nیه سری کلاهبردار اومدن کانال زدن در این مورد و با وعده خرید و دسترسی به اینترنت بین الملل دارن کلاهبرداری می کنند خیلی مراقب باشید و اصلا اقدام به خرید نکنید"
@@ -33,7 +33,7 @@
       "datetime": "2026-04-19T13:54:47+00:00",
       "time_text": "13:54",
       "link": "https://t.me/asrnovin_ir/10144",
-      "views": "9.93K"
+      "views": "9.99K"
     },
     {
       "text": "سازنده sni spoofing گفته یه پروژه جدیدی رو آماده و تست کرده و اسمش رو گذاشته \nPat-Project\nکه به راحتی می‌تونه dpi رو بایپس کنه و دسترسی مستقیم به کلودفلر یا هر cdn دیگری رو فراهم کنه .\n\nالبته گفته راه اندازیش به سادگی sni spoofing نیست ولی خب کارو در میاره\n\nهنوز منتشر نشده"
@@ -45,7 +45,7 @@
       "datetime": "2026-04-19T13:49:08+00:00",
       "time_text": "13:49",
       "link": "https://t.me/asrnovin_ir/10143",
-      "views": "9.16K"
+      "views": "9.2K"
     },
     {
       "text": "خب کل اینترنت مملکت رو بردن پشت NAT\nخودتون میتونید از اینجا ببینید که IP خارجی شما چیه:\nhcaptcha.com/cdn-cgi/trace&lrm;\nبه نظر من استفاده از NAT یه راهکار موقته واسه اینکه هم بتونن اینترنت رو به صورت محدود متصل نگه دارن و هم با روشهای دور زدن فیلترینگ مقابله کنن.\nاین کار یه پیام روشن داره و اونم اینه که الگوریتمها و الگوهای شناسایی ترافیک غیرمجاز که داخل سیستمهای فیلترینگ استفاده میشه، توانایی مقابله کم هزینه با روشهای اخیر دور زدن فیلترینگ رو نداره. در نتیجه تنها راهکار موثری که میمونه اینه که تا زمانی که منابع جدید به سیستم اصافه نشده یا الگوریتمهای بهینه‌تر پیدا نشده، دست به دامن استفاده از تجهیزات استاندارد و پاخورده شبکه مثل روترهای قوی با قابلیت stateful NAT بشن و ترافیک TCP رو داخل کشور terminate کنن، بعدش اون ترافیک رو از فیلترینگ عبور بدن.\nبا این روش به جای اینکه تلاش بشه با روشهای آماری و DPI و in software داخل هر بسته بررسی بشه، کار اعتبار و صحت‌سنجی ارتباطات TCP به NAT router ها offload میشه که این کار رو in hardware، با منابع کمتر و سریعتر انجام میدن و قیمت کمتری دارن و میشه راحت خریدشون.\nاصولا وقتی پای NAT وسط بیاد، دیگه شما نمیتونید بسته‌های فیک با checksum اشتباه بفرستید چون NAT router دوباره checksum رو حساب میکنه و بسته رو دور میندازه.\nولی همچنان با TCP sequence number و TTL کاری نداره.\nاز اونجایی که امکان بررسی مستقیم بسته‌ای که از ایران به سمت سرور خارج از کشوری که دست من باشه وجود نداره (چون فقط یه سری IPهای محدود باز هستن) نمیشه در این مورد قطعا نظر داد ولی اگه سروری دارید که میشه از ایران مستقیما دیدش (نه پشت CDN) میتونید این رو تست کنید ببینید چه بلایی سر seq و ttl میاد.\nبه هر صورت این مساله از نظر من یه شکست بزرگ برای فیلترینگ ایران محسوب میشه.\nواسه اینم به زودی یه راهی پیدا میشه&#33;\n\nمنبع:\nhttps://x.com/aleskxyz/status/2045846066159833574?s=19"
@@ -57,7 +57,7 @@
       "datetime": "2026-04-19T13:45:13+00:00",
       "time_text": "13:45",
       "link": "https://t.me/asrnovin_ir/10142",
-      "views": "9K"
+      "views": "9.07K"
     },
     {
       "text": "🔺🔻سی‌ان‌ان ادعا کرد؛ تیم ایرانی سه‌شنبه برای مذاکره با آمریکا وارد پاکستان می‌شود\n🔹شفقنا"
@@ -81,7 +81,7 @@
       "datetime": "2026-04-19T12:27:25+00:00",
       "time_text": "12:27",
       "link": "https://t.me/asrnovin_ir/10140",
-      "views": "10.9K"
+      "views": "11K"
     },
     {
       "text": "اتصال اینترنت بین‌الملل اساتید برقرار شد\n\n«بکائی» رئیس دانشگاه الزهرا (س) :\nبا توجه به تصمیم وزارت علوم، روند آموزش‌ها به صورت مجازی ادامه دارد و دفاع پایان‌نامه‌ها نیز آنلاین برگزار می‌شود.\n\nهمچنین اینترنت بین‌الملل اساتید وصل شده و اتصال کامل شبکه دانشگاه در حال پیگیری است.\n@asrnovin_ir"
@@ -114,7 +114,7 @@
       "datetime": "2026-04-18T20:23:53+00:00",
       "time_text": "20:23",
       "link": "https://t.me/asrnovin_ir/10137",
-      "views": "14.8K"
+      "views": "14.9K"
     },
     {
       "text": "طبق اطلاعیه ircf این سایت ها از مسیر عادی و بین الملل در دسترس نیستند \nبلکه از یک مسیر داخلی دستکاری شده عبور می کنند و شما میتونید بهشون دسترسی داشته باشید و خب از لحاظ امنیتی ممکنه مشکل ساز باشه"
@@ -211,7 +211,7 @@
     {
       "text": "آموزش ویدیویی استفاده از روش SNI Spoofing \n\nhttps://youtu.be/v5q6wqKuY9k",
       "videos": [
-        "https://cdn4.telesco.pe/file/95f831b021.mp4?token=jbPdITgJHC8WDJ6u3q_ELmL_xmx9f6WQPu0LDPYXIphvodBPVhUo7K-Rfqr7EhQSRtHP8F1aiuVGhXJ-FVaqjN6C9wol6cQlBpC2vAvB0UoDGrm4clqGKeTLdX_aPF3DPbvKOz-CJPp_AOE5DL3rRk9aK30xlvwRl7UpZ3FzQiHmISr9lXIts2mKsMbpIMRfWnz9rbWokfO91WeZ0fuO-J364NoxLKZ3eKUjgErFbF3Q-1OxTKC-ZfvLnHlag2fvAUVWWP6yseYaLZjsz-5loeyeDSDSlURLbJTYLmtXdHMoid7Er0e4af0ciNfCRx7rEcT_BKOq8U2oBx9qnWr2ew"
+        "https://cdn4.telesco.pe/file/95f831b021.mp4?token=cjx-pQ_hYyU6m9-JBX4k69lZgtHvHWOY7oHrMwD_hyEf75rN7FQinhGiAgil3qrUme1ep7cA58U1AaSfb1Mus1WBDVPopxxnvTfPPAQMJw1VEIWQ4QpK9tJNqDSc2t4mcSQ6ufjydrrzDwGFg1-dj7yo5hLz4ti2awafINoQR4JYFvao33g4qv9nB0ZStgJxYBH0O2si2PlHhEK6A7Dijy80vxImWAbfg_l8JC101BLj2wj1mGBIT8LTzT3IYU8wgoiPkQwNEhOZGM2d-12PcVTWSxjuZmpJl9fedwL3iFXGUKaL0pr8p4lJGJ_ysRitAyuNq1KNE_jdBnH2rJylwg"
       ]
     },
     {
@@ -248,7 +248,7 @@
       "datetime": "2026-04-16T14:12:35+00:00",
       "time_text": "14:12",
       "link": "https://t.me/asrnovin_ir/10123",
-      "views": "19.6K"
+      "views": "19.7K"
     },
     {
       "text": "هوش مصنوعی دیپ‌سیک در دسترس قرار گرفت.\n deepseek.com"
@@ -270,7 +270,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T20:40:50.952718",
+    "last_update": "2026-04-19T20:47:03.304649",
     "new_count": 0
   }
 }
