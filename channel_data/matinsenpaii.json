@@ -3,7 +3,7 @@
   "channel": "matinsenpaii",
   "channel_title": "Matin SenPai",
   "channel_username": "@matinsenpaii",
-  "channel_avatar": "https://cdn1.telesco.pe/file/q6ZWAIeGHq9vb-Ei3yN7_jI3aYCjiwF2uwjCtfFLj7DrDBfnoEBKUn0YItMB7pnQIEqPbEUrvoNDul_IPpEcJSbiJjcgUaxs-em39Gm4dqoL5J5ijUCvMSqjd79B4fEFchg8emr5PEJc2XXpp5ncvKJAY93Jws1Rn7_-VIgX4NO-hFL5Bh9pqME4109XNBklwiwu1kqigf8LZBWcpC-nGe1yw5wbx5g4wGSpPihlDobOv76Jjx_fcrSrZGFtpv9FCfhUGmFbnDNtmu-J7QlwZY7Lc1IckWShW6RWT1yerj_7hezgVpV8IOY_cC9ERnHc6cAOjrdxeRvrgBHhuQKshQ.jpg",
+  "channel_avatar": "https://cdn1.telesco.pe/file/ul-jCfiJLoZ65vXsEKq-6XegWf3WKP3I4y-dIaLRx6bCc0k18vnnksrB7rYh_XmWZEEhtwoCqWkO5qt5jOVgd96FMuBUrXRz0YeGj43a2rKSnGPutsY1RGoNMIy6D4SroNB2lpOawQCFtesiP9xr0b9Nt0KoExFuADsH5rve_PLeBxbxTWaWUe3OXW3ak_GsLUI6epZUj28KaRorAHE5PbEje0kgtlwf4nZcl009pDBbwhXn3yjQXjFvGOrufN8fR5xSpMtANuw53PF0yXKYISlchlA2re794iF7DnnAasjhRGNzcX-ZPifFnYt5BHRFkYv1n76AiVDsz5PYDaA1Aw.jpg",
   "channel_verified": false,
   "channel_subscribers": "54K",
   "channel_photos": null,
@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T20:52:50+00:00",
       "time_text": "20:52",
       "link": "https://t.me/MatinSenPaii/2768",
-      "views": "2.52K"
+      "views": "4.12K"
     },
     {
       "text": "کمی صبر کنید"
@@ -30,7 +30,7 @@
       "datetime": "2026-04-19T20:52:20+00:00",
       "time_text": "20:52",
       "link": "https://t.me/MatinSenPaii/2767",
-      "views": "2.62K"
+      "views": "4.35K"
     },
     {
       "text": "فعلا گروه بسته‌ست."
@@ -42,7 +42,7 @@
       "datetime": "2026-04-19T13:30:08+00:00",
       "time_text": "13:30",
       "link": "https://t.me/MatinSenPaii/2766",
-      "views": "18.7K"
+      "views": "19.2K"
     },
     {
       "text": "https://t.me/MatinSenPaii/2447"
@@ -57,7 +57,7 @@
       "datetime": "2026-04-19T12:45:28+00:00",
       "time_text": "12:45",
       "link": "https://t.me/MatinSenPaii/2765",
-      "views": "20.9K"
+      "views": "21.3K"
     },
     {
       "text": "و دوباره بازگشت ما به سوی DNS است"
@@ -72,7 +72,7 @@
       "datetime": "2026-04-19T12:27:54+00:00",
       "time_text": "12:27",
       "link": "https://t.me/MatinSenPaii/2764",
-      "views": "17.3K"
+      "views": "17.6K"
     },
     {
       "text": "🚀 آپدیت Range Scout نسخه 0.7.0\n\nاین نسخه اسکن DNS و مرحله DNSTT را خیلی منعطف‌تر کرده. حالا هم در اسکن می‌تونی بین UDP / TCP / BOTH انتخاب کنی، هم در مرحله DNSTT از UDP / TCP / DOT / DOH استفاده کنی. تنظیمات جدید هم داخل UI و فایل config کامل ذخیره و لود می‌شن.\n\n——————————————\n\n✨ چی عوض شده:\n\n🔹 پروتکل اسکن DNS قابل انتخاب شد\nحالا اسکنر فقط UDP نیست و می‌تونی UDP، TCP یا BOTH را برای probeهای سازگاری انتخاب کنی\n\n🔹 مرحله DNSTT حرفه‌ای‌تر شد\nبرای تست DNSTT حالا UDP، TCP، DOT و DOH پشتیبانی می‌شن\n\n🔹 Resolver Endpoint اضافه شد\nبرای DNSTT می‌تونی endpoint دلخواه بدی و از placeholderهای {ip} و {port} استفاده کنی\n\n🔹 تنظیمات جدید داخل config ذخیره می‌شن\nفیلدهای protocol، transport و resolverURL حالا موقع Save Config نگه داشته می‌شن و دوباره درست لود می‌شن\n\n🔹 اسکن TCP و حالت BOTH به هسته اسکن اضافه شد\nنتایج resolverها حالا می‌تونن بر اساس عملکرد واقعی روی UDP و TCP ثبت بشن\n\n🔹 تست‌ها و پایداری بهتر شد\nتست‌های scanner، DNSTT و embedded client گسترده‌تر شدن و رفتار transportهای جدید پوشش داده شد\n\n🔹 رابط کاربری و نسخه برنامه آپدیت شد\nفیلدهای جدید DNSTT وارد UI شدن و نسخه داخل هدر روی v0.7.0 قرار گرفت\n\n—————————————\n\n🔗 دانلود از گیت‌هاب\nhttps://github.com/PedramMarandi/range-scout/releases/tag/v0.7.0"
@@ -84,7 +84,7 @@
       "datetime": "2026-04-19T09:46:42+00:00",
       "time_text": "09:46",
       "link": "https://t.me/MatinSenPaii/2762",
-      "views": "25.8K"
+      "views": "26K"
     },
     {
       "text": "پول به \"شکن\" و امثالهم هم ندید. یادآوری کنم که چند هفته پیش، به مدت دو سه روز chatgpt روش باز شد و ملت کلی اشتراک خریدن و روش کانفیگ ساختن و باز مسدود شد. پول مردم هم رفت سطل آشغال"
@@ -96,7 +96,7 @@
       "datetime": "2026-04-19T09:25:10+00:00",
       "time_text": "09:25",
       "link": "https://t.me/MatinSenPaii/2761",
-      "views": "25.4K"
+      "views": "25.6K"
     },
     {
       "text": "منتها این کاری که کردن داره افتضاح میشه هر لحظه"
@@ -108,7 +108,7 @@
       "datetime": "2026-04-19T09:23:32+00:00",
       "time_text": "09:23",
       "link": "https://t.me/MatinSenPaii/2760",
-      "views": "25.9K"
+      "views": "26K"
     },
     {
       "text": "طبق داده‌های https://t.me/irnetmonitor ، دی ان اس گوگل روی دیتاسنتر آسیاتک باز شد\nآپدیت: بسته شد"
@@ -120,7 +120,7 @@
       "datetime": "2026-04-18T20:02:25+00:00",
       "time_text": "20:02",
       "link": "https://t.me/MatinSenPaii/2759",
-      "views": "31.7K"
+      "views": "31.8K"
     },
     {
       "text": "متد اسپوف SNI بسته شده 99 درصد مناطق دوباره."
@@ -132,7 +132,7 @@
       "datetime": "2026-04-18T20:01:35+00:00",
       "time_text": "20:01",
       "link": "https://t.me/MatinSenPaii/2758",
-      "views": "30.5K"
+      "views": "30.6K"
     },
     {
       "text": "فیلترچی بین وایت کردن + اسپوف زدن ملت و بستن کامل گزینه‌ی دوم رو انتخاب کرد انگار. زورش نرسید هم وایت کنه هم SNI رو ببنده"
@@ -144,7 +144,7 @@
       "datetime": "2026-04-18T18:41:34+00:00",
       "time_text": "18:41",
       "link": "https://t.me/MatinSenPaii/2757",
-      "views": "32K"
+      "views": "32.1K"
     },
     {
       "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
@@ -188,7 +188,7 @@
       "datetime": "2026-04-18T10:02:09+00:00",
       "time_text": "10:02",
       "link": "https://t.me/MatinSenPaii/2753",
-      "views": "31K"
+      "views": "31.1K"
     },
     {
       "text": "آموزش مرحله به مرحله و خیلی ساده SNI Spoofing  \n\n۱. دانلود برنامه Patterniha  \n\nآخرین نسخه برنامه رو دانلود کنین (فایل zip یا rar).\n\nhttps://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0\n\n۲. استخراج فایل‌ها  \n\nفایل رو استخراج کنین. داخل پوشه باید فایل Patterniha.exe باشه.\n\n۳. فایل JSON رو آماده کنین  \n\nتو همون پوشه‌ای که Patterniha.exe هست، فایل config.json رو ویرایش کنین\nبعد این محتوا رو دقیق کپی کنین داخلش:\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"104.19.229.21\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"www.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n۴. برنامه رو اجرا کنین  \n\n- روی فایل Patterniha.exe راست کلیک کنین  \n\n- گزینه Run as administrator رو بزنین (خیلی مهمه&#33;)\n\n۵. کانفیگ V2Ray/Xray/Nekobox/v2rayNG رو تنظیم کنین  \n\nتو کانفیگی که داری فقط این دو تا رو عوض کن:\n\n- Address یا آدرس سرور → 127.0.0.1  \n- Port یا پورت → 40443\n\nبقیه چیزا (UUID، path، TLS، Reality و ...) رو همون قبلی نگه دار.\n\n۶. وصل شو  \n\nکانفیگ رو ذخیره کن و بزن Connect. باید وصل بشه.\n\nنکات مهم:\n\n اگه پترنیها ران نشد یه بار از کانفیگ real delay بگیرن استارت میشه\n- همیشه Patterniha رو به عنوان مدیر (Run as administrator) اجرا کن.\n- اگه ویندوز فایروال پرسید، اجازه دسترسی بده.\n- اگه وصل نشد: برنامه رو Stop کن، دوباره Start کن، یا یه config.json جدید با IP دیگه امتحان کن.\n\nhcaptcha.com\nnewassets.hcaptcha.com\njs.hcaptcha.com\nimgs.hcaptcha.com\nimgs2.hcaptcha.com\nimgs3.hcaptcha.com\nassets.hcaptcha.com\napi.hcaptcha.com\nanalytics.hcaptcha.com\nstats.hcaptcha.com\nthree-cust.hcaptcha.com\ntg.hcaptcha.com\nprimary.hcaptcha.com\ndashboard.hcaptcha.com\nbilling.hcaptcha.com\naccounts.hcaptcha.com\nproxy.hcaptcha.com\nloader.hcaptcha.com\nchallenge-tasks.hcaptcha.com\nserverless.hcaptcha.com\nhealth-check.hcaptcha.com\nemail.hcaptcha.com\n\n\n@whitedns"
@@ -269,7 +269,7 @@
       "datetime": "2026-04-17T21:48:37+00:00",
       "time_text": "21:48",
       "link": "https://t.me/MatinSenPaii/2747",
-      "views": "36.1K"
+      "views": "36.2K"
     },
     {
       "text": "حیف وقت. حتی دیگه بهش نمی‌پردازم فقط دوست داشتم ممبرهای خودم عقاید من و دیدگاهم رو در رابطه با این قضیه بدونن که دو بار صحبت کردم."
@@ -282,7 +282,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T22:57:05.194593",
-    "new_count": 2
+    "last_update": "2026-04-19T23:03:16.421617",
+    "new_count": 0
   }
 }
