@@ -11,14 +11,31 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "⚡️اینترنت آزاد را با ما تجربه کنید &#33;\n\n🛍 فروشگاه: @Peweza\n⚡️خدمات مجازی: @PewezaStoreBot\n👨‍💻آیدی ادمین: @PewezaAdmin\n📱یوتیوب: https://youtube.com/@peweza\n\n🔐کانفیگ ها و سرورهای VPN\n📱برنامه های اندروید\n📍هوش مصنوعی و AI\n📚آموزش در حوزه تکنولوژی",
-  "total_posts": 67,
-  "returned_posts": 67,
+  "total_posts": 66,
+  "returned_posts": 66,
   "posts": [
+    {
+      "datetime": "2026-04-19T03:31:38+00:00",
+      "time_text": "03:31",
+      "link": "https://t.me/PewezaVPN/24242",
+      "views": "357"
+    },
+    {
+      "text": "یه سرویس OpenVPN که یه سری دوستان معرفی کردن و گفتن به صورت تستی میشه ازش استفاده کرد معرفی میکنم شاید کار یه سری از دوستان راه بیوفته.\n\nآیدی ربات:  @DiginetXBot\n\nپیشنهاد به خرید نمیکنم فقط اگر اشتراک تستی براتون فعال شد استفاده کنید."
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/ZgvZHmzunz4o-D8Dcb7e25985K03vAvh9j3-tNom3UuAuav79noj6rfxFk3gqKl72ROcwT1ivmeyEhBLehOK97lH_KNkedx-IKKOllyICc1MajK4Sw-4eHie40XOgWAlGPTfJN3O0jfwU-61NFEbXKOR3-nxLwzKEUFxCJE0-vQk6Id-Vlr7NmEuldCmoSXXtsEeGw9KSBC_AxnSs9u_GZar-PPykYW3bRPGHTSzu2N-AxQ6EOKt1QOQV6yD-gEpihmdNBwpp16AkGh-wtoj49DUG6lTL7WAXJEahKkmZxzGYwUQ5n42WyUHBt4NpOW23DFXZXD6IwBm7n-LQzTg4g.jpg"
+      ]
+    },
+    {
+      "post_id": "24242"
+    },
     {
       "datetime": "2026-04-18T23:52:39+00:00",
       "time_text": "23:52",
       "link": "https://t.me/PewezaVPN/24240",
-      "views": "3.32K"
+      "views": "3.48K"
     },
     {
       "text": "قابلیت تست پینگ در نسخه جدید عملکرد خوبی داره و درصد خطای کمتری هم داره، دقت کنید حتما باید با اینترنت عادی (خاموش بودن فیلترشکن) و با گزینه ی اول یعنی Test Server Reachability تست پینگ بگیرید. و صبور باشید تا تست تموم بشه، چون با بستن زودهنگام یا قطع کردن تست ممکنه برنامه باگ بخوره و باید فورس کلوز بزنید که مجدد بتونید تست پینگ سالم بگیرید.\n\nاما زیاد به تست پینگش دل خوش نکنید."
@@ -43,7 +60,7 @@
       "datetime": "2026-04-18T23:48:22+00:00",
       "time_text": "23:48",
       "link": "https://t.me/PewezaVPN/24239",
-      "views": "3.4K"
+      "views": "3.55K"
     },
     {
       "text": "✅ آخرین نسخه SlipNet اندروید\n\nنسخه 2.5.2\n\n● قابلیت Vless Over CDN به برنامه افزوده شده، که میشه کانفیگ های V2Ray داخلش اضافه کرد و فیک SNI زد و.. (البته فعلا کارایی نداره مگه اینکه راهی ساخته بشه که حتما میذاریم)\n\n● اتصالات در VayDNS و پروتکل های دیگر مبتنی بر DNS بهبود داشته.\n\n● تست پینگ هم درست شده و حالا میتونید بهتر و دقیق تر از گزینه های تست پینگ استفاده کنید.\n\nلینک دانلود داخلی:\nhttps://guardts.ir/f/Pewezavpn\n\nلینک جایگزین:\nhttps://punkpaste.ir/f/SlipNet-v2-5-2-Full--3tqanc\n\nمدت زمان انقضای لینک ها 24 ساعت\n\n🔰 @PewezaVPN"
@@ -55,7 +72,7 @@
       "datetime": "2026-04-18T20:23:10+00:00",
       "time_text": "20:23",
       "link": "https://t.me/PewezaVPN/24238",
-      "views": "7.47K"
+      "views": "7.57K"
     },
     {
       "text": "گیت‌هاب، گوگل ترنسلیت، گوگل مپ از دقایقی قبل در اکثر اپراتورها در دسترس قرار گرفتن.\n\nنکته ی عجیبی که هست اینه که درخواست های گیت‌هاب داره به سرورهای داخلی میره، یعنی قبل از مسیر بین‌المللی به سرورای داخل ایران ریدایرکت میشه..."
@@ -67,7 +84,7 @@
       "datetime": "2026-04-18T19:18:44+00:00",
       "time_text": "19:18",
       "link": "https://t.me/PewezaVPN/24237",
-      "views": "8.66K"
+      "views": "8.73K"
     },
     {
       "text": "خب گویا SNI-Spoofing هم از دست دادیم برای همیشه (حتی در ویندوز)... مگه اینکه متود جدید بیاد. اگر متودی بیاد حتما قرار میدیم."
@@ -82,7 +99,7 @@
       "datetime": "2026-04-18T07:52:05+00:00",
       "time_text": "07:52",
       "link": "https://t.me/PewezaVPN/24236",
-      "views": "12.2K"
+      "views": "12.3K"
     },
     {
       "text": "✅ آخرین نسخه ی V2RayN ویندوز\n\nفایل ZIP بدون نیاز به پسورد\n\nلینک دانلود داخلی اول:\nhttps://guardts.ir/f/684b540e0904\n\nلینک جایگزین:\nhttps://punkpaste.ir/f/v2rayN-Windows-64-Pe-b7iu20\n\nمدت زمان انقضای لینک ها 24 ساعت هست.\n\n🔰 @PewezaVPN"
@@ -157,7 +174,7 @@
       "datetime": "2026-04-17T03:14:51+00:00",
       "time_text": "03:14",
       "link": "https://t.me/PewezaVPN/24228",
-      "views": "17K"
+      "views": "17.1K"
     },
     {
       "text": "✅ دو کانفیگ جدید برای SlipNet اندروید و آموزش اتصال👇\n\nslipnet-enc://AY1wHC3bif44l7dQj2vSYDG16ux11sZZPZinTknbrHbWGyV6UILcas5D7t6IghSFS3EiWtO++rWQAnc/Y/FhjrqABmbjGyfnqRe0rTRHQ86es1G4nKv6ntU19/O7R+x5LEFg+cnmbkZ78vIKzTiS6aQI5Pf9O3a1uhhZAc9+x826IwRY7e2QC6PZbCkmZlBh7APs0gM7Dyr/92EBDRJ2sFR8NYkdw0Fvp8/EdRt8Z2Qttv+jKGsbGEd1v9p868v/Cs7nUrze9p4ew2RDlq/p5olRYnv+FN3a4BcCSu1WWgZEEa33sBB0flsvYTxZeklVeh6JiZGxWTnlsjiQXIxc+mg2d8RC8xcdLIHuBguLMXBOAp9fukj4+acnOldwtbiIxq15cl0PTVcEpSaOOEqJWG4vzu4qKxTJ4q1arFvzQnVGsXhrzhecfQlbeD4Cp4I+9sQaq2PkrTDPSTnm6kFPI8MtZeijn0cA8BvpXL1MLfBJQUeuvtNH3UA/FYL9uWU1cCnDomBBv1T4dbwu8rd6\n\nslipnet-enc://AffzDlc181I5MYrYI7lNY0/UtpPoFmwaMSWsAm46dv90GQyDCY2BOWCdnUJ16lv21CD0FR9g+5ovwdn98exWnh/Yml65azJqz6s9Cj5wO8R90QA2kBrUIYp0bw+2Vihjn3Bywhyw3LwFxBEbfbjHwjDxxEpEmIUs+vmCqP12bR1qSHGZ1aKfL9Yof1u21A4rBnrdakWC90Khwh07/IP9qbJsu/DqnvTfuRW1CGMiX99W1CKNfypqFwfwN1IqP1HcagR/goIM2SEr7eNpdeX1MIYYq7nMI0iSpS/0rTFposkDq1OPBhq1mlTmZK3+JvgafJkl02xl8HT3OnHObcQcz0p93EWZtczEagHgyRD30bpoY70P5bT1L22fXu5XaiFXVYf4BW+6AmVbXIZM7zFb7j8sufHxw5cbs3TQKiOl7nefbW/JJ4P45leJNDduuK+jZXnQkV8x0Bs7RgN2lnGG4+PWiQB+VQpCyJ4cXN68MuchpBomFEXhGZf03asbXC2k671oUnqJmbDWZM42ElaE0r2miZkXnUhtvFjuLo0pHSpcwUSBzB3s6CqWm+M0xeGbDTXqlficeeUmNtM0GZV8dE+/SyMKpooxHFQLudaZKbvZySfjgqbQZCbzkbNuhg==\n\n● دقت کنید کانفیگ ها فقط در نسخه 2.5.0 (و بالاتر) متصل هستند. پس اگر آپدیت نکردید از لینک زیر اقدام به دریافت آخرین نسخه کنید:\nhttps://t.me/PewezaVPN/24227\n\n● لینک آموزش اضافه کردن کانفیگ:\nhttps://t.me/PewezaVPN/24072\n\n● اگر متصل نشدید از روش ترکیبی پروکسی  استفاده کنید، لینک آموزش:\nhttps://t.me/PewezaVPN/24043?single\n\n🔰 @PewezaVPN"
@@ -184,7 +201,7 @@
       "datetime": "2026-04-16T18:11:20+00:00",
       "time_text": "18:11",
       "link": "https://t.me/PewezaVPN/24226",
-      "views": "16.4K"
+      "views": "16.5K"
     },
     {
       "text": "✅ چند تا DNS جدید باز شده\nباهاشون روش اتصال میدیم..\n\n● روش اتصال اول👇\nاین DNS رو ببرید توی AM Tunnel فرکانس های 1 یا 4 یا 5 وصل بشید:\n\nudp://80.75.14.102\n\nلینک: آموزش  |  برنامه\n\n● روش اتصال دوم👇\nاین کانفیگ رو ببرید توی SlipNet اضافه کنید و متصل بشید (دقت کنید نسخه اسلیپ شما باید آخرین نسخه 2.5.0 باشه)\n\nslipnet-enc://ASoU2JDqp+zU0CJbc72aSk//MivAsUOoBrAe6O+Eo7wj/H1E465viQFrAgnVQEDUS6N84lZxLtbCz0nuLMa+sHQDn8z+dRTxOt0jek4OnxgDoKelsBlKNkugQzHvSr7Qp7LyXWpLc4uFeUyumRKptGBYOBfDxVab+vTNw5SVFggseAAJmLklOo6/oOQuMpibbRnsRwmSe46eYOJHswJ6Mm9XkHXQ/m1ry2SBgnpQkDcIbFqFxHEUIVv8yR0+lBhyTGbGBdDjmG0IAnaRAAbyCpaJJdGDohk9M3RRPULw6xw9VACiF+xkXvtJ7S3qLwKizZeWMVmZbKCLp9nfKH+7bTt632HwlWV5MLaMKIU9M94HR/SPS07qmMSq/fv2u6SNwkjGLf18mN2LB40bd1Bw2DXkP8b1eAitSAjtUL44QbAmq9dtub9W6/10cRYNu31K2iaRx2xx3UywcQpIRqigHJ30HM+afllMm9y3DK/rXp2dlIjSf29EQSoGv+4BdKePod8YzbGRhqR6Z9d4QjXs486r6yGYTFe8PA8Pj5LtIRu/5aUXKEsoZi921hMB6ctLkbQ/i8R3dzW64W+6fHcS7OUOdRcqW0sGAdHMzmAeHYiNpNDXuw==\n\nلینک: آموزش | برنامه\n\nروش اتصال سوم👇\n\nخودتون میتونید طبق DNS هایی که ارائه میدیم اگر کانفیگی دارید یا.. و حتی در ریزالور مستر DNS ازشون استفاده کنید\n\nDNS List:\n80.75.14.102\n80.210.40.54\n78.111.11.11\n185.121.129.66\n\nموفق باشید 🙏\n\n🔰 @PewezaVPN"
@@ -257,32 +274,10 @@
     },
     {
       "post_id": "24221"
-    },
-    {
-      "datetime": "2026-04-15T15:47:52+00:00",
-      "time_text": "15:47",
-      "link": "https://t.me/PewezaVPN/24219",
-      "views": "16.3K"
-    },
-    {
-      "text": "✅ توی این موقعیت که نمیشه حتی موزیک خوب و دلخواه گوش داد، این دو سایتی که معرفی میکنم تقریبا اکثر موزیکارو بدون سانسور توی آرشیو دارن و با اینترنت داخلی بالا میان، میتونید گوش بدید لذت ببرید.\n\nسایت اول: http://Sptfy.ir\n\nسایت دوم: https://ememay.ir/music\n\nممنون از کسایی که به فکر هموطن‌هاشون هستن و اینطور سایتا یا ابزار هارو توسعه میدن.\n\n🔰 @PewezaVPN"
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/uM9SrOEOah-6f0mmx7TP5C0-zsSKSRyZ2s7o9Y8XEkpPaQYc9Mi3FJL8GwpFDxcvOdfROFKQ0afLX_yJIvqUl6auC_GlabVmIF-vzQ2eQBDP7fgVQTSSN3oXvhmWIszNuZ7uZ3fpNOQYJPy3xhH8oU6ErUiRjEB0DInQaARy0qWbSRle5avsX4f7Q2t6RebIbnpUKSVKR1Kk_dM51yrNMrI5oK-5n0EqKe76_tSxF_hokLv4IfY36S_xWDnfsD4R0LC3Pqm8Qw0ExG_BA0SqZBkIR4oqZvqczFQlqb-Pri2vDISoBwaanTQSxxVKq6XB0e49Wi-mE8d06sVHu_0yTw.jpg"
-      ]
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/jNkLDj0f1kj7XqqdYRrR9v-SI7pAw6WdpHQdtmnY7CwTW9-kDXDrpZj1NILowgX3GBYwDHTs7A8QsNdsAq_7kEQ8pH5JbXW38_Z1FP-sTDr48WzF91TwG-Z0nRNUaSV5H7r2H0_UyeK3Lm-HCerOF0-RtDAtdxdw9D10MSTljCjBCu9-5GPtbG2qZhoTvolU9Vg1FzNDSYBbmryn5vHW6IiGlm35C0egsnj8YAHNaALxKzO3jcV7TwwXq4XAhmSE2uadwF-lTIibtwXElmkdomrEbSwADPOglQLQ2S4UMpqOz3yEdJHl37FLU6Kl64mv6wpGi2EpmebUXZnSLmBmvQ.jpg"
-      ]
-    },
-    {
-      "post_id": "24219"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T05:31:23.299469",
-    "new_count": 0
+    "last_update": "2026-04-19T05:37:33.071901",
+    "new_count": 1
   }
 }
