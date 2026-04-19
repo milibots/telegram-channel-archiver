@@ -18,7 +18,7 @@
       "datetime": "2026-04-18T19:39:28+00:00",
       "time_text": "19:39",
       "link": "https://t.me/SniFinland/203",
-      "views": "1.99K"
+      "views": "2K"
     },
     {
       "text": "بچه ها هنوز نزده دیسلایک نزنید، برید واقعاً تست کنید، یک بار هم نه چند باری پروسه رو از اول برید و تست کنید. \n\nمن برا خودم نیومد ولی تیری در تاریکیه دیگه بزنید شاید منطقه ای وصل شد."
@@ -33,7 +33,7 @@
       "datetime": "2026-04-18T19:35:34+00:00",
       "time_text": "19:35",
       "link": "https://t.me/SniFinland/202",
-      "views": "2.15K"
+      "views": "2.16K"
     },
     {
       "text": "تست کنید.\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}"
@@ -45,7 +45,7 @@
       "datetime": "2026-04-18T19:34:16+00:00",
       "time_text": "19:34",
       "link": "https://t.me/SniFinland/201",
-      "views": "2.07K"
+      "views": "2.08K"
     },
     {
       "text": "Operator: IRANCELL-5G-Tehran\nTime: 2026-04-18 22:58:56\n\nThe status of this service has changed to:\n✅ e7.c.lencr.org : 104.18.20.213"
@@ -57,7 +57,7 @@
       "datetime": "2026-04-18T19:24:21+00:00",
       "time_text": "19:24",
       "link": "https://t.me/SniFinland/199",
-      "views": "2.15K"
+      "views": "2.16K"
     },
     {
       "text": "وصله."
@@ -86,7 +86,7 @@
       "datetime": "2026-04-18T19:23:33+00:00",
       "time_text": "19:23",
       "link": "https://t.me/SniFinland/197",
-      "views": "2.86K"
+      "views": "2.87K"
     },
     {
       "text": "@SniFinland رمز\nتانله، یکم صبر کنید وصله.\nدانلود نکنید بیشتر وصل بمونه."
@@ -256,7 +256,7 @@
       "datetime": "2026-04-18T17:40:56+00:00",
       "time_text": "17:40",
       "link": "https://t.me/SniFinland/171",
-      "views": "2.43K"
+      "views": "2.44K"
     },
     {
       "text": "سایت‌هایی که از کلودفلر استفاده می‌کنند و در حال حاضر قابل دسترسی هستند، ظاهراً به‌صورت ریدایرکت یا هایجک به رنج‌های 2.189.52.0/24 و 2.189.53.0/24 (منتسب به ارتباطات زیرساخت / آی‌پی‌های پیشگامان) هدایت می‌شوند و ترافیک آن‌ها مستقیماً از گیت‌وی اصلی اینترنت کشور خارج نمی‌شود"
@@ -278,7 +278,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T09:01:16.966355",
+    "last_update": "2026-04-19T09:07:28.087017",
     "new_count": 0
   }
 }
