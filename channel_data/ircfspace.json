@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T05:44:48+00:00",
       "time_text": "05:44",
       "link": "https://t.me/ircfspace/2170",
-      "views": "12K"
+      "views": "12.1K"
     },
     {
       "text": "اپ Range Scout یه ابزار متن‌باز و رایگان برای اندروید هست، که برای اسکن و تحلیل DNS resolverها طراحی شده. \nاین برنامه قابلیت اسکن روی IPهای تکی و رنج‌های IPv4 رو داره، موتور اسکن DNS اون از UDP و TCP پشتیبانی می‌کنه و با استفاده از مجموعه‌ای از تست‌های سازگار با mini-resolver، به هر Resolver امتیاز میده.\nهمینطور امکان تشخیص DNS Proxy بصورت شفاف در اسکن‌های UDP در نظر گرفته شده و قابلیت وارد کردن لیست IP از فایل و خروجی گرفتن بصورت تمیز و خط‌به‌خط اضافه شده، تا کار با داده‌های حجیم ساده‌تر باشه.\n\n👉 github.com/iampedii/range-scout-android\n💡 t.me/PersianGithubMirror/2900\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-19T05:25:08+00:00",
       "time_text": "05:25",
       "link": "https://t.me/ircfspace/2169",
-      "views": "13.1K"
+      "views": "13.2K"
     },
     {
       "text": "حکومتی که از بنیان‌گذارش نقل شده \"اقتصاد مال خر است\"، میتونه بفهمه ۵۱ روز قطع سراسری اینترنت چه ضربه‌ای به اقتصاد و معیشت مردم زده؟ \nاز طرفدارانش که ادعا می‌کردن تصویرشو در ماه دیدن چی؟\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
@@ -52,7 +52,7 @@
       "datetime": "2026-04-19T05:22:33+00:00",
       "time_text": "05:22",
       "link": "https://t.me/ircfspace/2168",
-      "views": "12.1K"
+      "views": "12.2K"
     },
     {
       "text": "مردم با پروتکل طرف حساب نیستن.\nآمر، مجری و حمال‌هایی که این پروتکل رو به زندگی میلیون‌ها نفر تحمیل می‌کنن، باید پاسخگو بشن.\n\nاگر اشخاص یا گروه‌های دخیل در فیلترینگ رو میشناسین، در تکمیل #قصاب_اینترنت با مهسانت مشارکت کنین.\n👉 filternet.mahsanet.com/fa\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
@@ -129,7 +129,7 @@
     },
     {
       "photos": [
-        "https://cdn1.telesco.pe/file/q6OHq3Q8LoNWocsdYi0woWommgEVw9avP8YPzbFHSpFmf1u2F52LCCfTltR_qVqnu-czzBexT6_UiiQj6-VPw_lCMLxQ7g6i0B7NIjtAxdfsUOyYyX1ucDqtsSgcwMueh_TgkrHsSmzYkxgp5ZyAZ5LHshk61bdmdvtqWn0WPsKvABjnzAY5ddycUZ0gq0AGtSy0Ak6zdhPdcl7hLYgKEHGNgALx9BpFhPJmioIx4d5qS5M4o17cgVC5VrapGAm8tH8QoQmqY4hfOk4FU0_AliQ0vpOCjlHrJyZms0N1x53PH-217dR9_R9P5T9YKGFDn2RlXXHpibcrBkJ6gvnTog.jpg"
+        "https://cdn1.telesco.pe/file/QP40ILt132JthZfRMGwy6P4ZWsqppa7TxILVYJUYb4CAy7eboTOjl_06i65Io1pvVejVOweIP5_PDo06DF9HUUkDHfbhZ_cxJgaJqNFaIXm0uNjjSBZG0wSxO7U4z19NBiojmWxGCBw9K4e5Dp6TvPxRx43N7WNFzzM2Q1pyWPUIB8EJTPpuAg5jNqADSv9f4kK4-uo99bCFx37visnKGDFbE5oiZs2oj8KYQeKEsnKqke2dNr0COOU0DdC2Svp0Thj5CL37HWqyCRa_CJBt0uVBB2iL4Sl5-_Uz6Zdru33eBqSkUaVxta3ZTT0LLqy9OV4lZTeQYRh2CoKi1ebK-Q.jpg"
       ]
     },
     {
@@ -316,7 +316,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T14:16:47.288743",
+    "last_update": "2026-04-19T14:22:58.284977",
     "new_count": 0
   }
 }
