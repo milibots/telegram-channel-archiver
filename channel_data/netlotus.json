@@ -5,7 +5,7 @@
   "channel_username": "@netlotus",
   "channel_avatar": "https://cdn4.telesco.pe/file/AFJ_2RE-_fH0wYekT5cJvujAcJsp0cSWlnSy_4Jbczg_nW7N1Vz4ljLFSAJATwsj7kOEB8Zh4eQz-1IkXKau2TP6DYdsjFG6kctxMsmh_QPh2VZEvLsdHG1HZMdpURQDjjRvGldI5ja2V3tFm0kfDcyo70f_rqwNR6CdBlxULlyw9xAfkLq9HjI8LJMj-VC4m6ViUdp3kLSSsz51rZUqRRmalf90U3SP1ySyP77MFduCq1X2F8GrS3bea8MljDQft4iaiZfOT3QL2DGqAyxU9KENCcRjUrFw0GeZEkzY9UaETdSsNp0dSxDHrplHOCEEzEfm0fj_HAiyZii3UpW8Jw.jpg",
   "channel_verified": false,
-  "channel_subscribers": "2.41K",
+  "channel_subscribers": "2.42K",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T08:43:15+00:00",
       "time_text": "08:43",
       "link": "https://t.me/NetLotus/71",
-      "views": "531"
+      "views": "557"
     },
     {
       "text": "گوش شیطون کر یه روش پیدا کردم ، سریع وصل میشه ، سرعت متوسط به پایین ، مناسب وبگردی ، یوتیوب و اینا خوب نیست\nببینم تا شب میتونم نسخه پایداری ازش بسازم بفرستم براتون"
@@ -30,7 +30,7 @@
       "datetime": "2026-04-19T04:56:46+00:00",
       "time_text": "04:56",
       "link": "https://t.me/NetLotus/68",
-      "views": "1.07K"
+      "views": "1.08K"
     },
     {
       "text": "سلام رفقا ، ناراحتم که دارن اینطوری میکنن برا دسترسی مردم ، ولی غمتون نباشه ، دارم رو یه روش کار میکنم نه با سرعت زیاد ولی حداقل وصل بشین کاراتون رو انجام بدین\nممنون از توجهتون"
@@ -78,7 +78,7 @@
       "datetime": "2026-04-18T15:16:52+00:00",
       "time_text": "15:16",
       "link": "https://t.me/NetLotus/64",
-      "views": "2.2K"
+      "views": "2.21K"
     },
     {
       "post_id": "64"
@@ -135,7 +135,7 @@
       "datetime": "2026-04-18T14:54:35+00:00",
       "time_text": "14:54",
       "link": "https://t.me/NetLotus/57",
-      "views": "1.89K"
+      "views": "1.9K"
     },
     {
       "text": "این لیست برا SNI :\nhcaptcha.com\nnewassets.hcaptcha.com\njs.hcaptcha.com\nimgs.hcaptcha.com\nimgs2.hcaptcha.com\nimgs3.hcaptcha.com\nassets.hcaptcha.com\napi.hcaptcha.com\nanalytics.hcaptcha.com\nstats.hcaptcha.com\nthree-cust.hcaptcha.com\ntg.hcaptcha.com\nprimary.hcaptcha.com\ndashboard.hcaptcha.com\nbilling.hcaptcha.com\naccounts.hcaptcha.com\nproxy.hcaptcha.com\nloader.hcaptcha.com\nchallenge-tasks.hcaptcha.com\nserverless.hcaptcha.com\nhealth-check.hcaptcha.com\nemail.hcaptcha.com\n@NetLotus\nاینم کانفیگ:\n\nvless://2b8d9d73-0031-42f9-9914-c8c579e087cb@127.0.0.1:40443?encryption=none&security=tls&sni=fire.rezazzz.ir&insecure=0&allowInsecure=0&type=ws&host=fire.rezazzz.ir&path=%2Fmovie#amir_webstudio\nvless://651a858c-2975-4b96-96b7-82745b38714c@127.0.0.1:40443?encryption=none&security=tls&sni=api.frest.ir&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=api.frest.ir&path=%2FWITH_CHACHA20_POLY1305_SHA256\ntrojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#APPXA\ntrojan://humanity@127.0.0.1:40443?security=tls&sni=www.multiplydose.com&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=%2F%2Fassignment#APPXA\ntrojan://humanity@127.0.0.1:40443?security=tls&sni=www.gossipglove.com&insecure=0&allowInsecure=0&type=ws&host=www.gossipglove.com&path=%2Fassignment#APPXA\ntrojan://humanity@127.0.0.1:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#APPXA\ntrojan://humanity@127.0.0.1:40443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#APPXA\n\n@NetLotus"
@@ -255,7 +255,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T11:42:07.948141",
+    "last_update": "2026-04-19T11:48:18.619346",
     "new_count": 0
   }
 }
