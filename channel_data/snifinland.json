@@ -33,7 +33,7 @@
       "datetime": "2026-04-18T19:35:34+00:00",
       "time_text": "19:35",
       "link": "https://t.me/SniFinland/202",
-      "views": "1.87K"
+      "views": "1.88K"
     },
     {
       "text": "تست کنید.\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}"
@@ -122,7 +122,7 @@
       "datetime": "2026-04-18T18:04:25+00:00",
       "time_text": "18:04",
       "link": "https://t.me/SniFinland/181",
-      "views": "2.4K"
+      "views": "2.41K"
     },
     {
       "text": "وصله."
@@ -278,7 +278,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T04:04:16.012541",
+    "last_update": "2026-04-19T04:05:03.853206",
     "new_count": 0
   }
 }
