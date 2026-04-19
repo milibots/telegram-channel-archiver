@@ -18,7 +18,7 @@
       "datetime": "2026-04-18T20:16:42+00:00",
       "time_text": "20:16",
       "link": "https://t.me/SamnetInternet/305",
-      "views": "7.06K"
+      "views": "7.07K"
     },
     {
       "photos": [
@@ -244,7 +244,7 @@
       "datetime": "2026-04-03T15:47:35+00:00",
       "time_text": "15:47",
       "link": "https://t.me/SamnetInternet/273",
-      "views": "35.3K"
+      "views": "35.4K"
     },
     {
       "text": "🗂️ پروژه dnstm-setup آپدیت بزرگ با پشتیبانی VayDNS\n🔥 نسخه v1.4.0\n\n⚡ پشتیبانی کامل از VayDNS\n• دو تانل جدید: vay1 (SOCKS) و vay-ssh (SSH) روی ساب‌دامین‌های v و vz\n• حالا تا 8 تانل همزمان (Slipstream + DNSTT + NoizDNS + VayDNS)\n• پروتکل KCP/smux با بازیابی خودکار اتصال\n• سازگار با SlipNet — کافیه نوع تانل رو DNSTT انتخاب کنید\n• دانلود و نصب خودکار باینری vaydns-server\n\n📈 دستور --monitor مانیتورینگ لحظه‌ای:\n• نمایش CPU، حافظه، پایداری هر تانل\n• تعداد اتصالات فعال SOCKS/SSH/DNS\n• لاگ‌های اخیر سرویس‌ها\n\n🔍 دستور --diag عیب‌یابی کامل:\n• بررسی باینری‌ها (dnstm, dnstt-server, noizdns, vaydns)\n• وضعیت سرویس‌ها با نمایش لاگ خطا\n• بررسی پورت ۵۳، فایروال، SSH، کلیدها\n• تشخیص تداخل systemd-resolved\n• هشدار MTU بالا برای تانل‌های DNSTT/NoizDNS/VayDNS\n• شمارش مشکلات با راهنمای رفع\n\n🐛 رفع باگ‌های مهم گزاش شده در گیتهاب\n\n🔧 بهبودها:\n• ۹ رکورد DNS (2 رکورد جدید برای VayDNS)\n• گزینه ۴ در --add-tunnel برای انتخاب VayDNS\n• تولید لینک SSH برای VayDNS در مدیریت کاربران\n• پاکسازی کامل VayDNS در --uninstall و --remove-tunnel\n\n📥 آپدیت:\ncurl -fsSL -o dnstm-setup.sh https://raw.githubusercontent.com/SamNet-dev/dnstm-setup/master/dnstm-setup.sh\nsudo bash dnstm-setup.sh\n\n🔗 https://github.com/SamNet-dev/dnstm-setup"
@@ -283,7 +283,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T01:25:35.747593",
+    "last_update": "2026-04-20T01:32:00.128900",
     "new_count": 0
   }
 }
