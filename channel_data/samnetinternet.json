@@ -18,7 +18,7 @@
       "datetime": "2026-04-18T20:16:42+00:00",
       "time_text": "20:16",
       "link": "https://t.me/SamnetInternet/305",
-      "views": "5.6K"
+      "views": "5.63K"
     },
     {
       "photos": [
@@ -32,7 +32,7 @@
       "datetime": "2026-04-18T20:06:23+00:00",
       "time_text": "20:06",
       "link": "https://t.me/SamnetInternet/304",
-      "views": "6.14K"
+      "views": "6.16K"
     },
     {
       "text": "من شرمندتونم بچه ها :( 😔 میگن sni رو بستن..چند روزی مشغول بودم که زود تر برسونمش…🚬"
@@ -44,7 +44,7 @@
       "datetime": "2026-04-18T19:59:10+00:00",
       "time_text": "19:59",
       "link": "https://t.me/SamnetInternet/303",
-      "views": "6.71K"
+      "views": "6.73K"
     },
     {
       "text": "🛰️ عرضه اولیه snix v0.5.0 — دور زدنِ DPI با جعلِ SNI، حالا برای لینوکس و ویندوز\n\nبرنامه snix یک بازنویسی در Go از همان SNI-Spoofing  \nاست. همان الگوریتمِ دور زدن را بایت‌به‌بایت نگه می‌دارد، ولی برخلافِ نسخهٔ اصلی که فقط ویندوز و فقط پایتون است، snix یک باینریِ 10 مگابایتی برای لینوکس و ویندوز است و خیلی بیشتر از ترفندِ اصلی می‌دهد:\n\n🐧 لینوکس (NFQUEUE) + 🪟 ویندوز (WinDivert، بدون cgo)، یک فایل، بدونِ وابستگی\n🥷 چرخش بین wrong_seq و wrong_checksum، تصادفی‌سازیِ زمان، اندازه، IP-ID و SNI\n\n🔍 اسکنرِ داخلی: snix scan all بهترین SNIها و IPهای CDNِ ISP شما را پیدا می‌کند\n\n🪄 دستیارِ راه‌اندازی: snix init --wizard پیکربندی را در 60 ثانیه می‌نویسد\n\nداشبورد TUI کامل، لاگِ زنده، و جابه‌جاییِ profile\n\n☁️ سرور ندارید؟ دستیار یک Cloudflare Workerِ رایگان را حدود یک دقیقه استقرار می‌دهد\n\n🔌 پیکربندیِ خودکارِ Xray / v2ray / sing-box(\n\n🌍 راهنمای کاملِ انگلیسی و فارسی\n\n📥 نصب روی لینوکس:\ncurl -fsSL https://raw.githubusercontent.com/SamNet-dev/snix/main/installer/linux/install.sh | sudo sh\n\n📥 ویندوز: snix-setup.exe را از صفحهٔ releases دانلود کنید.\n\n🙏 الگوریتمِ اصلی کارِ patterniha است. \n\n📦 دانلود و راهنما: \nhttps://github.com/SamNet-dev/snix\n\nپی نوشت: این نسخه v0.5 هست و به مرور زمان مشکلاتش رو با هم پیدا میکنیم و حل میکنیم."
@@ -56,7 +56,7 @@
       "datetime": "2026-04-18T19:20:21+00:00",
       "time_text": "19:20",
       "link": "https://t.me/SamnetInternet/302",
-      "views": "5.95K"
+      "views": "5.97K"
     },
     {
       "text": "کارمندای امن افزار شریف که اینترنت رو روی ما بستن.\nکاری که اینها کردن کم از کسی که مستقیم شلیک میکنه نداره.\n\n(پستای قبلی فرمتشون بد و کم کیفیت بود پاک کردم)"
@@ -68,7 +68,7 @@
       "datetime": "2026-04-17T14:14:38+00:00",
       "time_text": "14:14",
       "link": "https://t.me/SamnetInternet/301",
-      "views": "2.1K"
+      "views": "2.11K"
     },
     {
       "text": "کانفیگ اهدایی ریتالین، کانال: @Khosrow_v2ray\nویژه اتصال با Spoof SNI\n\nحجم: نامحدود ♾️\nvless://380de414-8a0c-431b-bf20-6651c55208df@127.0.0.1:40443?encryption=none&security=tls&sni=tom.dnstt.space&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=tom.dnstt.space&path=%2FGoOgLe&mode=auto#Tomcat%20%40khosrow_v2ray\n\nvless://14c44521-e28f-4561-a12c-337d8cc44d87@127.0.0.1:40443?encryption=none&security=tls&sni=amphetamine.dnstt.space&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=amphetamine.dnstt.space&path=%2FTiMbErSaW&mode=auto#Amphetamine%20%40khosrow_v2ray\n\nvless://cbf524f0-4d7c-4173-aafb-e9f0608b3192@127.0.0.1:40443?encryption=none&security=tls&sni=focalin.dnstt.space&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=focalin.dnstt.space&path=%2FGoorbeh&mode=auto#Focalin%20%40khosrow_v2ray"
@@ -80,7 +80,7 @@
       "datetime": "2026-04-13T23:17:35+00:00",
       "time_text": "23:17",
       "link": "https://t.me/SamnetInternet/299",
-      "views": "10.6K"
+      "views": "10.7K"
     },
     {
       "text": "☠️آموزش روش جدید و قدرتمند SNI Spoofing - اتصال رایگان و بدون هزینه به اینترنت آزاد&#33;\n\n\nدانلود فایل نرم افزار: https://t.me/MatinSenPaii/2617\nآموزش edge tunnel روی کلودفلر: https://youtu.be/svYBcv4bSzo\n\n\nتوی این ویدیو آموزش کامل و قدم‌به‌قدم می‌دم که چطور بتونید به صورت کاملا رایگان با SNI-Spoofing با سرعت اینترنت خودتون متصل بشید&#33;\n\n⭐️ کاملاً رایگان\n⭐️ در حال حاضر ویژه‌ی ویندوز (نسخه لینوکس: https://github.com/PechenyeRU/FakeSNI)\n\n⚠️ پیش‌نیازها و نکات مهم: \n1️⃣ این ویدئو هیچ پیش نیازی نداره\n\n✉️ تماشا در تلگرام \n\n📹 تماشا در یوتوب\n\n💰 دونیت"
@@ -210,7 +210,7 @@
       "datetime": "2026-04-05T16:45:45+00:00",
       "time_text": "16:45",
       "link": "https://t.me/SamnetInternet/279",
-      "views": "19.2K"
+      "views": "19.3K"
     },
     {
       "text": "️ ‼️ به‌روزرسانی: قطع اینترنت در ایران اکنون به طولانی‌ترین خاموشی اینترنت در مقیاس ملی در میان همه کشورها تبدیل شده است و از نظر شدت از تمام موارد مشابه فراتر رفته است؛ به‌طوری که پس از ۸۶۴ ساعت، وارد سی‌وهفتمین روز متوالی خود شده است."
@@ -283,7 +283,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T08:36:34.950308",
+    "last_update": "2026-04-19T08:42:45.472416",
     "new_count": 0
   }
 }
