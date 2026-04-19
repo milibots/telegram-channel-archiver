@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T12:45:28+00:00",
       "time_text": "12:45",
       "link": "https://t.me/MatinSenPaii/2765",
-      "views": "4.79K"
+      "views": "5.71K"
     },
     {
       "text": "و دوباره بازگشت ما به سوی DNS است"
@@ -33,7 +33,7 @@
       "datetime": "2026-04-19T12:27:54+00:00",
       "time_text": "12:27",
       "link": "https://t.me/MatinSenPaii/2764",
-      "views": "5.72K"
+      "views": "6.32K"
     },
     {
       "text": "🚀 آپدیت Range Scout نسخه 0.7.0\n\nاین نسخه اسکن DNS و مرحله DNSTT را خیلی منعطف‌تر کرده. حالا هم در اسکن می‌تونی بین UDP / TCP / BOTH انتخاب کنی، هم در مرحله DNSTT از UDP / TCP / DOT / DOH استفاده کنی. تنظیمات جدید هم داخل UI و فایل config کامل ذخیره و لود می‌شن.\n\n——————————————\n\n✨ چی عوض شده:\n\n🔹 پروتکل اسکن DNS قابل انتخاب شد\nحالا اسکنر فقط UDP نیست و می‌تونی UDP، TCP یا BOTH را برای probeهای سازگاری انتخاب کنی\n\n🔹 مرحله DNSTT حرفه‌ای‌تر شد\nبرای تست DNSTT حالا UDP، TCP، DOT و DOH پشتیبانی می‌شن\n\n🔹 Resolver Endpoint اضافه شد\nبرای DNSTT می‌تونی endpoint دلخواه بدی و از placeholderهای {ip} و {port} استفاده کنی\n\n🔹 تنظیمات جدید داخل config ذخیره می‌شن\nفیلدهای protocol، transport و resolverURL حالا موقع Save Config نگه داشته می‌شن و دوباره درست لود می‌شن\n\n🔹 اسکن TCP و حالت BOTH به هسته اسکن اضافه شد\nنتایج resolverها حالا می‌تونن بر اساس عملکرد واقعی روی UDP و TCP ثبت بشن\n\n🔹 تست‌ها و پایداری بهتر شد\nتست‌های scanner، DNSTT و embedded client گسترده‌تر شدن و رفتار transportهای جدید پوشش داده شد\n\n🔹 رابط کاربری و نسخه برنامه آپدیت شد\nفیلدهای جدید DNSTT وارد UI شدن و نسخه داخل هدر روی v0.7.0 قرار گرفت\n\n—————————————\n\n🔗 دانلود از گیت‌هاب\nhttps://github.com/PedramMarandi/range-scout/releases/tag/v0.7.0"
@@ -45,7 +45,7 @@
       "datetime": "2026-04-19T09:46:42+00:00",
       "time_text": "09:46",
       "link": "https://t.me/MatinSenPaii/2762",
-      "views": "18.7K"
+      "views": "18.9K"
     },
     {
       "text": "پول به \"شکن\" و امثالهم هم ندید. یادآوری کنم که چند هفته پیش، به مدت دو سه روز chatgpt روش باز شد و ملت کلی اشتراک خریدن و روش کانفیگ ساختن و باز مسدود شد. پول مردم هم رفت سطل آشغال"
@@ -57,7 +57,7 @@
       "datetime": "2026-04-19T09:25:10+00:00",
       "time_text": "09:25",
       "link": "https://t.me/MatinSenPaii/2761",
-      "views": "19.3K"
+      "views": "19.5K"
     },
     {
       "text": "منتها این کاری که کردن داره افتضاح میشه هر لحظه"
@@ -69,7 +69,7 @@
       "datetime": "2026-04-19T09:23:32+00:00",
       "time_text": "09:23",
       "link": "https://t.me/MatinSenPaii/2760",
-      "views": "19.8K"
+      "views": "20.1K"
     },
     {
       "text": "طبق داده‌های https://t.me/irnetmonitor ، دی ان اس گوگل روی دیتاسنتر آسیاتک باز شد\nآپدیت: بسته شد"
@@ -93,7 +93,7 @@
       "datetime": "2026-04-18T20:01:35+00:00",
       "time_text": "20:01",
       "link": "https://t.me/MatinSenPaii/2758",
-      "views": "28.1K"
+      "views": "28.2K"
     },
     {
       "text": "فیلترچی بین وایت کردن + اسپوف زدن ملت و بستن کامل گزینه‌ی دوم رو انتخاب کرد انگار. زورش نرسید هم وایت کنه هم SNI رو ببنده"
@@ -105,7 +105,7 @@
       "datetime": "2026-04-18T18:41:34+00:00",
       "time_text": "18:41",
       "link": "https://t.me/MatinSenPaii/2757",
-      "views": "30K"
+      "views": "30.1K"
     },
     {
       "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
@@ -134,7 +134,7 @@
       "datetime": "2026-04-18T10:02:22+00:00",
       "time_text": "10:02",
       "link": "https://t.me/MatinSenPaii/2754",
-      "views": "34.7K"
+      "views": "34.8K"
     },
     {
       "text": "بفرمایید اینم آموزش دسته‌بندی شده و مرتب"
@@ -203,7 +203,7 @@
       "datetime": "2026-04-17T23:39:00+00:00",
       "time_text": "23:39",
       "link": "https://t.me/MatinSenPaii/2749",
-      "views": "35.5K"
+      "views": "35.6K"
     },
     {
       "text": "اندروید به تنهایی نیاز به روت داره. کاری نیست که بشه واسش انجام داد فعلا \n\nپ.ن: با ترموکس و نسخه لینوکس میتونید."
@@ -245,7 +245,7 @@
       "datetime": "2026-04-17T21:47:02+00:00",
       "time_text": "21:47",
       "link": "https://t.me/MatinSenPaii/2746",
-      "views": "34.9K"
+      "views": "35K"
     },
     {
       "text": "خنده‌دار اینجاست که دیشب هم از ترسش پیامشو پاک کرد:\nhttps://t.me/MatinSenPaii/2716"
@@ -288,7 +288,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T15:00:04.292162",
+    "last_update": "2026-04-19T15:06:15.450208",
     "new_count": 0
   }
 }
