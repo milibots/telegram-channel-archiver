@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T09:46:42+00:00",
       "time_text": "09:46",
       "link": "https://t.me/MatinSenPaii/2762",
-      "views": "13.5K"
+      "views": "13.8K"
     },
     {
       "text": "پول به \"شکن\" و امثالهم هم ندید. یادآوری کنم که چند هفته پیش، به مدت دو سه روز chatgpt روش باز شد و ملت کلی اشتراک خریدن و روش کانفیگ ساختن و باز مسدود شد. پول مردم هم رفت سطل آشغال"
@@ -30,7 +30,7 @@
       "datetime": "2026-04-19T09:25:10+00:00",
       "time_text": "09:25",
       "link": "https://t.me/MatinSenPaii/2761",
-      "views": "15.1K"
+      "views": "15.3K"
     },
     {
       "text": "منتها این کاری که کردن داره افتضاح میشه هر لحظه"
@@ -42,7 +42,7 @@
       "datetime": "2026-04-19T09:23:32+00:00",
       "time_text": "09:23",
       "link": "https://t.me/MatinSenPaii/2760",
-      "views": "15.6K"
+      "views": "15.9K"
     },
     {
       "text": "طبق داده‌های https://t.me/irnetmonitor ، دی ان اس گوگل روی دیتاسنتر آسیاتک باز شد\nآپدیت: بسته شد"
@@ -66,7 +66,7 @@
       "datetime": "2026-04-18T20:01:35+00:00",
       "time_text": "20:01",
       "link": "https://t.me/MatinSenPaii/2758",
-      "views": "26.8K"
+      "views": "26.9K"
     },
     {
       "text": "فیلترچی بین وایت کردن + اسپوف زدن ملت و بستن کامل گزینه‌ی دوم رو انتخاب کرد انگار. زورش نرسید هم وایت کنه هم SNI رو ببنده"
@@ -78,7 +78,7 @@
       "datetime": "2026-04-18T18:41:34+00:00",
       "time_text": "18:41",
       "link": "https://t.me/MatinSenPaii/2757",
-      "views": "29K"
+      "views": "29.1K"
     },
     {
       "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
@@ -90,7 +90,7 @@
       "datetime": "2026-04-18T14:23:55+00:00",
       "time_text": "14:23",
       "link": "https://t.me/MatinSenPaii/2756",
-      "views": "31.6K"
+      "views": "31.7K"
     },
     {
       "text": "هیچکس توقع نداره کار کنه🤣🤣"
@@ -134,7 +134,7 @@
       "datetime": "2026-04-18T06:29:38+00:00",
       "time_text": "06:29",
       "link": "https://t.me/MatinSenPaii/2752",
-      "views": "33.8K"
+      "views": "33.9K"
     },
     {
       "text": "قطع و وصلی داره شدیدا در تلاشن ببندن SNI رو روش"
@@ -164,7 +164,7 @@
       "datetime": "2026-04-18T06:20:56+00:00",
       "time_text": "06:20",
       "link": "https://t.me/MatinSenPaii/2750",
-      "views": "33.2K"
+      "views": "33.3K"
     },
     {
       "text": "روز سوم SNI SPOOF با hcaptcha😂 همچنان وصلید دوستان؟"
@@ -191,7 +191,7 @@
       "datetime": "2026-04-17T23:30:50+00:00",
       "time_text": "23:30",
       "link": "https://t.me/MatinSenPaii/2748",
-      "views": "34.4K"
+      "views": "34.5K"
     },
     {
       "text": "در تلاشیم پروژه‌ای بالا بیاریم که دسترسی شما رو به سرورها + محتوای Config.json راحتتر کنه. سعی میکنیم تا فردا بالا بیاریمش"
@@ -287,7 +287,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T13:21:02.042260",
+    "last_update": "2026-04-19T13:27:13.871163",
     "new_count": 0
   }
 }
