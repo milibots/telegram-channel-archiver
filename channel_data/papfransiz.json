@@ -11,14 +11,29 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "- Senior Forensic Doctor.\n- NetOps & DevOps.\n- Gig Programmer 🫩.\n\nid:' @Pap_pv \nTxt:' t.me/papFransiz?direct",
-  "total_posts": 64,
-  "returned_posts": 64,
+  "total_posts": 65,
+  "returned_posts": 65,
   "posts": [
+    {
+      "datetime": "2026-04-19T20:19:06+00:00",
+      "time_text": "20:19",
+      "link": "https://t.me/papFransiz/380",
+      "views": "14"
+    },
+    {
+      "text": "#"
+    },
+    {
+      "text": "مطلب آموزشی قبلی  https://t.me/+CbPTq-0boCllM2Nk"
+    },
+    {
+      "post_id": "380"
+    },
     {
       "datetime": "2026-04-19T10:10:59+00:00",
       "time_text": "10:10",
       "link": "https://t.me/papFransiz/379",
-      "views": "155"
+      "views": "159"
     },
     {
       "text": "یه ایده زده به سرم یه بدافزاری بنویسم که وقتی تزریق شد به سرور وایت و گوشی بسیجی و... بتونیم ازشون به صورت اتوباند دیتا رد کنیم 🙂‍↕️"
@@ -30,7 +45,7 @@
       "datetime": "2026-04-18T18:23:44+00:00",
       "time_text": "18:23",
       "link": "https://t.me/papFransiz/378",
-      "views": "245"
+      "views": "248"
     },
     {
       "text": "رفتن یه سایتی رو روبه اینترنت بین المللی باز کردن که اون ایران تحریم کرده و نیازمند VPN تشریف داره 🫩\n\n\n#تاوان‌جوانی"
@@ -54,7 +69,7 @@
       "datetime": "2026-04-18T15:04:18+00:00",
       "time_text": "15:04",
       "link": "https://t.me/papFransiz/375",
-      "views": "294"
+      "views": "295"
     },
     {
       "text": "دلتون برام تنگ نشده ؟ 🫩"
@@ -197,7 +212,7 @@
       "datetime": "2026-04-15T16:46:06+00:00",
       "time_text": "16:46",
       "link": "https://t.me/papFransiz/362",
-      "views": "520"
+      "views": "521"
     },
     {
       "text": "ورژن جدید کرنل هم رلیز شده. ولی من ایرانی بدبخت هنوز درگیر وصل موندمم"
@@ -212,7 +227,7 @@
       "datetime": "2026-04-14T23:44:05+00:00",
       "time_text": "23:44",
       "link": "https://t.me/papFransiz/361",
-      "views": "733"
+      "views": "735"
     },
     {
       "text": "بزودی یه نرم افزار برای DNSTT مشابه slipnet برای کاربران آیفون و مک عرضه میشه 😃 \nدر حال طراحی های نهایه 🤧 \nحرکات باحالی پیاده سازی کردم 😁 \n\nاگه حمایتی شد از مطالب و محتوا شاید زودتر رلیز بشه"
@@ -224,7 +239,7 @@
       "datetime": "2026-04-14T23:06:26+00:00",
       "time_text": "23:06",
       "link": "https://t.me/papFransiz/360",
-      "views": "530"
+      "views": "531"
     },
     {
       "text": "فکت:\n\nیادگیری Openwrt به خاطر یه انسان با 160 قد کمر منو شکست"
@@ -255,22 +270,10 @@
     },
     {
       "post_id": "356"
-    },
-    {
-      "datetime": "2026-04-14T16:58:39+00:00",
-      "time_text": "16:58",
-      "link": "https://t.me/papFransiz/355",
-      "views": "420"
-    },
-    {
-      "text": "https://github.com/serverless-dns/serverless-dns"
-    },
-    {
-      "post_id": "355"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T22:13:49.438544",
-    "new_count": 0
+    "last_update": "2026-04-19T22:20:00.127495",
+    "new_count": 1
   }
 }
