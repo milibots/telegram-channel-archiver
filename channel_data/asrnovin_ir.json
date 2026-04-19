@@ -1,271 +1,86 @@
 {
   "success": true,
-  "channel": "asrnovin_ir",
-  "channel_title": "عصر نوین| AminiYT",
-  "channel_subscribers": "142K subscribers",
-  "total_posts": 64,
-  "returned_posts": 64,
+  "meta": {
+    "channel": "asrnovin_ir",
+    "title": "عصر نوین| AminiYT",
+    "username": "asrnovin_ir",
+    "avatar": "https://cdn4.telesco.pe/file/bB1ebippG6AJ8z7-67fUuPeY68A3dBmKJRz1AFHyLzZQT-ZbGLKB0MH7DanuIvc9_aU91f4cs_GdD2lClXushg9wiNbyzwNc3NXDM7gP3tr_Ht2WfquqzMmm2ge7Yvo_6erV8vO_mqi6PBAaHgeJ9SX8varicK4juyrmShwtg3VEHucMWHmzVgO6bGT-vo4xb6EVHgBdYG-h1x7nEK68qJIZ7aJlfWKMcd1chRuBJOtPV4Yv2YjjOrk7KeyxrFRu9xlYAzUx0ZxvKOCPsiXy-aPGj1N4qS7gFwq-lZtWi8-SA2vAvXVFXG-URL19ThzwSgFI4nVwLL5X4S1CwOxmlA.jpg",
+    "is_verified": false,
+    "description": "کانال رسمی Aminiyt در تلگرام\n\nتبلیغات\n@aminiyt\n\nکانال یوتیوب 👇\nhttps://youtube.com/@aminiyt1\n____\n\nآموزش های کمیاب در زمینه کسب درآمد دلاری ، هوش مصنوعی و...",
+    "counters": {
+      "subscribers": "142K",
+      "photos": "1.37K",
+      "videos": "130",
+      "files": "568",
+      "links": "2.72K"
+    },
+    "total_posts_in_view": 20,
+    "returned_posts": 20
+  },
   "posts": [
     {
-      "datetime": "2026-04-18T21:01:14+00:00",
-      "time_text": "21:01",
-      "link": "https://t.me/asrnovin_ir/10139",
-      "views": "7.26K"
-    },
-    {
-      "text": "یه زمانی پیش خودم میگفتم جلوی تکنولوژی نمیشه گرفت و فیلترچی هرچقدر تلاش کنه باز یه روش جدیدی میاد که بتونه فیلترینگ رو دور بزنه \n\nنکه نیاد ، روش جدید میاد مثل همین sni spoofing و میگفتن اگه بخوان جلوی این روش رو بگیرن هزینه های بسیار زیادی براشون داره ، ولی کمتر از چند روز این روش هم بسته شد.\n\nبه زمانی چین به ایران آپدیت فایروال میداد برای توسعه فیلترینگ ، الان فکر کنم ایران آپدیت های جدید رو میده به چین🤦‍♂"
-    },
-    {
       "post_id": "10139"
-    },
-    {
-      "datetime": "2026-04-18T20:33:00+00:00",
-      "time_text": "20:33",
-      "link": "https://t.me/asrnovin_ir/10138",
-      "views": "8.04K"
     },
     {
       "post_id": "10138"
     },
     {
-      "datetime": "2026-04-18T20:23:53+00:00",
-      "time_text": "20:23",
-      "link": "https://t.me/asrnovin_ir/10137",
-      "views": "8.65K"
-    },
-    {
-      "text": "طبق اطلاعیه ircf این سایت ها از مسیر عادی و بین الملل در دسترس نیستند \nبلکه از یک مسیر داخلی دستکاری شده عبور می کنند و شما میتونید بهشون دسترسی داشته باشید و خب از لحاظ امنیتی ممکنه مشکل ساز باشه"
-    },
-    {
-      "text": "سایتهای جدیدی که دقایقی پیش در اکثر اینترنت ها باز شده اند : sciencedirect.com  github.com e7.c.lencr.org  npmjs.com"
-    },
-    {
       "post_id": "10137"
-    },
-    {
-      "datetime": "2026-04-18T20:21:27+00:00",
-      "time_text": "20:21",
-      "link": "https://t.me/asrnovin_ir/10136",
-      "views": "8.76K"
-    },
-    {
-      "text": "گوگل مپ و گوگل ترنسلیت هم از دقایقی پیش در دسترس قرار گرفتن"
     },
     {
       "post_id": "10136"
     },
     {
-      "datetime": "2026-04-18T18:54:31+00:00",
-      "time_text": "18:54",
-      "link": "https://t.me/asrnovin_ir/10135",
-      "views": "11.6K"
-    },
-    {
-      "text": "سایتهای جدیدی که دقایقی پیش در اکثر اینترنت ها باز شده اند :\nsciencedirect.com \ngithub.com\ne7.c.lencr.org \nnpmjs.com"
-    },
-    {
       "post_id": "10135"
-    },
-    {
-      "datetime": "2026-04-18T10:20:25+00:00",
-      "time_text": "10:20",
-      "link": "https://t.me/asrnovin_ir/10134",
-      "views": "14.1K"
-    },
-    {
-      "text": "واکنش رئیس کمیسیون امنیت ملی به بسته شدن مجدد تنگه هرمز: لذت ببرید&#33;"
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/qDq6y_xV-qSg6ROXvm0d4KbgcgpmJ3XIe-mZvJzGo2Hx1eFUdIqGC1RkGPoeWdldmty84be2AoULuLrRL4Gh5b1R0iqsY29eYEXW8LNcu3nMZcgk-5ES88sLQwwin8ncRhtIvw4kY1-XcAGOUA8nQESnjHB7CyFDfovrtOvCZZlp6xVHw1wIM-wAjVlyKNjlC8PLmZRn0zjyB8qBlTTVDpholoTfu0TFjK42tKmZ-T_MGk2dlyNcld2HFbY_1wwwuBJpP1-PPhBQwWb0quYx6DMFb5NuS1DjIf_VqQC6zZWATcvXlW-3C2wjtyW1HffxSlOmDZ4Nt2V7s0F6uqM7fQ.jpg"
-      ]
     },
     {
       "post_id": "10134"
     },
     {
-      "datetime": "2026-04-17T09:03:12+00:00",
-      "time_text": "09:03",
-      "link": "https://t.me/asrnovin_ir/10133",
-      "views": "19.5K"
-    },
-    {
-      "text": "کانتینر آروان + یه سری دیتاسنتر ها اختلال خورده و قطع شده\nشایدم موج جدید تو راهه...\n\n#برطرف_شد"
-    },
-    {
       "post_id": "10133"
-    },
-    {
-      "datetime": "2026-04-17T08:44:36+00:00",
-      "time_text": "08:44",
-      "link": "https://t.me/asrnovin_ir/10131",
-      "views": "17.4K"
-    },
-    {
-      "text": "ابزار جدید منتشر شده برای اسکن sni spoof\nhttps://github.com/seramo/sni-scanner"
     },
     {
       "post_id": "10131"
     },
     {
-      "datetime": "2026-04-16T19:59:53+00:00",
-      "time_text": "19:59",
-      "link": "https://t.me/asrnovin_ir/10128",
-      "views": "19.8K"
-    },
-    {
-      "text": "طبق اطلاعاتی که منتشر شده اینترنت قراره توی 4 مرحله وصل بشه\nخیلی خلاصه میگم سرتون درد نگیره :\nمرحله اول : کاهش محدودیت خدمات داخلی ، مثلا توی پیام رسان هایی مثل ایتا نمیشد ویدیو ارسال کنی یا بیشتر از 5 مگ نمیشد فایل آپلود کنی حالا این محدودیت برداشته میشه.\nمرحله دوم : وایت لیست کردن سایت های حیاتی که توی این یکی دو روز اخیر در دسترس قرار گرفتن برای جلوگیری از اختلال در کسب و کار های قانونی.\nتو این مرحله اومدن مسیریابی ترافیک vpn رو شناسایی کردن تا بتونند راهای نفوذ رو ببندن\nمرحله سوم : گشایش پلتفرم های سرویس هوش مصنوعی با هدف فراهم سازی دسترسی کنترل شده ، یعنی مثلا سایت chatgpt باز میشه ولی از دامنه یا ایپیش نمیتونید برا ساخت کانفیگ استفاده کنید چون اومدن جلوشو بستن.\nمرحله چهارم : گشایش تدریجی پروتکل های شبکه که تو این مرحله تقریبا همه چی قابل دسترسیه ولی از اونجایی که روی پروتکل های icmp , ipv6 , udp میشه تانل زد اومدن راهکار دادن گفتن کلا اینا باید به خارج بسته باشن  یا محدودیت شدید گذاشته بشه براشون\nیه سری سیاست گذاری الزامی هم انجام دادن :\nتمامی سایت های آپلودر باید ثبت نام و احراز هویت رو برای کاربر اجباری کنند\nهرکسی سایت و خدمات توی ایران داره باید اونو ببره پشت شبکه توزیع محتوا ملی\n———\nما الان تو مرحله دوم و سوم هستیم و اگر شرایط بحرانی پیش بیاد همه چی دوباره بسته میشه و به حالت تعلیق در میاد\n@asrnovin_ir"
-    },
-    {
       "post_id": "10128"
-    },
-    {
-      "datetime": "2026-04-16T19:16:44+00:00",
-      "time_text": "19:16",
-      "link": "https://t.me/asrnovin_ir/10127",
-      "views": "18.4K"
-    },
-    {
-      "text": "آموزش ویدیویی استفاده از روش SNI Spoofing \n\nhttps://youtu.be/v5q6wqKuY9k",
-      "videos": [
-        "https://cdn4.telesco.pe/file/95f831b021.mp4?token=jbPdITgJHC8WDJ6u3q_ELmL_xmx9f6WQPu0LDPYXIphvodBPVhUo7K-Rfqr7EhQSRtHP8F1aiuVGhXJ-FVaqjN6C9wol6cQlBpC2vAvB0UoDGrm4clqGKeTLdX_aPF3DPbvKOz-CJPp_AOE5DL3rRk9aK30xlvwRl7UpZ3FzQiHmISr9lXIts2mKsMbpIMRfWnz9rbWokfO91WeZ0fuO-J364NoxLKZ3eKUjgErFbF3Q-1OxTKC-ZfvLnHlag2fvAUVWWP6yseYaLZjsz-5loeyeDSDSlURLbJTYLmtXdHMoid7Er0e4af0ciNfCRx7rEcT_BKOq8U2oBx9qnWr2ew"
-      ]
     },
     {
       "post_id": "10127"
     },
     {
-      "datetime": "2026-04-16T18:14:35+00:00",
-      "time_text": "18:14",
-      "link": "https://t.me/asrnovin_ir/10126",
-      "views": "17.6K"
-    },
-    {
-      "text": "دامنه hcapcha.com&lrm; روی ایرانسل، مخابرات و رایتل فعلا باز شده و با SNI Spoofing کار میکنه"
-    },
-    {
-      "text": "https://github.com/patterniha/SNI-Spoofing  این گیت‌هاب پروژه   تنها مشکلش این بود که برا استفاده شخصی و روی ویندوز اوکی بود   ولی خوب بچه ها نسخه لینوکس هم اوکی کردن که در حال تسته"
-    },
-    {
       "post_id": "10126"
-    },
-    {
-      "datetime": "2026-04-16T17:33:29+00:00",
-      "time_text": "17:33",
-      "link": "https://t.me/asrnovin_ir/10125",
-      "views": "18.2K"
-    },
-    {
-      "text": "🔴 بابک زنجانی: اوپراتور \"دات وان سل\" رو راه انداختیم عشق کنید\n\nمیتونید با کد معرف بقیه رو دعوت کنید و سیمکارت فیزیکی و eSIM هم بگیرید"
     },
     {
       "post_id": "10125"
     },
     {
-      "datetime": "2026-04-16T14:12:35+00:00",
-      "time_text": "14:12",
-      "link": "https://t.me/asrnovin_ir/10123",
-      "views": "17.9K"
-    },
-    {
-      "text": "هوش مصنوعی دیپ‌سیک در دسترس قرار گرفت.\n deepseek.com"
-    },
-    {
       "post_id": "10123"
-    },
-    {
-      "datetime": "2026-04-16T11:49:43+00:00",
-      "time_text": "11:49",
-      "link": "https://t.me/asrnovin_ir/10122",
-      "views": "18.5K"
-    },
-    {
-      "text": "اینم خیلی باحاله و میاد کل ارتباطات ترمینال رو از داخل یه پراکسی SOCKS5 رد می‌کنه\nexport ALL_PROXY='socks5h://user:pass@ip:port'\nexport all_proxy=\"&#036;ALL_PROXY\"\nexport http_proxy=\"&#036;ALL_PROXY\"\nexport https_proxy=\"&#036;ALL_PROXY\"\nexport HTTP_PROXY=\"&#036;ALL_PROXY\"\nexport HTTPS_PROXY=\"&#036;ALL_PROXY\"\nexport NO_PROXY=\"localhost,127.0.0.1\"\n\nbash <(curl -Ls --proxy \"&#036;ALL_PROXY\" https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)\nکافیه یه پروکسی ساکس داشته باشید و تو خط اول جایگزین کنید ، سپس داخل سرور ایرانتوندستور بالارو وارد کنید و به راحتی هرچیزی که خواستید رو نصب کنید\nتوی کد بالا به صورت پیش فرض دستور نصب پنل سنایی هست که میتونید به هرچیزی که نیاز دارید نصب کنید تغییرش بدید"
     },
     {
       "post_id": "10122"
     },
     {
-      "datetime": "2026-04-16T11:39:19+00:00",
-      "time_text": "11:39",
-      "link": "https://t.me/asrnovin_ir/10121",
-      "views": "25.8K"
-    },
-    {
-      "text": "یه سری از دوستان میپرسن حالا که گوگل باز شده میشه مثل قبل کانفیگ هایی شبیه چاتی پاتی ساخت  یا نه \nپاسخ :\nخیر نمیشه چون گوگل cdn و شبکه اختصاصی خودش رو داره و اصلاً روی زیرساخت Cloudflare نیست.\n\nخیلی ساده بخوام بگم :\nاینکه گوگل باز شده، مثل اینه که یه اتوبان خاص باز شده\nولی کلودفلر یه اتوبان کاملاً جداست\nباز شدن یکی، هیچ ربطی به باز شدن اون یکی نداره"
-    },
-    {
       "post_id": "10121"
-    },
-    {
-      "datetime": "2026-04-16T11:30:21+00:00",
-      "time_text": "11:30",
-      "link": "https://t.me/asrnovin_ir/10120",
-      "views": "18K"
-    },
-    {
-      "text": "اتفاقاتی که تا الان افتاده :\nگوگل به صورت محدود بازشده\nجیمیل هم رو یه سری اپراتور ها باز شده\nاپ استور و گوگل پلی هم ظاهرا دارن اوکی میشن\nتماس تلفنی از خارج به داخل هم اوکی شده"
     },
     {
       "post_id": "10120"
     },
     {
-      "datetime": "2026-04-16T10:58:47+00:00",
-      "time_text": "10:58",
-      "link": "https://t.me/asrnovin_ir/10119",
-      "views": "17.9K"
-    },
-    {
-      "text": "مثل اینکه گوگل باز شده با نت همراه و مخابرات تست کردم"
-    },
-    {
-      "text": "گوگل رو قراره باز کنن. اینجوریه که شما فقط میتونی سرچ کنی. سایتای توش باز نمیشن😂"
-    },
-    {
       "post_id": "10119"
-    },
-    {
-      "datetime": "2026-04-16T10:27:13+00:00",
-      "time_text": "10:27",
-      "link": "https://t.me/asrnovin_ir/10118",
-      "views": "18.2K"
-    },
-    {
-      "text": "&rlm;🚀 MonPing ابزار حرفه‌ای اسکن و مانیتورینگ شبکه\n\n📡 اسکن realtime آیپی‌های تمیز و پایدار + DNS Resolverهای سریع  \n🌐 پشتیبانی کامل از رنج Cloudflare، AWS، Google، Azure و ...\n\n⬇️ دانلود:  \ngithub.com/Expen1/MonPing&lrm;"
     },
     {
       "post_id": "10118"
     },
     {
-      "datetime": "2026-04-16T10:23:41+00:00",
-      "time_text": "10:23",
-      "link": "https://t.me/asrnovin_ir/10117",
-      "views": "18.3K"
-    },
-    {
-      "text": "در حالی که وزیر قطع ارتباطات از مخالفت با &lrm;#اینترنت_طبقاتی صحبت می‌کند، اینترنت پرو با سرعت در حال اجرا بوده و حکومت تلاش می‌کند با حفظ قطعی اینترنت عموم مردم، کسب و کارها را از نابودی نجات دهد."
-    },
-    {
       "post_id": "10117"
-    },
-    {
-      "datetime": "2026-04-15T21:54:47+00:00",
-      "time_text": "21:54",
-      "link": "https://t.me/asrnovin_ir/10116",
-      "views": "19K"
-    },
-    {
-      "text": "دقیقا وقتی اینو گفت همه چی بدتر شد 😂"
-    },
-    {
-      "text": "مشاور وزیر قطع ارتباطات: اینترنت به صورت مرحله به مرحله و هدفمند باز می‌شود  @asrnovin_ir"
     },
     {
       "post_id": "10116"
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T01:36:25.638941",
+    "last_updated_at": "2026-04-19T01:40:23.513948",
     "status": "success",
     "new_posts_found": 0
   }

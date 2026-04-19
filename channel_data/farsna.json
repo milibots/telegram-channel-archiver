@@ -1,267 +1,62 @@
 {
   "success": true,
-  "channel": "farsna",
-  "channel_title": "خبرگزاری فارس",
-  "channel_subscribers": "1.79M subscribers",
-  "total_posts": 59,
-  "returned_posts": 59,
+  "meta": {
+    "channel": "farsna",
+    "title": "خبرگزاری فارس",
+    "username": "farsna",
+    "avatar": "https://cdn4.telesco.pe/file/eGaDS3mgqBaTRK03HscCOwQohiLxFLYswPILgDv4k-4CXGOUCxGZCTpwJP23bYEU_0MYXb8E3F6AcRQHByCUhE3_O_20bvi5JBhPTzbZQJrZFtWseF27ugUJV2roV0-1dAwxgoZ44C4A0cfdWZUe3g6XYk2a-D8Vr-9A1t-T81_-8OLaNTWtIrjma7IXpCB22qcWZKY0iFRdyh3C9YGeGqUQ3P4vLPNuUh0fZDlkehYM3zsHztC1RWGdsASsb0D3GXjwe-Q54EVvPqWhkromYlOmCXob8AFCamd1c8a1xuddFR0b-FowadFp4NxHdRb0mXdnoKUqTBmiX_KGbufksA.jpg",
+    "is_verified": true,
+    "description": "حقیقت روشن می‌شود\n‌\n‌\nتبلیغات @Farsnews_ads\n\nارتباط  @FarsNews\n\nفارس‌پلاس @Fars_Plus\n‌\n ورزش @SportFars\n\n جهان @FarsNewsInt\n\nعکس @FarsImages \n\nپیام‌رسان‌ها @Farsna\n\nاینستاگرام instagram.com/fars_news\n\nتوییتر twitter.com/FarsNews_Agency",
+    "counters": {
+      "subscribers": "1.79M",
+      "photos": "217K",
+      "videos": "92K",
+      "files": "802",
+      "links": "136K"
+    },
+    "total_posts_in_view": 12,
+    "returned_posts": 12
+  },
   "posts": [
     {
-      "datetime": "2026-04-19T01:31:13+00:00",
-      "time_text": "01:31",
-      "link": "https://t.me/farsna/429968",
-      "views": "397"
-    },
-    {
-      "text": "‌\nجزئیات ترتیب بازگشایی آسمان کشور\n\n🔹به گفتۀ معاون سازمان هواپیمایی کشور، روند بازگشایی آسمان کشور به چهار مرحله تقسیم شده است.\n\n🔸در مرحلۀ اول، پروازهای عبوری؛ در مرحلۀ دوم، پروازهای فرودگاه‌های شرق کشور؛ در مرحلۀ سوم، پروازهای فرودگاه‌های مهرآباد و امام(ره)؛ و در مرحلۀ چهارم، پروازهای فرودگاه‌های غرب کشور برقرار خواهد شد. \n\n🔹این فرآیند به تدریج و با اولویت‌بندی دقیق عملیاتی می‌شود تا شرکت‌های هواپیمایی بتوانند پس از آن، برای برنامه‌ریزی پروازها و فروش بلیت اقدام کنند.\n\n🔸فروش بلیت هواپیما در حال حاضر متوقف است و مردم برای اطلاع از آخرین وضعیت فرودگاه‌ها و امکان خرید بلیت، باید به اطلاعیه‌های رسمی این سازمان توجه کنند. \n\n@Farsna - Link"
-    },
-    {
-      "text": "۶ فرودگاه کشور بازگشایی شدند   🔹دبیر انجمن شرکت‌های هواپیمایی: فرودگاه‌های مهرآباد، امام (ره)، مشهد، بیرجند، گرگان و زاهدان از امروز بازگشایی شدند و شرکت‌های هواپیمایی در حال آماده‌سازی برای انجام پرواز های داخلی و خارجی هستند.  🔹امروز صبح هم شرکت هواپیمایی…"
-    },
-    {
       "post_id": "429968"
-    },
-    {
-      "datetime": "2026-04-19T01:10:06+00:00",
-      "time_text": "01:10",
-      "link": "https://t.me/farsna/429967",
-      "views": "1.3K"
-    },
-    {
-      "text": "🎥 اهالی سیرجان به استقبال خانواده شهدای میناب آمدند\n\n🔹۳۰۰ تن از اعضای خانواده شهدای دانش آموز میناب که در راه مشهد مقدس قرار دارند، با رسیدن به ایستگاه قطار سیرجان مورد استقبال مردم سیرجان قرار گرفتند و سیرجانی‌ها ضمن خوشامدگویی به خانواده شهدای دانش آموز، آنان را بدرقه کردند.\n\n@Farsna - Link"
-    },
-    {
-      "videos": [
-        "https://cdn4.telesco.pe/file/98e3511d1f.mp4?token=Dxwy-mKPXSKU7TBvRawQGIw88ls2wUfmF5IfVnXsg-rypV0bI-XjudfN94lilmNB69kZOblXHUaTnsrKjFFYorveSZ_QSJpLzmd1ljYK2XQvL-BNOA_KWqEl9_CuVwDklP81H50TUympa8kY636h5De_7HI1lcipMLz0UIRidLDUpLmDAbA8Pl0NVz8t0SmOMi8hyG7WVnqDNkjRmD_rS5K-whE4ahI0ViAYtBE7tmj79_kbWKVjfDr1pVlJghhe_BHvAjysU0LMJhLQ4DStQwtkfskABDCxlvXtXpdwh2wf7-_TZkDfgrHzfNAwqjMn-r-1W1ivbn8-yhFXQAUFbA"
-      ]
     },
     {
       "post_id": "429967"
     },
     {
-      "datetime": "2026-04-19T00:47:21+00:00",
-      "time_text": "00:47",
-      "link": "https://t.me/farsna/429966",
-      "views": "2.2K"
-    },
-    {
-      "text": "بقائی: عبور بی‌قیدوشرط در تنگۀ هرمز پس از حمله به ایران بی‌معناست\n\n🔹سخنگوی وزارت امور خارجه: مفهوم «عبور بی‌قیدوشرط» در تنگۀ هرمز، از زمانی که پایگاه‌ها و امکانات نظامی آمریکا در پیرامون این تنگه برای اجرای عملیات نظامی تجاوزکارانه علیه ایران مورد استفاده قرار گرفت، عملاً موضوعیت ندارد.\n\n🔹مسبب این وضعیت بدون تردید آمریکا است.\n\n@Farsna - Link"
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/Vke8v9sXDhCr3lEZTpnEYdH0MnTYpIjf-tHpssADQ_BTogQpTW_qgSAsh-SMjzRqZzntNY2yN5RvvEMMT4BzvdJ5uZQZEkrMw5tY4tCxJGERATwNPsKg2tn-DS9CNMPTjMzynQGh9WzaGsv9o_MOm8HRAM62B1vaQRg_ZbcIgYNiAIv1-1E_J5D7mXAIlTHc0o69BpXfB8JLhbc1hyhw45DNO0BbH6Hf3ENLhHVqtwaIYB-vRzfYwAJ_pz6Sij7BGS8NP1ijirq6qw4hg7spzeJahX2wXnUDxjczNDGsM3YIhZ2CvWknRsEhFd77otnCDe8WLTRP7g19ZVPXzGaJEw.jpg"
-      ]
-    },
-    {
       "post_id": "429966"
-    },
-    {
-      "datetime": "2026-04-19T00:23:41+00:00",
-      "time_text": "00:23",
-      "link": "https://t.me/farsna/429964",
-      "views": "2.77K"
-    },
-    {
-      "text": "اردیبهشت پرباران در راه ایران\n\n🔹مدل‌های هواشناسی حاکی از آن است که در ماه اردیبهشت، بسیاری از نقاط کشور شاهد بارش‌هایی بیش از حد معمول خواهند بود.\n\n@Farsna - Link"
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/MMxQLIMkSAsVyFnTbjvCXVI5wWf9QX1Xb3UxOXch0xhOp-ftIuhZtfUR-xuSImPA6NBiq0EmhhZFBIHTl25300DI1YzPdGQrIRWFaDKKIKyaQ-PXuqZcXKfVoG1EbRumJx5l_O96z_1sUOj1_g8S1aZgA2ukjS2cpm77xtd2KIGNaQKXyY3BoqcsI3vlMd4jB_3av18SaTfiBiojkf5TBRQL3tgN-VvaoJOhu1GBhAg0uRY1U1i9gtgp07ZtgI3MktWTkg1KFKM8O94IP43Nk-rxyUnjvwnsAquQ0xu1J6LTI4ZiTvW48xjnCToMcp_8ED85no3NytYj09MdCEDvHg.jpg"
-      ]
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/k4SM0Oo-Yc_Jbo5Jpce10U5T57wd6Wr_nnI6GFBL3_gRggyy8QzhXFjk2LWG1Bs8qfINmKcOick2Hafty_DHabvVyAkxcu1BHeLZ6s7nUXyjSWGWS8Qn5kOVNH-Tb27V6gyj8tMGC3dsVIE6pP9abool3UxXswYTCzzIekdiCMwyPXkTIuX7MFkzsN9JVQRdof6KdY6dFJqn8VzjOm4Hyl80sk95Bg_fkgxe0yohSAv4uLxRmDjhW9nyT0RlQlMX_c_H_EuTVByoXcfzPmA9jjLGWpsGoOMP0-MASUYODAmKyzJ8kZZZmziEtWIJFJEo_-LSItyekdo_kmAijZtm6Q.jpg"
-      ]
     },
     {
       "post_id": "429964"
     },
     {
-      "datetime": "2026-04-18T23:51:01+00:00",
-      "time_text": "23:51",
-      "link": "https://t.me/farsna/429963",
-      "views": "3.1K"
-    },
-    {
-      "text": "🎥 روایتی از حضور مردم عزادار در جوار مقتل رهبر شهید انقلاب؛ خیابان کشوردوست ۱۴۰۵/۱/۲۸\n\n@Fars_plus"
-    },
-    {
-      "videos": [
-        "https://cdn4.telesco.pe/file/2537b68640.mp4?token=t6ZX_wRb7EWhOVUjYqF1ZWY8-Q_hTb7k2_LJ9VmXXcfpdzdStBU7QEqQj-m6uzmcyoA4gJnT0geJ4G_xAcXRTv8tJ9OpE8WmI8vXSz81Mpj0fR_6odKqby4HUypfU_TkDBjC8aCL-naVFuzE9PWykUx-JYUyG7y3RruitYmS9PcUv92cBPV44MetpRc9k2_PtLG456jFRsCJC3Ku82KZggn2lGT9NS6LkDJ5OPi-vfymQKPu2r8f7vWe7-yha_QIu_y1OrA9Q3lB1vwX5Ochj7gVTb_XyGWspSYzKkvzPN_FNY2cltbwxCWbG30zIXuxtWiVw95zbepJLkXSN11EKA"
-      ]
-    },
-    {
-      "videos": [
-        "https://cdn4.telesco.pe/file/2537b68640.mp4?token=t6ZX_wRb7EWhOVUjYqF1ZWY8-Q_hTb7k2_LJ9VmXXcfpdzdStBU7QEqQj-m6uzmcyoA4gJnT0geJ4G_xAcXRTv8tJ9OpE8WmI8vXSz81Mpj0fR_6odKqby4HUypfU_TkDBjC8aCL-naVFuzE9PWykUx-JYUyG7y3RruitYmS9PcUv92cBPV44MetpRc9k2_PtLG456jFRsCJC3Ku82KZggn2lGT9NS6LkDJ5OPi-vfymQKPu2r8f7vWe7-yha_QIu_y1OrA9Q3lB1vwX5Ochj7gVTb_XyGWspSYzKkvzPN_FNY2cltbwxCWbG30zIXuxtWiVw95zbepJLkXSN11EKA"
-      ]
-    },
-    {
       "post_id": "429963"
-    },
-    {
-      "datetime": "2026-04-18T23:30:57+00:00",
-      "time_text": "23:30",
-      "link": "https://t.me/farsna/429955",
-      "views": "4.06K"
-    },
-    {
-      "text": "🎥 شور شبانۀ بوشهری‌ها در جشن میلاد حضرت معصومه(س) و روز دختر\n\nعکاس: محمد غلامحسینی \n\n@Farsna"
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/cFRjVFP5tKznUMypCo80yyT7Xh-WibtUW0qxLlEXCkNXf-Z7izT5-fcWBeyMBaOSCjL-hY-z9LX1Uy0jIrDX7UieBwjMZ34ijBY0R-jWi2pL7Y2aj1tPH8aITR5ovv20_rUJX3QVdjMfcHs1uDn_qxNoYFPlnOJtOXOKZ3EH-FmuUt98Kze3SY8JeyaVlsUI-12fugVMXHtmCG8SarFLmTcP0_TvcleBX2yidvx1tnu4ZxNHno9YfrR0eAdyDYzqPp_5Z-sst_vYoj739iKVK7JdeYJBFiK_Ei2vwn8o7nljCweLHqgwC0OnDrMSn4I82jebFOquTus4k38r8Cpq5Q.jpg"
-      ]
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/pRKCUd1fGdVGw_pZl1zm11x044ZyZ2CEo2KMD1-W2B4sZWLJQEN5kmfzgyJUNWNtd9dcQV2b6WiuRwVujSrSQ6zPwx4_sH85P9pOE-B2o3EpEV1ZX1HOv6XXQmNPA4CEHRa54uRDwV6WSI-ZAMZWkBP9nLwxI_8ffYbCcddZrsXnj8CWbsDcInZ4LzYGgsJFwhmrtQX41Esbn9CqEmDtDmqLvgnqweLxVbXjjR2liVkfj8ncI4X_oEQZaburXVBYlLDumjErx1KjXFK8T_VBGxzVgJZTFPEnYUMZClWvOD-UY-PrJLfDB2EmhbdLzzT6irLfjVpWcXAeqP6uw_NL8g.jpg"
-      ]
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/lKz25GblDqvWk7Ru3ktqu1BhI1Az_bp-ybK8-WzxOQi5XUMom3ropQ5ObM-OBMSsU8WX8fQX-A-DcEfbflUuVPs3uZmrdA7QSsAGwEWX9c8SBLTO3XbKehuSqva1BmBaxZrWreRvZMsgzZb8cc1NJKmvdGiOXoaruteCOTtrlCU5PLrO6CBwjN79Rx9qs-4E-WdZCl4cuQR3YMjkPVxGOxbl1GZjBjnwGJ7ly74Gpx7xV93FwoZnN2LMBjBj_NQ806mFQTr1Omz3cZswg4BsComtrs0Z4bvKIsUjRGLuUqZhTJbj8dzBhYi4YzyMuNceHVkUCICn2m6naOrmF7ITRw.jpg"
-      ]
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/ECq8Efs1X1BeDzVQpDM_AtMw3_UVu3AevtErjZfOWej8FM_hphJJaZZvdweeRDV93MgAYMOAsbGo85kNeImNXJNVnO5Mguw2Uhqweg0WgAjdqLqOx2gG9KB-Cv67nX41JAgmaw8x67tUK120BX-uh8L_O5qmyObyuuo7qBln8mh8t7K9z1zfus4WoSTmYlbPD6sOuDr35nt-WVYAFJKCE9CgXW8KfU9HYq1ZUbx8556Ngs2NajCjjmlmc4JclMHY_PKzup78j0CtZ32GL5kcKmtKJ0Jmzhm4S1iSZK3ke3lDH6oGBzGUlCSbX5XV6zem5QGFYS9DoZWaIMpSrCH_nw.jpg"
-      ]
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/nhHPuRv1GUas5Fz5HlCMm8aEpcSW0vvsavQfU6bZMB_lkLPz_2m9IaLSY77dfWZfMoxdRLpXX6norlV0-4QJLTlzo9PIac8lqZb8uSExtRGCbn3feKOSV0qS0SLZ0wWEZzKq_YoJQyirUHbs5EFBNmAEP9Wx0Jt9EKGUKeHQFuTLkIJ7JMV1FgUpeOGciAZOH4pmjce-L9CTYwsGr-pe2r-dlARvsN3OT7rb1Op0UVUxDVJB-jr5RQFvQt3OJFUJ-NUzzkoKKnFr2A29hUs2AqNoVV5mgVq2zkMcE0mPUNB1rAVc4OOEDoA1hVvkRh2_Okfy02uHuBjDMJIf768CPg.jpg"
-      ]
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/XOWJDgzYZbPxxhBDrcZMM9kxx5gI3Pklxipj2BYLI7peVktzay9SAN6M79AI26djHQ0JsaTAkTy-vkqD_nM5Zt29_-3UMLx7t9TLvWwqbrRFpUPXiTLcCkVoCiHw2NwUBww0p4psVQ3-lmmuzCDM9hV6mdoev1AChMxvD2Gi7hLlOM_gjr9SP1_wKJxhM6Xx-g8amRWsBCZrKXSZ_4mj7WYQaRw-PE5DOFZv9o-32iip7L-Zw0TVovGqw0uNHAKXqZqLJxY9NxN1DS0g4F0rTQdH_eTSUIporlFE5ESsQBmbIVteAzQIDXmstZG1QE1DYztFkqwqMDfz9g0sebLilQ.jpg"
-      ]
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/LcZ_sv_ka92LuSejo3ylIbNxNRayxxv8Et1xKIKbIdAXydkUEVIZJoMLS6rWp5A5NEy4CvxKg51IWJkvS5049utQDgWT3VUAIOTarl2VSfcw3EoTJDfiY8dZuqDcQ0t0QJSrXYlBSgoowhY1a-y_6nTUgbxjpBppkX6I-9N5y5AHpUX5Rs1-R84xKsnekYkcUDx3Kz-trBTubsdAJJaqnJXckcxDET4cQdDm5Uih9yCEdUbd4YMsGjRvrmYvXhSlgYAb3nsMqfEP9sSVVdcLd_JI4OwuIkhQIYQKiQlD1vdV_7_sLiHlcPGMxvLO024QGIyr4XA4Hv41LLw_uFB37A.jpg"
-      ]
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/d0-_HNqKQPWCAEVKKZmEgD74mnZC7MgGf62jUsCU2bVN1289H8GkmTutnkxIrquCUIIzGhwVSDO9kBc0YZorGH3VnpV8eKPG9A05bREEwKO-DJZ39idUv9ztydb5FTl-RHgXPpiUAmpEwg7MVACk2Zi0EjzXA6uCNoYc_x3_VVnEIgJ2EUhWnCGTrlOEqJjvfUsbVpfAaaaMGnw7cvaMm_cLTDecO-HyxcIxy_wmbWp5T11UpIfFNIZxMwdVwLgs8E05jKdKlRN18PQdfFrc-v4SsdM-FkwlFvAuI9WNnN5ytcoxfG08WpSJSVQxbYmljk-acreRm_AVQG6iDVrcvg.jpg"
-      ]
     },
     {
       "post_id": "429955"
     },
     {
-      "datetime": "2026-04-18T23:20:11+00:00",
-      "time_text": "23:20",
-      "link": "https://t.me/farsna/429953",
-      "views": "3.49K"
-    },
-    {
-      "text": "گاف عجیب ترامپ در تلاش برای فتنه‌انگیزی میان سپاه پاسداران و وزیر خارجه\n\n🔹 رئیس‌جمهور آمریکا در شبکه اجتماعی ایکس در اقدامی عجیب تلاش کرد صدای ضبط شده یک رزمنده نیروی دریایی سپاه را مصادره به مطلوب کند، اما تیرش به خطا رفت.\n\n🔹 در حالیکه بر خلاف رجرخوانی‌های روز گذشته دونالد ترامپ، تنگه هرمز بار دیگر از سوی سپاه پاسداران بسته اعلام شد، ترامپ با انتشار ویدئویی نوشت: همین الان: نیروی دریایی سپاه پاسداران در رادیوی آزاد دریایی، وزیر امور خارجه خود ایران را «احمق» خطاب کرد.\n\n🔹اما همان‌طور که بسیاری از کاربران در ذیل این پست، به ترامپ گوشزد کرده و او را به سخره گرفته‌اند، منظور این رزمنده نیروی دریایی، از عبارت «احمق» نه وزیر خارجه ایران، بلکه اتفاقا شخص خود دونالد ترامپ است.\n\nشرح کامل ماجرا را در این‌جا بخوانید\n\n@FarsNewsInt"
-    },
-    {
-      "videos": [
-        "https://cdn4.telesco.pe/file/369b593da1.mp4?token=jecmmAkBift8BS0vmDL1xcA6EZFetJLwcbIlRKy65krNcx0nhJtp4P6HTb15QlyqbSsAB1xjP4fNN5ohDFNe8XSdompikZoZ5F5UvaYEXRLcDMfaPlgHADFRRQfxtPlEojBumaYp5GUOagfsV3INb76AlZKqk_E2tU5KdW7uSSH2-BL6dw5KGxRN8OCt9BTascNwDysfmSBBe-R9tXgUzOagbUrvxUtHNtzZ8Pc9nOuUJe3W2Hzex6dpDiWxiP2lDnO_gujBf3pTL3sfbb5AoL5m5Drr05ENeFK0r0EIg-6waVrtUPfmRmQqjLHdNT_y1QZwVg2MEUCxyNMLgW6RKQ"
-      ]
-    },
-    {
       "post_id": "429953"
-    },
-    {
-      "datetime": "2026-04-18T23:17:54+00:00",
-      "time_text": "23:17",
-      "link": "https://t.me/farsna/429952",
-      "views": "4.08K"
-    },
-    {
-      "text": "🎥 قالیباف: وقتی دشمن صهیونیستی برای یک منطقه در بیروت اعلان تخلیه داده بود اعلام کردیم که «اگر این مناطق را بزند ما هم می‌زنیم» و نزد\n\n🔹در توافق آتش‌بس، حزب‌الله جزوی از توافق بود؛ البته بعدا دیدیم در داخل لبنان برخی مقامات مواضعی داشتند. رویکرد ما این بود که ورود ما به چهارچوب ۱۰ بندی، مذاکره وقتی خواهد بود که آتش‌بس لبنان برقرار شود و اموال ایران آزاد. \n\n🔹 اساساً نشست اول ما با آقای عاصم منیر در اسلام‌آباد بر سر همین موضوع آتش‌بس لبنان بود. اولین نشست او با آمریکایی‌ها هم با همین موضوع بود. از همان‌جا دیدیم که پیگیری‌های آن‌ها برای آتش‌بس شروع شد.\n\n🔹حتی در یک روز که دشمن صهیونیستی برای یک منطقه در بیروت اعلان تخلیه داده بود، ما آنجا اعلام کردیم که «اگر این مناطق را بزند، ما هم می‌زنیم» و نزد. \n\n🔹ما آنجا اعلام کردیم که «اگر به آتش‌بس لبنان پایبند نباشند ما هم می‌زنیم و هم مذاکره را قطع می‌کنیم».\n@Farsna"
-    },
-    {
-      "videos": [
-        "https://cdn4.telesco.pe/file/97452119a6.mp4?token=QW0Z6LHITKbDDzZ6QpAWh279vq77HSvkaLKh524oL2O-OI85aqg-Q2TcfdZBbcTBWPDQMu6i66xLsJvDOtu2cosognPNiFPcXfgCCiZXBAKDZi7Oc0iOfE2p95NbRrDUh8a2W1zCa2qtHSP0Gsy4xTfnJROkhvZaAe6Js3n8P0TKwIF3Hfg2LYB7UgAkZlv4w7X3mGQHxedw8rwAHKnxvwb5TCRHX_B4x4dBZDzUvlJOQ3U1d95DlwQFTto38MB_Bo7YyKyzVO5bU-gvqLmMLARFTNaLuB8x3ojMLaDEFCNiLiqpJj6iCuPiEiblZuLRjdgtJN8MfgUeibuqzllYa7XAskDqaOmu8E6PBEFsgC49hwCYSH8zhP5DKlTg2KgzoMMbHLnW7_yItYr5VPUCfx4in3zkcQhK8yc_odyUdYDtKkG-2AugUGDyk6IH9NyNDL5xuNh-R1HJIQwQ_W_eFOpuVFA1ZI2eYe7HSHvokTJr51KxH8pjozD4iXN-P1BIpAxx5pkGR_iZVHFR4HUCF6jTTYHzy6XZXo4_F8g2Sq9BoiJcRhkLSjV6zU4RWg4XOcwWRqLR_iZ8FhbZmaH-dQGCEsRL87NlE6zQfX3phS3Ml6VUW0PPnnA8F_5MJGPCo_Tisar7ENC7Y8gTET_8qL4UytEoJcAo-ROoY-SKES4"
-      ]
-    },
-    {
-      "text": "🎥 چرا مذاکره با آمریکا تکذیب شد اما چند روز بعد هیئت ایرانی به اسلام‌آباد رفت؟  🔹 قالیباف: اگر ما همان موقع که ترامپ گفت در حال مذاکره با آمریکا بودیم، پس این‌همه اولتیماتوم برای چه بود؟ چرا تهدید به زدن زیرساخت‌ها می‌کرد؟  🔹ما تا ۴۸ ساعت قبل‌از آتش‌بس هیچ…"
     },
     {
       "post_id": "429952"
     },
     {
-      "datetime": "2026-04-18T23:10:04+00:00",
-      "time_text": "23:10",
-      "link": "https://t.me/farsna/429951",
-      "views": "4.05K"
-    },
-    {
-      "text": "🎥 تهرانی‌ها همچنان پرشور و شوق در سنگر خیابان ایستاده‌اند\n\n🔹اینجا میدان انقلاب، حوالی ساعت ۲ بامداد\n\n@Farsna"
-    },
-    {
-      "videos": [
-        "https://cdn4.telesco.pe/file/56fefa83f3.mp4?token=MAKw_xPKd6PNNgDsvBwRg7Ffsy-rQFduMlyYDoO6SuMZIS14gYNNa1xkOpq9gXSyol5h1zCENelEb1wmYiL_TDFEB-bMlWq1XWaW59A2JMmw5uy4DwX8HvFm9fxNT6C2c8FGk-u4PY_iIeSGtznpymVzx6SJtctv0HorgCPnQ776ofeJ3iFIjKZvFHzjkhmrAfSZL-yP0v7u7CQpFp1nAXU-13kKby1zv7jfR_Nc5AeX7nJnAQyIpF6ZU10890qaA-ZxUAfQxh1amyBhSJKxg4PdXlue82vgdZHHKEhuxaNWdIAZWcbi1-j1Mdw7M4jirFZ5nnvEbPLCnH5reJ8X0A"
-      ]
-    },
-    {
       "post_id": "429951"
-    },
-    {
-      "datetime": "2026-04-18T23:02:23+00:00",
-      "time_text": "23:02",
-      "link": "https://t.me/farsna/429950",
-      "views": "4.33K"
-    },
-    {
-      "text": "🎥 چرا مذاکره با آمریکا تکذیب شد اما چند روز بعد هیئت ایرانی به اسلام‌آباد رفت؟\n\n🔹 قالیباف: اگر ما همان موقع که ترامپ گفت در حال مذاکره با آمریکا بودیم، پس این‌همه اولتیماتوم برای چه بود؟ چرا تهدید به زدن زیرساخت‌ها می‌کرد؟\n\n🔹ما تا ۴۸ ساعت قبل‌از آتش‌بس هیچ مذاکره‌ای انجام ندادیم؛ ترامپ استاد دروغ‌گفتن و جنگ روانی است. دیروز ۸ توئیت منتشر کرد که ۷ مورد آن دروغ بود.\n\n🔹مذاکرات از زمانی شروع شد که ترامپ توئیت درخواست آتش‌بس را منتشر کرد؛ مذاکرات ما از شنبه که به پاکستان رسیدیم آغاز شد و قبل‌از آن صرفاً در ۴۸ ساعت آخر جنگ و منتهی به آتش‌بس، از طریق پاکستان تبادل پیام صورت گرفت.\n\n🔹از بصیرت، شجاعت و غیرت ملت ایران و بانوان ایرانی که با غیرت‌تر از مردان ما در میدان بودند متشکرم؛ وقتی گفتند می‌خواهند پل‌ها و نيروگاه‌های ما را بزنند، وقتی دیدم آنان دست زن و بچه‌های خود را گرفته و زنجیره‌های انسانی دور این نيروگاه‌ها و پل‌ها درست کرده‌اند شرمندۀ آنان شدم.\n\n🔹به ونس گفتم «ملت ایران شجاع، محترم و با ادب هستند. در تاریخ جایی را پیدا نمی‌کنید که ایرانی ها استقلال خود را از دست داده باشند». این ملت توانست ابرقدرت و رژیم سفاک صهیونیستی را زمین‌گیر کند.\n@Farsna"
-    },
-    {
-      "videos": [
-        "https://cdn4.telesco.pe/file/a0792b2aee.mp4?token=FAZ-6OCd-JGr6-NcXNJuPENavvquJnxHzqJ9bpQgSxGfkzb5eK9ifmLAsSkf77lOA0JoUVM3W4avlrha6MHpIoeyoD81zMDh4WPgS4sLcqQ_feOhpQPtNdz1utZSPusaLKS-Rzs1WEF10Cm4ZNDZyUtiYRCueskcCeLHQ8HFUjwxREhLVSITPs8PYgnaHNP3Voyvek8ETN_AVSNQ_rPiOK8a6T-zdm-POjsAKNKOs3SU1SmtDUlHICW8Tu-SIEGj2JzYh44oXzQKMgT_NAQLe-DUbmA4EpflX6Z7F_esqjeaRVo2auiAzyQ9aiTzlUTT9pSPR0YISIgiCrfQQwuiXq59ld2P0FkTESldK0ncmaIICceM_HqhE8sOotGlGsHU0NRco1UlchCt5yGGNh5Ek1V3MmAWxJ0FELjRHfArlxDMjnFQnhr6ePYVF89i7U946QYLEIGchL-Eu_gbKqsYvje2-tytS9b_PzTzpnQTdePd21Ru3EiWZ8y9j4hSizSGeabxhhiCzbEJLNTYCLIyVpIcYz4SzTvJvWwLdTEe1y88o8szim6Y3968klYMA-U79LnH_b2se7L7_UnH8nnlATH9qw9Y6uoFXo6vuYAam4RlbG4U9dIfBhlDtMLo7RXpJR61ID2y3LQcaLdwwzf2YSxxyZeFTXNWt9nYPsvr_yo"
-      ]
-    },
-    {
-      "text": "🎥 قالیباف: آماده‌ام هم جانم را تقدیم کنم و هم آبرویم را  🔹من هرگز داوطلب اینکه مذاکره‌کننده باشم نبودم، من باقی‌ماندۀ رزمندگان هستم و بدون شک هیچ توفیقی برای من به‌جز شهادت نیست.  🔹امروز چه کاغذهای مذاکره و چه کالک‌های نقشه‌های جنگی برای من یکی است.   🔹هم…"
     },
     {
       "post_id": "429950"
     },
     {
-      "datetime": "2026-04-18T22:54:45+00:00",
-      "time_text": "22:54",
-      "link": "https://t.me/farsna/429949",
-      "views": "4.25K"
-    },
-    {
-      "text": "🔴 معاون وزیر خارجه: هیچ مواد غنی‌سازی شده‌ای به آمریکا ارسال نخواهد شد\n\n🔹سعید خطیب‌زاده: هیچ مواد غنی‌سازی شده‌ای به آمریکا ارسال نخواهد شد و این موضوع قابل طرح نیست.\n\n🔹پیام‌های متعددی بین ایران و ایالات متحده تبادل شده است، اما آمریکا بر خواسته‌هایی اصرار دارد که تهران آنها را زیاده‌خواهی می‌داند.\n\n@Farsna"
-    },
-    {
       "post_id": "429949"
-    },
-    {
-      "datetime": "2026-04-18T22:48:41+00:00",
-      "time_text": "22:48",
-      "link": "https://t.me/farsna/429947",
-      "views": "4.42K"
-    },
-    {
-      "text": "🎥 اهالی شهرک اکباتان در سنگر خیابان\n\n@Farsna"
-    },
-    {
-      "videos": [
-        "https://cdn4.telesco.pe/file/1569706722.mp4?token=rYqqkbBc0hI8GMLZqjKhFlIyDrgW_JKSxHCPDZHq_kFT92KL7W2_mZYifE3OizZmRsEYMPDbKeUe1d6GR7GpY-uWkAr51k5W1YdjRHEgZK7A70T4QeuzL68E_WjBB6_7I_igVCPbgMoY5Xpnzf3C8IoKEWda6bQ9ZdO6k8LvBo552ns3vedAaj8YEqZB5BR-BbZ2pzDry1WJmrl8wtDR37vQK1RkE9zVde4NY498Q-vR4TAXejqIL70mPKK-SF3WcdqFSpRDb_43WV1Nr7F5oUedu-mwz1zeWoU_cWFAuyJKWIgadzWMHfCE_SSqApOT5vU7_RldIkaNWrg5jPl6v3IfMueR7aQ14oPWxLlB-gitg8mT-gngxVxZzrqKuLisPXw-28N4t6bMl1Qv1pfIxI3Sq99M1CX8GzqeVEFKdI0kul3X0QxN6A7s4-LuJ_hq2_iG4Z850HfbxGPrgHxRxQbo05y5040Lc-410wwnfyJ45QmrWQz5WxbvUM1ufr-lOPtlKmK_5XkMWIa-cE6lESWPlslS8svI24-kTXYRR7efsGJKqIPDHV83P08I60azBuc5PWUCBjodQdjAPpErgcT3qKY0vhUVP51VQRHiI2YdwaF9Qvr1BPWrc_Qu4RUrUQNMx7tr2Tersm1MvicYguh_Gz-Y2ZOp9-sHVlE9Jt0"
-      ]
-    },
-    {
-      "videos": [
-        "https://cdn4.telesco.pe/file/738d18582b.mp4?token=W5Giqtd-vZXZwh008jivVg8ABhgnB41Q0IZ5G4lgOeg9NudIh4WmWLLcBn4lX6wwt8kqTtOTd6gurHtArBk-cotxX6xu8vOBd_s6MkqX9mANd-bdZBVzOdAMMnZJ8AWvgVNchiPGsRxQVYAHz9Pwcff0nWhARTTMioaXtWfAFKeDJ-CP4wrvSziwlKjcxm_QYTlGXiT2_nebXYwIwozu2IyT92yFnlLcmL33SCKFpcMJTAvKJd1HvUM52fl3O1i1diMi0hcaT4gGrpYCGrhomCW3MpBn9kx4sXk1JN7ZgrX8MTceQUA3dGfoYWo6vXi62euxLCpCJ30H1qIyV2oGELK4JX8uSvzN1f0tXA5vH-mKUcc6vwRXIcHS0Nh2FKmRxMLs1Co4h_P-q52lNaWMgZpCqOFKvNEhaG2nupA7ZVME-mo1fWtV0IlATtrws6zrgy9Mc3YX88JjUTpnlTrhczVinxMhcWr5Hg2NYpO_27PiYaSbJazTUgQiT0qCV-S5iO-vohEe3K0Ti63xCDFCjUzvV2by3j04k-xjBvf3m635vNOptLE-Anf1lVQzBGQUzYPqbMJRDi1pCND7PBuNNvejqhmjY-DOEjY1RkmzwkHerA-AWRYGKNuIjpVmMbZhR4-W785QRf691MtuPOLl3oGNu-KZWMp0xIlLgFmBAfE"
-      ]
     },
     {
       "post_id": "429947"
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T01:36:30.210769",
+    "last_updated_at": "2026-04-19T01:40:27.263451",
     "status": "success",
     "new_posts_found": 0
   }

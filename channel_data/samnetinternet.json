@@ -1,281 +1,86 @@
 {
   "success": true,
-  "channel": "samnetinternet",
-  "channel_title": "SamNet Tech",
-  "channel_subscribers": "19K subscribers",
-  "total_posts": 65,
-  "returned_posts": 65,
+  "meta": {
+    "channel": "samnetinternet",
+    "title": "SamNet Tech",
+    "username": "samnetinternet",
+    "avatar": "https://cdn1.telesco.pe/file/D1fzFpEs9j_Ty7n6RDHiAc322fs1nGXMwDEdRRnwmZ_T8hr_ZsBtzmJqSH5chE__BW3dHY4_fnJ9jurezx-bnu6fBds8-6_EoqwGmXvu_ZIXCs49c3HhQaNPt59U0oFnFT-M4CLgxu920tzrkF7f83YjZhlD-H71wLuMmf9_0CxLHDr8QeLii9shuWYg-aw9KypaD0UkfnpjZvD9kTAVQXo2jO6B2E1K_BwFIdxfQQyRw4SDg0zpW6q6upZW9o_bRSIZI2aEj6UOUOBzhzQIdZ2feVGilrmpg4-pWb8UZnztCpaD-dkKcw8dQeg9gVtYq0E6j-3IB2_M3Py7w1W29A.jpg",
+    "is_verified": false,
+    "description": "All things Samnet related. Free Internet activist\n\n🦾 SamNet Toolkit bot:  @Samtoolsbot\n\nعضویت در گروه عمومی\n\nhttps://t.me/Samnetgroup\n\nپروژه های گیتهاب: \n\nhttps://github.com/SamNet-dev\n\nدونیت:\nhttps://samnet.dev/donate",
+    "counters": {
+      "subscribers": "19K",
+      "photos": "29",
+      "videos": "4",
+      "files": "55",
+      "links": "90"
+    },
+    "total_posts_in_view": 20,
+    "returned_posts": 20
+  },
   "posts": [
     {
-      "datetime": "2026-04-18T20:16:42+00:00",
-      "time_text": "20:16",
-      "link": "https://t.me/SamnetInternet/305",
-      "views": "4.41K"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/RMslZ9OqhDVGa6Ir4ZVXakLn7f39sNgx7xtj06yK6fasGWkOkdGRmkLtOza2G5g6WFWmOsM3Jmn2-eJsskZRLoDx3jW59BXrqOdsBkBiyUkiYXQji8lWTkKuoSgJ92FaJWWK4KsO_fP5lPzI9G5NYUYeBk0uMQgToqXW7-UUbTVG5qSOv5-9M5Y1eT31Z3siEmcZgPMB1gCuoTPFRLyZBm_Nq2Ewnd6EIRDaHq0BmwAROXJpgltN6SH6eIukgWTKuvguSqXfEv90QzYPC9fJfczRRfEvFmXm7kVcCZeRamRe9I5hId1kf9a3hzdfySkUna1cmLgoHYyMPI38QRPG8A.jpg"
-      ]
-    },
-    {
       "post_id": "305"
-    },
-    {
-      "datetime": "2026-04-18T20:06:23+00:00",
-      "time_text": "20:06",
-      "link": "https://t.me/SamnetInternet/304",
-      "views": "5.03K"
-    },
-    {
-      "text": "من شرمندتونم بچه ها :( 😔 میگن sni رو بستن..چند روزی مشغول بودم که زود تر برسونمش…🚬"
     },
     {
       "post_id": "304"
     },
     {
-      "datetime": "2026-04-18T19:59:10+00:00",
-      "time_text": "19:59",
-      "link": "https://t.me/SamnetInternet/303",
-      "views": "5.56K"
-    },
-    {
-      "text": "🛰️ عرضه اولیه snix v0.5.0 — دور زدنِ DPI با جعلِ SNI، حالا برای لینوکس و ویندوز\n\nبرنامه snix یک بازنویسی در Go از همان SNI-Spoofing  \nاست. همان الگوریتمِ دور زدن را بایت‌به‌بایت نگه می‌دارد، ولی برخلافِ نسخهٔ اصلی که فقط ویندوز و فقط پایتون است، snix یک باینریِ 10 مگابایتی برای لینوکس و ویندوز است و خیلی بیشتر از ترفندِ اصلی می‌دهد:\n\n🐧 لینوکس (NFQUEUE) + 🪟 ویندوز (WinDivert، بدون cgo)، یک فایل، بدونِ وابستگی\n🥷 چرخش بین wrong_seq و wrong_checksum، تصادفی‌سازیِ زمان، اندازه، IP-ID و SNI\n\n🔍 اسکنرِ داخلی: snix scan all بهترین SNIها و IPهای CDNِ ISP شما را پیدا می‌کند\n\n🪄 دستیارِ راه‌اندازی: snix init --wizard پیکربندی را در 60 ثانیه می‌نویسد\n\nداشبورد TUI کامل، لاگِ زنده، و جابه‌جاییِ profile\n\n☁️ سرور ندارید؟ دستیار یک Cloudflare Workerِ رایگان را حدود یک دقیقه استقرار می‌دهد\n\n🔌 پیکربندیِ خودکارِ Xray / v2ray / sing-box(\n\n🌍 راهنمای کاملِ انگلیسی و فارسی\n\n📥 نصب روی لینوکس:\ncurl -fsSL https://raw.githubusercontent.com/SamNet-dev/snix/main/installer/linux/install.sh | sudo sh\n\n📥 ویندوز: snix-setup.exe را از صفحهٔ releases دانلود کنید.\n\n🙏 الگوریتمِ اصلی کارِ patterniha است. \n\n📦 دانلود و راهنما: \nhttps://github.com/SamNet-dev/snix\n\nپی نوشت: این نسخه v0.5 هست و به مرور زمان مشکلاتش رو با هم پیدا میکنیم و حل میکنیم."
-    },
-    {
       "post_id": "303"
-    },
-    {
-      "datetime": "2026-04-18T19:20:21+00:00",
-      "time_text": "19:20",
-      "link": "https://t.me/SamnetInternet/302",
-      "views": "5.19K"
-    },
-    {
-      "text": "کارمندای امن افزار شریف که اینترنت رو روی ما بستن.\nکاری که اینها کردن کم از کسی که مستقیم شلیک میکنه نداره.\n\n(پستای قبلی فرمتشون بد و کم کیفیت بود پاک کردم)"
     },
     {
       "post_id": "302"
     },
     {
-      "datetime": "2026-04-17T14:14:38+00:00",
-      "time_text": "14:14",
-      "link": "https://t.me/SamnetInternet/301",
-      "views": "1.99K"
-    },
-    {
-      "text": "کانفیگ اهدایی ریتالین، کانال: @Khosrow_v2ray\nویژه اتصال با Spoof SNI\n\nحجم: نامحدود ♾️\nvless://380de414-8a0c-431b-bf20-6651c55208df@127.0.0.1:40443?encryption=none&security=tls&sni=tom.dnstt.space&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=tom.dnstt.space&path=%2FGoOgLe&mode=auto#Tomcat%20%40khosrow_v2ray\n\nvless://14c44521-e28f-4561-a12c-337d8cc44d87@127.0.0.1:40443?encryption=none&security=tls&sni=amphetamine.dnstt.space&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=amphetamine.dnstt.space&path=%2FTiMbErSaW&mode=auto#Amphetamine%20%40khosrow_v2ray\n\nvless://cbf524f0-4d7c-4173-aafb-e9f0608b3192@127.0.0.1:40443?encryption=none&security=tls&sni=focalin.dnstt.space&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=focalin.dnstt.space&path=%2FGoorbeh&mode=auto#Focalin%20%40khosrow_v2ray"
-    },
-    {
       "post_id": "301"
-    },
-    {
-      "datetime": "2026-04-13T23:17:35+00:00",
-      "time_text": "23:17",
-      "link": "https://t.me/SamnetInternet/299",
-      "views": "10.5K"
-    },
-    {
-      "text": "☠️آموزش روش جدید و قدرتمند SNI Spoofing - اتصال رایگان و بدون هزینه به اینترنت آزاد&#33;\n\n\nدانلود فایل نرم افزار: https://t.me/MatinSenPaii/2617\nآموزش edge tunnel روی کلودفلر: https://youtu.be/svYBcv4bSzo\n\n\nتوی این ویدیو آموزش کامل و قدم‌به‌قدم می‌دم که چطور بتونید به صورت کاملا رایگان با SNI-Spoofing با سرعت اینترنت خودتون متصل بشید&#33;\n\n⭐️ کاملاً رایگان\n⭐️ در حال حاضر ویژه‌ی ویندوز (نسخه لینوکس: https://github.com/PechenyeRU/FakeSNI)\n\n⚠️ پیش‌نیازها و نکات مهم: \n1️⃣ این ویدئو هیچ پیش نیازی نداره\n\n✉️ تماشا در تلگرام \n\n📹 تماشا در یوتوب\n\n💰 دونیت"
     },
     {
       "post_id": "299"
     },
     {
-      "datetime": "2026-04-13T17:52:35+00:00",
-      "time_text": "17:52",
-      "link": "https://t.me/SamnetInternet/298",
-      "views": "14.6K"
-    },
-    {
-      "text": "خلاصه وضعیت"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/XqEvDj-crMY55teBaiWBo3967_f1lucduxMpVxwfzSCXxLik8ikz51uofZ2u4InQTPBhCDKCpOWuBIyGLwq5EG1njfUGOA_vSJs6A051b9682su5ujTThTU6JgdXsp57WANYsDIxVmd8YXr_L6rNaAxcSws6s66yq1rzEG9-Iqu3li0bSoCQHi6KTk_eZH00rxET_mlxFz1cpSRtvXmIEkftAYz5KMlH-90M9gHGCMzFERwl2We4JCPSeCuSsYpWeDsF6gmkw2o7KJ3V6AxNLwac3lyehMejxyY4DIRjKgWN0gro3b9qrq_TV0kX5HomaVGnIn94D3zFrbvSOmgGIQ.jpg"
-      ]
-    },
-    {
       "post_id": "298"
-    },
-    {
-      "datetime": "2026-04-12T14:31:56+00:00",
-      "time_text": "14:31",
-      "link": "https://t.me/SamnetInternet/296",
-      "views": "15.2K"
-    },
-    {
-      "text": "بچه ها سایفون وصلین؟ 👀"
     },
     {
       "post_id": "296"
     },
     {
-      "datetime": "2026-04-10T15:07:48+00:00",
-      "time_text": "15:07",
-      "link": "https://t.me/SamnetInternet/294",
-      "views": "19.8K"
-    },
-    {
-      "text": "🏠 راهنمای ساخت سرور از خانه\n\nاین مقاله بیشتر مخصوص دوستان خارج از ایرانه  چطور با اینترنت خونگی و یه Raspberry Pi یا Mini PC سرویس‌های VPN و پروکسی تلگرام برای دوستاتون داخل ایران بسازید\n\nآی‌پی مسکونی معمولا همیشه IP تمیز دارن برخلاف VPS\n\n📋 شامل:\n• انتخاب سخت‌افزار و نصب لینوکس\n• پورت فوروارد روی روتر\n• پروکسی تلگرام (MTProxyMax)\n• داینمیک Dynamic DNS\n• امنیت سرور \n• در صورت بلاک شدن IP خانگی چکار کنیم\n\nالان اینترنت ایران وضعش خرابه ولی ذخیره کن برای وقتی وصل شد 📌\n\n📖 \nhttps://samnet.dev/learn/guides/home-server-guide/?lang=fa\n\n📖 مقاله های بیشتر:\nhttps://samnet.dev/learn"
-    },
-    {
       "post_id": "294"
-    },
-    {
-      "datetime": "2026-04-10T04:41:11+00:00",
-      "time_text": "04:41",
-      "link": "https://t.me/SamnetInternet/293",
-      "views": "14.8K"
-    },
-    {
-      "text": "🧅 آموزش Tor  چطور کار می‌کنه و چطور ازش استفاده کنی\n\nخود Tor ترافیکت رو از ۳ سرور تصادفی رد می‌کنه. هیچ‌کس نمی‌تونه هم هویتت و هم سایتی که باز می‌کنی رو بدونه.\n\n\n📖 https://samnet.dev/learn/guides/tor-explained/?lang=fa\n\nفارسی + انگلیسی \nاین روش احتمال بالا در وضعیت الان جواب نمیده ولی کلا مقاله اموزشی خوبی هست برای اطلاعات عمومی در مورد تور. وقت کردین بخونین. وقتی که نت یکمی وضعیتش بهتر بشه میتونید استفاه کنید. مقاله های زیادی در \n\nhttps://www.samnet.dev/learn/\nوجود داره که مفید هستند."
     },
     {
       "post_id": "293"
     },
     {
-      "datetime": "2026-04-09T18:55:00+00:00",
-      "time_text": "18:55",
-      "link": "https://t.me/SamnetInternet/292",
-      "views": "13.1K"
-    },
-    {
-      "text": "🔒 مقاله اموزش ساخت تانل DNS با dnstt-setup\n\nتانل DNS ترافیک اینترنت رو داخل کوئری‌های DNS مخفی می‌کنه. اینجا سعی شده که 8 نوع تانلی که این اسکریپت درست میکنه رو کارشون رو توضیح بده.\n در اخر مقاله  لینک کلی اموزش های دیگه هم هستش. این چند روز بیشتر درگیر نوشتن اموزش ها و مقاله های مختلف در زمینه های مختلف نتورک بودم. \n\nبه مرور زمان دونه دونه معرفیشون میکنم. \n\nبرای پیدا کردن DNS ها هم میتونید از این ربات استفاده کنید:  @dns_resolvers_bot\n\n📖 https://samnet.dev/learn/guides/dns-tunneling-guide/?lang=fa\n\nلینک بخش learn / اموزشی سایتم اکثرا انگلیسی هست ولی ترجمه فارسی هم به مرور زمان اضافه میشه. \nhttps://www.samnet.dev/learn/"
-    },
-    {
       "post_id": "292"
-    },
-    {
-      "datetime": "2026-04-08T15:12:02+00:00",
-      "time_text": "15:12",
-      "link": "https://t.me/SamnetInternet/291",
-      "views": "14.2K"
-    },
-    {
-      "text": "حالا وسط این همه جنگ، مشکلات اینترنت و سختی‌هایی که خودمون داریم تجربه می‌کنیم، اون‌طرف دنیا شرکت Anthropic  کلاد داره روی یه مدل جدید هوش مصنوعی به اسم Mythos کار می‌کنه؛ مدلی که در تست ها در مقایسه با Opus 4.6، (که خودش غولی هست) اختلاف سطح خیلی زیادی داره و رسما غیر قابل تصوره همچین جهشی.\n\nو نکته قابل توجه اینجاست که رسماً اعلام کردن فعلاً قصد عرضه عمومی این مدل رو ندارن، چون نگران اثرات مخرب احتمالی اون هستن.\n\nواقعاً به نظر می‌رسه صنعت کامپیوتر، نرم‌افزار و IT داره به نقطه حساسی نزدیک میشه. شاید خیلی فاصله‌ای با یک تغییر بزرگ و اساسی در این حوزه نداشته باشیم.\n\nاین هم یک توصیه دوستانه:\nهر کسی که قصد انتخاب رشته یا ادامه تحصیل داره، بهتره با دقت بیشتری به حوزه‌هایی مثل علوم کامپیوتر نگاه کنه. چون با این روند، ممکنه تا زمان فارغ‌التحصیلی، بخش قابل توجهی از این صنعت تحت تأثیر هوش مصنوعی قرار بگیره"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/I-becINd-4mk2tJMrDCaxglIz0CsdMxsDqM5jZNxZ5tuYQQlBjC6BJ4DGJeSKdBD4L8rYZx5kKRQp34gy3R648oj6UUl1h3SrkAsnL6LiDpUst-ZqnLyfQUI5pJlo9gscVuPb0X3ToHyoReg1LxhvqzOomRmZ7QEDwLlDJPHq1IFbGOj7zZq8YjwEJtT9movnRH4aFymlpT0Dxv9J8YJ7UzBtyToN-DdzA0Doc0XJGCk_30VrmY9n55wce7pDhkp_eMR8ie3IadgVedxMlRmeKBlULesQsGWIRhP2YNuE75QeQpXEt_mmsp1i-ZfZ9cD0SYuS_SB4jd1YFAfsggpiA.jpg"
-      ]
     },
     {
       "post_id": "291"
     },
     {
-      "datetime": "2026-04-07T22:40:39+00:00",
-      "time_text": "22:40",
-      "link": "https://t.me/SamnetInternet/289",
-      "views": "14.1K"
-    },
-    {
-      "text": "ترامپ:\n\nمن موافقت کردم که بمباران و حمله به ایران را به مدت دو هفته به شرط باز شدن تنگه هرمز به حالت تعلیق درآورم. این یک آتش‌بس دو طرفه خواهد بود&#33; دلیل انجام این کار این است که ما قبلاً به تمام اهداف نظامی رسیده‌ایم و از آنها فراتر رفته‌ایم و بسیار به توافق قطعی در مورد صلح بلندمدت با ایران و صلح در خاورمیانه نزدیک هستیم.\nما یک پیشنهاد 10 ماده‌ای از ایران دریافت کردیم و معتقدیم که این یک مبنای عملی برای مذاکره است. تقریباً تمام نکات مختلف اختلاف گذشته بین ایالات متحده و ایران مورد توافق قرار گرفته است، اما یک دوره دو هفته‌ای امکان نهایی شدن و تکمیل توافق را فراهم می‌کند.\nاز طرف ایالات متحده آمریکا، به عنوان رئیس جمهور، و همچنین به نمایندگی از کشورهای خاورمیانه، افتخار می‌کنم که این مشکل بلندمدت به حل و فصل نزدیک شده است."
-    },
-    {
       "post_id": "289"
-    },
-    {
-      "datetime": "2026-04-07T20:52:31+00:00",
-      "time_text": "20:52",
-      "link": "https://t.me/SamnetInternet/288",
-      "views": "13.6K"
-    },
-    {
-      "text": "🎵 Ramin Djawadi ~ Light of the Seven ⚔️"
     },
     {
       "post_id": "288"
     },
     {
-      "datetime": "2026-04-06T19:49:45+00:00",
-      "time_text": "19:49",
-      "link": "https://t.me/SamnetInternet/282",
-      "views": "16.4K"
-    },
-    {
-      "text": "این چند وقتی که نت قطعه من کلی مشغول به اپدیت کردن بقیه اسکریپت هام بودم. مثلا این اسکریپت پروکسی تلگرام نزدیک به 10 تا اپدیت دادم روش، هر چی روسی هست اومدن نصبش کردن 😂\nSamNet is going international"
-    },
-    {
       "post_id": "282"
-    },
-    {
-      "datetime": "2026-04-05T16:45:45+00:00",
-      "time_text": "16:45",
-      "link": "https://t.me/SamnetInternet/279",
-      "views": "18.9K"
-    },
-    {
-      "text": "️ ‼️ به‌روزرسانی: قطع اینترنت در ایران اکنون به طولانی‌ترین خاموشی اینترنت در مقیاس ملی در میان همه کشورها تبدیل شده است و از نظر شدت از تمام موارد مشابه فراتر رفته است؛ به‌طوری که پس از ۸۶۴ ساعت، وارد سی‌وهفتمین روز متوالی خود شده است."
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/ObCfpXtYRUC0NU8KtWhQgpthxuWT00AAWtiVGOfS4Ufb__NSFIYbIJJfIlnnIAIieh6XOd_tCjTsvEx3regEtK74yVgzaTk0RqsDRH6NmPiSfOOPB43LS0rkD-ROYw96FbOdoPU89znHcy8gIKfJwknp5CYcs8K8qkERtZw8SYOLoXV35maJXFwLXIXxLrR2ZroUqUJm47U3hnIi8vXfQ68PyFuQKUMX9kG0vRCykLwj1ICw4BlHFtbr8ifxuROJVT5XCVAIjhSkzL2m6bHMcIjFP0hGe8-bb1IYD7jmibAL9X0VBQlM2e6ysTOxWBgcdUVXMQ2vXFCSJuoXuaLsZA.jpg"
-      ]
     },
     {
       "post_id": "279"
     },
     {
-      "datetime": "2026-04-03T16:32:16+00:00",
-      "time_text": "16:32",
-      "link": "https://t.me/SamnetInternet/274",
-      "views": "29K"
-    },
-    {
-      "text": "اولین عکس با کیفیت از کره زمین مون از ماموریت  ارتمیس ۲ منتشر شد. این عکس کره زمین در شب هست. \nزوم کنید روی دور کره زمین، اون لایه نازک رو میبینین؟ اون همه اتمسفر ماست و دلیل زنده موندن مون. سمت بالا اون خط سبز رو میبینین؟ اون شفق قطبی هست. \n\nاین همه وجود ماست. ما چقدر کوچیکیم."
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/V2sOM-I1f7GPZ6a-IpPHtwJmSt0ovaFkPYHDH2y715t1YHWAHGbWwZc1U0q5wynv3B5uZP2ZKWvsvqNdXz1eBUfhC1WuUNB2X6ptl0-r5-UaU1wNGK6o9-Dh-7R9m1aZ5DDgM1pTnv4ImckP6PX4VEur4jCjED5nE96kYOw2ekP1wy9MfWvupZUE_YJ2geEM6WdcNWg6mmaLH0S-LdvyyS8HRo1KfYNsyiqXH3HkAkTZthCsvC5FP9KQELmqYySiW53n20dBB45QspTk_RYfAv4pkXZfJ92ET7efxuIjmaaeHyPNpBuMmpjVXZuQPswqFXdRNRWWEEA1l_d_PyKMeg.jpg"
-      ]
-    },
-    {
       "post_id": "274"
-    },
-    {
-      "datetime": "2026-04-03T15:47:35+00:00",
-      "time_text": "15:47",
-      "link": "https://t.me/SamnetInternet/273",
-      "views": "35.1K"
-    },
-    {
-      "text": "🗂️ پروژه dnstm-setup آپدیت بزرگ با پشتیبانی VayDNS\n🔥 نسخه v1.4.0\n\n⚡ پشتیبانی کامل از VayDNS\n• دو تانل جدید: vay1 (SOCKS) و vay-ssh (SSH) روی ساب‌دامین‌های v و vz\n• حالا تا 8 تانل همزمان (Slipstream + DNSTT + NoizDNS + VayDNS)\n• پروتکل KCP/smux با بازیابی خودکار اتصال\n• سازگار با SlipNet — کافیه نوع تانل رو DNSTT انتخاب کنید\n• دانلود و نصب خودکار باینری vaydns-server\n\n📈 دستور --monitor مانیتورینگ لحظه‌ای:\n• نمایش CPU، حافظه، پایداری هر تانل\n• تعداد اتصالات فعال SOCKS/SSH/DNS\n• لاگ‌های اخیر سرویس‌ها\n\n🔍 دستور --diag عیب‌یابی کامل:\n• بررسی باینری‌ها (dnstm, dnstt-server, noizdns, vaydns)\n• وضعیت سرویس‌ها با نمایش لاگ خطا\n• بررسی پورت ۵۳، فایروال، SSH، کلیدها\n• تشخیص تداخل systemd-resolved\n• هشدار MTU بالا برای تانل‌های DNSTT/NoizDNS/VayDNS\n• شمارش مشکلات با راهنمای رفع\n\n🐛 رفع باگ‌های مهم گزاش شده در گیتهاب\n\n🔧 بهبودها:\n• ۹ رکورد DNS (2 رکورد جدید برای VayDNS)\n• گزینه ۴ در --add-tunnel برای انتخاب VayDNS\n• تولید لینک SSH برای VayDNS در مدیریت کاربران\n• پاکسازی کامل VayDNS در --uninstall و --remove-tunnel\n\n📥 آپدیت:\ncurl -fsSL -o dnstm-setup.sh https://raw.githubusercontent.com/SamNet-dev/dnstm-setup/master/dnstm-setup.sh\nsudo bash dnstm-setup.sh\n\n🔗 https://github.com/SamNet-dev/dnstm-setup"
     },
     {
       "post_id": "273"
     },
     {
-      "datetime": "2026-04-01T22:45:05+00:00",
-      "time_text": "22:45",
-      "link": "https://t.me/SamnetInternet/271",
-      "views": "26.9K"
-    },
-    {
-      "text": "ناسا برای اولین بار از سال 1972 - 4 فضانورد را برای ماموریت به دور ماه فرستاد."
-    },
-    {
-      "videos": [
-        "https://cdn1.telesco.pe/file/aa0edcfa58.mp4?token=JwwzdTuOHAdjQFumnkC6RATOaTgno6W8A7fQg1EVB_1pv1qZWYWqiZU1H1_Y3tM1037-HG7z8Ezfpngl4mQufKdH5ter9wifq6QEy4C4subfWpXQjmw2-ym8eNpggs-V65EMpnG3smQEEpcoOh9n_v5ff-aYE6Zr3mQIq2snx2p85PYMneLN4zUddv83cc2DRlfbYY6ourlx_IGWoEdqBlCJ-uyQT4WN5edRfNaL77kDFpX-EKLK4BJcRH_eGsqNeZdBMmhbHSykyOADNpM8CRVcA-4tegNtVHzYAP4RtKrIthU6TOqR7I-2UAmt_ksTPbIujslbvoPN_KOfm4NXHg"
-      ]
-    },
-    {
       "post_id": "271"
-    },
-    {
-      "datetime": "2026-03-28T16:55:22+00:00",
-      "time_text": "16:55",
-      "link": "https://t.me/SamnetInternet/269",
-      "views": "25.5K"
-    },
-    {
-      "text": "🔗 معرفی کانال White DNS\n\nدوستان عزیز، یه کانال فوق‌العاده کاربردی رو میخوام بهتون معرفی کنم:\n\nکانال 👈 @whitedns\n\nاین کانال توسط یکی از دوستان عزیز و قابل اعتمادم مدیریت میشه و تمرکزش روی تکنولوژی DNS Tunnel و ابزارهای دسترسی آزاد به اینترنته.\n\n📌 چی توی این کانال پیدا میکنید:\n\n• کانفیگ‌های آماده DNS Tunnel DNSTT, SlipNet و ...\n• لیست DNS Resolver های فعال و به‌روز\n• ابزار Range Scout برای پیدا کردن DNS های فعال\n• ابزار FindNS برای تست سرتاسری تانل DNS\n• ربات @dns_resolvers_bot برای دسترسی سریع به لیست ریزالورها. کار ایشون و دوستای مورد اعتماد خودمون هست. \n\nاگه دنبال راهکارهای DNS Tunnel هستید، این کانال رو از دست ندید. عضو بشید و حمایتش کنید 🙏\nمخلص\n\n👇\nhttps://t.me/whitedns"
     },
     {
       "post_id": "269"
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T01:36:26.028375",
+    "last_updated_at": "2026-04-19T01:40:23.854691",
     "status": "success",
     "new_posts_found": 0
   }

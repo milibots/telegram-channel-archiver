@@ -1,315 +1,86 @@
 {
   "success": true,
-  "channel": "officialpersiatwiter",
-  "channel_title": "توییتر فارسی",
-  "channel_subscribers": "560K subscribers",
-  "total_posts": 75,
-  "returned_posts": 75,
+  "meta": {
+    "channel": "officialpersiatwiter",
+    "title": "توییتر فارسی",
+    "username": "officialpersiatwiter",
+    "avatar": "https://cdn4.telesco.pe/file/tBTpiMQ3LP8bZ8Ix5gkEpoMx2iv-iQCfcDayYKtLIhW9waeXXDUeggQUxVRwJg5lO0tqwlBZiT6dpeRMzT9nFmgpbWj-LjEVuInWG3bWXc8PtDmdMkhiRn0pdcktiIKKCdE2P0ppxarRVWWYyXLM2ZffwJtJt6KEAIqq7EWROP3VkgybK5K2YUIZ-nRRieMt_TPMfTikAquWYoDERXS5-mKaOBdbQ_Tp1g9gwLIqRr0093ROP741-i5U7ni52I4kmDBlaG_oBFYBqV6vSGst9f-9kVPGP55M02g7iSPTyUZ6sh00W76WCfDrbsR1GX8MIXDII7OSBAKElG4zBiShrw.jpg",
+    "is_verified": false,
+    "description": "تعرفه تبلیغات و کمپین های توییتری: @Ads_opt\nانتقادات و پیشنهادات: @OPT_user\nتوییتر: twitter.com/OPT_user\nاینستاگرام: instagram.com/optchannel",
+    "counters": {
+      "subscribers": "560K",
+      "photos": "122K",
+      "videos": "41.3K",
+      "files": "4",
+      "links": "3.66K"
+    },
+    "total_posts_in_view": 20,
+    "returned_posts": 20
+  },
   "posts": [
     {
-      "datetime": "2026-04-18T22:33:19+00:00",
-      "time_text": "22:33",
-      "link": "https://t.me/OfficialPersiaTwiter/494999",
-      "views": "7.56K"
-    },
-    {
-      "text": "هر بار از بله استفاده می‌کنم بعدش میرم تلگرام آفلاین رو نیم‌ ساعت لیس می‌زنم.\n\n*ژنرال*\n\n@OfficialPersiaTwiter"
-    },
-    {
       "post_id": "494999"
-    },
-    {
-      "datetime": "2026-04-18T21:35:06+00:00",
-      "time_text": "21:35",
-      "link": "https://t.me/OfficialPersiaTwiter/494998",
-      "views": "10.8K"
-    },
-    {
-      "text": "29 درصد از سال 2026 گذشت و ما 28 درصد ازش اینترنت نداشتیم.\n\n》MAhsa《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "text": "گیت‌هاب در دسترس قرار گرفت  دسترسی به سرویس GitHub از دقایقی پیش برای بسیاری از کاربران برقرار شده است. این اتفاق پس از هفته‌ای رخ می‌دهد که دسترسی محدود به برخی سرویس‌ها، از جمله جست‌وجوی گوگل، برای کاربران باز شده بود.  همچنین گوگل ترنسلیت و گوگل مپ از دقایقی…"
     },
     {
       "post_id": "494998"
     },
     {
-      "datetime": "2026-04-18T21:25:07+00:00",
-      "time_text": "21:25",
-      "link": "https://t.me/OfficialPersiaTwiter/494997",
-      "views": "11.5K"
-    },
-    {
-      "text": "عملیات خنثی‌سازی تسلیحات عمل‌نکرده دشمن در بوشهر انجام می شود\n\nفرماندار بوشهر:\n🔹عملیات تخصصی خنثی‌سازی و انهدام تعدادی از تسلیحات عمل‌نکرده متعلق به حملات دشمن، صبح یکشنبه ۳۰ فروردین از ساعت ۹:۰۰ الی ۱۱:۰۰ در پایگاه هوایی بوشهر اجرا می شود.\n\n🔹انفجارها در این بازه زمانی کنترل‌شده بوده و جای نگرانی نیست.\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "text": "انهدام مهمات باقی‌مانده از جنگ در قم  🔹روابط‌عمومی سپاه امام علی بن ابیطالب(ع): صدای انفجار در قم ناشی از عملیات فنی انهدام مهمات باقی‌مانده از دفاع مقدس رمضان است و جای نگرانی وجود ندارد.  وقوع انفجار کنترل‌شده در جهرم تا ساعاتی دیگر  🔹سپاه استان فارس: یک…"
-    },
-    {
       "post_id": "494997"
-    },
-    {
-      "datetime": "2026-04-18T21:15:08+00:00",
-      "time_text": "21:15",
-      "link": "https://t.me/OfficialPersiaTwiter/494996",
-      "views": "11.7K"
-    },
-    {
-      "text": "رهاسازی سد دز برای مهار سیلاب آغاز شد\n\nسازمان آب و برق خوزستان:\n🔹از ساعت ۲۴ امشب رهاسازی کنترل‌شده آب از سد دز اندیمشک آغاز شد، تا امکان مهار سیلاب‌های ورودی و مدیریت ایمن مخزن فراهم شود.\n🔹کشاورزان، دامداران و ساکنان حاشیه رودخانه دز باید نسبت به جمع‌آوری موتورهای تلمبه، کندوهای عسل، تجهیزات، ادوات کشاورزی و هرگونه وسایل در حریم و بستر رودخانه اقدام کنند. \n🔹حریم رودخانه تا پایان دوره رهاسازی باید تخلیه شود تا از بروز خسارات احتمالی جلوگیری شود./مهر\n\n》OPT《\n\n@OfficialPersiaTwiter"
     },
     {
       "post_id": "494996"
     },
     {
-      "datetime": "2026-04-18T21:05:01+00:00",
-      "time_text": "21:05",
-      "link": "https://t.me/OfficialPersiaTwiter/494995",
-      "views": "12.2K"
-    },
-    {
-      "text": "🔹خطیب‌زاده معاون وزیر خارجه در خصوص دور دوم مذاکرات: هنوز به نقطه‌ای نرسیده‌ایم که به یک نشست واقعی برویم، زیرا مسائلی وجود دارد که آمریکایی‌ها هنوز از موضع حداکثری خود در آنها کوتاه نیامده‌اند.\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "text": "🔴 برخی از منابع پاکستانی: برخلاف انتظارمان، مذاکرات روز دوشنبه میان ایران و امریکا قطعی نشده است و احتمالا برگزار نخواهد شد.  》OPT《  @OfficialPersiaTwiter"
-    },
-    {
       "post_id": "494995"
-    },
-    {
-      "datetime": "2026-04-18T20:57:04+00:00",
-      "time_text": "20:57",
-      "link": "https://t.me/OfficialPersiaTwiter/494994",
-      "views": "13.2K"
-    },
-    {
-      "text": "پخش سخنان مهم قالیباف درباره مذاکرات تا دقایقی دیگر از شبکه خبر\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "text": "قالیباف: اگر آمریکا محاصره را رها نکند، حتما تردد در تنگه هرمز محدود خواهد شد  🔹️رئیس مجلس در گفت‌وگوی تلویزیونی: مردم عزیز ایران، تنگه هرمز در کنترل جمهوری اسلامی است. 🔹با تلاش آمریکا برای مین‌روبی قاطعانه برخورد کردیم و آن را نقض آتش‌بس می‌دانیم و تا مرحله…",
-      "photos": [
-        "https://cdn4.telesco.pe/file/vSquhcHcyyVVU7wjoED7s_KAMR6XQ8hpwaAeGwkCpejmkpilIEnNDiip9Mw52FMBhmiTi0urQNAwRDOB1cpDPiC_8NBowLhJsd0S6wxA3TsXh_aWc7vQreXrtXJMB3i5bVdC0ITDT200RQ4Xhk3mpOF9cBr5-WSV2-Ny1aoZCIkZDDeX9IHxa0c-mHMvMJCq1orw9javdpL7WohEv4aadMMAOBrQRZfGojUJikanWJdj35zDwBcnMlW3OVM2ZnDNSZpyb1dK-3B5HC130II6xGo0_3rx-QIIge3z2DEQ6hKRvhuQ5_UK9fQDzOEcgFpe2gug5WjKm9MDtDnznUCVFg.jpg"
-      ]
     },
     {
       "post_id": "494994"
     },
     {
-      "datetime": "2026-04-18T20:47:23+00:00",
-      "time_text": "20:47",
-      "link": "https://t.me/OfficialPersiaTwiter/494993",
-      "views": "13.3K"
-    },
-    {
-      "text": "ترافیک ورود هواپیماهای سوخت‌رسان به فرودگاه بن گوریون در تل‌ آویو\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/Cc_hf3QxNnAAOUGQJr2hWAMzv47CiEY9iYPbUMMUfYBj-QdJF57Ujgmtu0k3DPR-5MHk7A5sHBMM8m1psW3q_stVYRl0k9QFJSqAUlAcrdT41IwrnIbvJ5SJMm4T1YbN7oU8O4CJWtUV7hSU6Mw32NXGNVgtfJzhdTncEP2LSI1dIObnGqSDA6eyl7itz16Tsf_k0EnigbiNy6CuYg7myBg5K6j_Q9Sah4QxJwu8la0ZHDG_WnCWhPssmNCX1FwzzrQj9jlT72w7r7pCaQ5b1NHGcIjS-6wY5LDmmmw1HZ5WqNTneQ6I1AXBz14wAx1igXV77zHGOdXTS7F-e4IZxg.jpg"
-      ]
-    },
-    {
       "post_id": "494993"
-    },
-    {
-      "datetime": "2026-04-18T20:36:10+00:00",
-      "time_text": "20:36",
-      "link": "https://t.me/OfficialPersiaTwiter/494992",
-      "views": "13.5K"
-    },
-    {
-      "text": "گیت‌هاب در دسترس قرار گرفت\n\nدسترسی به سرویس GitHub از دقایقی پیش برای بسیاری از کاربران برقرار شده است. این اتفاق پس از هفته‌ای رخ می‌دهد که دسترسی محدود به برخی سرویس‌ها، از جمله جست‌وجوی گوگل، برای کاربران باز شده بود.\n\nهمچنین گوگل ترنسلیت و گوگل مپ از دقایقی قبل در اکثر اپراتورها رفع فیلتر شده و در دسترس قرار گرفتند.\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "text": "اینترنت بین‌الملل؛ تنها ۲ درصد سطح معمول  🔹آخرین گزارش نت بلاکس می گوید اینترنت بین الملل برای چهل و نهمین روز در ایران مسدود است. تنها ۲ درصد سطح معمول اتصال بین الملل برقرار است.   🔹این گزارش می افزاید برخی کاربران به گوگل دسترسی دارند که این دسترسی در انسداد…",
-      "photos": [
-        "https://cdn4.telesco.pe/file/FdXuEXwcVFbrex_gyYNA4oNkHlQWXy_-HOuW3b30Zmv7dwP8E2dJW0oqsn2jqOaw0sqnZsY44CLIh9Bk2B6m5-ud_TOwEkUR7x_jALIg3EVWs7sX-2OZDU62sOQOPDemSszkDhdbjRaIPmhbTr5FIEG7E11ScqGk4Ard1VZn6JnD7AL9XV-5ZsNcGWqw2rRv4X9QQUcYH5FWGZGV-Ij4hG6ItPK942CTAxnPHNxTQCxsAxzVwDRe2qVcgGyDgWl09Wm2ZOQpA4Vjg5hPZuSDBrHUWdmBpKhDpcpVlhXAmqQrzfHwetqHQkCZh1ja83CPj3XHQqRab_GQl1kMmwdayA.jpg"
-      ]
     },
     {
       "post_id": "494992"
     },
     {
-      "datetime": "2026-04-18T20:30:45+00:00",
-      "time_text": "20:30",
-      "link": "https://t.me/OfficialPersiaTwiter/494991",
-      "views": "13.2K"
-    },
-    {
-      "text": "بلومبرگ: ۵ تانکر LNG که پس از هشدار ایران مبنی بر بستن تنگه هرمز، ابتدا به سمت آن حرکت می‌کردند، مسیر خود را تغییر دادند\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "text": "نیروی دریایی سپاه: تنگه هرمز از امروز عصر مسدود شد  🔹️روابط عمومی نیروی دریایی سپاه پاسداران انقلاب اسلامی: روز گذشته با اعلام جمهوری اسلامی ایران مبنی بر مجوز عبور شناورهای غیرنظامی از \"کریدور لارک\" تعدادی از شناورها با مدیریت و هماهنگی نیروی دریایی سپاه…"
-    },
-    {
       "post_id": "494991"
-    },
-    {
-      "datetime": "2026-04-18T20:22:01+00:00",
-      "time_text": "20:22",
-      "link": "https://t.me/OfficialPersiaTwiter/494990",
-      "views": "13.7K"
-    },
-    {
-      "text": "عید من اون روزی هست که همه کانالهای کانفیگ و VPN و قیمت دلار و طلا و سکه و ماشین رو از تلگرامم پاک کنم\n\n》Hadi《\n\n@OfficialPersiaTwiter"
     },
     {
       "post_id": "494990"
     },
     {
-      "datetime": "2026-04-18T20:11:33+00:00",
-      "time_text": "20:11",
-      "link": "https://t.me/OfficialPersiaTwiter/494989",
-      "views": "14.5K"
-    },
-    {
-      "text": "آکسیوس: نشست کاخ سفید درباره تنگه هرمز و مذاکرات با ایران برگزار شد\n\n🔹️آکسیوس به نقل از دو مقام آمریکایی گزارش داد که دونالد ترامپ رئیس‌جمهور ایالات متحده امروز شنبه نشستی در اتاق وضعیت کاخ سفید برای بررسی وضعیت تنگه هرمز و روند مذاکرات با ایران برگزار کرده است.\n\n🔹️آکسیوس در این گزارش افزود: در حالیکه انتظار می‌رود آتش‌بس طی سه روز آینده منقضی شود، هنوز تاریخ نهایی برای برگزاری نشست جدید میان مذاکره‌کنندگان دو کشور تعیین نشده است.\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "text": "اکسیوس:  جلسه ترامپ در کاخ سفید درمورد مذاکرات و مسدودی تنگه با حضور مقامات زیر برگزار شد:  معاون رئیس‌جمهور، ونس وزیر امور خارجه، مارکو روبیو وزیر دفاع، پیت هگست وزیر خزانه‌داری، اسکات بسنت رئیس دفتر کاخ سفید، سوزی وایلز فرستادهٔ کاخ سفید، استیو ویتکاف رئیس…"
-    },
-    {
       "post_id": "494989"
-    },
-    {
-      "datetime": "2026-04-18T19:40:14+00:00",
-      "time_text": "19:40",
-      "link": "https://t.me/OfficialPersiaTwiter/494988",
-      "views": "16.2K"
-    },
-    {
-      "text": "اکسیوس:\n\nجلسه ترامپ در کاخ سفید درمورد مذاکرات و مسدودی تنگه با حضور مقامات زیر برگزار شد:\n\nمعاون رئیس‌جمهور، ونس\nوزیر امور خارجه، مارکو روبیو\nوزیر دفاع، پیت هگست\nوزیر خزانه‌داری، اسکات بسنت\nرئیس دفتر کاخ سفید، سوزی وایلز\nفرستادهٔ کاخ سفید، استیو ویتکاف\nرئیس سازمان سیا، جان رتکلیف\nرئیس ستاد مشترک ارتش، دن کین/انتخاب\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "text": "رئیس ستاد مشترک ارتش آمریکا چند دقیقه پیش بعد از جلسه امنیتی درباره ایران کاخ سفید رو ترک کرد  》OPT《  @OfficialPersiaTwiter"
     },
     {
       "post_id": "494988"
     },
     {
-      "datetime": "2026-04-18T19:31:01+00:00",
-      "time_text": "19:31",
-      "link": "https://t.me/OfficialPersiaTwiter/494987",
-      "views": "16.4K"
-    },
-    {
-      "text": "پلنگ زیبای مازندران منتظر به دنیا آمدن توله‌هایش است\n\n«نور»، پلنگ زیبای مازندران، امسال را با جفت نری گذراند که سال قبل ۳۰ کیلومتر آن‌طرف‌تر مشاهده شده بود. نور حالا در انتظار به دنیا آمدن توله‌هایش است.\n\nعکس از امیرحسین گوهردهی\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/G9zo_56-tjVxjjatTdo8PCZPG5biDm9V7-yGSUCYvWlhMbTFV5ij5t73nc6B6syDStvAegOue7OQMIg6PElzlJFVCH2UkP7BMi7AAJyxirC-aKgvuq3x3Xqbd5C5DjCsxu8PDT4VwQPkK_DFZ2el6owBk4tyRgbPnFB0szuoBlLRd_x2OFxvey1VtD4T_Ly1_3b0zeE5byOQwiGKVztmBmKGieCb6yLuRLx49m8ovTekElx7WFuhO8FBqSQXpC8FkTzfExRhXde5STXyoTb4z-CFvXrla1d_jKpKti9a9hbgaFylpW4nDAv2-8ZFaoH7ln6UCcHhiCv1vEmT8Io6dQ.jpg"
-      ]
-    },
-    {
       "post_id": "494987"
-    },
-    {
-      "datetime": "2026-04-18T19:22:01+00:00",
-      "time_text": "19:22",
-      "link": "https://t.me/OfficialPersiaTwiter/494986",
-      "views": "15.7K"
-    },
-    {
-      "text": "شروط پنج‌گانه حزب‌الله برای مسیر پس از آتش‌بس\n\nنعیم قاسم، دبیرکل حزب‌الله: \n\n🔹️گام نخست، توقف دائمی تجاوز در سراسر لبنان از هوا، زمین و دریا است.\n🔹گام دوم، عقب‌نشینی کامل دشمن از خاک لبنان تا خط مرزی است.\n🔹گام سوم، آزادی اسرا است.\n🔹گام چهارم، بازگشت اهالی به شهرها و روستاهایشان در نقاط مرزی است.\n🔹گام پنجم، آغاز بازسازی با حمایت بین‌المللی ـ عربی و با مسئولیت ملی است.\n🔹 حزب‌الله آماده بیشترین سطح همکاری با دولت لبنان در چارچوبی تازه برای تحقق حاکمیت ملی است.\n\n》OPT《\n\n@OfficialPersiaTwiter"
     },
     {
       "post_id": "494986"
     },
     {
-      "datetime": "2026-04-18T19:10:07+00:00",
-      "time_text": "19:10",
-      "link": "https://t.me/OfficialPersiaTwiter/494985",
-      "views": "17.1K"
-    },
-    {
-      "text": "استوری لیلا اوتادی در جهت حمایت از امارات در جنگ رمضان و کارت اقامت ۱۰ ساله‌ی او که سبب پیگیری و توقیف اموالش شد\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "text": "🔴قوه قضائیه: جدیدترین اخبار از توقیف اموال و دارایی‌های چهره‌های همکار دشمن آمریکایی صهیونیستی  🔹اموال و حساب‌های بانکی مهناز افشار، مزدک میرزایی، نیکی کریمی، سینا سرلک، مسعود شجاعی و مسترتیستر توقیف شد.  🔹طی هفته‌های گذشته در راستای قانون تشدید مجازات جاسوسی…",
-      "photos": [
-        "https://cdn4.telesco.pe/file/rezhf6ucxA6kxf9dAcC97NTXBdSniA5J4ZbUu-FEXNvm0MrOlRKFtzIN-TC977ICJra0Q1FpqtLOAIUgg-wX3JlHhMQ8OlULv9REk3z0FNnNcF26xxslPfEBCIMSsxZD5AZSJBzHg1fjFZR4sLtYOGUOnjE3yo7qsLkdgF7Z2IU4WNgHDm1YKdKXuJ8ZS1jL3e5Shsi0ebeZncbaOi2OpF_n3uBhOGSaJsmzjpPx6PGMvu62cqTrJ9hvguNFXOhYkWO8I74KmVF6ZTZCwYS9QwB0sRxYpNCzMXuNc5_6gpNYAFu1d2xiW8t2SpNKr0qtwBBr6N3GXNuVEC9Nvkkmuw.jpg"
-      ]
-    },
-    {
       "post_id": "494985"
-    },
-    {
-      "datetime": "2026-04-18T19:01:01+00:00",
-      "time_text": "19:01",
-      "link": "https://t.me/OfficialPersiaTwiter/494984",
-      "views": "17.3K"
-    },
-    {
-      "text": "🔴 برخی از منابع پاکستانی: برخلاف انتظارمان، مذاکرات روز دوشنبه میان ایران و امریکا قطعی نشده است و احتمالا برگزار نخواهد شد.\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "text": "🔴 ایران فعلا با دور بعدی مذاکره با آمریکا موافقت نکرده است  🔹کسب اطلاع از نهادهای ذی‌ربط حاکی است که به دلیل اعلام ترامپ مبنی بر محاصره دریایی ایران و همچنین زیاده‌خواهی‌های آمریکایی‌ها در مذاکره که در پیام‌های رد و بدل شده اخیر نیز ادامه دارد، ایران با دور…"
     },
     {
       "post_id": "494984"
     },
     {
-      "datetime": "2026-04-18T18:50:05+00:00",
-      "time_text": "18:50",
-      "link": "https://t.me/OfficialPersiaTwiter/494983",
-      "views": "17.4K"
-    },
-    {
-      "text": "قالیباف: اگر آمریکا محاصره را رها نکند، حتما تردد در تنگه هرمز محدود خواهد شد\n\n🔹️رئیس مجلس در گفت‌وگوی تلویزیونی: مردم عزیز ایران، تنگه هرمز در کنترل جمهوری اسلامی است.\n🔹با تلاش آمریکا برای مین‌روبی قاطعانه برخورد کردیم و آن را نقض آتش‌بس می‌دانیم و تا مرحله درگیری پیش رفتیم اما دشمن عقب‌نشینی کرد‌.\n🔹در اسلام‌آباد به هیئت آمریکایی گفتم که اگر مین‌روب آن‌ها از مکان خود ذره‌ای جلوتر برود، قطعا به آن شلیک می‌کنیم. ۱۵ دقیقه فرصت خواستند تا دستور برگشت بدهند و دادند‌.\n🔹اگر امروز در تنگه ترددی انجام می‌شود، کنترل تنگه در دست ما قرار دارد. \n🔹آمریکایی‌ها چند روز است که اعلام محاصره کرده‌اند، این یک تصمیم ناشیانه و از روی نادانی است‌. امکان ندارد دیگران بتوانند از تنگه هرمز عبور کنند ولی ما نتوانیم. \n🔹اگر آمریکا محاصره را رها نکند، حتما تردد در تنگه هرمز محدود خواهد شد.\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
       "post_id": "494983"
-    },
-    {
-      "datetime": "2026-04-18T18:40:06+00:00",
-      "time_text": "18:40",
-      "link": "https://t.me/OfficialPersiaTwiter/494982",
-      "views": "16.2K"
-    },
-    {
-      "text": "نیروی دریایی سپاه: تنگه هرمز از امروز عصر مسدود شد\n\n🔹️روابط عمومی نیروی دریایی سپاه پاسداران انقلاب اسلامی: روز گذشته با اعلام جمهوری اسلامی ایران مبنی بر مجوز عبور شناورهای غیرنظامی از \"کریدور لارک\" تعدادی از شناورها با مدیریت و هماهنگی نیروی دریایی سپاه از تنگه هرمز عبور کردند.\n🔹لکن در پی نقض تعهد شرایط آتش بس، دشمن امریکایی محاصره دریایی شناورها و بنادر ایرانی را لغو نکرد، لذا از امروز عصر تنگه هرمز تا لغو این محاصره مسدود می گردد. \n🔹بنابراین هشدار می‌دهیم هیچ نوع شناوری از لنگرگاه خود در خلیج فارس و دریای عمان&nbsp; تحرکی نداشته و نزدیک شدن به تنگه هرمز به منزله همکاری با دشمن تلقی و شناور متخلف مورد هدف قرار خواهد گرفت. \n🔹همچنین به همه شناورها و مالکان آنها اعلام میکنیم تنها از مرجع رسمی نیروی دریایی سپاه و ارتباط با کانال ۱۶ اخبار را دنبال و صحبت‌های رئیس جمهور تروریست امریکا در تنگه هرمز و خلیج فارس هیچ اعتباری ندارد.\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "text": "نیویورک تایمز: بازگشایی تنگه هرمز، فقط تاحدی می‌تواند بحران نفت را کاهش دهد  🔹تحلیلگران می‌گویند شرکت‌های انرژی و حمل‌ونقل تا زمانی که مطمئن نباشند خصومت‌ها به‌طور کامل پایان یافته، به‌طور کامل عملیات‌شان را از سر نخواهند گرفت.  🔹اگر امنیت بلندمدت تنگه تضمین…"
     },
     {
       "post_id": "494982"
     },
     {
-      "datetime": "2026-04-18T18:30:19+00:00",
-      "time_text": "18:30",
-      "link": "https://t.me/OfficialPersiaTwiter/494981",
-      "views": "15.7K"
-    },
-    {
-      "text": "نیویورک تایمز: بازگشایی تنگه هرمز، فقط تاحدی می‌تواند بحران نفت را کاهش دهد\n\n🔹تحلیلگران می‌گویند شرکت‌های انرژی و حمل‌ونقل تا زمانی که مطمئن نباشند خصومت‌ها به‌طور کامل پایان یافته، به‌طور کامل عملیات‌شان را از سر نخواهند گرفت.\n\n🔹اگر امنیت بلندمدت تنگه تضمین نشود، شرکت‌های بیمه و خطوط حمل‌ونقل همچنان از فرستادن کشتی‌ها به این آبراهه حیاتی امتناع خواهند کرد.\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "text": "سی‌ان‌ان: اولویت عبور از تنگه هرمز با شناور‌هایی است که با سرعت بیشتری هزینه‌ پرداخت کنند  یک مسئول مرتبط با مدیریت تنگه‌هرمز در ایران به سی‌ان‌ان: 🔹با توجه به نظم جدید حاکم بر تنگه هرمز، فرآیند تردد محدود شناورها، بر اساس اولویت‌بندی‌های جدید انجام خواهد…",
-      "photos": [
-        "https://cdn4.telesco.pe/file/dATM97HL1m1WQMf1zK6dTl92UptwtTbS1pnQeedpjvDUOH8IkGlXhgyexX_TntWDy43i4x_QyI8eM8zAa0bqI4cYZ2FGuQnYiw650zomyHy5wd9EicjLQmyR1__zuGL4hqrUZYvB0ThSxcwONbkbl4PQuEVtJD1dtYNsCqgzcbxMnmqsmKF77fO907B1WSkGYyT_WKpLUtgXkyOUaswcu61iGNwYoHuNpAwzq8eGMLx1BWeSqlgEKiz_Y4waJkxBg3kEwxwkgEwdLlKf-0tANL1wnajFGmskXxmxHWWhGl2pHjoOnVB92Dt7J7GyHsjirI1dFNcEqFuMrgMR0CTBLw.jpg"
-      ]
-    },
-    {
       "post_id": "494981"
-    },
-    {
-      "datetime": "2026-04-18T18:23:01+00:00",
-      "time_text": "18:23",
-      "link": "https://t.me/OfficialPersiaTwiter/494980",
-      "views": "14.7K"
-    },
-    {
-      "text": "انهدام مهمات باقی‌مانده از جنگ در قم\n\n🔹روابط‌عمومی سپاه امام علی بن ابیطالب(ع): صدای انفجار در قم ناشی از عملیات فنی انهدام مهمات باقی‌مانده از دفاع مقدس رمضان است و جای نگرانی وجود ندارد.\n\nوقوع انفجار کنترل‌شده در جهرم تا ساعاتی دیگر\n\n🔹سپاه استان فارس: یک بمب عمل‌نکرده تا ساعتی دیگر با حضور تیم‌های تخصصی چک و خنثی به‌صورت کنترل‌شده در اطراف شهر جهرم منهدم خواهد شد؛ مردم نگران صدای انفجار نباشد.\n\n》OPT《\n\n@OfficialPersiaTwiter"
-    },
-    {
-      "text": "صداهای انفجار در آبدانان امروز و فردا کنترل شده است  فرماندار آبدانان: 🔹به‌دلیل خنثی‌سازی و انفجار مهمات باقی‌مانده از حملات آمریکایی صهیونیستی در محدوده شهرستان آبدانان، صدای انفجارهایی از امروز شنبه ۲۹ فروردین تا روز یکشنبه ۳۰ فروردین ماه شنیده خواهد شد.…"
     },
     {
       "post_id": "494980"
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T01:36:28.555405",
+    "last_updated_at": "2026-04-19T01:40:25.964842",
     "status": "success",
     "new_posts_found": 0
   }

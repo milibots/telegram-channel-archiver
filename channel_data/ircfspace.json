@@ -1,314 +1,86 @@
 {
   "success": true,
-  "channel": "ircfspace",
-  "channel_title": "IRCF | اینترنت آزاد برای همه",
-  "channel_subscribers": "86.6K subscribers",
-  "total_posts": 72,
-  "returned_posts": 72,
+  "meta": {
+    "channel": "ircfspace",
+    "title": "IRCF | اینترنت آزاد برای همه",
+    "username": "ircfspace",
+    "avatar": "https://cdn1.telesco.pe/file/X7WNCN6XRtIq2DxFMYa93XXOCK0Cla99qujG8CTSAsGmc9Wu_Akk4p78KSAIMWDem8dksPth65wzsdCWxtm246ihe7bMMmYZQfudca0SsUC0xyHM7Ky8LvJy5MijT5eWYIZz9uriM6HUJTHyOfDtqwSm1lfN1jqjwfazXKUQpjsBZA-U6HFOeT0sJ996RNit4vgZlAbTFmgoQOwNOQSHeGhhZDBCIFLcA98FX6Ps9OnUGHKLnbHoWhNYTtqGitIkNzBXdkzFRijfJ02w2ezfl6EA1J37IQ6kKUzP0KePKq8NBMxqWeajp_vEyK2Pa-j8J09fxfvmegAZQkC1aM_0OA.jpg",
+    "is_verified": false,
+    "description": "این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه&#33;\n\nhttps://ircf.space/contacts\nhttps://x.com/ircfspace",
+    "counters": {
+      "subscribers": "86.6K",
+      "photos": "1.31K",
+      "videos": "69",
+      "files": "7",
+      "links": "1.98K"
+    },
+    "total_posts_in_view": 20,
+    "returned_posts": 20
+  },
   "posts": [
     {
-      "datetime": "2026-04-18T18:37:00+00:00",
-      "time_text": "18:37",
-      "link": "https://t.me/ircfspace/2167",
-      "views": "17.7K"
-    },
-    {
-      "text": "بر اساس گزارش‌ها، ترافیک Github, Npmjs و ... در حال حاضر بجای اینکه از مسیر بین‌المللی خارج بشه، داخل کشور به رنج‌های داخلی (زیرساخت) هدایت شده. یعنی از یه مسیر دستکاری‌شده عبور می‌کنن&#33;\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
       "post_id": "2167"
-    },
-    {
-      "datetime": "2026-04-18T18:26:09+00:00",
-      "time_text": "18:26",
-      "link": "https://t.me/ircfspace/2166",
-      "views": "14.4K"
-    },
-    {
-      "text": "در ادامه طرح وایت‌لیست کردن سایت‌های حیاتی، دسترسی به github و npmjs در برخی از اپراتورها میسر شد و مشخص نیست این‌دسترسی موقته یا نه.\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
     },
     {
       "post_id": "2166"
     },
     {
-      "datetime": "2026-04-18T18:22:44+00:00",
-      "time_text": "18:22",
-      "link": "https://t.me/ircfspace/2164",
-      "views": "14.1K"
-    },
-    {
-      "text": "تابناک مطلبی به تمسخر نوشته که \"اینترنت را باز کنید، براندازی‌مان را بکنیم دیگر\" تا مطالبه حق دسترسی آزاد به اینترنت رو به حاشیه ببره و وصلش کنه به رسانه‌ها و دولت‌های خارجی.\n\nاینکه یه سری احمق دارن همین چرندیات رو قرقره می‌کنن و کوچکترین درکی از مشکلات قطع اینترنت ندارن به کنار؛ فقط میخوام یادآوری کنم که بعد از کشتار دی‌ماه، چه با اینترنت و چه بدون اینترنت از روی جمهوری اسلامی رد میشیم. این حکومت مشروعیتی نداره&#33;\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/qCW9wj5jC9s_EBCHPsh5yjzP1F8vUJe26qX3zqf-6mvVdUBELy7sg_xdhZAuYy2XkfZQQqjz3gyVytWnfGlelvE94-A1w2KcjyU2CqLlD70H-9LMtHPFawZwcxBTqeRdPP3AA-whjRR-FzLKtBQvLf2jTDqS68jfSvt-FkLSuAbkYwrVb100Y3pndXL0_HHcladWXAjEcAUvu5Joj9Rtc7MWixIQrO3AqG3IP5rk-l0UnjluQiVuL8cgHJZUx14n_SyF3S1-JgYrkDilt-tENTdhxydf8D7SzJcWMpzg0a-8MBjfBmopf-zgGel2aryHO8Bi4eNZ-1fgAedhrgKIvQ.jpg"
-      ]
-    },
-    {
       "post_id": "2164"
-    },
-    {
-      "datetime": "2026-04-18T17:46:27+00:00",
-      "time_text": "17:46",
-      "link": "https://t.me/ircfspace/2163",
-      "views": "15.8K"
-    },
-    {
-      "text": "اون مسئول عوضی که اینترنت رو بسته، یا با وقاحت طرفدار این وضعیت فاجعه‌باره، اصلاً می‌فهمه ۵۰ روز قطع سراسری اینترنت یعنی چی؟ می‌فهمه چه بلایی سر نون و سفره مردم اومده؟\nچپ میرن، راست میرن، میگن امنیت؛ اما مشخص نیست در مورد کدوم امنیت صحبت میکنن. اصلا می‌فهمن بیکاری یعنی چی، وقتی زندگیتو با زحمت ساختی و یه مشت بی‌عرضه با تصمیمات و جنگ‌طلبی‌های احمقانه نابودش می‌کنن؟ \nحقوق و پاداش و سبد کالاشون سر جاشه؛ اما می‌فهمن ما چقدر جون کندیم تا به اینجا برسیم و شما کثافت‌ها هر بار با لگد زدین زیرش؟ شما مفت‌خورهای بی‌خاصیت توی این مملکت هیچ غلطی نکردین، جز نابود کردن زندگی میلیون‌ها آدم. \nمغز ندارین، معلومه راحتین؛ ولی روز حساب از چیزی که فکرشو می‌کنین خیلی نزدیک‌تره.\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
     },
     {
       "post_id": "2163"
     },
     {
-      "datetime": "2026-04-18T12:33:10+00:00",
-      "time_text": "12:33",
-      "link": "https://t.me/ircfspace/2162",
-      "views": "19.8K"
-    },
-    {
-      "text": "در رابطه با گزارش تیم رسول جلیلی، یه نکته واسه وضعیت وارپ وجود داره که شاید کمتر دیده شده باشه. اشاره کردن که تیم فنیشون Signature اختصاصی Warp رو بر اساس الگوی هندشیک اولیه، Sequence number خاص و آنتروپی بسته، طراحی کرده و به امکان مسدودسازی ۱۰۰ درصدی وارپ (بدون اختلال در chatGPT) دست پیدا کردن.\nاشاره‌شون به چت جی‌پی‌تی هم بخاطر قرار گرفتن این سرویس هوش مصنوعی پشت کلودفلر هست، که وایت‌لیست شدنش باعث میشد همزمان سرویس وارپ هم در دسترس قرار بگیره.\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/q6OHq3Q8LoNWocsdYi0woWommgEVw9avP8YPzbFHSpFmf1u2F52LCCfTltR_qVqnu-czzBexT6_UiiQj6-VPw_lCMLxQ7g6i0B7NIjtAxdfsUOyYyX1ucDqtsSgcwMueh_TgkrHsSmzYkxgp5ZyAZ5LHshk61bdmdvtqWn0WPsKvABjnzAY5ddycUZ0gq0AGtSy0Ak6zdhPdcl7hLYgKEHGNgALx9BpFhPJmioIx4d5qS5M4o17cgVC5VrapGAm8tH8QoQmqY4hfOk4FU0_AliQ0vpOCjlHrJyZms0N1x53PH-217dR9_R9P5T9YKGFDn2RlXXHpibcrBkJ6gvnTog.jpg"
-      ]
-    },
-    {
       "post_id": "2162"
-    },
-    {
-      "datetime": "2026-04-18T12:10:08+00:00",
-      "time_text": "12:10",
-      "link": "https://t.me/ircfspace/2161",
-      "views": "22.2K"
-    },
-    {
-      "text": "یه سند توسط گروه Void Verge منتشر شده، که میگن از تیم رسول جلیلی و امن‌افزار گستر شریف درز کرده و توش با جزئیات توضیح داده شده که قراره یه مدل \"گشایش مرحله‌ای و کنترل‌شده\" برای اینترنت اجرا بشه. \nاین مدل از چند مرحله تشکیل شده؛ اول محدودیت‌ها فقط داخل سرویس‌ها و اپ‌های داخلی کمتر میشه، بعد یه سری سایت و سرویس مشخص بصورت وایت‌لیست باز میشن، بعدش دسترسی محدود به پلتفرم‌های هوش مصنوعی برای کاربرای احراز هویت‌شده داده میشه و در نهایت هم یه سری پروتکل‌های شبکه به‌صورت تدریجی و با محدودیت باز میشن.\n\nامروز روز ۵۰م از قطع سراسری اینترنته و به نظر میرسه در مرحله دوم از برنامه‌شون هستیم. خروجی نهایی چیزی که ازش درمیاد اینه که قرار نیست اینترنت آزاد برگرده؛ بیشتر شبیه یه اینترنت از پیش ‌تعریف‌شده (یا همون #ملانت) هست، که توش انتخاب کاربر خیلی محدود میشه و همه‌چیز تحت کنترل دقیق و نظارت سنگین جلو میره.\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
     },
     {
       "post_id": "2161"
     },
     {
-      "datetime": "2026-04-18T11:59:14+00:00",
-      "time_text": "11:59",
-      "link": "https://t.me/ircfspace/2159",
-      "views": "17.6K"
-    },
-    {
-      "text": "فضل‌الله رنجبر، عضو کمیسیون اجتماعی مجلس: در شرایط فعلی برقراری اینترنت به صلاح کشور نیست. 🤡\n\n© sharghdaily\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/eguf_zxpz5pq7J59cjP9u-c3KVzrhL8OLUPs5VMOmrIHr1Rlm8kQgv7Gf_fdeTQt1b14dD29NTDDWIVIvNPv6YaiAMzqiubOIN42pQCoLa_A8H3tA_9J5zoZJs9pg-coFfQeHmeFR0HYUU8ExiIjQTR9giNHDeDnG_dA_09g6pFECt6E3kBHQ6fVQCOokwl4qo7nuS0mnx7K-iCvkSk8gCoemZvbDdD6QW5UnECiv5sfrU2Do9Set-MRQZqAdxEZx-ajlwdtIHS5_mihfGNxCdnDF5DwlO1tu7YAp7EavZD5sLX3O27jipXTbU4LYLVgOVeWOv7qfDEtw4a9IWP6KQ.jpg"
-      ]
-    },
-    {
       "post_id": "2159"
-    },
-    {
-      "datetime": "2026-04-18T11:49:34+00:00",
-      "time_text": "11:49",
-      "link": "https://t.me/ircfspace/2158",
-      "views": "17.1K"
-    },
-    {
-      "text": "بهم خبر دادن که یه آدم نامیزون با نام و تصویر IRCF یه ربات تلگرام زده، تا مثلا کانفیگ ارائه کنه&#33;\nتا الان هیچ رباتی معرفی نکردم و مراقب باشین موقع استفاده از ربات‌ها (خصوصا موارد جعلی) امنیتتون رو به خطر نندازین.\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
     },
     {
       "post_id": "2158"
     },
     {
-      "datetime": "2026-04-18T11:36:11+00:00",
-      "time_text": "11:36",
-      "link": "https://t.me/ircfspace/2157",
-      "views": "18.4K"
-    },
-    {
-      "text": "در نسخه پیش‌ازانتشار هسته سینگ‌باکس، قابلیت SNI Spoofing اضافه شده که امکان TLS spoof در outbound رو فراهم می‌کنه. در این روش قبل از انجام هندشیک واقعی، یک ClientHello جعلی با SNI وایت‌لیست‌شده ارسال میشه تا مکانیزم‌های فیلترینگ مبتنی بر SNI فریب داده بشن.\n\nبرای استفاده از این قابلیت دسترسی سطح پایین شبکه لازمه؛ در لینوکس و مک نیاز به root یا CAP_NET_RAW و CAP_NET_ADMIN وجود داره و در ویندوز هم باید با دسترسی Administrator اجرا بشه.\n\n© kharabam666\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/Lxp4J1j5LMfyYOUZbe86M1NMOjhHZ_MK25GolAu2VQmUUYZZ1GtbC5mG1WwL6wzUkF4q7vDd5HW4rZ6lzu-6PPEzrEdsLjLAOfPMiTssIpug9gy44JuC1lNArMQkn32tw1SjZ6ZUiVYWsRldeGJ30alpynLwd6lpKnYNQ1uL6lZPGAuILI-WEWDSqtTreyrKqF7ttbUHXlBaV7N7v3d6eRHPE-teKRTzpqF4kDK-vm4DJTA2J_X7nh-4WaNpb_hOoiCPRBnjVGghoh2GOpV3aGsG2FQYGSnUkw5gr_KMott7gi_94Fd1JOdgg9dkI9qtu6EaN9yDLO5en2V2SGAQ3A.jpg"
-      ]
-    },
-    {
       "post_id": "2157"
-    },
-    {
-      "datetime": "2026-04-18T11:30:14+00:00",
-      "time_text": "11:30",
-      "link": "https://t.me/ircfspace/2156",
-      "views": "17.3K"
-    },
-    {
-      "text": "نت‌بلاکس: ایران اکنون ۷ هفته است که از اینترنت جهانی جدا شده و با رسیدن به ۱۱۷۶ ساعت، این خاموشی دیجیتال وارد پنجاهمین روز خود شده است.\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/sutZi3z5R91IJnwcjgjFbKGTpbOoksacWMDlMKWPV45dGMXRzwUZwdZ1TfDljpco2SX3GJvYWyeFps6zNmSoDMZzsQZ5TKEr1kyLqnwHfZc2xsYl4NiOeZR6dqZl6FQNjTKKbhM614tJMEN91xBzAswen31Dt2Dj-x9-Ivld8iEjhEdPlxqm-4xZ0U5iwCpJqmDZf5X8sQpfU-JKO4bOxjK9lnLKhGkpmlXlRUtQGl_YcHIeyXbVi4MjWOmOmQR9YFTSEdaJg7fFNiwNXmXEr2ODLUThpG_1Ji7KSQGIjIFaiJ-IYyf1pnQa_RZMuh2Lb3LZayqB_v72rfFM3fi1iQ.jpg"
-      ]
     },
     {
       "post_id": "2156"
     },
     {
-      "datetime": "2026-04-16T13:03:34+00:00",
-      "time_text": "13:03",
-      "link": "https://t.me/ircfspace/2155",
-      "views": "25.8K"
-    },
-    {
-      "text": "رفع فیلتر گوگل در روز ۴۸م از قطع سراسری اینترنت، ذوق‌زدگی‌ نداره.\n\nفکر کن فیلترینگ گوگل رو در #ملانت بطور کامل برداشتن، ولی سایت‌هایی که توی نتایج جستجو میاد بازم فیلتر هستن&#33;\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/Z7wTOiH4L-iHsxGrrkx_S6muwWA3KVMm2VjQS4F-IrCb5e0_UbDS9PqwdAQh5OFvak4tpW_6OLP3Ve2zGJ_C-rzSZmZMVlI_W2KjTUrvQrBq4mQxu_xcAGk95IEu4OSQ5WUz744_tO1qowTTlmlzMeLZWz6ANwvPJz5sDUtqNcMQfIzSOAeHbgXkh62DDtYQRC3rzxpSnwnWdRuvjnPhxEDRFw4GDhFJqkb-nlTTUXpLw54UYdvTN-Z_cOlsQldHXH-jtaDBCR3lu1EigvMGS10DkEpbxaitwN01pMZPOU-0Whm6FnKndevO9Z-BBJbic0-ei__a-NQJKrwxqN64Og.jpg"
-      ]
-    },
-    {
       "post_id": "2155"
-    },
-    {
-      "datetime": "2026-04-16T13:01:09+00:00",
-      "time_text": "13:01",
-      "link": "https://t.me/ircfspace/2154",
-      "views": "23.9K"
-    },
-    {
-      "text": "بعضی از سایت‌ها و سرویس‌ها مثل گوگل و تلگرام در برخی از اپراتورها بدون فیلتر در دسترس قرار گرفتن.\n\nاین مسئله مشخص نیست دائمیه یا موقت. حتی جمهوری اسلامی میدونه موندن خودش دائمی نیست، چه بسا که ممکنه تغییراتی در فایروال یا اختلال باشه.\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
     },
     {
       "post_id": "2154"
     },
     {
-      "datetime": "2026-04-15T16:31:24+00:00",
-      "time_text": "16:31",
-      "link": "https://t.me/ircfspace/2153",
-      "views": "33K"
-    },
-    {
-      "text": "۴۷ روز است که اینترنت را به دلیل \"به خطر انداختن امنیت ملی\" قطع کرده‌اند.\nبا \"دشمن\" آتش‌بس کرده و شام خورده‌اند؛ تمام مقامات اینترنت دارند و به جیره‌خوارانشان هم اینترنت آزاد [سفید] داده‌اند.\nظاهرا تنها خطر موجود \"مردم عادی‌اند\".\n\n© Dirty_Kids\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
       "post_id": "2153"
-    },
-    {
-      "datetime": "2026-04-15T16:13:43+00:00",
-      "time_text": "16:13",
-      "link": "https://t.me/ircfspace/2152",
-      "views": "26.3K"
-    },
-    {
-      "text": "توی روز ۴۷م از قطع سراسری اینترنت هستیم.\nخبرآنلاین نوشته که گردش مالی بازار سیاه فیلترشکن‌ها در ایام قطع اینترنت به ۲۰ هزار میلیارد تومان رسيده. البته نمیدونم این رقم چقدر به واقعیت نزدیکه و چطور بهش رسیدن، ولی لعنت بر باعث و بانیش.\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/XF6xvNo9YvbevmLWu3eFTRL8rgUHdrK_b3fGWV81cVBTF9msmnU5FSVKYnUDLWTvoQw5ElkGY9NTOw6QM7wGXIHBcdeQjsdfQ3jotNvX6fcJfz0BV07NE-7MHDQri8SPUOw8oOAS_AZVjwUchcHyT1LP-wp79SSH6KaiGTuef6m6EmCvL-7ysYHe0a3Y9lVN6MHRCHoczYZD2FvR1mXcxjkGUMh8579iHaLTm5loI6hQoFh236OzRzczQNo27ekzlptq5fj8PhNuvyJzJEEBeDY31mwc7Zgk5gz1zYgWu61zLVZDoQidjqVMSuB0I0bv9sF1TkIJR9NAgvOl67gEXg.jpg"
-      ]
     },
     {
       "post_id": "2152"
     },
     {
-      "datetime": "2026-04-15T15:57:57+00:00",
-      "time_text": "15:57",
-      "link": "https://t.me/ircfspace/2151",
-      "views": "25.9K"
-    },
-    {
-      "text": "مدیرعامل انجمن نرم‌افزارهای آزاد و متن‌باز، یعنی کسی که باید مدافع جریان آزاد اطلاعات، شفافیت و دسترسی بدون محدودیت به تکنولوژی و اینترنت باشه؛ نه کسی که تئوری توطئه انفجار گوشی و اینترنت‌هراسی رو پمپاژ می‌کنه. \nطرف به جای اینکه روی ممیزی امنیتی پروژه‌های اپن‌سورس، توسعه زیرساخت‌های غیرمتمرکز و ارتباط با کامیونیتی جهانی تمرکز کنه، داره دقیقا ادبیات نهادهای امنیتی رو برای توجیه فیلترینگ، قطع اینترنت میلیون‌ها نفر و ایزوله کردن شبکه تکرار می‌کنه.\n وقتی بالاترین مقام کامیونیتی FOSS تو یک کشور الفبای تکنولوژی و امنیت سایبری رو فدای پروپاگاندا می‌کنه و نت جهانی رو صرفا ابزار کشتار می‌بینه، عمق فاجعه و دلیل عقب‌موندگی زیرساخت‌های نرم‌افزاری و مرگ تدریجی اکوسیستم تک کشور کاملا مشخص میشه.\n\n© Ln2Ray\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/KIwHLJ9R8_mRe5XyDSattAdGQg8PjGRXEq9gpROSqKfLYLtUvtOnT9iEie3LLzIhhpF5uclWQ9N6IyoVqU8dRrRjZORRX6tP1vlQiiNyaSxFETaaM4z7bOuI6PNgTVMSJIoOlED8x8LY9k1phEJTyN1sv3MpqMbk1EjQfazQOK7grTJwVd6XtYDVtEyVHq_bWoOo5aG8W_eaYnFr3J9mBfbVa-THqWZxiCw3BzFCOttm7-c-dTY0vpJsJWendJntMhG8EjkKg-ooXkeJbFmLGFTRN0hwMJAwwrOxiK5wXYwu7jgaJmhM1iCXStm2x8SJDdQwcM0ffIqrCDLv_pYKrg.jpg"
-      ]
-    },
-    {
       "post_id": "2151"
-    },
-    {
-      "datetime": "2026-04-15T15:50:13+00:00",
-      "time_text": "15:50",
-      "link": "https://t.me/ircfspace/2150",
-      "views": "32.5K"
-    },
-    {
-      "text": "میدونستید تاحالا تشکیلات خودگردان فلسطین اینترنت رو‌ در فلسطین [کرانه باختری و غزه] قطع نکرده؟ \nمیدونستید اپراتورهای اینترنت (Jawwal، Ooredoo، Paltel، Hadara) در فلسطین کاملا خصوصی هستند و مدل انحصاری جمهوری اسلامی به اونجا صادر نشده؟ \nمیدونستید طبق داده‌های دیتا ریپورتال، سرعت اینترنت ثابت فلسطین در انتهای سال ۲۰۲۵، ۷۴ Mbps و سرعت اینترنت ثابت ایران در همان زمان ۱۹ Mbps بوده؟\n\n© amanafii\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/PDqjzFT5xPU6mPJAmupRd7ulIwBXLUg4hiIOeQFBmAOObHmmvMdfohEdz7KetTNlmCFD7SlRF6RaOqDeu5OOPRR347qbxTu-IdLRxmCK6QhhriC4w1oP3sVzlw4LHDyohoCnB39dfjXsC3L36tY8pgNjrzummjEadpzuJA07OAIs6Kgf0Ez8mpk0LGsbu5XmQ6WXeU0Xp0wlc4OYZ32ad_eyj_xq3KWKiwnxIVbiXLeiffvDykEwckrCXfUbOhfJo8hYNkhwMoIVFxrZSDPFthUf6gAln55jz84FYxZTO33LaQk-xl2f0Vg7lo3xX7nnNDrLZa5TN6WfEMqJW_0mCw.jpg"
-      ]
     },
     {
       "post_id": "2150"
     },
     {
-      "datetime": "2026-04-15T15:38:10+00:00",
-      "time_text": "15:38",
-      "link": "https://t.me/ircfspace/2149",
-      "views": "24.6K"
-    },
-    {
-      "text": "اختلال شدیدی در شبکه اینترنت کشور مشاهده و گزارش شده. گفته میشه فایروال فیلترینگ در حال بروزرسانی و ارتقاء هست، که این مسئله تاثیر قابل توجهی بر ترافیک خانگی و دیتاسنترها گذاشته. \n\n© IRRadar\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
       "post_id": "2149"
-    },
-    {
-      "datetime": "2026-04-14T16:22:27+00:00",
-      "time_text": "16:22",
-      "link": "https://t.me/ircfspace/2148",
-      "views": "32K"
-    },
-    {
-      "text": "وزیر قطع‌ارتباطات، بعد از استعمال جنس خریداری شده از موتوری:\n- همکاران ما ۴۰ روز پای کار بودن و تلاش کردن تا در بحث ارتباطات خدشه‌ای در زندگی مردم وارد نشه\n- اینترنت طبقاتی یا وایت‌لیستی اصلا موضوعیت ندارن\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
-      "videos": [
-        "https://cdn1.telesco.pe/file/06c54b9dc1.mp4?token=PkxBt5dMitXRoaWJ0LgK4_nnyCOzmWOlt6eaaL0HC1emyURyPxTaUcSDM3fBEZKyfLXjqE2hRdYulQCzoRABvj_6wKDJedLgu9h9jPi7fD5z6ISzV_CvsEL_qQ0PgPHjAQGOaeQ4Pl_jSnGF8vnqwtBqt29GgP05-zwFDDBE45bAA0qh8DuCgupkCaX81PDFwetZKRsAFDlLeSYEiGEoNEUyzg4i2CrTP8K5SOh2ohMEr9H_JB2xqoKlASs8LBo-Dk_fg-VCKWgOUILXOd3M-ZHUJKzK3RedIIn_TIW0KsqfSbntNkYEm6k-644sQNHicbcStbozv-XH4Cv81HegSw"
-      ]
     },
     {
       "post_id": "2148"
     },
     {
-      "datetime": "2026-04-14T14:25:15+00:00",
-      "time_text": "14:25",
-      "link": "https://t.me/ircfspace/2147",
-      "views": "27.7K"
-    },
-    {
-      "text": "توی آموزش نوشته شده بود کانفیگ باید پشت کلودفلر باشه؛ سوالاتی در مورد پشت و روی کلودفلر پرسیدین که دیگه توان پاسخ دادن ندارم 😁\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/pOIwEcxPvfdfkYknXkynSPlwt7gWgm42auTUkf6MURWagIOukT4eGMweQ71G9ltSpaiJuwu1Wc22SJ99vpvQqdK1Uu2Vb7DiEXaEDIyswmp9lRXA4fVz2QCK2LPgJBap1QgjgMNsPxgpbznBrNAw3nQmY6ilCqHgT5lSrTXDJxaz0W2C4qsmGhQXzEnOGA4HRheF_CPGbnl6Yuc77KRGbY8RQZ65aVtu_ukCCguDsqeii2cpnMwpQD9cdLlv-gXGH0OARezrSRvEtXgGDAB8glNVOeaWToju0gm9InW0tevorSsnzGUjEkQQ5hsunFX2YMhaDMb51GO5dbrx-jRKfg.jpg"
-      ]
-    },
-    {
       "post_id": "2147"
-    },
-    {
-      "datetime": "2026-04-14T14:07:13+00:00",
-      "time_text": "14:07",
-      "link": "https://t.me/ircfspace/2146",
-      "views": "29.2K"
-    },
-    {
-      "text": "کی گفته ذره‌بین اشتباه جواب میده؟\n\n© amir_rjm\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/uMciIMZWw92xb4OKiP3rY5y6StOsWjY0uUee1Izs1fT3-NamEa7VyRIG7RG_qsHV5s2n_cnrfL2EvxKeootrtPBZHRvYpCXYXAWlE-tnOo9vc3QWHW7fPLB2i8f68g4Flneran-oTFUFYS08nJHzUSab1h_BgUAYzhVaChqTswbDDqO2jtpjiQXguEWlSSCl4pO4evMizZs0TvO7Ek-Ehc9X3KZeMQwrHffUHAa_FfcYM1jbj4bkoS0z40q8weMLBsGuJz2a0gjExZAfQKKc1Dz1QixPQbtXsfxxNI8DtwcAr_2UYCSIMpzTFfw22_AnB3C6FFpAJ49gHOHG9UJayg.jpg"
-      ]
     },
     {
       "post_id": "2146"
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T01:36:28.225336",
+    "last_updated_at": "2026-04-19T01:40:25.726730",
     "status": "success",
     "new_posts_found": 0
   }
