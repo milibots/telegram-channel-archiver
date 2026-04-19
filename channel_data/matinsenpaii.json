@@ -18,7 +18,7 @@
       "datetime": "2026-04-18T20:02:25+00:00",
       "time_text": "20:02",
       "link": "https://t.me/MatinSenPaii/2759",
-      "views": "18.9K"
+      "views": "19K"
     },
     {
       "text": "متد اسپوف SNI بسته شده 99 درصد مناطق دوباره."
@@ -42,7 +42,7 @@
       "datetime": "2026-04-18T18:41:34+00:00",
       "time_text": "18:41",
       "link": "https://t.me/MatinSenPaii/2757",
-      "views": "23K"
+      "views": "23.1K"
     },
     {
       "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
@@ -54,7 +54,7 @@
       "datetime": "2026-04-18T14:23:55+00:00",
       "time_text": "14:23",
       "link": "https://t.me/MatinSenPaii/2756",
-      "views": "28.5K"
+      "views": "28.6K"
     },
     {
       "text": "هیچکس توقع نداره کار کنه🤣🤣"
@@ -128,7 +128,7 @@
       "datetime": "2026-04-18T06:20:56+00:00",
       "time_text": "06:20",
       "link": "https://t.me/MatinSenPaii/2750",
-      "views": "31.9K"
+      "views": "32K"
     },
     {
       "text": "روز سوم SNI SPOOF با hcaptcha😂 همچنان وصلید دوستان؟"
@@ -290,7 +290,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T05:06:45.551074",
+    "last_update": "2026-04-19T05:12:54.839999",
     "new_count": 0
   }
 }
