@@ -34,7 +34,7 @@
       "datetime": "2026-04-18T18:41:34+00:00",
       "time_text": "18:41",
       "link": "https://t.me/MatinSenPaii/2757",
-      "views": "22.3K"
+      "views": "22.4K"
     },
     {
       "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
@@ -159,7 +159,7 @@
       "datetime": "2026-04-17T21:48:37+00:00",
       "time_text": "21:48",
       "link": "https://t.me/MatinSenPaii/2747",
-      "views": "34K"
+      "views": "34.1K"
     },
     {
       "text": "حیف وقت. حتی دیگه بهش نمی‌پردازم فقط دوست داشتم ممبرهای خودم عقاید من و دیدگاهم رو در رابطه با این قضیه بدونن که دو بار صحبت کردم."
@@ -282,7 +282,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_updated_at": "2026-04-19T01:20:16.527603",
+    "last_updated_at": "2026-04-19T01:24:14.365529",
     "status": "success",
     "new_posts_found": 0
   }
