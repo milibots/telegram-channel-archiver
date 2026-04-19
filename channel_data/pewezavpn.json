@@ -11,31 +11,14 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "⚡️اینترنت آزاد را با ما تجربه کنید &#33;\n\n🛍 فروشگاه: @Peweza\n⚡️خدمات مجازی: @PewezaStoreBot\n👨‍💻آیدی ادمین: @PewezaAdmin\n📱یوتیوب: https://youtube.com/@peweza\n\n🔐کانفیگ ها و سرورهای VPN\n📱برنامه های اندروید\n📍هوش مصنوعی و AI\n📚آموزش در حوزه تکنولوژی",
-  "total_posts": 66,
-  "returned_posts": 66,
+  "total_posts": 67,
+  "returned_posts": 67,
   "posts": [
-    {
-      "datetime": "2026-04-19T03:31:38+00:00",
-      "time_text": "03:31",
-      "link": "https://t.me/PewezaVPN/24242",
-      "views": "1.18K"
-    },
-    {
-      "text": "یه سرویس OpenVPN که یه سری دوستان معرفی کردن و گفتن به صورت تستی میشه ازش استفاده کرد معرفی میکنم شاید کار یه سری از دوستان راه بیوفته.\n\nآیدی ربات:  @DiginetXBot\n\nپیشنهاد به خرید نمیکنم فقط اگر اشتراک تستی براتون فعال شد استفاده کنید."
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/ZgvZHmzunz4o-D8Dcb7e25985K03vAvh9j3-tNom3UuAuav79noj6rfxFk3gqKl72ROcwT1ivmeyEhBLehOK97lH_KNkedx-IKKOllyICc1MajK4Sw-4eHie40XOgWAlGPTfJN3O0jfwU-61NFEbXKOR3-nxLwzKEUFxCJE0-vQk6Id-Vlr7NmEuldCmoSXXtsEeGw9KSBC_AxnSs9u_GZar-PPykYW3bRPGHTSzu2N-AxQ6EOKt1QOQV6yD-gEpihmdNBwpp16AkGh-wtoj49DUG6lTL7WAXJEahKkmZxzGYwUQ5n42WyUHBt4NpOW23DFXZXD6IwBm7n-LQzTg4g.jpg"
-      ]
-    },
-    {
-      "post_id": "24242"
-    },
     {
       "datetime": "2026-04-18T23:52:39+00:00",
       "time_text": "23:52",
       "link": "https://t.me/PewezaVPN/24240",
-      "views": "3.95K"
+      "views": "4.08K"
     },
     {
       "text": "قابلیت تست پینگ در نسخه جدید عملکرد خوبی داره و درصد خطای کمتری هم داره، دقت کنید حتما باید با اینترنت عادی (خاموش بودن فیلترشکن) و با گزینه ی اول یعنی Test Server Reachability تست پینگ بگیرید. و صبور باشید تا تست تموم بشه، چون با بستن زودهنگام یا قطع کردن تست ممکنه برنامه باگ بخوره و باید فورس کلوز بزنید که مجدد بتونید تست پینگ سالم بگیرید.\n\nاما زیاد به تست پینگش دل خوش نکنید."
@@ -60,7 +43,7 @@
       "datetime": "2026-04-18T23:48:22+00:00",
       "time_text": "23:48",
       "link": "https://t.me/PewezaVPN/24239",
-      "views": "4.04K"
+      "views": "4.1K"
     },
     {
       "text": "✅ آخرین نسخه SlipNet اندروید\n\nنسخه 2.5.2\n\n● قابلیت Vless Over CDN به برنامه افزوده شده، که میشه کانفیگ های V2Ray داخلش اضافه کرد و فیک SNI زد و.. (البته فعلا کارایی نداره مگه اینکه راهی ساخته بشه که حتما میذاریم)\n\n● اتصالات در VayDNS و پروتکل های دیگر مبتنی بر DNS بهبود داشته.\n\n● تست پینگ هم درست شده و حالا میتونید بهتر و دقیق تر از گزینه های تست پینگ استفاده کنید.\n\nلینک دانلود داخلی:\nhttps://guardts.ir/f/Pewezavpn\n\nلینک جایگزین:\nhttps://punkpaste.ir/f/SlipNet-v2-5-2-Full--3tqanc\n\nمدت زمان انقضای لینک ها 24 ساعت\n\n🔰 @PewezaVPN"
@@ -72,7 +55,7 @@
       "datetime": "2026-04-18T20:23:10+00:00",
       "time_text": "20:23",
       "link": "https://t.me/PewezaVPN/24238",
-      "views": "7.87K"
+      "views": "7.93K"
     },
     {
       "text": "گیت‌هاب، گوگل ترنسلیت، گوگل مپ از دقایقی قبل در اکثر اپراتورها در دسترس قرار گرفتن.\n\nنکته ی عجیبی که هست اینه که درخواست های گیت‌هاب داره به سرورهای داخلی میره، یعنی قبل از مسیر بین‌المللی به سرورای داخل ایران ریدایرکت میشه..."
@@ -84,7 +67,7 @@
       "datetime": "2026-04-18T19:18:44+00:00",
       "time_text": "19:18",
       "link": "https://t.me/PewezaVPN/24237",
-      "views": "8.93K"
+      "views": "8.96K"
     },
     {
       "text": "خب گویا SNI-Spoofing هم از دست دادیم برای همیشه (حتی در ویندوز)... مگه اینکه متود جدید بیاد. اگر متودی بیاد حتما قرار میدیم."
@@ -123,7 +106,7 @@
       "datetime": "2026-04-18T07:37:59+00:00",
       "time_text": "07:37",
       "link": "https://t.me/PewezaVPN/24232",
-      "views": "11.4K"
+      "views": "11.5K"
     },
     {
       "text": "کلاینت های V2rayNG اندروید و V2RayN ویندوز آپدیت و بهینه تر شدن داخل آپلودسنتر داخلی آپلودشون کنم میذارم.."
@@ -228,7 +211,7 @@
       "datetime": "2026-04-16T16:12:33+00:00",
       "time_text": "16:12",
       "link": "https://t.me/PewezaVPN/24224",
-      "views": "15.1K"
+      "views": "15.2K"
     },
     {
       "text": "راستش یه تایمی آفلاین بودم و از دنیا بی خبر، یه مسیج برام اومد که دارن رفع فیلتر میکنن، من با این توقع که \"رفع فیلتر میکنن\" با اینترنت عادی وارد اینستاگرام شدم و منتظر بودم لود بشه، دیدم نشد، کلودفلر رو باز کردم گفتم حداقل این باز میشه دیگه... نشد &#33; VPN روشن کردم اومدم تلگرام ببینم چی رفع فیلتر شده ؟ داشتم خبرهارو اسکرول میکردم دیدم\"سرچ گوگل\" باز شده، یعنی فقط عملاً \"سرچ گوگل\"\n\nچیشده که این برامون معنای رفع فیلتر میده.."
@@ -240,7 +223,7 @@
       "datetime": "2026-04-16T04:15:11+00:00",
       "time_text": "04:15",
       "link": "https://t.me/PewezaVPN/24223",
-      "views": "16.7K"
+      "views": "16.8K"
     },
     {
       "text": "به صورت منطقه ای برای برخی دوستان جواب میده هر 4 کانفیگ رو با ایرانسل خودم تست کردم و فعال بودن، اگر جواب نداد یه تایم دیگه تست کنید..."
@@ -274,10 +257,32 @@
     },
     {
       "post_id": "24221"
+    },
+    {
+      "datetime": "2026-04-15T15:47:52+00:00",
+      "time_text": "15:47",
+      "link": "https://t.me/PewezaVPN/24219",
+      "views": "16.4K"
+    },
+    {
+      "text": "✅ توی این موقعیت که نمیشه حتی موزیک خوب و دلخواه گوش داد، این دو سایتی که معرفی میکنم تقریبا اکثر موزیکارو بدون سانسور توی آرشیو دارن و با اینترنت داخلی بالا میان، میتونید گوش بدید لذت ببرید.\n\nسایت اول: http://Sptfy.ir\n\nسایت دوم: https://ememay.ir/music\n\nممنون از کسایی که به فکر هموطن‌هاشون هستن و اینطور سایتا یا ابزار هارو توسعه میدن.\n\n🔰 @PewezaVPN"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/uM9SrOEOah-6f0mmx7TP5C0-zsSKSRyZ2s7o9Y8XEkpPaQYc9Mi3FJL8GwpFDxcvOdfROFKQ0afLX_yJIvqUl6auC_GlabVmIF-vzQ2eQBDP7fgVQTSSN3oXvhmWIszNuZ7uZ3fpNOQYJPy3xhH8oU6ErUiRjEB0DInQaARy0qWbSRle5avsX4f7Q2t6RebIbnpUKSVKR1Kk_dM51yrNMrI5oK-5n0EqKe76_tSxF_hokLv4IfY36S_xWDnfsD4R0LC3Pqm8Qw0ExG_BA0SqZBkIR4oqZvqczFQlqb-Pri2vDISoBwaanTQSxxVKq6XB0e49Wi-mE8d06sVHu_0yTw.jpg"
+      ]
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/jNkLDj0f1kj7XqqdYRrR9v-SI7pAw6WdpHQdtmnY7CwTW9-kDXDrpZj1NILowgX3GBYwDHTs7A8QsNdsAq_7kEQ8pH5JbXW38_Z1FP-sTDr48WzF91TwG-Z0nRNUaSV5H7r2H0_UyeK3Lm-HCerOF0-RtDAtdxdw9D10MSTljCjBCu9-5GPtbG2qZhoTvolU9Vg1FzNDSYBbmryn5vHW6IiGlm35C0egsnj8YAHNaALxKzO3jcV7TwwXq4XAhmSE2uadwF-lTIibtwXElmkdomrEbSwADPOglQLQ2S4UMpqOz3yEdJHl37FLU6Kl64mv6wpGi2EpmebUXZnSLmBmvQ.jpg"
+      ]
+    },
+    {
+      "post_id": "24219"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T06:02:12.806759",
-    "new_count": 0
+    "last_update": "2026-04-19T06:08:23.117800",
+    "new_count": 1
   }
 }
