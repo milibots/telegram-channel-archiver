@@ -155,7 +155,7 @@
       "datetime": "2026-04-18T14:44:35+00:00",
       "time_text": "14:44",
       "link": "https://t.me/NetLotus/53",
-      "views": "1.6K"
+      "views": "1.61K"
     },
     {
       "text": "{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.19.229.21\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"newassets.hcaptcha.com\"\n}\n@netlotus \nبرگرفته از کانال اقا پارسا"
@@ -258,7 +258,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T04:17:28.121082",
+    "last_update": "2026-04-19T04:23:38.212405",
     "new_count": 0
   }
 }
