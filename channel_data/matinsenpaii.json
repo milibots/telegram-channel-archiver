@@ -11,29 +11,14 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "یوتوبر انیمه و مانگا(الان کمی شبکه؟&#33;) - برنامه‌نویسِ ایده‌های باحال\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•AniList:\nhttps://anilist.co/user/MatinSenPai\n\n•Github:\nhttps://github.com/MatinSenPai",
-  "total_posts": 70,
-  "returned_posts": 70,
+  "total_posts": 69,
+  "returned_posts": 69,
   "posts": [
-    {
-      "datetime": "2026-04-19T09:56:53+00:00",
-      "time_text": "09:56",
-      "link": "https://t.me/MatinSenPaii/2763",
-      "views": "2.34K"
-    },
-    {
-      "text": "پاک کرد پیاماشو😕😕"
-    },
-    {
-      "text": "طبق داده‌های https://t.me/irnetmonitor ، دی ان اس گوگل روی دیتاسنتر آسیاتک باز شد"
-    },
-    {
-      "post_id": "2763"
-    },
     {
       "datetime": "2026-04-19T09:46:42+00:00",
       "time_text": "09:46",
       "link": "https://t.me/MatinSenPaii/2762",
-      "views": "5.59K"
+      "views": "6.68K"
     },
     {
       "text": "پول به \"شکن\" و امثالهم هم ندید. یادآوری کنم که چند هفته پیش، به مدت دو سه روز chatgpt روش باز شد و ملت کلی اشتراک خریدن و روش کانفیگ ساختن و باز مسدود شد. پول مردم هم رفت سطل آشغال"
@@ -45,7 +30,7 @@
       "datetime": "2026-04-19T09:25:10+00:00",
       "time_text": "09:25",
       "link": "https://t.me/MatinSenPaii/2761",
-      "views": "8.98K"
+      "views": "9.97K"
     },
     {
       "text": "منتها این کاری که کردن داره افتضاح میشه هر لحظه"
@@ -57,10 +42,10 @@
       "datetime": "2026-04-19T09:23:32+00:00",
       "time_text": "09:23",
       "link": "https://t.me/MatinSenPaii/2760",
-      "views": "9.57K"
+      "views": "10.4K"
     },
     {
-      "text": "طبق داده‌های https://t.me/irnetmonitor ، دی ان اس گوگل روی دیتاسنتر آسیاتک باز شد"
+      "text": "طبق داده‌های https://t.me/irnetmonitor ، دی ان اس گوگل روی دیتاسنتر آسیاتک باز شد\nآپدیت: بسته شد"
     },
     {
       "post_id": "2760"
@@ -69,7 +54,7 @@
       "datetime": "2026-04-18T20:02:25+00:00",
       "time_text": "20:02",
       "link": "https://t.me/MatinSenPaii/2759",
-      "views": "26.1K"
+      "views": "26.4K"
     },
     {
       "text": "متد اسپوف SNI بسته شده 99 درصد مناطق دوباره."
@@ -81,7 +66,7 @@
       "datetime": "2026-04-18T20:01:35+00:00",
       "time_text": "20:01",
       "link": "https://t.me/MatinSenPaii/2758",
-      "views": "25.3K"
+      "views": "25.5K"
     },
     {
       "text": "فیلترچی بین وایت کردن + اسپوف زدن ملت و بستن کامل گزینه‌ی دوم رو انتخاب کرد انگار. زورش نرسید هم وایت کنه هم SNI رو ببنده"
@@ -93,7 +78,7 @@
       "datetime": "2026-04-18T18:41:34+00:00",
       "time_text": "18:41",
       "link": "https://t.me/MatinSenPaii/2757",
-      "views": "27.9K"
+      "views": "28K"
     },
     {
       "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
@@ -105,7 +90,7 @@
       "datetime": "2026-04-18T14:23:55+00:00",
       "time_text": "14:23",
       "link": "https://t.me/MatinSenPaii/2756",
-      "views": "31K"
+      "views": "31.1K"
     },
     {
       "text": "هیچکس توقع نداره کار کنه🤣🤣"
@@ -122,7 +107,7 @@
       "datetime": "2026-04-18T10:02:22+00:00",
       "time_text": "10:02",
       "link": "https://t.me/MatinSenPaii/2754",
-      "views": "33.9K"
+      "views": "34K"
     },
     {
       "text": "بفرمایید اینم آموزش دسته‌بندی شده و مرتب"
@@ -137,7 +122,7 @@
       "datetime": "2026-04-18T10:02:09+00:00",
       "time_text": "10:02",
       "link": "https://t.me/MatinSenPaii/2753",
-      "views": "29.3K"
+      "views": "29.4K"
     },
     {
       "text": "آموزش مرحله به مرحله و خیلی ساده SNI Spoofing  \n\n۱. دانلود برنامه Patterniha  \n\nآخرین نسخه برنامه رو دانلود کنین (فایل zip یا rar).\n\nhttps://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0\n\n۲. استخراج فایل‌ها  \n\nفایل رو استخراج کنین. داخل پوشه باید فایل Patterniha.exe باشه.\n\n۳. فایل JSON رو آماده کنین  \n\nتو همون پوشه‌ای که Patterniha.exe هست، فایل config.json رو ویرایش کنین\nبعد این محتوا رو دقیق کپی کنین داخلش:\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"104.19.229.21\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"www.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n۴. برنامه رو اجرا کنین  \n\n- روی فایل Patterniha.exe راست کلیک کنین  \n\n- گزینه Run as administrator رو بزنین (خیلی مهمه&#33;)\n\n۵. کانفیگ V2Ray/Xray/Nekobox/v2rayNG رو تنظیم کنین  \n\nتو کانفیگی که داری فقط این دو تا رو عوض کن:\n\n- Address یا آدرس سرور → 127.0.0.1  \n- Port یا پورت → 40443\n\nبقیه چیزا (UUID، path، TLS، Reality و ...) رو همون قبلی نگه دار.\n\n۶. وصل شو  \n\nکانفیگ رو ذخیره کن و بزن Connect. باید وصل بشه.\n\nنکات مهم:\n\n اگه پترنیها ران نشد یه بار از کانفیگ real delay بگیرن استارت میشه\n- همیشه Patterniha رو به عنوان مدیر (Run as administrator) اجرا کن.\n- اگه ویندوز فایروال پرسید، اجازه دسترسی بده.\n- اگه وصل نشد: برنامه رو Stop کن، دوباره Start کن، یا یه config.json جدید با IP دیگه امتحان کن.\n\nhcaptcha.com\nnewassets.hcaptcha.com\njs.hcaptcha.com\nimgs.hcaptcha.com\nimgs2.hcaptcha.com\nimgs3.hcaptcha.com\nassets.hcaptcha.com\napi.hcaptcha.com\nanalytics.hcaptcha.com\nstats.hcaptcha.com\nthree-cust.hcaptcha.com\ntg.hcaptcha.com\nprimary.hcaptcha.com\ndashboard.hcaptcha.com\nbilling.hcaptcha.com\naccounts.hcaptcha.com\nproxy.hcaptcha.com\nloader.hcaptcha.com\nchallenge-tasks.hcaptcha.com\nserverless.hcaptcha.com\nhealth-check.hcaptcha.com\nemail.hcaptcha.com\n\n\n@whitedns"
@@ -179,7 +164,7 @@
       "datetime": "2026-04-18T06:20:56+00:00",
       "time_text": "06:20",
       "link": "https://t.me/MatinSenPaii/2750",
-      "views": "32.9K"
+      "views": "33K"
     },
     {
       "text": "روز سوم SNI SPOOF با hcaptcha😂 همچنان وصلید دوستان؟"
@@ -191,7 +176,7 @@
       "datetime": "2026-04-17T23:39:00+00:00",
       "time_text": "23:39",
       "link": "https://t.me/MatinSenPaii/2749",
-      "views": "34.9K"
+      "views": "35K"
     },
     {
       "text": "اندروید به تنهایی نیاز به روت داره. کاری نیست که بشه واسش انجام داد فعلا \n\nپ.ن: با ترموکس و نسخه لینوکس میتونید."
@@ -288,10 +273,21 @@
     },
     {
       "post_id": "2743"
+    },
+    {
+      "datetime": "2026-04-17T18:42:45+00:00",
+      "time_text": "18:42",
+      "link": "https://t.me/MatinSenPaii/2741"
+    },
+    {
+      "text": "Matin SenPai pinned «ببینید اگر این مشکل رو دارید، چندتا کار باید انجام بدید و تست کنید. اول از همه من طبق تجربه‌ی خودم این ارور Winerror6 رو که میده 90 درصد اوقات یعنی به درستی کانکت شده.  1- مطمئن شید که از کانفیگ‌های درستی استفاده می‌کنید. این لیست رو تست کنید حتما: vless://6202b230…»"
+    },
+    {
+      "post_id": "2741"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T12:00:36.757004",
+    "last_update": "2026-04-19T12:06:48.490840",
     "new_count": 1
   }
 }
