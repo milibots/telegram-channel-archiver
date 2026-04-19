@@ -18,7 +18,7 @@
       "datetime": "2026-04-18T20:16:42+00:00",
       "time_text": "20:16",
       "link": "https://t.me/SamnetInternet/305",
-      "views": "6.46K"
+      "views": "6.47K"
     },
     {
       "photos": [
@@ -32,7 +32,7 @@
       "datetime": "2026-04-18T20:06:23+00:00",
       "time_text": "20:06",
       "link": "https://t.me/SamnetInternet/304",
-      "views": "6.97K"
+      "views": "6.98K"
     },
     {
       "text": "من شرمندتونم بچه ها :( 😔 میگن sni رو بستن..چند روزی مشغول بودم که زود تر برسونمش…🚬"
@@ -44,7 +44,7 @@
       "datetime": "2026-04-18T19:59:10+00:00",
       "time_text": "19:59",
       "link": "https://t.me/SamnetInternet/303",
-      "views": "7.58K"
+      "views": "7.59K"
     },
     {
       "text": "🛰️ عرضه اولیه snix v0.5.0 — دور زدنِ DPI با جعلِ SNI، حالا برای لینوکس و ویندوز\n\nبرنامه snix یک بازنویسی در Go از همان SNI-Spoofing  \nاست. همان الگوریتمِ دور زدن را بایت‌به‌بایت نگه می‌دارد، ولی برخلافِ نسخهٔ اصلی که فقط ویندوز و فقط پایتون است، snix یک باینریِ 10 مگابایتی برای لینوکس و ویندوز است و خیلی بیشتر از ترفندِ اصلی می‌دهد:\n\n🐧 لینوکس (NFQUEUE) + 🪟 ویندوز (WinDivert، بدون cgo)، یک فایل، بدونِ وابستگی\n🥷 چرخش بین wrong_seq و wrong_checksum، تصادفی‌سازیِ زمان، اندازه، IP-ID و SNI\n\n🔍 اسکنرِ داخلی: snix scan all بهترین SNIها و IPهای CDNِ ISP شما را پیدا می‌کند\n\n🪄 دستیارِ راه‌اندازی: snix init --wizard پیکربندی را در 60 ثانیه می‌نویسد\n\nداشبورد TUI کامل، لاگِ زنده، و جابه‌جاییِ profile\n\n☁️ سرور ندارید؟ دستیار یک Cloudflare Workerِ رایگان را حدود یک دقیقه استقرار می‌دهد\n\n🔌 پیکربندیِ خودکارِ Xray / v2ray / sing-box(\n\n🌍 راهنمای کاملِ انگلیسی و فارسی\n\n📥 نصب روی لینوکس:\ncurl -fsSL https://raw.githubusercontent.com/SamNet-dev/snix/main/installer/linux/install.sh | sudo sh\n\n📥 ویندوز: snix-setup.exe را از صفحهٔ releases دانلود کنید.\n\n🙏 الگوریتمِ اصلی کارِ patterniha است. \n\n📦 دانلود و راهنما: \nhttps://github.com/SamNet-dev/snix\n\nپی نوشت: این نسخه v0.5 هست و به مرور زمان مشکلاتش رو با هم پیدا میکنیم و حل میکنیم."
@@ -234,7 +234,7 @@
     },
     {
       "photos": [
-        "https://cdn1.telesco.pe/file/V2sOM-I1f7GPZ6a-IpPHtwJmSt0ovaFkPYHDH2y715t1YHWAHGbWwZc1U0q5wynv3B5uZP2ZKWvsvqNdXz1eBUfhC1WuUNB2X6ptl0-r5-UaU1wNGK6o9-Dh-7R9m1aZ5DDgM1pTnv4ImckP6PX4VEur4jCjED5nE96kYOw2ekP1wy9MfWvupZUE_YJ2geEM6WdcNWg6mmaLH0S-LdvyyS8HRo1KfYNsyiqXH3HkAkTZthCsvC5FP9KQELmqYySiW53n20dBB45QspTk_RYfAv4pkXZfJ92ET7efxuIjmaaeHyPNpBuMmpjVXZuQPswqFXdRNRWWEEA1l_d_PyKMeg.jpg"
+        "https://cdn1.telesco.pe/file/ZOurau3j19BKKZ07QbtkuDD0ULn4uFgGWV2BHs5j743k39hHvu28wqg3uyXPmAsiOHZx9zSIaEMKg9J1AUOQSrJnFW9xsXbmJA1c1TXmCQATcbfQWClac_c9laYHDebFcGjhx95W9T5SoxBRX5iIi0XfP7GumzDqq9G_M7uJh_umRVmCNP4xFkMTHrBGXTIRaCx_mMG_EJ5UwQBaU3eHr_UxrpiyE4xLOqr-hyYM3Tfe7HWvmBcK6AEcgQQpt4BIytZx0NKMi_1M9FEdbfGQwv1HMNC7QNvsE87o1CkjU_kwLWjF_Md7rf1tQz2g7RHgjbLrR3SWOAwxXYF2vrqxtg.jpg"
       ]
     },
     {
@@ -283,7 +283,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T15:06:17.042781",
+    "last_update": "2026-04-19T15:12:28.684283",
     "new_count": 0
   }
 }
