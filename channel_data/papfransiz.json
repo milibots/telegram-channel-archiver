@@ -5,7 +5,7 @@
   "channel_username": "@papfransiz",
   "channel_avatar": "https://cdn4.telesco.pe/file/Khp60GZAX-20R98B8xx2ln0eiXkxHtE9mVpOaLtJCD-8Rw4K2WwSKZfOA1JQWCDbNT2Ed_g0Q9Zf-ilzUbExCaIgjo8MrSdOGoW0lsGKxCEU8nDO2OG1cQIyo48v8gl-kaNP4ZHtSW553xIz4QfIobxLxppJNdj50Bajt7JCMZ9NNeQgg7NkEdRX84P_Z7Xyj5fJbThBq-NcRgWqwTqNRTEh3UXXNSWkv34jlQ5grnK1h7lnCvRTbibOSxEHBybgA1OqlZ6-EpJM_vfIlXfKxlSAmcycJ9vu9nOw-SxipzZDQQOWHHJNFPe0OUUVnII6I698se9ZeP0MqCtD4j_sqg.jpg",
   "channel_verified": false,
-  "channel_subscribers": "466",
+  "channel_subscribers": "465",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T10:10:59+00:00",
       "time_text": "10:10",
       "link": "https://t.me/papFransiz/379",
-      "views": "140"
+      "views": "141"
     },
     {
       "text": "یه ایده زده به سرم یه بدافزاری بنویسم که وقتی تزریق شد به سرور وایت و گوشی بسیجی و... بتونیم ازشون به صورت اتوباند دیتا رد کنیم 🙂‍↕️"
@@ -30,7 +30,7 @@
       "datetime": "2026-04-18T18:23:44+00:00",
       "time_text": "18:23",
       "link": "https://t.me/papFransiz/378",
-      "views": "239"
+      "views": "240"
     },
     {
       "text": "رفتن یه سایتی رو روبه اینترنت بین المللی باز کردن که اون ایران تحریم کرده و نیازمند VPN تشریف داره 🫩\n\n\n#تاوان‌جوانی"
@@ -54,7 +54,7 @@
       "datetime": "2026-04-18T15:04:18+00:00",
       "time_text": "15:04",
       "link": "https://t.me/papFransiz/375",
-      "views": "289"
+      "views": "290"
     },
     {
       "text": "دلتون برام تنگ نشده ؟ 🫩"
@@ -134,7 +134,7 @@
       "datetime": "2026-04-17T06:44:18+00:00",
       "time_text": "06:44",
       "link": "https://t.me/papFransiz/369",
-      "views": "886"
+      "views": "887"
     },
     {
       "text": "و Sni Spoofing روی OpenWrt میتونید ران کنید. \nhttps://github.com/aleskxyz/SNI-Spoofing-Go"
@@ -270,7 +270,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T18:24:28.158266",
+    "last_update": "2026-04-19T18:30:39.464457",
     "new_count": 0
   }
 }

@@ -18,7 +18,7 @@
       "datetime": "2026-04-18T20:16:42+00:00",
       "time_text": "20:16",
       "link": "https://t.me/SamnetInternet/305",
-      "views": "6.7K"
+      "views": "6.71K"
     },
     {
       "photos": [
@@ -32,7 +32,7 @@
       "datetime": "2026-04-18T20:06:23+00:00",
       "time_text": "20:06",
       "link": "https://t.me/SamnetInternet/304",
-      "views": "7.2K"
+      "views": "7.21K"
     },
     {
       "text": "من شرمندتونم بچه ها :( 😔 میگن sni رو بستن..چند روزی مشغول بودم که زود تر برسونمش…🚬"
@@ -56,7 +56,7 @@
       "datetime": "2026-04-18T19:20:21+00:00",
       "time_text": "19:20",
       "link": "https://t.me/SamnetInternet/302",
-      "views": "6.67K"
+      "views": "6.68K"
     },
     {
       "text": "کارمندای امن افزار شریف که اینترنت رو روی ما بستن.\nکاری که اینها کردن کم از کسی که مستقیم شلیک میکنه نداره.\n\n(پستای قبلی فرمتشون بد و کم کیفیت بود پاک کردم)"
@@ -99,7 +99,7 @@
     },
     {
       "photos": [
-        "https://cdn1.telesco.pe/file/XqEvDj-crMY55teBaiWBo3967_f1lucduxMpVxwfzSCXxLik8ikz51uofZ2u4InQTPBhCDKCpOWuBIyGLwq5EG1njfUGOA_vSJs6A051b9682su5ujTThTU6JgdXsp57WANYsDIxVmd8YXr_L6rNaAxcSws6s66yq1rzEG9-Iqu3li0bSoCQHi6KTk_eZH00rxET_mlxFz1cpSRtvXmIEkftAYz5KMlH-90M9gHGCMzFERwl2We4JCPSeCuSsYpWeDsF6gmkw2o7KJ3V6AxNLwac3lyehMejxyY4DIRjKgWN0gro3b9qrq_TV0kX5HomaVGnIn94D3zFrbvSOmgGIQ.jpg"
+        "https://cdn1.telesco.pe/file/eFCuHqlrpaLdJTM1B2vh7DHdcucPqIxt5cPSr3ExBbh7OQwToackQPZekoBM1HTrnXq1IzZ8ZxJ81nKsSbOtHOeO4RIP2hXJ5cjXVT-_SvQUAyekIlQdyscztsg2oKv-9vRxMMgzpQvcbkWDEemrI09bZeDEKeIWbKdrLJGmmScacnJVOKOklxhScQcWaEa0pICgWL9RX8ShEQKnxCy822JPkclXtCQ_x_Y7mtsEUAc5n7YRF8grtnL4YG8jkeXP6y_0HNDdZo1mE2hkzLw4_J1LFpBzJZ5QGM7zT7hnNGIUO0UIflcJjqLzJUrwnCZJGf_gAeJJuPVBrWZ1kdCieQ.jpg"
       ]
     },
     {
@@ -145,7 +145,7 @@
       "datetime": "2026-04-09T18:55:00+00:00",
       "time_text": "18:55",
       "link": "https://t.me/SamnetInternet/292",
-      "views": "13.3K"
+      "views": "13.4K"
     },
     {
       "text": "🔒 مقاله اموزش ساخت تانل DNS با dnstt-setup\n\nتانل DNS ترافیک اینترنت رو داخل کوئری‌های DNS مخفی می‌کنه. اینجا سعی شده که 8 نوع تانلی که این اسکریپت درست میکنه رو کارشون رو توضیح بده.\n در اخر مقاله  لینک کلی اموزش های دیگه هم هستش. این چند روز بیشتر درگیر نوشتن اموزش ها و مقاله های مختلف در زمینه های مختلف نتورک بودم. \n\nبه مرور زمان دونه دونه معرفیشون میکنم. \n\nبرای پیدا کردن DNS ها هم میتونید از این ربات استفاده کنید:  @dns_resolvers_bot\n\n📖 https://samnet.dev/learn/guides/dns-tunneling-guide/?lang=fa\n\nلینک بخش learn / اموزشی سایتم اکثرا انگلیسی هست ولی ترجمه فارسی هم به مرور زمان اضافه میشه. \nhttps://www.samnet.dev/learn/"
@@ -244,7 +244,7 @@
       "datetime": "2026-04-03T15:47:35+00:00",
       "time_text": "15:47",
       "link": "https://t.me/SamnetInternet/273",
-      "views": "35.2K"
+      "views": "35.3K"
     },
     {
       "text": "🗂️ پروژه dnstm-setup آپدیت بزرگ با پشتیبانی VayDNS\n🔥 نسخه v1.4.0\n\n⚡ پشتیبانی کامل از VayDNS\n• دو تانل جدید: vay1 (SOCKS) و vay-ssh (SSH) روی ساب‌دامین‌های v و vz\n• حالا تا 8 تانل همزمان (Slipstream + DNSTT + NoizDNS + VayDNS)\n• پروتکل KCP/smux با بازیابی خودکار اتصال\n• سازگار با SlipNet — کافیه نوع تانل رو DNSTT انتخاب کنید\n• دانلود و نصب خودکار باینری vaydns-server\n\n📈 دستور --monitor مانیتورینگ لحظه‌ای:\n• نمایش CPU، حافظه، پایداری هر تانل\n• تعداد اتصالات فعال SOCKS/SSH/DNS\n• لاگ‌های اخیر سرویس‌ها\n\n🔍 دستور --diag عیب‌یابی کامل:\n• بررسی باینری‌ها (dnstm, dnstt-server, noizdns, vaydns)\n• وضعیت سرویس‌ها با نمایش لاگ خطا\n• بررسی پورت ۵۳، فایروال، SSH، کلیدها\n• تشخیص تداخل systemd-resolved\n• هشدار MTU بالا برای تانل‌های DNSTT/NoizDNS/VayDNS\n• شمارش مشکلات با راهنمای رفع\n\n🐛 رفع باگ‌های مهم گزاش شده در گیتهاب\n\n🔧 بهبودها:\n• ۹ رکورد DNS (2 رکورد جدید برای VayDNS)\n• گزینه ۴ در --add-tunnel برای انتخاب VayDNS\n• تولید لینک SSH برای VayDNS در مدیریت کاربران\n• پاکسازی کامل VayDNS در --uninstall و --remove-tunnel\n\n📥 آپدیت:\ncurl -fsSL -o dnstm-setup.sh https://raw.githubusercontent.com/SamNet-dev/dnstm-setup/master/dnstm-setup.sh\nsudo bash dnstm-setup.sh\n\n🔗 https://github.com/SamNet-dev/dnstm-setup"
@@ -283,7 +283,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T18:24:25.960147",
+    "last_update": "2026-04-19T18:30:37.436681",
     "new_count": 0
   }
 }
