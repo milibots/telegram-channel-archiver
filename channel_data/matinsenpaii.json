@@ -18,7 +18,7 @@
       "datetime": "2026-04-18T20:02:25+00:00",
       "time_text": "20:02",
       "link": "https://t.me/MatinSenPaii/2759",
-      "views": "21.7K"
+      "views": "21.8K"
     },
     {
       "text": "متد اسپوف SNI بسته شده 99 درصد مناطق دوباره."
@@ -30,7 +30,7 @@
       "datetime": "2026-04-18T20:01:35+00:00",
       "time_text": "20:01",
       "link": "https://t.me/MatinSenPaii/2758",
-      "views": "21.1K"
+      "views": "21.2K"
     },
     {
       "text": "فیلترچی بین وایت کردن + اسپوف زدن ملت و بستن کامل گزینه‌ی دوم رو انتخاب کرد انگار. زورش نرسید هم وایت کنه هم SNI رو ببنده"
@@ -42,7 +42,7 @@
       "datetime": "2026-04-18T18:41:34+00:00",
       "time_text": "18:41",
       "link": "https://t.me/MatinSenPaii/2757",
-      "views": "24.8K"
+      "views": "24.9K"
     },
     {
       "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
@@ -128,7 +128,7 @@
       "datetime": "2026-04-18T06:20:56+00:00",
       "time_text": "06:20",
       "link": "https://t.me/MatinSenPaii/2750",
-      "views": "32.2K"
+      "views": "32.3K"
     },
     {
       "text": "روز سوم SNI SPOOF با hcaptcha😂 همچنان وصلید دوستان؟"
@@ -140,7 +140,7 @@
       "datetime": "2026-04-17T23:39:00+00:00",
       "time_text": "23:39",
       "link": "https://t.me/MatinSenPaii/2749",
-      "views": "34.3K"
+      "views": "34.4K"
     },
     {
       "text": "اندروید به تنهایی نیاز به روت داره. کاری نیست که بشه واسش انجام داد فعلا \n\nپ.ن: با ترموکس و نسخه لینوکس میتونید."
@@ -167,7 +167,7 @@
       "datetime": "2026-04-17T21:48:37+00:00",
       "time_text": "21:48",
       "link": "https://t.me/MatinSenPaii/2747",
-      "views": "34.3K"
+      "views": "34.4K"
     },
     {
       "text": "حیف وقت. حتی دیگه بهش نمی‌پردازم فقط دوست داشتم ممبرهای خودم عقاید من و دیدگاهم رو در رابطه با این قضیه بدونن که دو بار صحبت کردم."
@@ -215,7 +215,7 @@
       "datetime": "2026-04-17T21:24:49+00:00",
       "time_text": "21:24",
       "link": "https://t.me/MatinSenPaii/2744",
-      "views": "32K"
+      "views": "32.1K"
     },
     {
       "text": "تا الان از سرورها حدود 2.7 ترابایت مصرف شده. اگر بگیم میانگین قیمت گیگی 400 تومن بوده، مجموعا 1 میلیارد تومن تا الان صرفه جویی شده توی هزینه‌های مردم. هرچند این صرفا آمار روی کاغذه. عدد خیلی بیشتر هست و همه‌اش رو مدیون Patterniha هستیم و بقیه دوستان متخصص✌️"
@@ -290,7 +290,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T08:11:48.714479",
+    "last_update": "2026-04-19T08:17:59.757996",
     "new_count": 0
   }
 }
