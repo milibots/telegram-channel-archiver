@@ -33,7 +33,7 @@
       "datetime": "2026-04-18T19:35:34+00:00",
       "time_text": "19:35",
       "link": "https://t.me/SniFinland/202",
-      "views": "2.13K"
+      "views": "2.14K"
     },
     {
       "text": "تست کنید.\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}"
@@ -45,7 +45,7 @@
       "datetime": "2026-04-18T19:34:16+00:00",
       "time_text": "19:34",
       "link": "https://t.me/SniFinland/201",
-      "views": "2.05K"
+      "views": "2.06K"
     },
     {
       "text": "Operator: IRANCELL-5G-Tehran\nTime: 2026-04-18 22:58:56\n\nThe status of this service has changed to:\n✅ e7.c.lencr.org : 104.18.20.213"
@@ -110,7 +110,7 @@
       "datetime": "2026-04-18T18:13:16+00:00",
       "time_text": "18:13",
       "link": "https://t.me/SniFinland/182",
-      "views": "2.45K"
+      "views": "2.46K"
     },
     {
       "text": "۲ گیگ رو هوا خوردین، حلال باشه."
@@ -122,7 +122,7 @@
       "datetime": "2026-04-18T18:04:25+00:00",
       "time_text": "18:04",
       "link": "https://t.me/SniFinland/181",
-      "views": "2.5K"
+      "views": "2.51K"
     },
     {
       "text": "وصله."
@@ -163,7 +163,7 @@
       "datetime": "2026-04-18T17:54:23+00:00",
       "time_text": "17:54",
       "link": "https://t.me/SniFinland/178",
-      "views": "2.42K"
+      "views": "2.43K"
     },
     {
       "text": "باشید یه دوتا کانفیگ نپستر بدم بزنید یادتون بره."
@@ -199,7 +199,7 @@
       "datetime": "2026-04-18T17:48:23+00:00",
       "time_text": "17:48",
       "link": "https://t.me/SniFinland/175",
-      "views": "2.44K"
+      "views": "2.45K"
     },
     {
       "text": "یه لحظه وصل شد باز رفت تو کما."
@@ -226,7 +226,7 @@
       "datetime": "2026-04-18T17:44:20+00:00",
       "time_text": "17:44",
       "link": "https://t.me/SniFinland/173",
-      "views": "2.62K"
+      "views": "2.63K"
     },
     {
       "text": "عزیزان گیت‌هاب رو نمیشه sni زد\nباید پشت کلاد باشن، گیت‌هاب نیست،\nدرضمن ظاهراً سیستم پدرسگ فیلترینگ الان دیگه سایتایی که پشت کلاد هستن هم ریدایرکت و هایجک میکنه به رنج های داخلی زیرنظر خودشون و عملاً راه اتصال از این طریق به خارج از کشور و سرور های خارج هم بسته شده."
@@ -278,7 +278,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T08:42:44.715034",
+    "last_update": "2026-04-19T08:48:55.370323",
     "new_count": 0
   }
 }
