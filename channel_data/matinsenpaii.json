@@ -18,7 +18,7 @@
       "datetime": "2026-04-18T20:02:25+00:00",
       "time_text": "20:02",
       "link": "https://t.me/MatinSenPaii/2759",
-      "views": "21.3K"
+      "views": "21.4K"
     },
     {
       "text": "متد اسپوف SNI بسته شده 99 درصد مناطق دوباره."
@@ -30,7 +30,7 @@
       "datetime": "2026-04-18T20:01:35+00:00",
       "time_text": "20:01",
       "link": "https://t.me/MatinSenPaii/2758",
-      "views": "20.7K"
+      "views": "20.8K"
     },
     {
       "text": "فیلترچی بین وایت کردن + اسپوف زدن ملت و بستن کامل گزینه‌ی دوم رو انتخاب کرد انگار. زورش نرسید هم وایت کنه هم SNI رو ببنده"
@@ -86,7 +86,7 @@
       "datetime": "2026-04-18T10:02:09+00:00",
       "time_text": "10:02",
       "link": "https://t.me/MatinSenPaii/2753",
-      "views": "28.2K"
+      "views": "28.3K"
     },
     {
       "text": "آموزش مرحله به مرحله و خیلی ساده SNI Spoofing  \n\n۱. دانلود برنامه Patterniha  \n\nآخرین نسخه برنامه رو دانلود کنین (فایل zip یا rar).\n\nhttps://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0\n\n۲. استخراج فایل‌ها  \n\nفایل رو استخراج کنین. داخل پوشه باید فایل Patterniha.exe باشه.\n\n۳. فایل JSON رو آماده کنین  \n\nتو همون پوشه‌ای که Patterniha.exe هست، فایل config.json رو ویرایش کنین\nبعد این محتوا رو دقیق کپی کنین داخلش:\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"104.19.229.21\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"www.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n۴. برنامه رو اجرا کنین  \n\n- روی فایل Patterniha.exe راست کلیک کنین  \n\n- گزینه Run as administrator رو بزنین (خیلی مهمه&#33;)\n\n۵. کانفیگ V2Ray/Xray/Nekobox/v2rayNG رو تنظیم کنین  \n\nتو کانفیگی که داری فقط این دو تا رو عوض کن:\n\n- Address یا آدرس سرور → 127.0.0.1  \n- Port یا پورت → 40443\n\nبقیه چیزا (UUID، path، TLS، Reality و ...) رو همون قبلی نگه دار.\n\n۶. وصل شو  \n\nکانفیگ رو ذخیره کن و بزن Connect. باید وصل بشه.\n\nنکات مهم:\n\n اگه پترنیها ران نشد یه بار از کانفیگ real delay بگیرن استارت میشه\n- همیشه Patterniha رو به عنوان مدیر (Run as administrator) اجرا کن.\n- اگه ویندوز فایروال پرسید، اجازه دسترسی بده.\n- اگه وصل نشد: برنامه رو Stop کن، دوباره Start کن، یا یه config.json جدید با IP دیگه امتحان کن.\n\nhcaptcha.com\nnewassets.hcaptcha.com\njs.hcaptcha.com\nimgs.hcaptcha.com\nimgs2.hcaptcha.com\nimgs3.hcaptcha.com\nassets.hcaptcha.com\napi.hcaptcha.com\nanalytics.hcaptcha.com\nstats.hcaptcha.com\nthree-cust.hcaptcha.com\ntg.hcaptcha.com\nprimary.hcaptcha.com\ndashboard.hcaptcha.com\nbilling.hcaptcha.com\naccounts.hcaptcha.com\nproxy.hcaptcha.com\nloader.hcaptcha.com\nchallenge-tasks.hcaptcha.com\nserverless.hcaptcha.com\nhealth-check.hcaptcha.com\nemail.hcaptcha.com\n\n\n@whitedns"
@@ -280,7 +280,7 @@
       "datetime": "2026-04-17T18:39:15+00:00",
       "time_text": "18:39",
       "link": "https://t.me/MatinSenPaii/2738",
-      "views": "27.6K"
+      "views": "27.7K"
     },
     {
       "text": "دامنه dnstt.space رو هم بست کلادفلر. این دوتا استفاده کنین. (من دوباره سرورای بالا رو آپدیت میکنم دامینشون رو تو همین پست تا 1 ساعت دیگه)\n\nهر روز داریم دامین میسوزونیم که وصل بمونین 😌😌 (لعنت بر باعث و بانی این فیلترینگ (بالاخص امن افزار شریف و رسول جلیلی بی‌همه‌چیز))\n\nvless://10db3f90-dbbb-4262-b4bb-a01e02e9b87e@127.0.0.1:40443?type=xhttp&encryption=none&path=%2FRiTaLiN&host=rubifen.ktbr.store&mode=auto&security=tls&fp=chrome&sni=rubifen.ktbr.store&insecure=0&allowInsecure=0#Rubifen%20%40khosrow_v2ray\nvless://9863e1a5-f83b-4608-bed8-122d0a54b6d5@127.0.0.1:40443?type=xhttp&encryption=none&path=%2FKtBrKmKh&host=interim.ktbr.store&mode=auto&security=tls&fp=chrome&sni=interim.ktbr.store&insecure=0&allowInsecure=0#Interim%20%40khosrow_v2ray"
@@ -290,7 +290,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T07:47:06.102700",
+    "last_update": "2026-04-19T07:53:16.642101",
     "new_count": 0
   }
 }
