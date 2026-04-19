@@ -5,7 +5,7 @@
   "channel_username": "@papfransiz",
   "channel_avatar": "https://cdn4.telesco.pe/file/Khp60GZAX-20R98B8xx2ln0eiXkxHtE9mVpOaLtJCD-8Rw4K2WwSKZfOA1JQWCDbNT2Ed_g0Q9Zf-ilzUbExCaIgjo8MrSdOGoW0lsGKxCEU8nDO2OG1cQIyo48v8gl-kaNP4ZHtSW553xIz4QfIobxLxppJNdj50Bajt7JCMZ9NNeQgg7NkEdRX84P_Z7Xyj5fJbThBq-NcRgWqwTqNRTEh3UXXNSWkv34jlQ5grnK1h7lnCvRTbibOSxEHBybgA1OqlZ6-EpJM_vfIlXfKxlSAmcycJ9vu9nOw-SxipzZDQQOWHHJNFPe0OUUVnII6I698se9ZeP0MqCtD4j_sqg.jpg",
   "channel_verified": false,
-  "channel_subscribers": "465",
+  "channel_subscribers": "466",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T20:19:06+00:00",
       "time_text": "20:19",
       "link": "https://t.me/papFransiz/380",
-      "views": "44"
+      "views": "53"
     },
     {
       "text": "#"
@@ -33,7 +33,7 @@
       "datetime": "2026-04-19T10:10:59+00:00",
       "time_text": "10:10",
       "link": "https://t.me/papFransiz/379",
-      "views": "170"
+      "views": "172"
     },
     {
       "text": "یه ایده زده به سرم یه بدافزاری بنویسم که وقتی تزریق شد به سرور وایت و گوشی بسیجی و... بتونیم ازشون به صورت اتوباند دیتا رد کنیم 🙂‍↕️"
@@ -173,7 +173,7 @@
       "datetime": "2026-04-16T08:08:55+00:00",
       "time_text": "08:08",
       "link": "https://t.me/papFransiz/365",
-      "views": "448"
+      "views": "450"
     },
     {
       "text": "Securing NTP\n\nhttps://blog.apnic.net/2026/03/10/securing-ntp/"
@@ -273,7 +273,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T22:32:23.735770",
+    "last_update": "2026-04-19T22:38:34.861250",
     "new_count": 0
   }
 }
