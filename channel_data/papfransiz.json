@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T10:10:59+00:00",
       "time_text": "10:10",
       "link": "https://t.me/papFransiz/379",
-      "views": "135"
+      "views": "136"
     },
     {
       "text": "یه ایده زده به سرم یه بدافزاری بنویسم که وقتی تزریق شد به سرور وایت و گوشی بسیجی و... بتونیم ازشون به صورت اتوباند دیتا رد کنیم 🙂‍↕️"
@@ -197,7 +197,7 @@
       "datetime": "2026-04-15T16:46:06+00:00",
       "time_text": "16:46",
       "link": "https://t.me/papFransiz/362",
-      "views": "512"
+      "views": "514"
     },
     {
       "text": "ورژن جدید کرنل هم رلیز شده. ولی من ایرانی بدبخت هنوز درگیر وصل موندمم"
@@ -212,7 +212,7 @@
       "datetime": "2026-04-14T23:44:05+00:00",
       "time_text": "23:44",
       "link": "https://t.me/papFransiz/361",
-      "views": "725"
+      "views": "727"
     },
     {
       "text": "بزودی یه نرم افزار برای DNSTT مشابه slipnet برای کاربران آیفون و مک عرضه میشه 😃 \nدر حال طراحی های نهایه 🤧 \nحرکات باحالی پیاده سازی کردم 😁 \n\nاگه حمایتی شد از مطالب و محتوا شاید زودتر رلیز بشه"
@@ -224,7 +224,7 @@
       "datetime": "2026-04-14T23:06:26+00:00",
       "time_text": "23:06",
       "link": "https://t.me/papFransiz/360",
-      "views": "525"
+      "views": "526"
     },
     {
       "text": "فکت:\n\nیادگیری Openwrt به خاطر یه انسان با 160 قد کمر منو شکست"
@@ -236,7 +236,7 @@
       "datetime": "2026-04-14T17:13:54+00:00",
       "time_text": "17:13",
       "link": "https://t.me/papFransiz/359",
-      "views": "521"
+      "views": "522"
     },
     {
       "text": "تنظیم پروکسی برای میرور .... \nبرای توزیع‌های مبتنی بر Debian/Ubuntu:\n  \n      sudo nano /etc/apt/apt.conf\n   \n\n      Acquire::http::Proxy \"socks5://username:password@proxyserver:port/\";\n   Acquire::https::Proxy \"socks5://username:password@proxyserver:port/\";"
@@ -248,7 +248,7 @@
       "datetime": "2026-04-14T16:58:55+00:00",
       "time_text": "16:58",
       "link": "https://t.me/papFransiz/356",
-      "views": "453"
+      "views": "454"
     },
     {
       "text": "https://github.com/bol-van/zapret"
@@ -260,7 +260,7 @@
       "datetime": "2026-04-14T16:58:39+00:00",
       "time_text": "16:58",
       "link": "https://t.me/papFransiz/355",
-      "views": "415"
+      "views": "416"
     },
     {
       "text": "https://github.com/serverless-dns/serverless-dns"
@@ -270,7 +270,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T17:34:55.148931",
+    "last_update": "2026-04-19T17:41:06.683765",
     "new_count": 0
   }
 }
