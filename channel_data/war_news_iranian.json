@@ -11,14 +11,36 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "اخبار ایران و جهان",
-  "total_posts": 64,
-  "returned_posts": 64,
+  "total_posts": 63,
+  "returned_posts": 63,
   "posts": [
+    {
+      "datetime": "2026-04-19T21:39:12+00:00",
+      "time_text": "21:39",
+      "link": "https://t.me/war_news_iranian/4340",
+      "views": "41"
+    },
+    {
+      "text": "🔻اولین اعتراض آلمانیا به قیمت بنزین شکل گرفت و به صدراعظمشون گفتن برو نمیخوایمت\n\n\n@war_news_iranian"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/e20bf0b640.mp4?token=PTXcoLeVEPiY7xeI0rA5VSsxPf5SzE0VTxUxV8ZJ1ipAiENtspYLgqE53s4PKRF_1zMk1IqPrSGi5FHrAIcy3DoGKAkX875il7bWEr0Tuv_R6taLtvvQa38JnZsPx6qT5e4LF_Qu0XcS9TvBV3rMhmPTZ7hUojJzKOVlqQp9S3VJ3RniRwg1GqyonyJkNVFn8bXi_S5ooXkH-Yx3aiDkxyZAqF0CzmZKgjKh5KonDSgAHzJN_XHZwCSJGjZ_uaN6H9xjqCIi0ZucABm3gv4howIbOpqErdDl_ZhMvTY-6eCqHOWH7XIHflEg8wJoBBZS2e6-yGJ7vJcmUP-4rIM2Zg"
+      ]
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/Lqahe9kPcnY9s_6CZB6TyFjmpR30jbVE0f4kdpNFVCFkMJqOasPo62orSVwiADohYbvNezmJatdDthBhxOB17Bva47jRmvmGYe1Ht45wJ9XD00OIcW11gmkh1zU74d8NAaIq5KYj7rl8KnXVpozhhaNN8cpJuhpd6lEISIJq24CcNYHUI5a7ZcCrZYs_3PozFYHpgyxFnuUq-pY6bYCQqKwpVtbhaCKLn_WcxkDS8bOHfcEYXdCAaV5kkRXLzpFluVb_JSuMPW867zTevwS_ST_l06AKDvzM4rrrw0ihz0aZ0OVMjW6morTUxYeOPtfOV2QAl3SKUk_lAaQcMFwz0A.jpg"
+      ]
+    },
+    {
+      "post_id": "4340"
+    },
     {
       "datetime": "2026-04-19T21:15:14+00:00",
       "time_text": "21:15",
       "link": "https://t.me/war_news_iranian/4339",
-      "views": "216"
+      "views": "260"
     },
     {
       "text": "🔻 انتقال سنگین زیر سایه مذاکره\n\nدر حالی که از تلاش برای آغاز مذاکرات و تمدید آتش‌بس صحبت می‌شود، داده‌های فلایت‌رادار از افزایش قابل‌توجه پروازهای ترابری سنگین نظامی در مسیر اروپا به خاورمیانه خبر می‌دهد.\n\nحضور پرتعداد C-17‌ها در این مسیر، معمولاً نشانه جابجایی تجهیزات و پشتیبانی لجستیکی در مقیاس بالا است؛ الگویی که بیشتر در آستانه تحولات میدانی دیده می‌شود.\n\nاین در حالی است که آتش‌بس فعلی در روزهای پایانی خود قرار دارد و همزمان، تحرکات در دریا و هوا رو به افزایش است.\n\n@war_news_iranian"
@@ -35,7 +57,7 @@
       "datetime": "2026-04-19T20:19:46+00:00",
       "time_text": "20:19",
       "link": "https://t.me/war_news_iranian/4338",
-      "views": "504"
+      "views": "528"
     },
     {
       "text": "🔻رویترز: دو هواپیمای سی-۱۷ آمریکا تجهیزات امنیتی وارد پاکستان کردند\n\n@war_news_iranian"
@@ -47,7 +69,7 @@
       "datetime": "2026-04-19T19:50:07+00:00",
       "time_text": "19:50",
       "link": "https://t.me/war_news_iranian/4337",
-      "views": "633"
+      "views": "653"
     },
     {
       "text": "🔻به گفته کانال ۱۴ عبری، اسرائیل در حال آماده‌سازی برای از سرگیری درگیری‌ها در نوار غزه پس از امتناع حماس از خلع سلاح در غزه است، با ضرب‌الاجلی که برای آغاز ماه آینده تعیین شده است\n\n@war_news_iranian"
@@ -59,7 +81,7 @@
       "datetime": "2026-04-19T19:32:17+00:00",
       "time_text": "19:32",
       "link": "https://t.me/war_news_iranian/4336",
-      "views": "1.78K"
+      "views": "1.84K"
     },
     {
       "text": "🔻ترامپ:\n\nامروز، یک کشتی باری با پرچم ایران به نام توسکا، به طول تقریباً ۹۰۰ فوت و وزنی تقریباً برابر با یک ناو هواپیمابر، تلاش کرد از محاصره دریایی ما عبور کند که برای آنها خوب پیش نرفت.\n\nناوشکن موشک‌انداز نیروی دریایی آمریکا USS SPRUANCE کشتی توسکا را در خلیج عمان متوقف کرد و به آنها هشدار داد که توقف کنند. خدمه ایرانی گوش ندادند، بنابراین کشتی نیروی دریایی ما با ایجاد سوراخی در موتورخانه، آنها را متوقف کرد.\n\nدر حال حاضر، تفنگداران دریایی آمریکا کنترل کشتی را در دست دارند. کشتی توسکا تحت تحریم‌های وزارت خزانه‌داری آمریکا به دلیل سابقه فعالیت‌های غیرقانونی قبلی است.\n\nما کنترل کامل کشتی را در اختیار داریم و در حال بررسی محموله آن هستیم&#33;\n\n\n@war_news_iranian"
@@ -76,7 +98,7 @@
       "datetime": "2026-04-19T19:02:42+00:00",
       "time_text": "19:02",
       "link": "https://t.me/war_news_iranian/4335",
-      "views": "666"
+      "views": "675"
     },
     {
       "text": "سناتور گراهام:\n\nآقای رئیس‌جمهور: کنترل تنگه هرمز را به دست بگیرید و محاصره را حفظ کنید. آن‌وقت واقعاً همه کارت‌ها در دست شما خواهد بود.\n\n@irane_85"
@@ -88,7 +110,7 @@
       "datetime": "2026-04-19T18:47:26+00:00",
       "time_text": "18:47",
       "link": "https://t.me/war_news_iranian/4334",
-      "views": "830"
+      "views": "832"
     },
     {
       "text": "🔻شبکه I24 اسرائیل: رسانه‌های ایرانی گزارش دادند که ایران مشارکت در دور دوم مذاکرات با ایالات متحده در پاکستان را رد کرده است.\n\n@war_news_iranian"
@@ -100,7 +122,7 @@
       "datetime": "2026-04-19T18:25:11+00:00",
       "time_text": "18:25",
       "link": "https://t.me/war_news_iranian/4333",
-      "views": "879"
+      "views": "881"
     },
     {
       "text": "🔻مقام آمریکایی: ناو هواپیمابر جرالد فورد آمریکا رسما به خاورمیانه بازگشت\n\n@war_news_iranian"
@@ -112,7 +134,7 @@
       "datetime": "2026-04-19T17:42:15+00:00",
       "time_text": "17:42",
       "link": "https://t.me/war_news_iranian/4332",
-      "views": "976"
+      "views": "981"
     },
     {
       "text": "🔻منبع ایرانی به الجزیره می گوید که دور جدیدی از جنگ در شرف وقوع است: با توجه به اظهارات ترامپ مبنی بر برگزاری مذاکرات و ناهماهنگی با آنچه که در واقع بین ایران و آمریکا در حال رخ دادن است، معتقدیم که با فریب دشمن روبرو هستیم و در آستانه دور جدیدی از تشدید تنش هستیم.\n\n@war_news_iranian"
@@ -124,7 +146,7 @@
       "datetime": "2026-04-19T17:41:33+00:00",
       "time_text": "17:41",
       "link": "https://t.me/war_news_iranian/4331",
-      "views": "912"
+      "views": "914"
     },
     {
       "text": "🔻 ترامپ در گفتگو با نیویورک پست: \nاگر با ایران به توافق برسم، به پاکستان خواهم رفت\n\n@war_news_iranian"
@@ -136,7 +158,7 @@
       "datetime": "2026-04-19T17:09:16+00:00",
       "time_text": "17:09",
       "link": "https://t.me/war_news_iranian/4330",
-      "views": "994"
+      "views": "996"
     },
     {
       "text": "🔻یک منبع ایرانی به خبرگزاری مهر گفت:\nنیروهای آمریکایی به یک کشتی تجاری ایرانی شلیک کردند تا آن را مجبور به بازگشت کنند.\n\n@war_news_iranian"
@@ -148,7 +170,7 @@
       "datetime": "2026-04-19T16:46:37+00:00",
       "time_text": "16:46",
       "link": "https://t.me/war_news_iranian/4329",
-      "views": "2.32K"
+      "views": "2.34K"
     },
     {
       "text": "🔻خبرگزاری دولت:\nمذاکراتی در کار نیست،\nخواسته‌های بیش از حد آمریکا، مواضع غیرمنطقی و غیرواقع‌بینانه، تناقضات مداوم، محاصره دریایی ادامه‌دار که نقض تفاهم آتش‌بس است و لحن تهدیدآمیز آمریکا مانع از برگزاری دور دیگری از مذاکرات است.\n\n@war_news_iranian"
@@ -160,7 +182,7 @@
       "datetime": "2026-04-19T16:31:46+00:00",
       "time_text": "16:31",
       "link": "https://t.me/war_news_iranian/4328",
-      "views": "979"
+      "views": "985"
     },
     {
       "text": "🔻امروز اسرائیل به حزب‌الله حمله کرد.\n\n@war_news_iranian"
@@ -172,7 +194,7 @@
       "datetime": "2026-04-19T15:50:45+00:00",
       "time_text": "15:50",
       "link": "https://t.me/war_news_iranian/4327",
-      "views": "1.04K"
+      "views": "1.05K"
     },
     {
       "text": "🔻بنیامین نتانیاهو، نخست‌وزیر اسرائیل:\nما در نبردی علیه استبداد بزرگ ایران که جهان را به وحشت می‌اندازد، به دنبال نابودی ما است و می‌خواهد ایالات متحده و تمدن غرب را همان‌طور که می‌شناسیم سرنگون کند، با ایالات متحده درگیر بوده‌ایم.\n\n🔴ما دستاوردهای عظیمی داشته‌ایم. هنوز تمام نشده است.\n\n🔴هر لحظه ممکن است تحولات جدیدی را برای ما به ارمغان بیاورد.\n\n@war_news_iranian"
@@ -201,7 +223,7 @@
       "datetime": "2026-04-19T15:26:01+00:00",
       "time_text": "15:26",
       "link": "https://t.me/war_news_iranian/4325",
-      "views": "987"
+      "views": "992"
     },
     {
       "text": "🔻فارس: تا محاصره دریایی هست مذاکره نمیکنیم.\n\n@war_news_iranian"
@@ -213,7 +235,7 @@
       "datetime": "2026-04-19T14:37:41+00:00",
       "time_text": "14:37",
       "link": "https://t.me/war_news_iranian/4324",
-      "views": "1.06K"
+      "views": "1.07K"
     },
     {
       "text": "🔻ترامپ به ام اس نو گفت: ایران نمی تواند سلاح هسته ای داشته باشد و با آن موافقت کرده است‌‌\n\n@war_news_iranian"
@@ -249,34 +271,10 @@
     },
     {
       "post_id": "4319"
-    },
-    {
-      "datetime": "2026-04-19T12:56:15+00:00",
-      "time_text": "12:56",
-      "link": "https://t.me/war_news_iranian/4318",
-      "views": "1.06K"
-    },
-    {
-      "text": "🔻سفیر ایالات متحده در سازمان ملل، مایک والتز، به شبکه خبری ABC گفت که معاون رئیس‌جمهور جی دی ونس، رهبری هیئت آمریکایی به اسلام‌آباد برای مذاکرات با ایران را بر عهده خواهد داشت.\n\n@war_news_iranian"
-    },
-    {
-      "post_id": "4318"
-    },
-    {
-      "datetime": "2026-04-19T12:52:51+00:00",
-      "time_text": "12:52",
-      "link": "https://t.me/war_news_iranian/4317",
-      "views": "1.11K"
-    },
-    {
-      "text": "🔻 تهران اعلام کرده که اطلاعاتی دریافت کرده که نشان می‌دهد امریکا و اسرائیل در حال آماده‌سازی برای یک حمله غافلگیرانه به ایران پس از روز استقلال هستند\n\n@war_news_iranian"
-    },
-    {
-      "post_id": "4317"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T23:34:11.067040",
-    "new_count": 0
+    "last_update": "2026-04-19T23:40:22.462399",
+    "new_count": 1
   }
 }
