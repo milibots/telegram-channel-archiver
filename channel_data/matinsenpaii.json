@@ -11,14 +11,38 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "یوتوبر انیمه و مانگا(الان کمی شبکه؟&#33;) - برنامه‌نویسِ ایده‌های باحال\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•AniList:\nhttps://anilist.co/user/MatinSenPai\n\n•Github:\nhttps://github.com/MatinSenPai",
-  "total_posts": 70,
-  "returned_posts": 70,
+  "total_posts": 68,
+  "returned_posts": 68,
   "posts": [
+    {
+      "datetime": "2026-04-19T20:52:50+00:00",
+      "time_text": "20:52",
+      "link": "https://t.me/MatinSenPaii/2768",
+      "views": "2.52K"
+    },
+    {
+      "text": "کمی صبر کنید"
+    },
+    {
+      "post_id": "2768"
+    },
+    {
+      "datetime": "2026-04-19T20:52:20+00:00",
+      "time_text": "20:52",
+      "link": "https://t.me/MatinSenPaii/2767",
+      "views": "2.62K"
+    },
+    {
+      "text": "فعلا گروه بسته‌ست."
+    },
+    {
+      "post_id": "2767"
+    },
     {
       "datetime": "2026-04-19T13:30:08+00:00",
       "time_text": "13:30",
       "link": "https://t.me/MatinSenPaii/2766",
-      "views": "18K"
+      "views": "18.7K"
     },
     {
       "text": "https://t.me/MatinSenPaii/2447"
@@ -33,7 +57,7 @@
       "datetime": "2026-04-19T12:45:28+00:00",
       "time_text": "12:45",
       "link": "https://t.me/MatinSenPaii/2765",
-      "views": "20.4K"
+      "views": "20.9K"
     },
     {
       "text": "و دوباره بازگشت ما به سوی DNS است"
@@ -48,7 +72,7 @@
       "datetime": "2026-04-19T12:27:54+00:00",
       "time_text": "12:27",
       "link": "https://t.me/MatinSenPaii/2764",
-      "views": "16.9K"
+      "views": "17.3K"
     },
     {
       "text": "🚀 آپدیت Range Scout نسخه 0.7.0\n\nاین نسخه اسکن DNS و مرحله DNSTT را خیلی منعطف‌تر کرده. حالا هم در اسکن می‌تونی بین UDP / TCP / BOTH انتخاب کنی، هم در مرحله DNSTT از UDP / TCP / DOT / DOH استفاده کنی. تنظیمات جدید هم داخل UI و فایل config کامل ذخیره و لود می‌شن.\n\n——————————————\n\n✨ چی عوض شده:\n\n🔹 پروتکل اسکن DNS قابل انتخاب شد\nحالا اسکنر فقط UDP نیست و می‌تونی UDP، TCP یا BOTH را برای probeهای سازگاری انتخاب کنی\n\n🔹 مرحله DNSTT حرفه‌ای‌تر شد\nبرای تست DNSTT حالا UDP، TCP، DOT و DOH پشتیبانی می‌شن\n\n🔹 Resolver Endpoint اضافه شد\nبرای DNSTT می‌تونی endpoint دلخواه بدی و از placeholderهای {ip} و {port} استفاده کنی\n\n🔹 تنظیمات جدید داخل config ذخیره می‌شن\nفیلدهای protocol، transport و resolverURL حالا موقع Save Config نگه داشته می‌شن و دوباره درست لود می‌شن\n\n🔹 اسکن TCP و حالت BOTH به هسته اسکن اضافه شد\nنتایج resolverها حالا می‌تونن بر اساس عملکرد واقعی روی UDP و TCP ثبت بشن\n\n🔹 تست‌ها و پایداری بهتر شد\nتست‌های scanner، DNSTT و embedded client گسترده‌تر شدن و رفتار transportهای جدید پوشش داده شد\n\n🔹 رابط کاربری و نسخه برنامه آپدیت شد\nفیلدهای جدید DNSTT وارد UI شدن و نسخه داخل هدر روی v0.7.0 قرار گرفت\n\n—————————————\n\n🔗 دانلود از گیت‌هاب\nhttps://github.com/PedramMarandi/range-scout/releases/tag/v0.7.0"
@@ -60,7 +84,7 @@
       "datetime": "2026-04-19T09:46:42+00:00",
       "time_text": "09:46",
       "link": "https://t.me/MatinSenPaii/2762",
-      "views": "25.5K"
+      "views": "25.8K"
     },
     {
       "text": "پول به \"شکن\" و امثالهم هم ندید. یادآوری کنم که چند هفته پیش، به مدت دو سه روز chatgpt روش باز شد و ملت کلی اشتراک خریدن و روش کانفیگ ساختن و باز مسدود شد. پول مردم هم رفت سطل آشغال"
@@ -72,7 +96,7 @@
       "datetime": "2026-04-19T09:25:10+00:00",
       "time_text": "09:25",
       "link": "https://t.me/MatinSenPaii/2761",
-      "views": "25.2K"
+      "views": "25.4K"
     },
     {
       "text": "منتها این کاری که کردن داره افتضاح میشه هر لحظه"
@@ -84,7 +108,7 @@
       "datetime": "2026-04-19T09:23:32+00:00",
       "time_text": "09:23",
       "link": "https://t.me/MatinSenPaii/2760",
-      "views": "25.7K"
+      "views": "25.9K"
     },
     {
       "text": "طبق داده‌های https://t.me/irnetmonitor ، دی ان اس گوگل روی دیتاسنتر آسیاتک باز شد\nآپدیت: بسته شد"
@@ -96,7 +120,7 @@
       "datetime": "2026-04-18T20:02:25+00:00",
       "time_text": "20:02",
       "link": "https://t.me/MatinSenPaii/2759",
-      "views": "31.6K"
+      "views": "31.7K"
     },
     {
       "text": "متد اسپوف SNI بسته شده 99 درصد مناطق دوباره."
@@ -108,7 +132,7 @@
       "datetime": "2026-04-18T20:01:35+00:00",
       "time_text": "20:01",
       "link": "https://t.me/MatinSenPaii/2758",
-      "views": "30.4K"
+      "views": "30.5K"
     },
     {
       "text": "فیلترچی بین وایت کردن + اسپوف زدن ملت و بستن کامل گزینه‌ی دوم رو انتخاب کرد انگار. زورش نرسید هم وایت کنه هم SNI رو ببنده"
@@ -120,7 +144,7 @@
       "datetime": "2026-04-18T18:41:34+00:00",
       "time_text": "18:41",
       "link": "https://t.me/MatinSenPaii/2757",
-      "views": "31.9K"
+      "views": "32K"
     },
     {
       "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
@@ -132,7 +156,7 @@
       "datetime": "2026-04-18T14:23:55+00:00",
       "time_text": "14:23",
       "link": "https://t.me/MatinSenPaii/2756",
-      "views": "33.4K"
+      "views": "33.5K"
     },
     {
       "text": "هیچکس توقع نداره کار کنه🤣🤣"
@@ -218,7 +242,7 @@
       "datetime": "2026-04-17T23:39:00+00:00",
       "time_text": "23:39",
       "link": "https://t.me/MatinSenPaii/2749",
-      "views": "36.2K"
+      "views": "36.3K"
     },
     {
       "text": "اندروید به تنهایی نیاز به روت داره. کاری نیست که بشه واسش انجام داد فعلا \n\nپ.ن: با ترموکس و نسخه لینوکس میتونید."
@@ -233,7 +257,7 @@
       "datetime": "2026-04-17T23:30:50+00:00",
       "time_text": "23:30",
       "link": "https://t.me/MatinSenPaii/2748",
-      "views": "35.3K"
+      "views": "35.4K"
     },
     {
       "text": "در تلاشیم پروژه‌ای بالا بیاریم که دسترسی شما رو به سرورها + محتوای Config.json راحتتر کنه. سعی میکنیم تا فردا بالا بیاریمش"
@@ -255,43 +279,10 @@
     },
     {
       "post_id": "2747"
-    },
-    {
-      "datetime": "2026-04-17T21:47:02+00:00",
-      "time_text": "21:47",
-      "link": "https://t.me/MatinSenPaii/2746",
-      "views": "35.5K"
-    },
-    {
-      "text": "خنده‌دار اینجاست که دیشب هم از ترسش پیامشو پاک کرد:\nhttps://t.me/MatinSenPaii/2716"
-    },
-    {
-      "text": "دوستان حالا ما یه شوخی میکنیم با ایمان آقاپور دلیل نمیشه این کارا رو بکنید. هر کاری که قبلا کرده رو کاری ندارم اما از دی ماه تا به حال فعالیت ما زیاد فرقی نداشته از لحاظ متدهایی که گفتیم.  بله فیلترینگ پیشرفته تر شده اما این از حرومزادگی بعضیاست نه ماهایی…",
-      "photos": [
-        "https://cdn1.telesco.pe/file/EhEVngAU5esBnZUYy7mUP4F4SL604LCpCLu0j8ouTIcCesDbk4C3y9OTFK6uQxjor576EGFWqA30M74z8V3GOCqoKvJ8JEIZc13E2wYp12AHNmM0j5jPF9tcfaStXYUh-3WKHU06-k73nV7byUk7o3JUzUfCx4e_5LL-2tbEdZTsw8bQ0BC9ckK8vUWz8ZF6X0wva0kGZgRfdoAeOwl3ImK1KRk5_Rm2p4WW3W6u3QCGC_RxF51XnPXdyqzV-G8pCKbqUZg_Q5scaa2fk01SAWB26vPkWSs0kAnbx2P8yEqGJ71oZHtxAnM3pHeJ2uY4DJv-zrZd2BRQDr8HLIjtMA.jpg"
-      ]
-    },
-    {
-      "post_id": "2746"
-    },
-    {
-      "datetime": "2026-04-17T21:43:36+00:00",
-      "time_text": "21:43",
-      "link": "https://t.me/MatinSenPaii/2745",
-      "views": "34.7K"
-    },
-    {
-      "text": "این وی پی ان فروشه که دیشب بهش توپیدم باز شکر اضافه خورده.\nحقیقتش ما یوتوبرهای حوزه‌ی Vpn رو کاری ندارن زیاد تا وقتی فحش ندیم بهشون علنا چون داریم متد پابلیک میکنیم، متدی هم که پابلیک میکنیم بسته میشه طبیعتا. اما توی یک بازه‌ی کوتاهی میتونن وصل بشن مردم که باز هم خیرش بیشتر از ضررشه.\nمنطق من اینه که ما رو کاری ندارن چون که خودشون این رو می‌خوان. هیچکسی رو هم که صحبت مستقیماً سیاسی و یا فحاشی نکرده تا الان کار نداشتن و نمیدونم چرا برای خودمم عجیبه چرا سراغ من و آقاپور نمیان. با اینکه سه سوت کار داره فقط\n\nاما این دلیل نمیشه شما بیای توهین کنی باز.\nخیلی از ماها با ویدئوهای آقاپور وارد این مسیر شدیم و عرض کردم، شوخی میکنیم باهاش ولی توهین نه. و زحماتش رو باارزش میدونیم. هرکسی تخریب کنه این شکلی از نظر من سایبریه. چون فردا روزی خود من رو هم همین شکلی تخریب میکنه این شخص"
-    },
-    {
-      "text": "و یک سؤال اصلی:\nاگر ما را می‌گیرند، شما چرا بیرونید؟"
-    },
-    {
-      "post_id": "2745"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T22:50:53.130626",
-    "new_count": 0
+    "last_update": "2026-04-19T22:57:05.194593",
+    "new_count": 2
   }
 }

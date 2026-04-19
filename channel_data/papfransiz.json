@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T20:19:06+00:00",
       "time_text": "20:19",
       "link": "https://t.me/papFransiz/380",
-      "views": "68"
+      "views": "72"
     },
     {
       "text": "#"
@@ -33,7 +33,7 @@
       "datetime": "2026-04-19T10:10:59+00:00",
       "time_text": "10:10",
       "link": "https://t.me/papFransiz/379",
-      "views": "187"
+      "views": "193"
     },
     {
       "text": "یه ایده زده به سرم یه بدافزاری بنویسم که وقتی تزریق شد به سرور وایت و گوشی بسیجی و... بتونیم ازشون به صورت اتوباند دیتا رد کنیم 🙂‍↕️"
@@ -45,7 +45,7 @@
       "datetime": "2026-04-18T18:23:44+00:00",
       "time_text": "18:23",
       "link": "https://t.me/papFransiz/378",
-      "views": "256"
+      "views": "259"
     },
     {
       "text": "رفتن یه سایتی رو روبه اینترنت بین المللی باز کردن که اون ایران تحریم کرده و نیازمند VPN تشریف داره 🫩\n\n\n#تاوان‌جوانی"
@@ -57,7 +57,7 @@
       "datetime": "2026-04-18T16:22:03+00:00",
       "time_text": "16:22",
       "link": "https://t.me/papFransiz/376",
-      "views": "1.55K"
+      "views": "1.56K"
     },
     {
       "text": "کانفیگ تست #استارلینک | اهدای مشتری\n{\n}\n\n#موقت - ۱ ساعته - 3 گیگ"
@@ -69,7 +69,7 @@
       "datetime": "2026-04-18T15:04:18+00:00",
       "time_text": "15:04",
       "link": "https://t.me/papFransiz/375",
-      "views": "301"
+      "views": "304"
     },
     {
       "text": "دلتون برام تنگ نشده ؟ 🫩"
@@ -81,7 +81,7 @@
       "datetime": "2026-04-17T13:02:07+00:00",
       "time_text": "13:02",
       "link": "https://t.me/papFransiz/374",
-      "views": "375"
+      "views": "378"
     },
     {
       "photos": [
@@ -95,7 +95,7 @@
       "datetime": "2026-04-17T12:39:41+00:00",
       "time_text": "12:39",
       "link": "https://t.me/papFransiz/373",
-      "views": "358"
+      "views": "361"
     },
     {
       "text": "برنامه any bridge برای اتصال dnstt برای ایفون\n\nhttps://apps.apple.com/us/app/anybridge/id6749492090"
@@ -161,7 +161,7 @@
       "datetime": "2026-04-16T20:39:44+00:00",
       "time_text": "20:39",
       "link": "https://t.me/papFransiz/368",
-      "views": "414"
+      "views": "416"
     },
     {
       "text": "قبلا با یه لیتر عرق میبردم باغ\nالان با یدونه کانفیگ میبرم باغ"
@@ -173,7 +173,7 @@
       "datetime": "2026-04-16T08:08:55+00:00",
       "time_text": "08:08",
       "link": "https://t.me/papFransiz/365",
-      "views": "453"
+      "views": "455"
     },
     {
       "text": "Securing NTP\n\nhttps://blog.apnic.net/2026/03/10/securing-ntp/"
@@ -185,7 +185,7 @@
       "datetime": "2026-04-15T18:34:38+00:00",
       "time_text": "18:34",
       "link": "https://t.me/papFransiz/364",
-      "views": "1.16K"
+      "views": "1.17K"
     },
     {
       "text": "راستی Accel-PPP هم روی DDWRT/Openwrt هم میگم این بار"
@@ -251,7 +251,7 @@
       "datetime": "2026-04-14T17:13:54+00:00",
       "time_text": "17:13",
       "link": "https://t.me/papFransiz/359",
-      "views": "534"
+      "views": "535"
     },
     {
       "text": "تنظیم پروکسی برای میرور .... \nبرای توزیع‌های مبتنی بر Debian/Ubuntu:\n  \n      sudo nano /etc/apt/apt.conf\n   \n\n      Acquire::http::Proxy \"socks5://username:password@proxyserver:port/\";\n   Acquire::https::Proxy \"socks5://username:password@proxyserver:port/\";"
@@ -263,7 +263,7 @@
       "datetime": "2026-04-14T16:58:55+00:00",
       "time_text": "16:58",
       "link": "https://t.me/papFransiz/356",
-      "views": "465"
+      "views": "466"
     },
     {
       "text": "https://github.com/bol-van/zapret"
@@ -273,7 +273,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T22:50:56.802609",
+    "last_update": "2026-04-19T22:57:08.642585",
     "new_count": 0
   }
 }
