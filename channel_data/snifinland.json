@@ -33,7 +33,7 @@
       "datetime": "2026-04-18T19:35:34+00:00",
       "time_text": "19:35",
       "link": "https://t.me/SniFinland/202",
-      "views": "2.22K"
+      "views": "2.23K"
     },
     {
       "text": "تست کنید.\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}"
@@ -187,7 +187,7 @@
       "datetime": "2026-04-18T17:48:59+00:00",
       "time_text": "17:48",
       "link": "https://t.me/SniFinland/176",
-      "views": "2.52K"
+      "views": "2.53K"
     },
     {
       "text": "ظاهراً فیلترینگ پدرسگ خیلی هوشمند تر شده."
@@ -278,7 +278,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T10:46:24.156323",
+    "last_update": "2026-04-19T10:52:35.828668",
     "new_count": 0
   }
 }
