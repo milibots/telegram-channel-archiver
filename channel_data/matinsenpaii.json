@@ -5,7 +5,7 @@
   "channel_username": "@matinsenpaii",
   "channel_avatar": "https://cdn1.telesco.pe/file/q6ZWAIeGHq9vb-Ei3yN7_jI3aYCjiwF2uwjCtfFLj7DrDBfnoEBKUn0YItMB7pnQIEqPbEUrvoNDul_IPpEcJSbiJjcgUaxs-em39Gm4dqoL5J5ijUCvMSqjd79B4fEFchg8emr5PEJc2XXpp5ncvKJAY93Jws1Rn7_-VIgX4NO-hFL5Bh9pqME4109XNBklwiwu1kqigf8LZBWcpC-nGe1yw5wbx5g4wGSpPihlDobOv76Jjx_fcrSrZGFtpv9FCfhUGmFbnDNtmu-J7QlwZY7Lc1IckWShW6RWT1yerj_7hezgVpV8IOY_cC9ERnHc6cAOjrdxeRvrgBHhuQKshQ.jpg",
   "channel_verified": false,
-  "channel_subscribers": "53.3K",
+  "channel_subscribers": "53.4K",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
@@ -18,7 +18,7 @@
       "datetime": "2026-04-18T20:02:25+00:00",
       "time_text": "20:02",
       "link": "https://t.me/MatinSenPaii/2759",
-      "views": "22.8K"
+      "views": "22.9K"
     },
     {
       "text": "متد اسپوف SNI بسته شده 99 درصد مناطق دوباره."
@@ -42,7 +42,7 @@
       "datetime": "2026-04-18T18:41:34+00:00",
       "time_text": "18:41",
       "link": "https://t.me/MatinSenPaii/2757",
-      "views": "25.6K"
+      "views": "25.7K"
     },
     {
       "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
@@ -54,7 +54,7 @@
       "datetime": "2026-04-18T14:23:55+00:00",
       "time_text": "14:23",
       "link": "https://t.me/MatinSenPaii/2756",
-      "views": "29.8K"
+      "views": "29.9K"
     },
     {
       "text": "هیچکس توقع نداره کار کنه🤣🤣"
@@ -98,7 +98,7 @@
       "datetime": "2026-04-18T06:29:38+00:00",
       "time_text": "06:29",
       "link": "https://t.me/MatinSenPaii/2752",
-      "views": "33K"
+      "views": "33.1K"
     },
     {
       "text": "قطع و وصلی داره شدیدا در تلاشن ببندن SNI رو روش"
@@ -290,7 +290,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-19T09:32:09.382417",
+    "last_update": "2026-04-19T09:38:20.571296",
     "new_count": 0
   }
 }
