@@ -260,7 +260,7 @@
       "datetime": "2026-04-16T11:49:43+00:00",
       "time_text": "11:49",
       "link": "https://t.me/asrnovin_ir/10122",
-      "views": "22.4K"
+      "views": "22.5K"
     },
     {
       "text": "اینم خیلی باحاله و میاد کل ارتباطات ترمینال رو از داخل یه پراکسی SOCKS5 رد می‌کنه\nexport ALL_PROXY='socks5h://user:pass@ip:port'\nexport all_proxy=\"&#036;ALL_PROXY\"\nexport http_proxy=\"&#036;ALL_PROXY\"\nexport https_proxy=\"&#036;ALL_PROXY\"\nexport HTTP_PROXY=\"&#036;ALL_PROXY\"\nexport HTTPS_PROXY=\"&#036;ALL_PROXY\"\nexport NO_PROXY=\"localhost,127.0.0.1\"\n\nbash <(curl -Ls --proxy \"&#036;ALL_PROXY\" https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)\nکافیه یه پروکسی ساکس داشته باشید و تو خط اول جایگزین کنید ، سپس داخل سرور ایرانتوندستور بالارو وارد کنید و به راحتی هرچیزی که خواستید رو نصب کنید\nتوی کد بالا به صورت پیش فرض دستور نصب پنل سنایی هست که میتونید به هرچیزی که نیاز دارید نصب کنید تغییرش بدید"
@@ -270,7 +270,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T06:58:54.863976",
+    "last_update": "2026-04-20T07:05:05.523725",
     "new_count": 0
   }
 }
