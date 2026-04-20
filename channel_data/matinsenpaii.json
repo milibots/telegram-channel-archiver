@@ -18,7 +18,7 @@
       "datetime": "2026-04-20T08:15:49+00:00",
       "time_text": "08:15",
       "link": "https://t.me/MatinSenPaii/2773",
-      "views": "12.8K"
+      "views": "13.1K"
     },
     {
       "text": "متأسفانه شما برای خرید هر سرور ایرانی باید احراز هویت کنی دوست عزیز"
@@ -33,7 +33,7 @@
       "datetime": "2026-04-20T08:14:00+00:00",
       "time_text": "08:14",
       "link": "https://t.me/MatinSenPaii/2772",
-      "views": "13K"
+      "views": "13.2K"
     },
     {
       "text": "این دقیقا یکی از دلایلی بود که این ربات رو پابلیک کردم: https://t.me/MatinSenPaii/2693"
@@ -48,7 +48,7 @@
       "datetime": "2026-04-20T07:58:23+00:00",
       "time_text": "07:58",
       "link": "https://t.me/MatinSenPaii/2771",
-      "views": "14.2K"
+      "views": "14.5K"
     },
     {
       "text": "نکته‌ی ساده‌ای که یاد دادم همچنان داره کار میکنه. لینک برای 5 دقیقه از الان بازه\nمجدد غیرفعال"
@@ -63,7 +63,7 @@
       "datetime": "2026-04-20T07:49:59+00:00",
       "time_text": "07:49",
       "link": "https://t.me/MatinSenPaii/2770",
-      "views": "14.6K"
+      "views": "14.8K"
     },
     {
       "text": "به نظرتون بهش بگیم واقعیت رو؟"
@@ -78,7 +78,7 @@
       "datetime": "2026-04-20T06:43:29+00:00",
       "time_text": "06:43",
       "link": "https://t.me/MatinSenPaii/2769",
-      "views": "17.1K"
+      "views": "17.3K"
     },
     {
       "text": "یادداشت بنیان‌گذار کاموا مبنی بر قتل بچه‌اش، استارتاپش. پلتفرمی که با عشق اونو بالا آورده بوده\n\nکم کم با این وضعیت اینترنت، صنعت Tech ایران به خاموشی بسیار بزرگی میره. کما اینکه همین الان هم رفته، اما شوکش دامن همه رو نگرفته"
@@ -137,7 +137,7 @@
       "datetime": "2026-04-19T09:46:42+00:00",
       "time_text": "09:46",
       "link": "https://t.me/MatinSenPaii/2762",
-      "views": "29.4K"
+      "views": "29.5K"
     },
     {
       "text": "پول به \"شکن\" و امثالهم هم ندید. یادآوری کنم که چند هفته پیش، به مدت دو سه روز chatgpt روش باز شد و ملت کلی اشتراک خریدن و روش کانفیگ ساختن و باز مسدود شد. پول مردم هم رفت سطل آشغال"
@@ -173,7 +173,7 @@
       "datetime": "2026-04-18T20:02:25+00:00",
       "time_text": "20:02",
       "link": "https://t.me/MatinSenPaii/2759",
-      "views": "33.5K"
+      "views": "33.6K"
     },
     {
       "text": "متد اسپوف SNI بسته شده 99 درصد مناطق دوباره."
@@ -241,7 +241,7 @@
       "datetime": "2026-04-18T10:02:09+00:00",
       "time_text": "10:02",
       "link": "https://t.me/MatinSenPaii/2753",
-      "views": "32K"
+      "views": "32.1K"
     },
     {
       "text": "آموزش مرحله به مرحله و خیلی ساده SNI Spoofing  \n\n۱. دانلود برنامه Patterniha  \n\nآخرین نسخه برنامه رو دانلود کنین (فایل zip یا rar).\n\nhttps://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0\n\n۲. استخراج فایل‌ها  \n\nفایل رو استخراج کنین. داخل پوشه باید فایل Patterniha.exe باشه.\n\n۳. فایل JSON رو آماده کنین  \n\nتو همون پوشه‌ای که Patterniha.exe هست، فایل config.json رو ویرایش کنین\nبعد این محتوا رو دقیق کپی کنین داخلش:\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"104.19.229.21\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"www.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n۴. برنامه رو اجرا کنین  \n\n- روی فایل Patterniha.exe راست کلیک کنین  \n\n- گزینه Run as administrator رو بزنین (خیلی مهمه&#33;)\n\n۵. کانفیگ V2Ray/Xray/Nekobox/v2rayNG رو تنظیم کنین  \n\nتو کانفیگی که داری فقط این دو تا رو عوض کن:\n\n- Address یا آدرس سرور → 127.0.0.1  \n- Port یا پورت → 40443\n\nبقیه چیزا (UUID، path، TLS، Reality و ...) رو همون قبلی نگه دار.\n\n۶. وصل شو  \n\nکانفیگ رو ذخیره کن و بزن Connect. باید وصل بشه.\n\nنکات مهم:\n\n اگه پترنیها ران نشد یه بار از کانفیگ real delay بگیرن استارت میشه\n- همیشه Patterniha رو به عنوان مدیر (Run as administrator) اجرا کن.\n- اگه ویندوز فایروال پرسید، اجازه دسترسی بده.\n- اگه وصل نشد: برنامه رو Stop کن، دوباره Start کن، یا یه config.json جدید با IP دیگه امتحان کن.\n\nhcaptcha.com\nnewassets.hcaptcha.com\njs.hcaptcha.com\nimgs.hcaptcha.com\nimgs2.hcaptcha.com\nimgs3.hcaptcha.com\nassets.hcaptcha.com\napi.hcaptcha.com\nanalytics.hcaptcha.com\nstats.hcaptcha.com\nthree-cust.hcaptcha.com\ntg.hcaptcha.com\nprimary.hcaptcha.com\ndashboard.hcaptcha.com\nbilling.hcaptcha.com\naccounts.hcaptcha.com\nproxy.hcaptcha.com\nloader.hcaptcha.com\nchallenge-tasks.hcaptcha.com\nserverless.hcaptcha.com\nhealth-check.hcaptcha.com\nemail.hcaptcha.com\n\n\n@whitedns"
@@ -293,7 +293,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T12:14:36.015669",
+    "last_update": "2026-04-20T12:20:47.191565",
     "new_count": 0
   }
 }
