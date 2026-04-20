@@ -5,7 +5,7 @@
   "channel_username": "@papfransiz",
   "channel_avatar": "https://cdn4.telesco.pe/file/lw5ujXgWavU3lIh_BTvdmi0ShSivCGNAPSMFwFUgCzCcYIxUYwD8OVy5xy-IKCK4qsDEpx_6flDPkIErx-Rw1JQWKesUoZFgREC23ZuzlR9caB0dhKv-d78nO9XvY5ucTosuvA8b0TKiJz7szN5b-AtFdHS7013koFLXYkANiRI7VIilykM10D2OsGDmdL3WZfibhSyxg6BJfNd7wQzZLTblHioNNJA6CGwTDPfw-raZsD0ah91c-eqoE9uFUky2gXpXrut6nBxN4ADkP3XvjV9rCAgNaZKQl74xvGdJco6zLprfFPrt9H5L8-BYFNnwXh9NxbE4VTB2a-xbNKSocw.jpg",
   "channel_verified": false,
-  "channel_subscribers": "467",
+  "channel_subscribers": "468",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
@@ -18,7 +18,7 @@
       "datetime": "2026-04-20T17:23:39+00:00",
       "time_text": "17:23",
       "link": "https://t.me/papFransiz/385",
-      "views": "100"
+      "views": "102"
     },
     {
       "text": "یکمم وضعیت روحیم اوکی‌تر بشه. شروع میکنم ابزار که برای فیلترینگ دور زدن مفیدند تموم میکنم. بدون اپن سورس. اوتوباند میکنم کانفیگ رایگان از ربات بگیرید 🫩 درآمد و هزینه سرور هم از دونیت قراره بیاد در صورت نبود دونیت قطع میشن من توان اقتصادی هزینه ندارم. \n\nتا اواسط این ماه فکر کنم شروع کنم بالا آوردن با این شرایط"
@@ -30,7 +30,7 @@
       "datetime": "2026-04-20T17:10:59+00:00",
       "time_text": "17:10",
       "link": "https://t.me/papFransiz/384",
-      "views": "105"
+      "views": "106"
     },
     {
       "text": "اگه کسی فلاتر مسلطه برای Ui لطفاً بهم پیام بده. ❤️\n@Pap_pv"
@@ -45,7 +45,7 @@
       "datetime": "2026-04-20T15:22:32+00:00",
       "time_text": "15:22",
       "link": "https://t.me/papFransiz/381",
-      "views": "951"
+      "views": "952"
     },
     {
       "text": "👆👆👆"
@@ -230,7 +230,7 @@
       "datetime": "2026-04-15T16:46:06+00:00",
       "time_text": "16:46",
       "link": "https://t.me/papFransiz/362",
-      "views": "574"
+      "views": "575"
     },
     {
       "text": "ورژن جدید کرنل هم رلیز شده. ولی من ایرانی بدبخت هنوز درگیر وصل موندمم"
@@ -269,7 +269,7 @@
       "datetime": "2026-04-14T17:13:54+00:00",
       "time_text": "17:13",
       "link": "https://t.me/papFransiz/359",
-      "views": "567"
+      "views": "568"
     },
     {
       "text": "تنظیم پروکسی برای میرور .... \nبرای توزیع‌های مبتنی بر Debian/Ubuntu:\n  \n      sudo nano /etc/apt/apt.conf\n   \n\n      Acquire::http::Proxy \"socks5://username:password@proxyserver:port/\";\n   Acquire::https::Proxy \"socks5://username:password@proxyserver:port/\";"
@@ -279,7 +279,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T22:44:29.489216",
+    "last_update": "2026-04-20T22:50:39.672646",
     "new_count": 0
   }
 }
