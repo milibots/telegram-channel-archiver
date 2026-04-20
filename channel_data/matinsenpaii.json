@@ -11,14 +11,29 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "یوتوبر انیمه و مانگا(الان کمی شبکه؟&#33;) - برنامه‌نویسِ ایده‌های باحال\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•AniList:\nhttps://anilist.co/user/MatinSenPai\n\n•Github:\nhttps://github.com/MatinSenPai",
-  "total_posts": 66,
-  "returned_posts": 66,
+  "total_posts": 67,
+  "returned_posts": 67,
   "posts": [
+    {
+      "datetime": "2026-04-20T21:20:05+00:00",
+      "time_text": "21:20",
+      "link": "https://t.me/MatinSenPaii/2777",
+      "views": "652"
+    },
+    {
+      "text": "با چه رویی اینو گذاشتین جلوی میلیون‌ها نفری که معیشتشون نابود شده با قطعی اینترنت؟؟"
+    },
+    {
+      "text": "دسترسی به یوتوب با پول اشتراک&#33;  گویا با وارد شدن به سایت «لینکدونی» (از زیرمجموعه‌های افزونه دستیار) میتونید با وارد کردن شماره تلفنتون و پرداخت مبلغ ناقابل 130 هزار تومان به یوتوب دسترسی داشته باشید و حتی از یوتوب دانلود کنید&#33;"
+    },
+    {
+      "post_id": "2777"
+    },
     {
       "datetime": "2026-04-20T21:12:54+00:00",
       "time_text": "21:12",
       "link": "https://t.me/MatinSenPaii/2774",
-      "views": "1.94K"
+      "views": "4.08K"
     },
     {
       "text": "دسترسی به یوتوب با پول اشتراک&#33;\n\nگویا با وارد شدن به سایت «لینکدونی» (از زیرمجموعه‌های افزونه دستیار) میتونید با وارد کردن شماره تلفنتون و پرداخت مبلغ ناقابل 130 هزار تومان به یوتوب دسترسی داشته باشید و حتی از یوتوب دانلود کنید&#33;"
@@ -45,7 +60,7 @@
       "datetime": "2026-04-20T08:15:49+00:00",
       "time_text": "08:15",
       "link": "https://t.me/MatinSenPaii/2773",
-      "views": "23K"
+      "views": "23.4K"
     },
     {
       "text": "متأسفانه شما برای خرید هر سرور ایرانی باید احراز هویت کنی دوست عزیز"
@@ -60,7 +75,7 @@
       "datetime": "2026-04-20T08:14:00+00:00",
       "time_text": "08:14",
       "link": "https://t.me/MatinSenPaii/2772",
-      "views": "23K"
+      "views": "23.3K"
     },
     {
       "text": "این دقیقا یکی از دلایلی بود که این ربات رو پابلیک کردم: https://t.me/MatinSenPaii/2693"
@@ -75,7 +90,7 @@
       "datetime": "2026-04-20T07:58:23+00:00",
       "time_text": "07:58",
       "link": "https://t.me/MatinSenPaii/2771",
-      "views": "23.7K"
+      "views": "24K"
     },
     {
       "text": "نکته‌ی ساده‌ای که یاد دادم همچنان داره کار میکنه. لینک برای 5 دقیقه از الان بازه\nمجدد غیرفعال"
@@ -90,7 +105,7 @@
       "datetime": "2026-04-20T07:49:59+00:00",
       "time_text": "07:49",
       "link": "https://t.me/MatinSenPaii/2770",
-      "views": "23.5K"
+      "views": "23.8K"
     },
     {
       "text": "به نظرتون بهش بگیم واقعیت رو؟"
@@ -105,7 +120,7 @@
       "datetime": "2026-04-20T06:43:29+00:00",
       "time_text": "06:43",
       "link": "https://t.me/MatinSenPaii/2769",
-      "views": "24.8K"
+      "views": "25K"
     },
     {
       "text": "یادداشت بنیان‌گذار کاموا مبنی بر قتل بچه‌اش، استارتاپش. پلتفرمی که با عشق اونو بالا آورده بوده\n\nکم کم با این وضعیت اینترنت، صنعت Tech ایران به خاموشی بسیار بزرگی میره. کما اینکه همین الان هم رفته، اما شوکش دامن همه رو نگرفته"
@@ -122,7 +137,7 @@
       "datetime": "2026-04-19T13:30:08+00:00",
       "time_text": "13:30",
       "link": "https://t.me/MatinSenPaii/2766",
-      "views": "28.8K"
+      "views": "28.9K"
     },
     {
       "text": "https://t.me/MatinSenPaii/2447"
@@ -152,7 +167,7 @@
       "datetime": "2026-04-19T12:27:54+00:00",
       "time_text": "12:27",
       "link": "https://t.me/MatinSenPaii/2764",
-      "views": "24.4K"
+      "views": "24.5K"
     },
     {
       "text": "🚀 آپدیت Range Scout نسخه 0.7.0\n\nاین نسخه اسکن DNS و مرحله DNSTT را خیلی منعطف‌تر کرده. حالا هم در اسکن می‌تونی بین UDP / TCP / BOTH انتخاب کنی، هم در مرحله DNSTT از UDP / TCP / DOT / DOH استفاده کنی. تنظیمات جدید هم داخل UI و فایل config کامل ذخیره و لود می‌شن.\n\n——————————————\n\n✨ چی عوض شده:\n\n🔹 پروتکل اسکن DNS قابل انتخاب شد\nحالا اسکنر فقط UDP نیست و می‌تونی UDP، TCP یا BOTH را برای probeهای سازگاری انتخاب کنی\n\n🔹 مرحله DNSTT حرفه‌ای‌تر شد\nبرای تست DNSTT حالا UDP، TCP، DOT و DOH پشتیبانی می‌شن\n\n🔹 Resolver Endpoint اضافه شد\nبرای DNSTT می‌تونی endpoint دلخواه بدی و از placeholderهای {ip} و {port} استفاده کنی\n\n🔹 تنظیمات جدید داخل config ذخیره می‌شن\nفیلدهای protocol، transport و resolverURL حالا موقع Save Config نگه داشته می‌شن و دوباره درست لود می‌شن\n\n🔹 اسکن TCP و حالت BOTH به هسته اسکن اضافه شد\nنتایج resolverها حالا می‌تونن بر اساس عملکرد واقعی روی UDP و TCP ثبت بشن\n\n🔹 تست‌ها و پایداری بهتر شد\nتست‌های scanner، DNSTT و embedded client گسترده‌تر شدن و رفتار transportهای جدید پوشش داده شد\n\n🔹 رابط کاربری و نسخه برنامه آپدیت شد\nفیلدهای جدید DNSTT وارد UI شدن و نسخه داخل هدر روی v0.7.0 قرار گرفت\n\n—————————————\n\n🔗 دانلود از گیت‌هاب\nhttps://github.com/PedramMarandi/range-scout/releases/tag/v0.7.0"
@@ -164,7 +179,7 @@
       "datetime": "2026-04-19T09:46:42+00:00",
       "time_text": "09:46",
       "link": "https://t.me/MatinSenPaii/2762",
-      "views": "31.1K"
+      "views": "31.2K"
     },
     {
       "text": "پول به \"شکن\" و امثالهم هم ندید. یادآوری کنم که چند هفته پیش، به مدت دو سه روز chatgpt روش باز شد و ملت کلی اشتراک خریدن و روش کانفیگ ساختن و باز مسدود شد. پول مردم هم رفت سطل آشغال"
@@ -176,7 +191,7 @@
       "datetime": "2026-04-19T09:25:10+00:00",
       "time_text": "09:25",
       "link": "https://t.me/MatinSenPaii/2761",
-      "views": "30.2K"
+      "views": "30.3K"
     },
     {
       "text": "منتها این کاری که کردن داره افتضاح میشه هر لحظه"
@@ -188,7 +203,7 @@
       "datetime": "2026-04-19T09:23:32+00:00",
       "time_text": "09:23",
       "link": "https://t.me/MatinSenPaii/2760",
-      "views": "30.7K"
+      "views": "30.8K"
     },
     {
       "text": "طبق داده‌های https://t.me/irnetmonitor ، دی ان اس گوگل روی دیتاسنتر آسیاتک باز شد\nآپدیت: بسته شد"
@@ -212,7 +227,7 @@
       "datetime": "2026-04-18T20:01:35+00:00",
       "time_text": "20:01",
       "link": "https://t.me/MatinSenPaii/2758",
-      "views": "33.4K"
+      "views": "33.5K"
     },
     {
       "text": "فیلترچی بین وایت کردن + اسپوف زدن ملت و بستن کامل گزینه‌ی دوم رو انتخاب کرد انگار. زورش نرسید هم وایت کنه هم SNI رو ببنده"
@@ -224,7 +239,7 @@
       "datetime": "2026-04-18T18:41:34+00:00",
       "time_text": "18:41",
       "link": "https://t.me/MatinSenPaii/2757",
-      "views": "34.9K"
+      "views": "35K"
     },
     {
       "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
@@ -263,22 +278,10 @@
     },
     {
       "post_id": "2754"
-    },
-    {
-      "datetime": "2026-04-18T10:02:09+00:00",
-      "time_text": "10:02",
-      "link": "https://t.me/MatinSenPaii/2753",
-      "views": "32.7K"
-    },
-    {
-      "text": "آموزش مرحله به مرحله و خیلی ساده SNI Spoofing  \n\n۱. دانلود برنامه Patterniha  \n\nآخرین نسخه برنامه رو دانلود کنین (فایل zip یا rar).\n\nhttps://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0\n\n۲. استخراج فایل‌ها  \n\nفایل رو استخراج کنین. داخل پوشه باید فایل Patterniha.exe باشه.\n\n۳. فایل JSON رو آماده کنین  \n\nتو همون پوشه‌ای که Patterniha.exe هست، فایل config.json رو ویرایش کنین\nبعد این محتوا رو دقیق کپی کنین داخلش:\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"104.19.229.21\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"www.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n۴. برنامه رو اجرا کنین  \n\n- روی فایل Patterniha.exe راست کلیک کنین  \n\n- گزینه Run as administrator رو بزنین (خیلی مهمه&#33;)\n\n۵. کانفیگ V2Ray/Xray/Nekobox/v2rayNG رو تنظیم کنین  \n\nتو کانفیگی که داری فقط این دو تا رو عوض کن:\n\n- Address یا آدرس سرور → 127.0.0.1  \n- Port یا پورت → 40443\n\nبقیه چیزا (UUID، path، TLS، Reality و ...) رو همون قبلی نگه دار.\n\n۶. وصل شو  \n\nکانفیگ رو ذخیره کن و بزن Connect. باید وصل بشه.\n\nنکات مهم:\n\n اگه پترنیها ران نشد یه بار از کانفیگ real delay بگیرن استارت میشه\n- همیشه Patterniha رو به عنوان مدیر (Run as administrator) اجرا کن.\n- اگه ویندوز فایروال پرسید، اجازه دسترسی بده.\n- اگه وصل نشد: برنامه رو Stop کن، دوباره Start کن، یا یه config.json جدید با IP دیگه امتحان کن.\n\nhcaptcha.com\nnewassets.hcaptcha.com\njs.hcaptcha.com\nimgs.hcaptcha.com\nimgs2.hcaptcha.com\nimgs3.hcaptcha.com\nassets.hcaptcha.com\napi.hcaptcha.com\nanalytics.hcaptcha.com\nstats.hcaptcha.com\nthree-cust.hcaptcha.com\ntg.hcaptcha.com\nprimary.hcaptcha.com\ndashboard.hcaptcha.com\nbilling.hcaptcha.com\naccounts.hcaptcha.com\nproxy.hcaptcha.com\nloader.hcaptcha.com\nchallenge-tasks.hcaptcha.com\nserverless.hcaptcha.com\nhealth-check.hcaptcha.com\nemail.hcaptcha.com\n\n\n@whitedns"
-    },
-    {
-      "post_id": "2753"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T23:15:20.333102",
+    "last_update": "2026-04-20T23:21:31.165629",
     "new_count": 1
   }
 }
