@@ -11,14 +11,37 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "یوتوبر انیمه و مانگا(الان کمی شبکه؟&#33;) - برنامه‌نویسِ ایده‌های باحال\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•AniList:\nhttps://anilist.co/user/MatinSenPai\n\n•Github:\nhttps://github.com/MatinSenPai",
-  "total_posts": 66,
-  "returned_posts": 66,
+  "total_posts": 65,
+  "returned_posts": 65,
   "posts": [
+    {
+      "datetime": "2026-04-20T21:36:02+00:00",
+      "time_text": "21:36",
+      "link": "https://t.me/MatinSenPaii/2780"
+    },
+    {
+      "post_id": "2780"
+    },
+    {
+      "datetime": "2026-04-20T21:35:40+00:00",
+      "time_text": "21:35",
+      "link": "https://t.me/MatinSenPaii/2779",
+      "views": "2.26K"
+    },
+    {
+      "text": "شما نمیدونید این اسکریپت پترنیها که اومد و کل داستان NAT و... چه حجمی از هزینه داره روی دست دولت می‌ذاره. حداقل اینطور که دوستان متخصصم بهم گفتن"
+    },
+    {
+      "text": "آقا این قطعی اینترنت میگفتن برای سیستم فایروال خودشون مشکل داره و نمیتونن دائمی ببندن چرته پس ؟"
+    },
+    {
+      "post_id": "2779"
+    },
     {
       "datetime": "2026-04-20T21:31:54+00:00",
       "time_text": "21:31",
       "link": "https://t.me/MatinSenPaii/2778",
-      "views": "1.28K"
+      "views": "3.22K"
     },
     {
       "text": "دوستان، فحش، بددهنی، تبلیغ، لینک رفرال ربات و تمام چیزایی که توی قوانین نوشته شده، وارن و بن داره خواهشا رعایت کنید واقعا خسته‌کننده شده دیگه. حالمون به اندازه‌ی کافی خراب هست"
@@ -30,7 +53,7 @@
       "datetime": "2026-04-20T21:20:05+00:00",
       "time_text": "21:20",
       "link": "https://t.me/MatinSenPaii/2777",
-      "views": "4.81K"
+      "views": "6.1K"
     },
     {
       "text": "با چه رویی اینو گذاشتین جلوی میلیون‌ها نفری که معیشتشون نابود شده با قطعی اینترنت؟؟"
@@ -45,7 +68,7 @@
       "datetime": "2026-04-20T21:12:54+00:00",
       "time_text": "21:12",
       "link": "https://t.me/MatinSenPaii/2774",
-      "views": "7.27K"
+      "views": "8.25K"
     },
     {
       "text": "دسترسی به یوتوب با پول اشتراک&#33;\n\nگویا با وارد شدن به سایت «لینکدونی» (از زیرمجموعه‌های افزونه دستیار) میتونید با وارد کردن شماره تلفنتون و پرداخت مبلغ ناقابل 130 هزار تومان به یوتوب دسترسی داشته باشید و حتی از یوتوب دانلود کنید&#33;"
@@ -72,7 +95,7 @@
       "datetime": "2026-04-20T08:15:49+00:00",
       "time_text": "08:15",
       "link": "https://t.me/MatinSenPaii/2773",
-      "views": "24K"
+      "views": "24.3K"
     },
     {
       "text": "متأسفانه شما برای خرید هر سرور ایرانی باید احراز هویت کنی دوست عزیز"
@@ -102,7 +125,7 @@
       "datetime": "2026-04-20T07:58:23+00:00",
       "time_text": "07:58",
       "link": "https://t.me/MatinSenPaii/2771",
-      "views": "24.3K"
+      "views": "24.6K"
     },
     {
       "text": "نکته‌ی ساده‌ای که یاد دادم همچنان داره کار میکنه. لینک برای 5 دقیقه از الان بازه\nمجدد غیرفعال"
@@ -117,7 +140,7 @@
       "datetime": "2026-04-20T07:49:59+00:00",
       "time_text": "07:49",
       "link": "https://t.me/MatinSenPaii/2770",
-      "views": "24.1K"
+      "views": "24.4K"
     },
     {
       "text": "به نظرتون بهش بگیم واقعیت رو؟"
@@ -246,39 +269,10 @@
     },
     {
       "post_id": "2758"
-    },
-    {
-      "datetime": "2026-04-18T18:41:34+00:00",
-      "time_text": "18:41",
-      "link": "https://t.me/MatinSenPaii/2757",
-      "views": "35K"
-    },
-    {
-      "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
-    },
-    {
-      "post_id": "2757"
-    },
-    {
-      "datetime": "2026-04-18T14:23:55+00:00",
-      "time_text": "14:23",
-      "link": "https://t.me/MatinSenPaii/2756",
-      "views": "35.5K"
-    },
-    {
-      "text": "هیچکس توقع نداره کار کنه🤣🤣"
-    },
-    {
-      "photos": [
-        "https://cdn1.telesco.pe/file/La207b_gAXP3iYlD6swvu3ZMaBVUOdoZviA0O5i8XixW9xkUJvQkEuuc9NG75ahXhuWczX_-JnqNS6-CJIq07VD4z2_PBUBHl02uKbDjNYAvE3ambk8lpFBniRc6vy7ZmP9jdjEBgPKMx5HRggnzbz1QkLN7MnTCaYzMjHIoxOBHVeW_ktEoE7Ytnuit6Ui9Ne8Xuila_H0GO9IG_ad-4dXP7OcvdDPBBeSXLN3itZkqHW0cPHL0J1UylZknmCacOdeIScAUvx-s6E9m9amSTU9EwMy3ZAgqufEGmc0N5jXxsL5Jb0NVmi5eep--2440OS1B2qapqyoRbNkVcuBq6g.jpg"
-      ]
-    },
-    {
-      "post_id": "2756"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T23:33:51.795542",
-    "new_count": 1
+    "last_update": "2026-04-20T23:40:02.457812",
+    "new_count": 2
   }
 }
