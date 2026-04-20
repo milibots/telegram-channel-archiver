@@ -18,7 +18,7 @@
       "datetime": "2026-04-20T17:23:39+00:00",
       "time_text": "17:23",
       "link": "https://t.me/papFransiz/385",
-      "views": "102"
+      "views": "103"
     },
     {
       "text": "یکمم وضعیت روحیم اوکی‌تر بشه. شروع میکنم ابزار که برای فیلترینگ دور زدن مفیدند تموم میکنم. بدون اپن سورس. اوتوباند میکنم کانفیگ رایگان از ربات بگیرید 🫩 درآمد و هزینه سرور هم از دونیت قراره بیاد در صورت نبود دونیت قطع میشن من توان اقتصادی هزینه ندارم. \n\nتا اواسط این ماه فکر کنم شروع کنم بالا آوردن با این شرایط"
@@ -30,7 +30,7 @@
       "datetime": "2026-04-20T17:10:59+00:00",
       "time_text": "17:10",
       "link": "https://t.me/papFransiz/384",
-      "views": "106"
+      "views": "107"
     },
     {
       "text": "اگه کسی فلاتر مسلطه برای Ui لطفاً بهم پیام بده. ❤️\n@Pap_pv"
@@ -45,7 +45,7 @@
       "datetime": "2026-04-20T15:22:32+00:00",
       "time_text": "15:22",
       "link": "https://t.me/papFransiz/381",
-      "views": "953"
+      "views": "954"
     },
     {
       "text": "👆👆👆"
@@ -179,7 +179,7 @@
       "datetime": "2026-04-16T20:39:44+00:00",
       "time_text": "20:39",
       "link": "https://t.me/papFransiz/368",
-      "views": "483"
+      "views": "484"
     },
     {
       "text": "قبلا با یه لیتر عرق میبردم باغ\nالان با یدونه کانفیگ میبرم باغ"
@@ -191,7 +191,7 @@
       "datetime": "2026-04-16T08:08:55+00:00",
       "time_text": "08:08",
       "link": "https://t.me/papFransiz/365",
-      "views": "523"
+      "views": "524"
     },
     {
       "text": "Securing NTP\n\nhttps://blog.apnic.net/2026/03/10/securing-ntp/"
@@ -203,7 +203,7 @@
       "datetime": "2026-04-15T18:34:38+00:00",
       "time_text": "18:34",
       "link": "https://t.me/papFransiz/364",
-      "views": "1.25K"
+      "views": "1.26K"
     },
     {
       "text": "راستی Accel-PPP هم روی DDWRT/Openwrt هم میگم این بار"
@@ -230,7 +230,7 @@
       "datetime": "2026-04-15T16:46:06+00:00",
       "time_text": "16:46",
       "link": "https://t.me/papFransiz/362",
-      "views": "575"
+      "views": "576"
     },
     {
       "text": "ورژن جدید کرنل هم رلیز شده. ولی من ایرانی بدبخت هنوز درگیر وصل موندمم"
@@ -245,7 +245,7 @@
       "datetime": "2026-04-14T23:44:05+00:00",
       "time_text": "23:44",
       "link": "https://t.me/papFransiz/361",
-      "views": "776"
+      "views": "777"
     },
     {
       "text": "بزودی یه نرم افزار برای DNSTT مشابه slipnet برای کاربران آیفون و مک عرضه میشه 😃 \nدر حال طراحی های نهایه 🤧 \nحرکات باحالی پیاده سازی کردم 😁 \n\nاگه حمایتی شد از مطالب و محتوا شاید زودتر رلیز بشه"
@@ -257,7 +257,7 @@
       "datetime": "2026-04-14T23:06:26+00:00",
       "time_text": "23:06",
       "link": "https://t.me/papFransiz/360",
-      "views": "572"
+      "views": "573"
     },
     {
       "text": "فکت:\n\nیادگیری Openwrt به خاطر یه انسان با 160 قد کمر منو شکست"
@@ -269,7 +269,7 @@
       "datetime": "2026-04-14T17:13:54+00:00",
       "time_text": "17:13",
       "link": "https://t.me/papFransiz/359",
-      "views": "568"
+      "views": "569"
     },
     {
       "text": "تنظیم پروکسی برای میرور .... \nبرای توزیع‌های مبتنی بر Debian/Ubuntu:\n  \n      sudo nano /etc/apt/apt.conf\n   \n\n      Acquire::http::Proxy \"socks5://username:password@proxyserver:port/\";\n   Acquire::https::Proxy \"socks5://username:password@proxyserver:port/\";"
@@ -279,7 +279,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T22:56:49.733627",
+    "last_update": "2026-04-20T23:03:00.928450",
     "new_count": 0
   }
 }
