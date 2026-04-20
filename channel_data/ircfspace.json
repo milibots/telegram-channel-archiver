@@ -117,7 +117,7 @@
     },
     {
       "photos": [
-        "https://cdn1.telesco.pe/file/eUKv9IAiTXi7E2e7CRz_Iyf6MLkWrmFPPB5Bt45OnHQ34XXh0tGm1NMsYaK79DVKo90WOugD2yGrsH6sdwltQshODFp5AqRpeZTCBft_Qc1LiN10AfqlqaKWJpI00kiY1PCOu7BqpB2YFnJQ5EEsuysq47KzDhfNDiAG5aKtusB4kuhaF0JKNV7st9QIsULc0MsVilmlTe3BkftXtoyLmIifOEVK_90e6cRM3-8-abT6KTcZ4Vhnrzwf2gZzt4m1_lTO10zXqfV1byMDvyO2xJ3bUj-PJoIvISGdRjU46HXjrZQdUN4zZvCuogMflha5no7kMvsJO7Ha0MvtKP7jzg.jpg"
+        "https://cdn1.telesco.pe/file/Z4od0CoaEvBOEAdPY8uEJoL9-wuh3LywT9pU5T_KuhofRWCCUOOGHEw9c2myNpCiZWBfIgVguIz1zgOnARE9yA6LB-scQWF64bqoq3inXusVJbvtj4t7-GNWTKT7uJZ0RuUGOjAr3dwZnqJ3ZS6e7Uh_eFuSJ0dfakvTFFXZm1uCgLnnLkPoDEPFqr6WGpQ9uc98REnSQL9ZHHVJjBCCb-0WTG_73c764E--oMZHswLJI4P3awgWRQLuim_F73MTBeCchVQevNp4Qs8n4v5rj0x5zHe6MgMel-h-15C9A2uJEeljTUW-Ue2fJ_0r_FgErS4Gg1JH-tYMlRFSS7JOqA.jpg"
       ]
     },
     {
@@ -306,7 +306,7 @@
       "datetime": "2026-04-18T11:36:11+00:00",
       "time_text": "11:36",
       "link": "https://t.me/ircfspace/2157",
-      "views": "22.7K"
+      "views": "22.8K"
     },
     {
       "text": "در نسخه پیش‌ازانتشار هسته سینگ‌باکس، قابلیت SNI Spoofing اضافه شده که امکان TLS spoof در outbound رو فراهم می‌کنه. در این روش قبل از انجام هندشیک واقعی، یک ClientHello جعلی با SNI وایت‌لیست‌شده ارسال میشه تا مکانیزم‌های فیلترینگ مبتنی بر SNI فریب داده بشن.\n\nبرای استفاده از این قابلیت دسترسی سطح پایین شبکه لازمه؛ در لینوکس و مک نیاز به root یا CAP_NET_RAW و CAP_NET_ADMIN وجود داره و در ویندوز هم باید با دسترسی Administrator اجرا بشه.\n\n© kharabam666\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace"
@@ -321,7 +321,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T16:38:41.384533",
+    "last_update": "2026-04-20T16:44:52.676024",
     "new_count": 0
   }
 }
