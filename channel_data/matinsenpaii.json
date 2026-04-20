@@ -5,20 +5,32 @@
   "channel_username": "@matinsenpaii",
   "channel_avatar": "https://cdn1.telesco.pe/file/dCRtZXbz0pZJZsex5SYM22KyMoK6ebdx5rHBLYRGDwgSMQES2FV0fIcpPUk12RWoryXzNOIBvzvyQR_kZKVl1c_XgZbBDEmTfk-lqMy_T8jIEeW998n4a0SdHMFEMqhEsSNIuc84saeqmDR3Kii69mxp1c4CVXI_S1_eqY8g7y4O-4l-ytLQsUCNyw33O2f46DPUh49_nNrU9qhAUfIQmkLIiwR7GDeq7y1meQkA_2jZsO4vZYG9ovhp75PXOL5yxOOvxPoi7NVw-X1rr-dVDjaOfrg6O26bktmUwhuj3q825G-nt9ZFo8RrIKsXYHNotqEMj_Tu_pTr287YayBClA.jpg",
   "channel_verified": false,
-  "channel_subscribers": "54.7K",
+  "channel_subscribers": "54.8K",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
   "channel_links": null,
   "channel_description": "یوتوبر انیمه و مانگا(الان کمی شبکه؟&#33;) - برنامه‌نویسِ ایده‌های باحال\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•AniList:\nhttps://anilist.co/user/MatinSenPai\n\n•Github:\nhttps://github.com/MatinSenPai",
-  "total_posts": 67,
-  "returned_posts": 67,
+  "total_posts": 66,
+  "returned_posts": 66,
   "posts": [
+    {
+      "datetime": "2026-04-20T21:31:54+00:00",
+      "time_text": "21:31",
+      "link": "https://t.me/MatinSenPaii/2778",
+      "views": "1.28K"
+    },
+    {
+      "text": "دوستان، فحش، بددهنی، تبلیغ، لینک رفرال ربات و تمام چیزایی که توی قوانین نوشته شده، وارن و بن داره خواهشا رعایت کنید واقعا خسته‌کننده شده دیگه. حالمون به اندازه‌ی کافی خراب هست"
+    },
+    {
+      "post_id": "2778"
+    },
     {
       "datetime": "2026-04-20T21:20:05+00:00",
       "time_text": "21:20",
       "link": "https://t.me/MatinSenPaii/2777",
-      "views": "3.51K"
+      "views": "4.81K"
     },
     {
       "text": "با چه رویی اینو گذاشتین جلوی میلیون‌ها نفری که معیشتشون نابود شده با قطعی اینترنت؟؟"
@@ -33,7 +45,7 @@
       "datetime": "2026-04-20T21:12:54+00:00",
       "time_text": "21:12",
       "link": "https://t.me/MatinSenPaii/2774",
-      "views": "5.98K"
+      "views": "7.27K"
     },
     {
       "text": "دسترسی به یوتوب با پول اشتراک&#33;\n\nگویا با وارد شدن به سایت «لینکدونی» (از زیرمجموعه‌های افزونه دستیار) میتونید با وارد کردن شماره تلفنتون و پرداخت مبلغ ناقابل 130 هزار تومان به یوتوب دسترسی داشته باشید و حتی از یوتوب دانلود کنید&#33;"
@@ -60,7 +72,7 @@
       "datetime": "2026-04-20T08:15:49+00:00",
       "time_text": "08:15",
       "link": "https://t.me/MatinSenPaii/2773",
-      "views": "23.7K"
+      "views": "24K"
     },
     {
       "text": "متأسفانه شما برای خرید هر سرور ایرانی باید احراز هویت کنی دوست عزیز"
@@ -75,7 +87,7 @@
       "datetime": "2026-04-20T08:14:00+00:00",
       "time_text": "08:14",
       "link": "https://t.me/MatinSenPaii/2772",
-      "views": "23.6K"
+      "views": "23.9K"
     },
     {
       "text": "این دقیقا یکی از دلایلی بود که این ربات رو پابلیک کردم: https://t.me/MatinSenPaii/2693"
@@ -263,25 +275,10 @@
     },
     {
       "post_id": "2756"
-    },
-    {
-      "datetime": "2026-04-18T10:02:22+00:00",
-      "time_text": "10:02",
-      "link": "https://t.me/MatinSenPaii/2754",
-      "views": "37.5K"
-    },
-    {
-      "text": "بفرمایید اینم آموزش دسته‌بندی شده و مرتب"
-    },
-    {
-      "text": "آموزش مرحله به مرحله و خیلی ساده SNI Spoofing    ۱. دانلود برنامه Patterniha    آخرین نسخه برنامه رو دانلود کنین (فایل zip یا rar).  https://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0  ۲. استخراج فایل‌ها    فایل رو استخراج کنین. داخل پوشه باید فایل…"
-    },
-    {
-      "post_id": "2754"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T23:27:41.295992",
-    "new_count": 0
+    "last_update": "2026-04-20T23:33:51.795542",
+    "new_count": 1
   }
 }
