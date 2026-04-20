@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T20:19:06+00:00",
       "time_text": "20:19",
       "link": "https://t.me/papFransiz/380",
-      "views": "124"
+      "views": "127"
     },
     {
       "text": "#"
@@ -33,7 +33,7 @@
       "datetime": "2026-04-19T10:10:59+00:00",
       "time_text": "10:10",
       "link": "https://t.me/papFransiz/379",
-      "views": "218"
+      "views": "219"
     },
     {
       "text": "یه ایده زده به سرم یه بدافزاری بنویسم که وقتی تزریق شد به سرور وایت و گوشی بسیجی و... بتونیم ازشون به صورت اتوباند دیتا رد کنیم 🙂‍↕️"
@@ -173,7 +173,7 @@
       "datetime": "2026-04-16T08:08:55+00:00",
       "time_text": "08:08",
       "link": "https://t.me/papFransiz/365",
-      "views": "468"
+      "views": "469"
     },
     {
       "text": "Securing NTP\n\nhttps://blog.apnic.net/2026/03/10/securing-ntp/"
@@ -273,7 +273,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T06:34:14.455823",
+    "last_update": "2026-04-20T06:40:25.241385",
     "new_count": 0
   }
 }
