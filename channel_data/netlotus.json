@@ -245,7 +245,7 @@
       "datetime": "2026-04-18T07:21:59+00:00",
       "time_text": "07:21",
       "link": "https://t.me/NetLotus/48",
-      "views": "2.81K"
+      "views": "2.82K"
     },
     {
       "text": "وصل  :\n{\n  \"LISTEN_HOST\": \"127.0.0.1\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"5.57.33.140\",\n  \"CONNECT_PORT\": 80,\n  \"FAKE_SNI\": \"hcaptcha.com\"\n}"
@@ -255,7 +255,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T03:10:45.858738",
+    "last_update": "2026-04-20T03:16:55.446851",
     "new_count": 0
   }
 }
