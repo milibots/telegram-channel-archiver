@@ -18,7 +18,7 @@
       "datetime": "2026-04-20T15:22:32+00:00",
       "time_text": "15:22",
       "link": "https://t.me/papFransiz/381",
-      "views": "611"
+      "views": "622"
     },
     {
       "text": "👆👆👆"
@@ -188,7 +188,7 @@
       "datetime": "2026-04-16T08:08:55+00:00",
       "time_text": "08:08",
       "link": "https://t.me/papFransiz/365",
-      "views": "499"
+      "views": "500"
     },
     {
       "text": "Securing NTP\n\nhttps://blog.apnic.net/2026/03/10/securing-ntp/"
@@ -276,7 +276,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T18:11:45.879856",
+    "last_update": "2026-04-20T18:17:57.827814",
     "new_count": 0
   }
 }
