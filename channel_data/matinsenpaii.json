@@ -18,7 +18,7 @@
       "datetime": "2026-04-20T08:15:49+00:00",
       "time_text": "08:15",
       "link": "https://t.me/MatinSenPaii/2773",
-      "views": "20.1K"
+      "views": "20.2K"
     },
     {
       "text": "متأسفانه شما برای خرید هر سرور ایرانی باید احراز هویت کنی دوست عزیز"
@@ -33,7 +33,7 @@
       "datetime": "2026-04-20T08:14:00+00:00",
       "time_text": "08:14",
       "link": "https://t.me/MatinSenPaii/2772",
-      "views": "20.1K"
+      "views": "20.2K"
     },
     {
       "text": "این دقیقا یکی از دلایلی بود که این ربات رو پابلیک کردم: https://t.me/MatinSenPaii/2693"
@@ -48,7 +48,7 @@
       "datetime": "2026-04-20T07:58:23+00:00",
       "time_text": "07:58",
       "link": "https://t.me/MatinSenPaii/2771",
-      "views": "21K"
+      "views": "21.1K"
     },
     {
       "text": "نکته‌ی ساده‌ای که یاد دادم همچنان داره کار میکنه. لینک برای 5 دقیقه از الان بازه\nمجدد غیرفعال"
@@ -197,7 +197,7 @@
       "datetime": "2026-04-18T18:41:34+00:00",
       "time_text": "18:41",
       "link": "https://t.me/MatinSenPaii/2757",
-      "views": "34.4K"
+      "views": "34.5K"
     },
     {
       "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
@@ -293,7 +293,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T18:05:28.514243",
+    "last_update": "2026-04-20T18:11:41.770713",
     "new_count": 0
   }
 }
