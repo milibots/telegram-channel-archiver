@@ -5,20 +5,50 @@
   "channel_username": "@matinsenpaii",
   "channel_avatar": "https://cdn1.telesco.pe/file/ul-jCfiJLoZ65vXsEKq-6XegWf3WKP3I4y-dIaLRx6bCc0k18vnnksrB7rYh_XmWZEEhtwoCqWkO5qt5jOVgd96FMuBUrXRz0YeGj43a2rKSnGPutsY1RGoNMIy6D4SroNB2lpOawQCFtesiP9xr0b9Nt0KoExFuADsH5rve_PLeBxbxTWaWUe3OXW3ak_GsLUI6epZUj28KaRorAHE5PbEje0kgtlwf4nZcl009pDBbwhXn3yjQXjFvGOrufN8fR5xSpMtANuw53PF0yXKYISlchlA2re794iF7DnnAasjhRGNzcX-ZPifFnYt5BHRFkYv1n76AiVDsz5PYDaA1Aw.jpg",
   "channel_verified": false,
-  "channel_subscribers": "54.2K",
+  "channel_subscribers": "54.3K",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
   "channel_links": null,
   "channel_description": "یوتوبر انیمه و مانگا(الان کمی شبکه؟&#33;) - برنامه‌نویسِ ایده‌های باحال\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•AniList:\nhttps://anilist.co/user/MatinSenPai\n\n•Github:\nhttps://github.com/MatinSenPai",
-  "total_posts": 70,
-  "returned_posts": 70,
+  "total_posts": 71,
+  "returned_posts": 71,
   "posts": [
+    {
+      "datetime": "2026-04-20T08:15:49+00:00",
+      "time_text": "08:15",
+      "link": "https://t.me/MatinSenPaii/2773",
+      "views": "654"
+    },
+    {
+      "text": "متأسفانه شما برای خرید هر سرور ایرانی باید احراز هویت کنی دوست عزیز"
+    },
+    {
+      "text": "اروان احراز هویت می خواد\nاسیاتکم همینه"
+    },
+    {
+      "post_id": "2773"
+    },
+    {
+      "datetime": "2026-04-20T08:14:00+00:00",
+      "time_text": "08:14",
+      "link": "https://t.me/MatinSenPaii/2772",
+      "views": "1.29K"
+    },
+    {
+      "text": "این دقیقا یکی از دلایلی بود که این ربات رو پابلیک کردم: https://t.me/MatinSenPaii/2693"
+    },
+    {
+      "text": "یه مشت دزد تلگرامی برداشتن کانفیگ ضد ملی رو کردن تو نپستر"
+    },
+    {
+      "post_id": "2772"
+    },
     {
       "datetime": "2026-04-20T07:58:23+00:00",
       "time_text": "07:58",
       "link": "https://t.me/MatinSenPaii/2771",
-      "views": "3.63K"
+      "views": "4.91K"
     },
     {
       "text": "نکته‌ی ساده‌ای که یاد دادم همچنان داره کار میکنه. لینک برای 5 دقیقه از الان بازه\nمجدد غیرفعال"
@@ -33,7 +63,7 @@
       "datetime": "2026-04-20T07:49:59+00:00",
       "time_text": "07:49",
       "link": "https://t.me/MatinSenPaii/2770",
-      "views": "5.06K"
+      "views": "6.33K"
     },
     {
       "text": "به نظرتون بهش بگیم واقعیت رو؟"
@@ -48,7 +78,7 @@
       "datetime": "2026-04-20T06:43:29+00:00",
       "time_text": "06:43",
       "link": "https://t.me/MatinSenPaii/2769",
-      "views": "10.7K"
+      "views": "11.3K"
     },
     {
       "text": "یادداشت بنیان‌گذار کاموا مبنی بر قتل بچه‌اش، استارتاپش. پلتفرمی که با عشق اونو بالا آورده بوده\n\nکم کم با این وضعیت اینترنت، صنعت Tech ایران به خاموشی بسیار بزرگی میره. کما اینکه همین الان هم رفته، اما شوکش دامن همه رو نگرفته"
@@ -260,37 +290,10 @@
     },
     {
       "post_id": "2750"
-    },
-    {
-      "datetime": "2026-04-17T23:39:00+00:00",
-      "time_text": "23:39",
-      "link": "https://t.me/MatinSenPaii/2749",
-      "views": "36.8K"
-    },
-    {
-      "text": "اندروید به تنهایی نیاز به روت داره. کاری نیست که بشه واسش انجام داد فعلا \n\nپ.ن: با ترموکس و نسخه لینوکس میتونید."
-    },
-    {
-      "text": "اندرویدو یه کاری کن"
-    },
-    {
-      "post_id": "2749"
-    },
-    {
-      "datetime": "2026-04-17T23:30:50+00:00",
-      "time_text": "23:30",
-      "link": "https://t.me/MatinSenPaii/2748",
-      "views": "35.9K"
-    },
-    {
-      "text": "در تلاشیم پروژه‌ای بالا بیاریم که دسترسی شما رو به سرورها + محتوای Config.json راحتتر کنه. سعی میکنیم تا فردا بالا بیاریمش"
-    },
-    {
-      "post_id": "2748"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T10:10:36.480298",
-    "new_count": 0
+    "last_update": "2026-04-20T10:16:47.883853",
+    "new_count": 2
   }
 }
