@@ -5,7 +5,7 @@
   "channel_username": "@matinsenpaii",
   "channel_avatar": "https://cdn1.telesco.pe/file/ul-jCfiJLoZ65vXsEKq-6XegWf3WKP3I4y-dIaLRx6bCc0k18vnnksrB7rYh_XmWZEEhtwoCqWkO5qt5jOVgd96FMuBUrXRz0YeGj43a2rKSnGPutsY1RGoNMIy6D4SroNB2lpOawQCFtesiP9xr0b9Nt0KoExFuADsH5rve_PLeBxbxTWaWUe3OXW3ak_GsLUI6epZUj28KaRorAHE5PbEje0kgtlwf4nZcl009pDBbwhXn3yjQXjFvGOrufN8fR5xSpMtANuw53PF0yXKYISlchlA2re794iF7DnnAasjhRGNzcX-ZPifFnYt5BHRFkYv1n76AiVDsz5PYDaA1Aw.jpg",
   "channel_verified": false,
-  "channel_subscribers": "54.2K",
+  "channel_subscribers": "54.3K",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
@@ -18,7 +18,7 @@
       "datetime": "2026-04-20T06:43:29+00:00",
       "time_text": "06:43",
       "link": "https://t.me/MatinSenPaii/2769",
-      "views": "6.19K"
+      "views": "6.77K"
     },
     {
       "text": "یادداشت بنیان‌گذار کامول مبنی بر قتل بچه‌اش، استارتاپش. پلتفرمی که با عشق اونو بالا آورده بوده\n\nکم کم با این وضعیت اینترنت، صنعت Tech ایران به خاموشی بسیار بزرگی میره. کما اینکه همین الان هم رفته، اما شوکش دامن همه رو نگرفته"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-19T13:30:08+00:00",
       "time_text": "13:30",
       "link": "https://t.me/MatinSenPaii/2766",
-      "views": "23.6K"
+      "views": "23.7K"
     },
     {
       "text": "https://t.me/MatinSenPaii/2447"
@@ -50,7 +50,7 @@
       "datetime": "2026-04-19T12:45:28+00:00",
       "time_text": "12:45",
       "link": "https://t.me/MatinSenPaii/2765",
-      "views": "24.9K"
+      "views": "25K"
     },
     {
       "text": "و دوباره بازگشت ما به سوی DNS است"
@@ -65,7 +65,7 @@
       "datetime": "2026-04-19T12:27:54+00:00",
       "time_text": "12:27",
       "link": "https://t.me/MatinSenPaii/2764",
-      "views": "20.6K"
+      "views": "20.7K"
     },
     {
       "text": "🚀 آپدیت Range Scout نسخه 0.7.0\n\nاین نسخه اسکن DNS و مرحله DNSTT را خیلی منعطف‌تر کرده. حالا هم در اسکن می‌تونی بین UDP / TCP / BOTH انتخاب کنی، هم در مرحله DNSTT از UDP / TCP / DOT / DOH استفاده کنی. تنظیمات جدید هم داخل UI و فایل config کامل ذخیره و لود می‌شن.\n\n——————————————\n\n✨ چی عوض شده:\n\n🔹 پروتکل اسکن DNS قابل انتخاب شد\nحالا اسکنر فقط UDP نیست و می‌تونی UDP، TCP یا BOTH را برای probeهای سازگاری انتخاب کنی\n\n🔹 مرحله DNSTT حرفه‌ای‌تر شد\nبرای تست DNSTT حالا UDP، TCP، DOT و DOH پشتیبانی می‌شن\n\n🔹 Resolver Endpoint اضافه شد\nبرای DNSTT می‌تونی endpoint دلخواه بدی و از placeholderهای {ip} و {port} استفاده کنی\n\n🔹 تنظیمات جدید داخل config ذخیره می‌شن\nفیلدهای protocol، transport و resolverURL حالا موقع Save Config نگه داشته می‌شن و دوباره درست لود می‌شن\n\n🔹 اسکن TCP و حالت BOTH به هسته اسکن اضافه شد\nنتایج resolverها حالا می‌تونن بر اساس عملکرد واقعی روی UDP و TCP ثبت بشن\n\n🔹 تست‌ها و پایداری بهتر شد\nتست‌های scanner، DNSTT و embedded client گسترده‌تر شدن و رفتار transportهای جدید پوشش داده شد\n\n🔹 رابط کاربری و نسخه برنامه آپدیت شد\nفیلدهای جدید DNSTT وارد UI شدن و نسخه داخل هدر روی v0.7.0 قرار گرفت\n\n—————————————\n\n🔗 دانلود از گیت‌هاب\nhttps://github.com/PedramMarandi/range-scout/releases/tag/v0.7.0"
@@ -101,7 +101,7 @@
       "datetime": "2026-04-19T09:23:32+00:00",
       "time_text": "09:23",
       "link": "https://t.me/MatinSenPaii/2760",
-      "views": "28.1K"
+      "views": "28.2K"
     },
     {
       "text": "طبق داده‌های https://t.me/irnetmonitor ، دی ان اس گوگل روی دیتاسنتر آسیاتک باز شد\nآپدیت: بسته شد"
@@ -137,7 +137,7 @@
       "datetime": "2026-04-18T18:41:34+00:00",
       "time_text": "18:41",
       "link": "https://t.me/MatinSenPaii/2757",
-      "views": "33.1K"
+      "views": "33.2K"
     },
     {
       "text": "⚡️تست کنید دوستان\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"203.22.241.9\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"sciencedirect.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"127.0.0.1\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.18.20.213\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"e7.c.lencr.org\"\n}\n\n{\n  \"LISTEN_HOST\": \"0.0.0.0\",\n  \"LISTEN_PORT\": 40443,\n  \"CONNECT_IP\": \"87.236.208.39\",\n  \"CONNECT_PORT\": 443,\n  \"FAKE_SNI\": \"serverless.hcaptcha.com\",\n  \"QUEUE_NUM\": 1000,\n  \"HANDSHAKE_TIMEOUT_MS\": 2000\n}\n\n{\n&nbsp; \"LISTEN_HOST\": \"0.0.0.0\",\n&nbsp; \"LISTEN_PORT\": 40443,\n&nbsp; \"CONNECT_IP\": \"104.17.70.206\",\n&nbsp; \"CONNECT_PORT\": 443,\n&nbsp; \"FAKE_SNI\": \"emails.github.com\"\n}"
@@ -166,7 +166,7 @@
       "datetime": "2026-04-18T10:02:22+00:00",
       "time_text": "10:02",
       "link": "https://t.me/MatinSenPaii/2754",
-      "views": "36.3K"
+      "views": "36.4K"
     },
     {
       "text": "بفرمایید اینم آموزش دسته‌بندی شده و مرتب"
@@ -208,7 +208,7 @@
       "datetime": "2026-04-18T06:22:15+00:00",
       "time_text": "06:22",
       "link": "https://t.me/MatinSenPaii/2751",
-      "views": "35.1K"
+      "views": "35.2K"
     },
     {
       "text": "خب، وقت SNI جدیده انگار. البته ما که از پریروز داریم اسکن میکنیم و میگردیم. چیزی پیدا شد می‌ذارم همینجا"
@@ -262,7 +262,7 @@
       "datetime": "2026-04-17T21:48:37+00:00",
       "time_text": "21:48",
       "link": "https://t.me/MatinSenPaii/2747",
-      "views": "36.5K"
+      "views": "36.6K"
     },
     {
       "text": "حیف وقت. حتی دیگه بهش نمی‌پردازم فقط دوست داشتم ممبرهای خودم عقاید من و دیدگاهم رو در رابطه با این قضیه بدونن که دو بار صحبت کردم."
@@ -293,7 +293,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T09:21:07.450803",
+    "last_update": "2026-04-20T09:27:19.063968",
     "new_count": 0
   }
 }
