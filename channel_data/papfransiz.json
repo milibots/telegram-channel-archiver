@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T20:19:06+00:00",
       "time_text": "20:19",
       "link": "https://t.me/papFransiz/380",
-      "views": "168"
+      "views": "169"
     },
     {
       "text": "#"
@@ -107,7 +107,7 @@
       "datetime": "2026-04-17T08:01:39+00:00",
       "time_text": "08:01",
       "link": "https://t.me/papFransiz/372",
-      "views": "2.43K"
+      "views": "2.44K"
     },
     {
       "text": "یه راز کوچولو اگه میخواید به اپل کم پیش دسترسی داشته باشید. میتونید روی اینا کار کنید. \n5.45.192.0/18, 5.255.192.0/18, 77.88.32.0/19, 87.250.250.0/24.\nimap.yandex.ru, pop.yandex.ru, pap.yandex.ru,smtp.yandex.ru\n77.88.44.55\n5.255.255.77\nایران هم منطقه ای دردسترس هستن"
@@ -212,7 +212,7 @@
       "datetime": "2026-04-15T16:46:06+00:00",
       "time_text": "16:46",
       "link": "https://t.me/papFransiz/362",
-      "views": "547"
+      "views": "548"
     },
     {
       "text": "ورژن جدید کرنل هم رلیز شده. ولی من ایرانی بدبخت هنوز درگیر وصل موندمم"
@@ -227,7 +227,7 @@
       "datetime": "2026-04-14T23:44:05+00:00",
       "time_text": "23:44",
       "link": "https://t.me/papFransiz/361",
-      "views": "754"
+      "views": "755"
     },
     {
       "text": "بزودی یه نرم افزار برای DNSTT مشابه slipnet برای کاربران آیفون و مک عرضه میشه 😃 \nدر حال طراحی های نهایه 🤧 \nحرکات باحالی پیاده سازی کردم 😁 \n\nاگه حمایتی شد از مطالب و محتوا شاید زودتر رلیز بشه"
@@ -239,7 +239,7 @@
       "datetime": "2026-04-14T23:06:26+00:00",
       "time_text": "23:06",
       "link": "https://t.me/papFransiz/360",
-      "views": "555"
+      "views": "556"
     },
     {
       "text": "فکت:\n\nیادگیری Openwrt به خاطر یه انسان با 160 قد کمر منو شکست"
@@ -251,7 +251,7 @@
       "datetime": "2026-04-14T17:13:54+00:00",
       "time_text": "17:13",
       "link": "https://t.me/papFransiz/359",
-      "views": "549"
+      "views": "550"
     },
     {
       "text": "تنظیم پروکسی برای میرور .... \nبرای توزیع‌های مبتنی بر Debian/Ubuntu:\n  \n      sudo nano /etc/apt/apt.conf\n   \n\n      Acquire::http::Proxy \"socks5://username:password@proxyserver:port/\";\n   Acquire::https::Proxy \"socks5://username:password@proxyserver:port/\";"
@@ -263,7 +263,7 @@
       "datetime": "2026-04-14T16:58:55+00:00",
       "time_text": "16:58",
       "link": "https://t.me/papFransiz/356",
-      "views": "478"
+      "views": "479"
     },
     {
       "text": "https://github.com/bol-van/zapret"
@@ -273,7 +273,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-20T16:44:53.511654",
+    "last_update": "2026-04-20T16:51:05.381079",
     "new_count": 0
   }
 }
