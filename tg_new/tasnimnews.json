@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "channel": "tasnimnews",
+  "channel_title": "خبرگزاری تسنیم",
+  "channel_username": "@tasnimnews",
+  "channel_avatar": null,
+  "channel_verified": true,
+  "channel_subscribers": null,
+  "channel_photos": null,
+  "channel_videos": null,
+  "channel_files": null,
+  "channel_links": null,
+  "channel_description": null,
+  "total_posts": 0,
+  "returned_posts": 0,
+  "posts": [],
+  "fetch_metadata": {
+    "last_update": "2026-04-21T02:23:49.152974",
+    "new_count": 0
+  }
+}

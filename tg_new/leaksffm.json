@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "channel": "leaksffm",
+  "channel_title": "FFM LEAKS",
+  "channel_username": "@leaksffm",
+  "channel_avatar": null,
+  "channel_verified": false,
+  "channel_subscribers": null,
+  "channel_photos": null,
+  "channel_videos": null,
+  "channel_files": null,
+  "channel_links": null,
+  "channel_description": null,
+  "total_posts": 0,
+  "returned_posts": 0,
+  "posts": [],
+  "fetch_metadata": {
+    "last_update": "2026-04-21T02:23:12.641111",
+    "new_count": 0
+  }
+}

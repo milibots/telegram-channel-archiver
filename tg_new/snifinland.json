@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "channel": "snifinland",
+  "channel_title": "SNI SPOOFING",
+  "channel_username": "@snifinland",
+  "channel_avatar": "https://cdn4.telesco.pe/file/oK27kHRcaMvet-jvnLx9gqUjPORmtX05myhK57AVLpEaS0N_8iaiIDjvKblSAZMZD6eyKPEkIzll5ZHV46nhuKps2X6VbonEKv5wX4sALhSAVfq6vBut1fEX8QIRfLvn1yvUOdO0rxAIkwYU8vrKMLg7E2IPl1J7ipUZTqBoLW8NjheZ2u0s5uKIZMgtJfeeLDI9OoeMA8Htjx7Y2EqbsFJ88lDz5ok3uhFnjpG7UfCyUbyeBqqoPwy1LIPinQOxxkSEOH70QUQmICMSdJHpYAjV91xkWfbt-0tDlI_d87Z56bjnv3i9JNVRis1OpRnYRwCVSSPeGgqzrASdkmUGFg.jpg",
+  "channel_verified": false,
+  "channel_subscribers": "36",
+  "channel_photos": null,
+  "channel_videos": null,
+  "channel_files": null,
+  "channel_links": null,
+  "channel_description": null,
+  "total_posts": 6,
+  "returned_posts": 6,
+  "posts": [
+    {
+      "datetime": "2026-04-19T20:36:27+00:00",
+      "time_text": "20:36",
+      "link": "https://t.me/SniFinland/3",
+      "views": "344"
+    },
+    {
+      "text": "تشریف ببرید آیدی جدید :)\nhttps://t.me/TheVPNMethod"
+    },
+    {
+      "post_id": "3"
+    },
+    {
+      "datetime": "2025-04-25T05:03:50+00:00",
+      "time_text": "05:03",
+      "link": "https://t.me/SniFinland/1"
+    },
+    {
+      "text": "Channel created"
+    },
+    {
+      "post_id": "1"
+    }
+  ],
+  "fetch_metadata": {
+    "last_update": "2026-04-21T02:23:24.423885",
+    "new_count": 3
+  }
+}
