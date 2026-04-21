@@ -5,20 +5,103 @@
   "channel_username": "@matinsenpaii",
   "channel_avatar": "bale:46627310:-5059819864324890878:1:65b5e3e3fd6f689b4ff5512afc226f308211e6c76420e4b7",
   "channel_verified": false,
-  "channel_subscribers": "54.9K",
+  "channel_subscribers": "55.2K",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
   "channel_links": null,
   "channel_description": "یوتوبر انیمه و مانگا(الان کمی شبکه؟&#33;) - برنامه‌نویسِ ایده‌های باحال\n\n•YouTube:\nhttp://www.youtube.com/@Matin_SenPai\n\n•AniList:\nhttps://anilist.co/user/MatinSenPai\n\n•Github:\nhttps://github.com/MatinSenPai",
-  "total_posts": 66,
-  "returned_posts": 66,
+  "total_posts": 62,
+  "returned_posts": 62,
   "posts": [
+    {
+      "datetime": "2026-04-21T13:56:29+00:00",
+      "time_text": "13:56",
+      "link": "https://t.me/MatinSenPaii/2790"
+    },
+    {
+      "text": "Matin SenPai pinned a video"
+    },
+    {
+      "post_id": "2790"
+    },
+    {
+      "datetime": "2026-04-21T13:56:08+00:00",
+      "time_text": "13:56",
+      "link": "https://t.me/MatinSenPaii/2789",
+      "views": "25"
+    },
+    {
+      "text": "ویدئو حجمش 200 مگابایت بود اونی که روی یوتوب آپلود کردم. باز فشرده کردم و واستون گذاشتم و صرفا دارم اینو میگم که بدونید به فکرتون هستم❤️ ممنونم از همه‌ی عزیزانی که VPN رسوندن به دست من تا این آموزش رو بتونم واستون درست کنم"
+    },
+    {
+      "post_id": "2789"
+    },
+    {
+      "datetime": "2026-04-21T13:54:11+00:00",
+      "time_text": "13:54",
+      "link": "https://t.me/MatinSenPaii/2788",
+      "views": "1.29K"
+    },
+    {
+      "text": "سهام Dastyar بعد از ویدئوی من: 📉\n(حرکت رونالدو روی نوشابه رو زدم)"
+    },
+    {
+      "post_id": "2788"
+    },
+    {
+      "datetime": "2026-04-21T13:53:25+00:00",
+      "time_text": "13:53",
+      "link": "https://t.me/MatinSenPaii/2787",
+      "views": "1.62K"
+    },
+    {
+      "text": "🔗لینک‌های داخلی ویدئو و فایل\nمدت زمان انقضا: 1 روز(سایت اجازه بیشترش رو نمیداد. کالبد باز آپ شد اونجا هم آپلود میکنم واستون)\n\nلینک داخلی ویدئو: https://guardnet.ir/f/matinsenpai-masterhttpvid\n\nلینک داخلی فایل: https://guardnet.ir/f/matinsenpai-masterhttpfile"
+    },
+    {
+      "post_id": "2787"
+    },
+    {
+      "datetime": "2026-04-21T13:47:35+00:00",
+      "time_text": "13:47",
+      "link": "https://t.me/MatinSenPaii/2786",
+      "views": "3.28K"
+    },
+    {
+      "text": "فایل مربوط به ویدئوی بالا. به زودی لینک‌های داخلی دانلود زیر همین پست قرار میگیره"
+    },
+    {
+      "post_id": "2786"
+    },
+    {
+      "datetime": "2026-04-21T13:47:26+00:00",
+      "time_text": "13:47",
+      "link": "https://t.me/MatinSenPaii/2785",
+      "views": "3.39K"
+    },
+    {
+      "text": "☠️بدون فیلترشکن به یوتوب وصل شو&#33; آموزش استفاده از Master Http Relay برای دور زدن فیلترینگ Youtube\n\n\nفایل استفاده شده توی ویدئو: https://t.me/MatinSenPaii/2786\nدستور اجرا: python main.py\nآموزش متنی: https://github.com/masterking32/MasterHttpRelayVPN/blob/python_testing/README_FA.md\n\n\nتوی این ویدئو بهتون یاد میدم که چطوری به راحتی با اسکریپت MasterHttpRelay بتونید فیلترینگ یوتوب رو دور بزنید توی شرایط حال حاضر اینترنت&#33;\n\n⭐️  کاملاً رایگان\n⭐️  سرعت بسیار بالا\n⭐️  بدون نیاز به دانش شبکه\n\n⚠️ پیش‌نیازها و نکات مهم: \n1️⃣ این ویدئو هیچ پیش نیازی نداره\n\n✉️ تماشا در تلگرام \n\n📹 تماشا در یوتوب\n\n💰 دونیت"
+    },
+    {
+      "post_id": "2785"
+    },
+    {
+      "datetime": "2026-04-21T10:59:42+00:00",
+      "time_text": "10:59",
+      "link": "https://t.me/MatinSenPaii/2784",
+      "views": "16.7K"
+    },
+    {
+      "text": "مشت محکمی بر دهان شرکت‌های رانتی که دسترسی به یوتوب رو اشتراکی کردن:\n\nhttps://github.com/masterking32/MasterHttpRelayVPN/blob/python_testing/README_FA.md\nو\nhttps://github.com/patterniha/MITM-DomainFronting\nرو تست کنید. توضیحات کامل توی Readme هست"
+    },
+    {
+      "post_id": "2784"
+    },
     {
       "datetime": "2026-04-20T21:56:41+00:00",
       "time_text": "21:56",
       "link": "https://t.me/MatinSenPaii/2783",
-      "views": "9.49K"
+      "views": "23.1K"
     },
     {
       "text": "بیننده خودش عاقله. اگر عاقل نباشه همون بهتر که بره دنبال سایت رانتی"
@@ -33,7 +116,7 @@
       "datetime": "2026-04-20T21:52:20+00:00",
       "time_text": "21:52",
       "link": "https://t.me/MatinSenPaii/2781",
-      "views": "10.1K"
+      "views": "23.4K"
     },
     {
       "text": "نکته خنده‌دار: چند نفر از دوستان رفتن خریدن همونم درست کار نمیکنه گویا🤣🤣"
@@ -66,7 +149,7 @@
       "datetime": "2026-04-20T21:35:40+00:00",
       "time_text": "21:35",
       "link": "https://t.me/MatinSenPaii/2779",
-      "views": "11.4K"
+      "views": "22.6K"
     },
     {
       "text": "شما نمیدونید این اسکریپت پترنیها که اومد و کل داستان NAT و... چه حجمی از هزینه داره روی دست دولت می‌ذاره. حداقل اینطور که دوستان متخصصم بهم گفتن"
@@ -81,7 +164,7 @@
       "datetime": "2026-04-20T21:31:54+00:00",
       "time_text": "21:31",
       "link": "https://t.me/MatinSenPaii/2778",
-      "views": "11.6K"
+      "views": "22.4K"
     },
     {
       "text": "دوستان، فحش، بددهنی، تبلیغ، لینک رفرال ربات و تمام چیزایی که توی قوانین نوشته شده، وارن و بن داره خواهشا رعایت کنید واقعا خسته‌کننده شده دیگه. حالمون به اندازه‌ی کافی خراب هست"
@@ -93,7 +176,7 @@
       "datetime": "2026-04-20T21:20:05+00:00",
       "time_text": "21:20",
       "link": "https://t.me/MatinSenPaii/2777",
-      "views": "12.9K"
+      "views": "23.1K"
     },
     {
       "text": "با چه رویی اینو گذاشتین جلوی میلیون‌ها نفری که معیشتشون نابود شده با قطعی اینترنت؟؟"
@@ -108,7 +191,7 @@
       "datetime": "2026-04-20T21:12:54+00:00",
       "time_text": "21:12",
       "link": "https://t.me/MatinSenPaii/2774",
-      "views": "15.5K"
+      "views": "26.4K"
     },
     {
       "text": "دسترسی به یوتوب با پول اشتراک&#33;\n\nگویا با وارد شدن به سایت «لینکدونی» (از زیرمجموعه‌های افزونه دستیار) میتونید با وارد کردن شماره تلفنتون و پرداخت مبلغ ناقابل 130 هزار تومان به یوتوب دسترسی داشته باشید و حتی از یوتوب دانلود کنید&#33;"
@@ -135,7 +218,7 @@
       "datetime": "2026-04-20T08:15:49+00:00",
       "time_text": "08:15",
       "link": "https://t.me/MatinSenPaii/2773",
-      "views": "26.1K"
+      "views": "28.7K"
     },
     {
       "text": "متأسفانه شما برای خرید هر سرور ایرانی باید احراز هویت کنی دوست عزیز"
@@ -150,7 +233,7 @@
       "datetime": "2026-04-20T08:14:00+00:00",
       "time_text": "08:14",
       "link": "https://t.me/MatinSenPaii/2772",
-      "views": "25.8K"
+      "views": "28.4K"
     },
     {
       "text": "این دقیقا یکی از دلایلی بود که این ربات رو پابلیک کردم: https://t.me/MatinSenPaii/2693"
@@ -165,7 +248,7 @@
       "datetime": "2026-04-20T07:58:23+00:00",
       "time_text": "07:58",
       "link": "https://t.me/MatinSenPaii/2771",
-      "views": "26.2K"
+      "views": "28.6K"
     },
     {
       "text": "نکته‌ی ساده‌ای که یاد دادم همچنان داره کار میکنه. لینک برای 5 دقیقه از الان بازه\nمجدد غیرفعال"
@@ -175,108 +258,10 @@
     },
     {
       "post_id": "2771"
-    },
-    {
-      "datetime": "2026-04-20T07:49:59+00:00",
-      "time_text": "07:49",
-      "link": "https://t.me/MatinSenPaii/2770",
-      "views": "25.9K"
-    },
-    {
-      "text": "به نظرتون بهش بگیم واقعیت رو؟"
-    },
-    {
-      "text": "با سرور خارجی میشه کانفیگ v2ray درست کرد وصل شد؟"
-    },
-    {
-      "post_id": "2770"
-    },
-    {
-      "datetime": "2026-04-20T06:43:29+00:00",
-      "time_text": "06:43",
-      "link": "https://t.me/MatinSenPaii/2769",
-      "views": "27K"
-    },
-    {
-      "text": "یادداشت بنیان‌گذار کاموا مبنی بر قتل بچه‌اش، استارتاپش. پلتفرمی که با عشق اونو بالا آورده بوده\n\nکم کم با این وضعیت اینترنت، صنعت Tech ایران به خاموشی بسیار بزرگی میره. کما اینکه همین الان هم رفته، اما شوکش دامن همه رو نگرفته"
-    },
-    {
-      "photos": [
-        "bale:46627310:4241596468595072771:1:65b5e3e3fd6f689b4ff5512afc226f308211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "2769"
-    },
-    {
-      "datetime": "2026-04-19T13:30:08+00:00",
-      "time_text": "13:30",
-      "link": "https://t.me/MatinSenPaii/2766",
-      "views": "29.7K"
-    },
-    {
-      "text": "https://t.me/MatinSenPaii/2447"
-    },
-    {
-      "text": "دوستان میگن متد جدید ترکیب open vpn با sni spoof هست که جواب میده"
-    },
-    {
-      "post_id": "2766"
-    },
-    {
-      "datetime": "2026-04-19T12:45:28+00:00",
-      "time_text": "12:45",
-      "link": "https://t.me/MatinSenPaii/2765",
-      "views": "29.6K"
-    },
-    {
-      "text": "و دوباره بازگشت ما به سوی DNS است"
-    },
-    {
-      "text": "🚀 آپدیت Range Scout نسخه 0.7.0  این نسخه اسکن DNS و مرحله DNSTT را خیلی منعطف‌تر کرده. حالا هم در اسکن می‌تونی بین UDP / TCP / BOTH انتخاب کنی، هم در مرحله DNSTT از UDP / TCP / DOT / DOH استفاده کنی. تنظیمات جدید هم داخل UI و فایل config کامل ذخیره و لود می‌شن.…"
-    },
-    {
-      "post_id": "2765"
-    },
-    {
-      "datetime": "2026-04-19T12:27:54+00:00",
-      "time_text": "12:27",
-      "link": "https://t.me/MatinSenPaii/2764",
-      "views": "25.3K"
-    },
-    {
-      "text": "🚀 آپدیت Range Scout نسخه 0.7.0\n\nاین نسخه اسکن DNS و مرحله DNSTT را خیلی منعطف‌تر کرده. حالا هم در اسکن می‌تونی بین UDP / TCP / BOTH انتخاب کنی، هم در مرحله DNSTT از UDP / TCP / DOT / DOH استفاده کنی. تنظیمات جدید هم داخل UI و فایل config کامل ذخیره و لود می‌شن.\n\n——————————————\n\n✨ چی عوض شده:\n\n🔹 پروتکل اسکن DNS قابل انتخاب شد\nحالا اسکنر فقط UDP نیست و می‌تونی UDP، TCP یا BOTH را برای probeهای سازگاری انتخاب کنی\n\n🔹 مرحله DNSTT حرفه‌ای‌تر شد\nبرای تست DNSTT حالا UDP، TCP، DOT و DOH پشتیبانی می‌شن\n\n🔹 Resolver Endpoint اضافه شد\nبرای DNSTT می‌تونی endpoint دلخواه بدی و از placeholderهای {ip} و {port} استفاده کنی\n\n🔹 تنظیمات جدید داخل config ذخیره می‌شن\nفیلدهای protocol، transport و resolverURL حالا موقع Save Config نگه داشته می‌شن و دوباره درست لود می‌شن\n\n🔹 اسکن TCP و حالت BOTH به هسته اسکن اضافه شد\nنتایج resolverها حالا می‌تونن بر اساس عملکرد واقعی روی UDP و TCP ثبت بشن\n\n🔹 تست‌ها و پایداری بهتر شد\nتست‌های scanner، DNSTT و embedded client گسترده‌تر شدن و رفتار transportهای جدید پوشش داده شد\n\n🔹 رابط کاربری و نسخه برنامه آپدیت شد\nفیلدهای جدید DNSTT وارد UI شدن و نسخه داخل هدر روی v0.7.0 قرار گرفت\n\n—————————————\n\n🔗 دانلود از گیت‌هاب\nhttps://github.com/PedramMarandi/range-scout/releases/tag/v0.7.0"
-    },
-    {
-      "post_id": "2764"
-    },
-    {
-      "datetime": "2026-04-19T09:46:42+00:00",
-      "time_text": "09:46",
-      "link": "https://t.me/MatinSenPaii/2762",
-      "views": "31.9K"
-    },
-    {
-      "text": "پول به \"شکن\" و امثالهم هم ندید. یادآوری کنم که چند هفته پیش، به مدت دو سه روز chatgpt روش باز شد و ملت کلی اشتراک خریدن و روش کانفیگ ساختن و باز مسدود شد. پول مردم هم رفت سطل آشغال"
-    },
-    {
-      "post_id": "2762"
-    },
-    {
-      "datetime": "2026-04-19T09:25:10+00:00",
-      "time_text": "09:25",
-      "link": "https://t.me/MatinSenPaii/2761",
-      "views": "30.9K"
-    },
-    {
-      "text": "منتها این کاری که کردن داره افتضاح میشه هر لحظه"
-    },
-    {
-      "post_id": "2761"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-21T03:25:22.236041",
-    "new_count": 0
+    "last_update": "2026-04-21T13:56:29.510861",
+    "new_count": 7
   }
 }
