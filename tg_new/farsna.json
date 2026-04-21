@@ -11,14 +11,31 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "حقیقت روشن می‌شود\n‌\n‌\nتبلیغات @Farsnews_ads\n\nارتباط  @FarsNews\n\nفارس‌پلاس @Fars_Plus\n‌\n ورزش @SportFars\n\n جهان @FarsNewsInt\n\nعکس @FarsImages \n\nپیام‌رسان‌ها @Farsna\n\nاینستاگرام instagram.com/fars_news\n\nتوییتر twitter.com/FarsNews_Agency",
-  "total_posts": 33,
-  "returned_posts": 33,
+  "total_posts": 37,
+  "returned_posts": 37,
   "posts": [
+    {
+      "datetime": "2026-04-21T22:34:43+00:00",
+      "time_text": "22:34",
+      "link": "https://t.me/farsna/430649",
+      "views": "1.41K"
+    },
+    {
+      "text": "🎥 قیام شبانۀ بجنوردی‌ها در پنجاه‌ودومین شب حماسۀ حضور \n\n@Farsna"
+    },
+    {
+      "videos": [
+        "bale:46627310:-101925215803728127:1:65b5e3e3fd6f689b1a55c2f074f58b3578bd75520bbfc49a"
+      ]
+    },
+    {
+      "post_id": "430649"
+    },
     {
       "datetime": "2026-04-21T22:16:02+00:00",
       "time_text": "22:16",
       "link": "https://t.me/farsna/430648",
-      "views": "1.25K"
+      "views": "2.42K"
     },
     {
       "text": "🎥 صف آرایی بانوان اشکذری با اسلحه در مقابل دشمن\n\n@Fars_plus | Link"
@@ -35,7 +52,7 @@
       "datetime": "2026-04-21T22:01:50+00:00",
       "time_text": "22:01",
       "link": "https://t.me/farsna/430641",
-      "views": "2.79K"
+      "views": "3.68K"
     },
     {
       "text": "📷 موشک‌های نقطه زن هوافضا میان مردم\n\nعکس: امیرعباس عظیمی\n\n@Farsna"
@@ -82,7 +99,7 @@
       "datetime": "2026-04-21T21:57:16+00:00",
       "time_text": "21:57",
       "link": "https://t.me/farsna/430637",
-      "views": "2.98K"
+      "views": "3.79K"
     },
     {
       "text": "📰 دکۀ روزنامه | چهارشنبه ۲ اردیبهشت ۱۴۰۵\n\n@Farsna"
@@ -114,7 +131,7 @@
       "datetime": "2026-04-21T21:57:02+00:00",
       "time_text": "21:57",
       "link": "https://t.me/farsna/430627",
-      "views": "2.66K"
+      "views": "3.53K"
     },
     {
       "photos": [
@@ -171,7 +188,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-21T22:31:04.689424",
+    "last_update": "2026-04-21T22:51:36.253617",
     "new_count": 1
   }
 }
