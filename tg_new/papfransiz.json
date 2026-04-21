@@ -5,62 +5,56 @@
   "channel_username": "@papfransiz",
   "channel_avatar": "bale:46627310:4454191654309928704:1:65b5e3e3fd6f689be824bcf5c2e99e3f8211e6c76420e4b7",
   "channel_verified": false,
-  "channel_subscribers": "469",
+  "channel_subscribers": "470",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
   "channel_links": null,
   "channel_description": "- Senior Forensic Doctor.\n- NetOps & DevOps.\n- Gig Programmer 🫩.\n\nid:' @Pap_pv \nTxt:' t.me/papFransiz?direct",
-  "total_posts": 67,
-  "returned_posts": 67,
+  "total_posts": 65,
+  "returned_posts": 65,
   "posts": [
     {
-      "datetime": "2026-04-21T16:42:07+00:00",
-      "time_text": "16:42",
-      "link": "https://t.me/papFransiz/391",
-      "views": "51"
+      "datetime": "2026-04-21T17:39:13+00:00",
+      "time_text": "17:39",
+      "link": "https://t.me/papFransiz/394",
+      "views": "22"
     },
     {
-      "text": "البته الان یه نسخه ازش دارم ولی زیاد به درد نمیخوره 🫩"
+      "text": "https://hub.docker.com/r/techgarageir/mtwireguard/"
     },
     {
-      "text": "بعد تموم شدن این یه agent VPN میسازم. و یه محیط طراحی می‌کنیم که هر چی برا اتصال نیاز هست انجام بده"
+      "post_id": "394"
     },
     {
-      "post_id": "391"
+      "datetime": "2026-04-21T17:37:42+00:00",
+      "time_text": "17:37",
+      "link": "https://t.me/papFransiz/393",
+      "views": "120"
     },
     {
-      "datetime": "2026-04-21T16:38:05+00:00",
-      "time_text": "16:38",
-      "link": "https://t.me/papFransiz/390",
-      "views": "60"
+      "text": "پیاده سازی و استفاده از هوش مصنوعی در وضعیت اینترنت ملی. \n\nhttps://git.ir/article/lmstudio-setup/"
     },
     {
-      "text": "بعد تموم شدن این یه agent VPN میسازم. و یه محیط طراحی می‌کنیم که هر چی برا اتصال نیاز هست انجام بده"
+      "post_id": "393"
     },
     {
-      "text": "یه ایده زده به سرم یه بدافزاری بنویسم که وقتی تزریق شد به سرور وایت و گوشی بسیجی و... بتونیم ازشون به صورت اتوباند دیتا رد کنیم 🙂‍↕️"
+      "datetime": "2026-04-21T17:32:05+00:00",
+      "time_text": "17:32",
+      "link": "https://t.me/papFransiz/392",
+      "views": "211"
     },
     {
-      "post_id": "390"
+      "text": "-OpenWRT - x86 PC Installation - Live USB\n\nwww.youtube.com/watch?v=DET3EMl6-RM\n\n- @papFransiz"
     },
     {
-      "datetime": "2026-04-21T14:07:06+00:00",
-      "time_text": "14:07",
-      "link": "https://t.me/papFransiz/389",
-      "views": "115"
-    },
-    {
-      "text": "نکته: اگه به کانفیگ... اینترنت خوب گیرتون آمد نرید اینستا. برید از Google Map نقشه آفلاین دانلود کنید. خیلی نیاز میشه"
-    },
-    {
-      "post_id": "389"
+      "post_id": "392"
     },
     {
       "datetime": "2026-04-21T13:28:07+00:00",
       "time_text": "13:28",
       "link": "https://t.me/papFransiz/388",
-      "views": "267"
+      "views": "309"
     },
     {
       "text": "Cloudflare open-sourced an email client where an AI agent reads your inbox, drafts your replies, and never sends anything without your permission.\n\nIt's called Agentic Inbox. It runs entirely on Cloudflare Workers. Zero third-party servers touching your emails."
@@ -69,46 +63,10 @@
       "post_id": "388"
     },
     {
-      "datetime": "2026-04-21T10:41:26+00:00",
-      "time_text": "10:41",
-      "link": "https://t.me/papFransiz/387",
-      "views": "171"
-    },
-    {
-      "text": "وقتی اینترنت گرون شده. محدود شده. کیفیت و افراد خاص چیده شدن. همه چیز گرون شده. \n\nانتظار داری برنامه نویس با هزینه 10 سال پیش برات کار کنه؟🫩 سشدیر"
-    },
-    {
-      "post_id": "387"
-    },
-    {
-      "datetime": "2026-04-21T06:52:50+00:00",
-      "time_text": "06:52",
-      "link": "https://t.me/papFransiz/386",
-      "views": "295"
-    },
-    {
-      "text": "traceroute -I google.com\n\nSin+ip+mikro.Tunnel+tratf traffec???"
-    },
-    {
-      "post_id": "386"
-    },
-    {
-      "datetime": "2026-04-20T17:23:39+00:00",
-      "time_text": "17:23",
-      "link": "https://t.me/papFransiz/385",
-      "views": "225"
-    },
-    {
-      "text": "یکمم وضعیت روحیم اوکی‌تر بشه. شروع میکنم ابزار که برای فیلترینگ دور زدن مفیدند تموم میکنم. بدون اپن سورس. اوتوباند میکنم کانفیگ رایگان از ربات بگیرید 🫩 درآمد و هزینه سرور هم از دونیت قراره بیاد در صورت نبود دونیت قطع میشن من توان اقتصادی هزینه ندارم. \n\nتا اواسط این ماه فکر کنم شروع کنم بالا آوردن با این شرایط"
-    },
-    {
-      "post_id": "385"
-    },
-    {
       "datetime": "2026-04-20T15:22:32+00:00",
       "time_text": "15:22",
       "link": "https://t.me/papFransiz/381",
-      "views": "1.32K"
+      "views": "1.34K"
     },
     {
       "text": "👆👆👆"
@@ -120,49 +78,10 @@
       "post_id": "381"
     },
     {
-      "datetime": "2026-04-19T20:19:06+00:00",
-      "time_text": "20:19",
-      "link": "https://t.me/papFransiz/380",
-      "views": "285"
-    },
-    {
-      "text": "#"
-    },
-    {
-      "text": "مطلب آموزشی قبلی  https://t.me/+CbPTq-0boCllM2Nk"
-    },
-    {
-      "post_id": "380"
-    },
-    {
-      "datetime": "2026-04-19T10:10:59+00:00",
-      "time_text": "10:10",
-      "link": "https://t.me/papFransiz/379",
-      "views": "323"
-    },
-    {
-      "text": "یه ایده زده به سرم یه بدافزاری بنویسم که وقتی تزریق شد به سرور وایت و گوشی بسیجی و... بتونیم ازشون به صورت اتوباند دیتا رد کنیم 🙂‍↕️"
-    },
-    {
-      "post_id": "379"
-    },
-    {
-      "datetime": "2026-04-18T18:23:44+00:00",
-      "time_text": "18:23",
-      "link": "https://t.me/papFransiz/378",
-      "views": "340"
-    },
-    {
-      "text": "رفتن یه سایتی رو روبه اینترنت بین المللی باز کردن که اون ایران تحریم کرده و نیازمند VPN تشریف داره 🫩\n\n\n#تاوان‌جوانی"
-    },
-    {
-      "post_id": "378"
-    },
-    {
       "datetime": "2026-04-17T13:02:07+00:00",
       "time_text": "13:02",
       "link": "https://t.me/papFransiz/374",
-      "views": "506"
+      "views": "529"
     },
     {
       "photos": [
@@ -176,7 +95,7 @@
       "datetime": "2026-04-17T12:39:41+00:00",
       "time_text": "12:39",
       "link": "https://t.me/papFransiz/373",
-      "views": "489"
+      "views": "505"
     },
     {
       "text": "برنامه any bridge برای اتصال dnstt برای ایفون\n\nhttps://apps.apple.com/us/app/anybridge/id6749492090"
@@ -188,7 +107,7 @@
       "datetime": "2026-04-17T08:01:39+00:00",
       "time_text": "08:01",
       "link": "https://t.me/papFransiz/372",
-      "views": "2.53K"
+      "views": "2.55K"
     },
     {
       "text": "یه راز کوچولو اگه میخواید به اپل کم پیش دسترسی داشته باشید. میتونید روی اینا کار کنید. \n5.45.192.0/18, 5.255.192.0/18, 77.88.32.0/19, 87.250.250.0/24.\nimap.yandex.ru, pop.yandex.ru, pap.yandex.ru,smtp.yandex.ru\n77.88.44.55\n5.255.255.77\nایران هم منطقه ای دردسترس هستن"
@@ -203,7 +122,7 @@
       "datetime": "2026-04-17T07:31:48+00:00",
       "time_text": "07:31",
       "link": "https://t.me/papFransiz/371",
-      "views": "694"
+      "views": "708"
     },
     {
       "text": "این آموزش که اتصال درست حسابی ندارم براتون ویدیو و عکس مربوط آپلود کنم 🫩 ولی یه راهی پیدا کردم تو قطعی مثل ۵۰ روز گذشته باهاش میتونید به اخبار و اطلاعات دسترسی داشته باشید. با روش Gpos, SFp 😄 تست کامل رد کرده \nبریم ریپوشو آماده کنیم"
@@ -218,7 +137,7 @@
       "datetime": "2026-04-17T07:17:13+00:00",
       "time_text": "07:17",
       "link": "https://t.me/papFransiz/370",
-      "views": "1.35K"
+      "views": "1.37K"
     },
     {
       "text": "اگه ایده های بابت پروژه یک ، پروژه starlink pannel ، پروژه D-WPK ابزار ضدنت‌ملی. دارید میتونید. اینجا بگید.👇\n- به خصوص درمورد پروژه مربوط به استارلینک هر نوع ایده دارید. می‌تونه به بهبود پروژه کمک کنه 👌\n\nid:' @Pap_pv \nTxt:' t.me/papFransiz?direct"
@@ -230,7 +149,7 @@
       "datetime": "2026-04-17T06:44:18+00:00",
       "time_text": "06:44",
       "link": "https://t.me/papFransiz/369",
-      "views": "1.02K"
+      "views": "1.04K"
     },
     {
       "text": "و Sni Spoofing روی OpenWrt میتونید ران کنید. \nhttps://github.com/aleskxyz/SNI-Spoofing-Go"
@@ -242,7 +161,7 @@
       "datetime": "2026-04-16T20:39:44+00:00",
       "time_text": "20:39",
       "link": "https://t.me/papFransiz/368",
-      "views": "528"
+      "views": "547"
     },
     {
       "text": "قبلا با یه لیتر عرق میبردم باغ\nالان با یدونه کانفیگ میبرم باغ"
@@ -254,7 +173,7 @@
       "datetime": "2026-04-16T08:08:55+00:00",
       "time_text": "08:08",
       "link": "https://t.me/papFransiz/365",
-      "views": "563"
+      "views": "578"
     },
     {
       "text": "Securing NTP\n\nhttps://blog.apnic.net/2026/03/10/securing-ntp/"
@@ -266,7 +185,7 @@
       "datetime": "2026-04-15T18:34:38+00:00",
       "time_text": "18:34",
       "link": "https://t.me/papFransiz/364",
-      "views": "1.31K"
+      "views": "1.33K"
     },
     {
       "text": "راستی Accel-PPP هم روی DDWRT/Openwrt هم میگم این بار"
@@ -276,10 +195,85 @@
     },
     {
       "post_id": "364"
+    },
+    {
+      "datetime": "2026-04-15T18:16:38+00:00",
+      "time_text": "18:16",
+      "link": "https://t.me/papFransiz/363",
+      "views": "1.71K"
+    },
+    {
+      "text": "مباحث مربوط به DDWRT/podkop/dssh به زودی مطالبی آماده میکنم 🫩 \n\nیه روش جدید هم برای اینترنت ملی آموزش میدم. فعلا آموزش دیروز جواب میدن استفاده کنید تا ببینیم چه میشه"
+    },
+    {
+      "post_id": "363"
+    },
+    {
+      "datetime": "2026-04-15T16:46:06+00:00",
+      "time_text": "16:46",
+      "link": "https://t.me/papFransiz/362",
+      "views": "610"
+    },
+    {
+      "text": "ورژن جدید کرنل هم رلیز شده. ولی من ایرانی بدبخت هنوز درگیر وصل موندمم"
+    },
+    {
+      "text": "لینوکس کرنل جدید"
+    },
+    {
+      "post_id": "362"
+    },
+    {
+      "datetime": "2026-04-14T23:44:05+00:00",
+      "time_text": "23:44",
+      "link": "https://t.me/papFransiz/361",
+      "views": "817"
+    },
+    {
+      "text": "بزودی یه نرم افزار برای DNSTT مشابه slipnet برای کاربران آیفون و مک عرضه میشه 😃 \nدر حال طراحی های نهایه 🤧 \nحرکات باحالی پیاده سازی کردم 😁 \n\nاگه حمایتی شد از مطالب و محتوا شاید زودتر رلیز بشه"
+    },
+    {
+      "post_id": "361"
+    },
+    {
+      "datetime": "2026-04-14T23:06:26+00:00",
+      "time_text": "23:06",
+      "link": "https://t.me/papFransiz/360",
+      "views": "608"
+    },
+    {
+      "text": "فکت:\n\nیادگیری Openwrt به خاطر یه انسان با 160 قد کمر منو شکست"
+    },
+    {
+      "post_id": "360"
+    },
+    {
+      "datetime": "2026-04-14T17:13:54+00:00",
+      "time_text": "17:13",
+      "link": "https://t.me/papFransiz/359",
+      "views": "594"
+    },
+    {
+      "text": "تنظیم پروکسی برای میرور .... \nبرای توزیع‌های مبتنی بر Debian/Ubuntu:\n  \n      sudo nano /etc/apt/apt.conf\n   \n\n      Acquire::http::Proxy \"socks5://username:password@proxyserver:port/\";\n   Acquire::https::Proxy \"socks5://username:password@proxyserver:port/\";"
+    },
+    {
+      "post_id": "359"
+    },
+    {
+      "datetime": "2026-04-14T16:58:55+00:00",
+      "time_text": "16:58",
+      "link": "https://t.me/papFransiz/356",
+      "views": "510"
+    },
+    {
+      "text": "https://github.com/bol-van/zapret"
+    },
+    {
+      "post_id": "356"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-21T17:23:10.180371",
-    "new_count": 0
+    "last_update": "2026-04-21T17:43:31.704649",
+    "new_count": 9
   }
 }
