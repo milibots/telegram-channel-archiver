@@ -18,7 +18,7 @@
       "datetime": "2026-04-21T14:07:06+00:00",
       "time_text": "14:07",
       "link": "https://t.me/papFransiz/389",
-      "views": "69"
+      "views": "77"
     },
     {
       "text": "نکته: اگه به کانفیگ... اینترنت خوب گیرتون آمد نرید اینستا. برید از Google Map نقشه آفلاین دانلود کنید. خیلی نیاز میشه"
@@ -30,7 +30,7 @@
       "datetime": "2026-04-21T13:28:07+00:00",
       "time_text": "13:28",
       "link": "https://t.me/papFransiz/388",
-      "views": "228"
+      "views": "235"
     },
     {
       "text": "Cloudflare open-sourced an email client where an AI agent reads your inbox, drafts your replies, and never sends anything without your permission.\n\nIt's called Agentic Inbox. It runs entirely on Cloudflare Workers. Zero third-party servers touching your emails."
@@ -42,7 +42,7 @@
       "datetime": "2026-04-21T10:41:26+00:00",
       "time_text": "10:41",
       "link": "https://t.me/papFransiz/387",
-      "views": "146"
+      "views": "149"
     },
     {
       "text": "وقتی اینترنت گرون شده. محدود شده. کیفیت و افراد خاص چیده شدن. همه چیز گرون شده. \n\nانتظار داری برنامه نویس با هزینه 10 سال پیش برات کار کنه؟🫩 سشدیر"
@@ -200,7 +200,7 @@
       "datetime": "2026-04-17T06:44:18+00:00",
       "time_text": "06:44",
       "link": "https://t.me/papFransiz/369",
-      "views": "1.01K"
+      "views": "1.02K"
     },
     {
       "text": "و Sni Spoofing روی OpenWrt میتونید ران کنید. \nhttps://github.com/aleskxyz/SNI-Spoofing-Go"
@@ -212,7 +212,7 @@
       "datetime": "2026-04-16T20:39:44+00:00",
       "time_text": "20:39",
       "link": "https://t.me/papFransiz/368",
-      "views": "524"
+      "views": "525"
     },
     {
       "text": "قبلا با یه لیتر عرق میبردم باغ\nالان با یدونه کانفیگ میبرم باغ"
@@ -224,7 +224,7 @@
       "datetime": "2026-04-16T08:08:55+00:00",
       "time_text": "08:08",
       "link": "https://t.me/papFransiz/365",
-      "views": "559"
+      "views": "560"
     },
     {
       "text": "Securing NTP\n\nhttps://blog.apnic.net/2026/03/10/securing-ntp/"
@@ -276,7 +276,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-21T15:19:50.575311",
+    "last_update": "2026-04-21T15:40:32.523426",
     "new_count": 0
   }
 }
