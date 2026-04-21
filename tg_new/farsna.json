@@ -11,14 +11,31 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "حقیقت روشن می‌شود\n‌\n‌\nتبلیغات @Farsnews_ads\n\nارتباط  @FarsNews\n\nفارس‌پلاس @Fars_Plus\n‌\n ورزش @SportFars\n\n جهان @FarsNewsInt\n\nعکس @FarsImages \n\nپیام‌رسان‌ها @Farsna\n\nاینستاگرام instagram.com/fars_news\n\nتوییتر twitter.com/FarsNews_Agency",
-  "total_posts": 37,
-  "returned_posts": 37,
+  "total_posts": 41,
+  "returned_posts": 41,
   "posts": [
+    {
+      "datetime": "2026-04-21T22:59:25+00:00",
+      "time_text": "22:59",
+      "link": "https://t.me/farsna/430650",
+      "views": "1.18K"
+    },
+    {
+      "text": "🖼 دان وینزلو، نویسنده آمریکایی: ترامپ نمی‌خواهد قبول کند که شکست خورده است\n\n🔹آخرین بیانیه ترامپ چیزی جز یک دروغ دیگر نیست. او مجبور است تظاهر کند که کشورهای دیگر از او «خواهش کرده‌اند»، چون نمی‌خواهد به شکست کامل و مطلق خودش به‌عنوان فرمانده کل قوا اعتراف کند.\n\n🔹او یک احمق و بی‌ملاحظه است. او نمی‌تواند خودش را از باتلاق ایران بیرون بکشد. این جنگِ خود اوست؛ گندی است که خودش زده.\n@Farsna"
+    },
+    {
+      "photos": [
+        "bale:46627310:-4390940974839357696:1:65b5e3e3fd6f689b7b34c8af3c76994f8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "430650"
+    },
     {
       "datetime": "2026-04-21T22:34:43+00:00",
       "time_text": "22:34",
       "link": "https://t.me/farsna/430649",
-      "views": "1.41K"
+      "views": "2.47K"
     },
     {
       "text": "🎥 قیام شبانۀ بجنوردی‌ها در پنجاه‌ودومین شب حماسۀ حضور \n\n@Farsna"
@@ -35,7 +52,7 @@
       "datetime": "2026-04-21T22:16:02+00:00",
       "time_text": "22:16",
       "link": "https://t.me/farsna/430648",
-      "views": "2.42K"
+      "views": "3.15K"
     },
     {
       "text": "🎥 صف آرایی بانوان اشکذری با اسلحه در مقابل دشمن\n\n@Fars_plus | Link"
@@ -52,7 +69,7 @@
       "datetime": "2026-04-21T22:01:50+00:00",
       "time_text": "22:01",
       "link": "https://t.me/farsna/430641",
-      "views": "3.68K"
+      "views": "4.46K"
     },
     {
       "text": "📷 موشک‌های نقطه زن هوافضا میان مردم\n\nعکس: امیرعباس عظیمی\n\n@Farsna"
@@ -99,7 +116,7 @@
       "datetime": "2026-04-21T21:57:16+00:00",
       "time_text": "21:57",
       "link": "https://t.me/farsna/430637",
-      "views": "3.79K"
+      "views": "4.35K"
     },
     {
       "text": "📰 دکۀ روزنامه | چهارشنبه ۲ اردیبهشت ۱۴۰۵\n\n@Farsna"
@@ -131,7 +148,7 @@
       "datetime": "2026-04-21T21:57:02+00:00",
       "time_text": "21:57",
       "link": "https://t.me/farsna/430627",
-      "views": "3.53K"
+      "views": "4.01K"
     },
     {
       "photos": [
@@ -188,7 +205,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-21T22:51:36.253617",
+    "last_update": "2026-04-21T23:11:56.693519",
     "new_count": 1
   }
 }
