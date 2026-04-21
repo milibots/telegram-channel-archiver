@@ -11,14 +11,31 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "حقیقت روشن می‌شود\n‌\n‌\nتبلیغات @Farsnews_ads\n\nارتباط  @FarsNews\n\nفارس‌پلاس @Fars_Plus\n‌\n ورزش @SportFars\n\n جهان @FarsNewsInt\n\nعکس @FarsImages \n\nپیام‌رسان‌ها @Farsna\n\nاینستاگرام instagram.com/fars_news\n\nتوییتر twitter.com/FarsNews_Agency",
-  "total_posts": 29,
-  "returned_posts": 29,
+  "total_posts": 33,
+  "returned_posts": 33,
   "posts": [
+    {
+      "datetime": "2026-04-21T22:16:02+00:00",
+      "time_text": "22:16",
+      "link": "https://t.me/farsna/430648",
+      "views": "1.25K"
+    },
+    {
+      "text": "🎥 صف آرایی بانوان اشکذری با اسلحه در مقابل دشمن\n\n@Fars_plus | Link"
+    },
+    {
+      "videos": [
+        "bale:46627310:-1994682129805205758:1:65b5e3e3fd6f689b6873c167d27648c478bd75520bbfc49a"
+      ]
+    },
+    {
+      "post_id": "430648"
+    },
     {
       "datetime": "2026-04-21T22:01:50+00:00",
       "time_text": "22:01",
       "link": "https://t.me/farsna/430641",
-      "views": "1.17K"
+      "views": "2.79K"
     },
     {
       "text": "📷 موشک‌های نقطه زن هوافضا میان مردم\n\nعکس: امیرعباس عظیمی\n\n@Farsna"
@@ -65,7 +82,7 @@
       "datetime": "2026-04-21T21:57:16+00:00",
       "time_text": "21:57",
       "link": "https://t.me/farsna/430637",
-      "views": "1.73K"
+      "views": "2.98K"
     },
     {
       "text": "📰 دکۀ روزنامه | چهارشنبه ۲ اردیبهشت ۱۴۰۵\n\n@Farsna"
@@ -97,7 +114,7 @@
       "datetime": "2026-04-21T21:57:02+00:00",
       "time_text": "21:57",
       "link": "https://t.me/farsna/430627",
-      "views": "1.45K"
+      "views": "2.66K"
     },
     {
       "photos": [
@@ -154,7 +171,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-21T22:10:35.136648",
-    "new_count": 3
+    "last_update": "2026-04-21T22:31:04.689424",
+    "new_count": 1
   }
 }
