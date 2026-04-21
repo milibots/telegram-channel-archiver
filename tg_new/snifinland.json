@@ -3,9 +3,9 @@
   "channel": "snifinland",
   "channel_title": "SNI SPOOFING",
   "channel_username": "@snifinland",
-  "channel_avatar": "bale:46627310:8775976763977047811:1:65b5e3e3fd6f689b7a9a38d519f7c2578211e6c76420e4b7",
+  "channel_avatar": "bale:46627310:-2558394311581622527:1:65b5e3e3fd6f689b415ba506bd30d4928211e6c76420e4b7",
   "channel_verified": false,
-  "channel_subscribers": "36",
+  "channel_subscribers": "37",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
@@ -18,7 +18,7 @@
       "datetime": "2026-04-19T20:36:27+00:00",
       "time_text": "20:36",
       "link": "https://t.me/SniFinland/3",
-      "views": "348"
+      "views": "349"
     },
     {
       "text": "تشریف ببرید آیدی جدید :)\nhttps://t.me/TheVPNMethod"
@@ -39,7 +39,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-21T02:34:55.067061",
+    "last_update": "2026-04-21T02:38:03.248881",
     "new_count": 0
   }
 }
