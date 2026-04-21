@@ -3,7 +3,7 @@
   "channel": "samnetinternet",
   "channel_title": "SamNet Tech",
   "channel_username": "@samnetinternet",
-  "channel_avatar": "https://cdn1.telesco.pe/file/IpUpgWuwV1LMICOydn7Dw_jakUE5pXd1wx48yiL9uc0ec9GZ2dsYORAFMkVvKuaX5Qi9W1TpBjdnhFVLHzlSVaLOnSBRPILU8icKe4uiPoiz5I3SBzPN7KQdx6Pav7aidN10oSnMSTZuGcu1NP-aJhlNCGVVcVOPk577quzlqcA_Ki0xmtA19kiimnU-vCTjU6vzhp_qzXUqDlEs6MKp9SgCJS6YPjBwl9Bqo7KQ_fipTCrD0NcG2RU7XQ_cd_Q_2zYYT3ywc60nk08-cL3lHkGN8Xjm3_V9hOKaB_zk1T51rDI3-radINJIe1cVgLjND3EZ6rTji3itUeAJIaTFJw.jpg",
+  "channel_avatar": "bale:46627310:-5535940386657132798:1:65b5e3e3fd6f689b5a84739e283918588211e6c76420e4b7",
   "channel_verified": false,
   "channel_subscribers": "19K",
   "channel_photos": null,
@@ -22,7 +22,7 @@
     },
     {
       "photos": [
-        "https://cdn1.telesco.pe/file/Np70s8qIMGhn1kGwk8BTgYyxgBh3Sv7zcQEVZ_Jbc9GtZgEjXfIlwyUidefVP5V7sqr7M_kV_RdArdjWKDivwYrNiTGF-9iuBUxZ2tl-tYcppZZRtzP7pAcLKxMPGmZqP8ZPNcbVJ7zeF5loON8pmq05Ju4KMfK_PrA-P7qASHv2HOGroQedqG7q-8wqngh0Gu21pjRKmve-lDjVpZvkb4K0YnvRFlVZqk-6eyb5fSj8vDSepkjOHEqkUa9DlJZfNUtA_0pp8iaiPc9i-Dy4PpJTF6c5UYh6LlfhjbRFgNR7kYk9lK0BEmMNIxF242M2jcfk-dKM45_eM67g58uIjw.jpg"
+        "bale:46627310:5941648820594417411:1:65b5e3e3fd6f689b16d6ac803b36e5fb8211e6c76420e4b7"
       ]
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "photos": [
-        "https://cdn1.telesco.pe/file/vyJ3bDa3dS58T9ctaTPyUJckevczYk5FWgP4pYustnpVd_ZTzqwxJcSoTC3bJUNXoW9WOZaa-Dtd7maUICvtf0ov_v_5Ud0WGeihL2Y41Szl5oOW_ChBxzfspeN1dwsz2a7csGMeXFpGZI7uClqQ-OKqyH0Kju_Oz-tO9otKSkLbCvWhunKiUlpWIV6LtGPe34w4V1sXBX0dwoFN27b3r0PpUooxKPhE76y-2CCI6D-7ujWdmTo1kCkLbAZNBvPbn159mFzHK0ocJvColbX2GwPlKm_Lj7jG6jMw8u1fB39IdRr11O7Zee-GBIkr2h5EPnvEdLPaDHiUhHhFimJneQ.jpg"
+        "bale:46627310:-5485783385400467710:1:65b5e3e3fd6f689b16d6ac803b36e5fb8211e6c76420e4b7"
       ]
     },
     {
@@ -121,7 +121,7 @@
       "datetime": "2026-04-10T15:07:48+00:00",
       "time_text": "15:07",
       "link": "https://t.me/SamnetInternet/294",
-      "views": "20.5K"
+      "views": "20.6K"
     },
     {
       "text": "🏠 راهنمای ساخت سرور از خانه\n\nاین مقاله بیشتر مخصوص دوستان خارج از ایرانه  چطور با اینترنت خونگی و یه Raspberry Pi یا Mini PC سرویس‌های VPN و پروکسی تلگرام برای دوستاتون داخل ایران بسازید\n\nآی‌پی مسکونی معمولا همیشه IP تمیز دارن برخلاف VPS\n\n📋 شامل:\n• انتخاب سخت‌افزار و نصب لینوکس\n• پورت فوروارد روی روتر\n• پروکسی تلگرام (MTProxyMax)\n• داینمیک Dynamic DNS\n• امنیت سرور \n• در صورت بلاک شدن IP خانگی چکار کنیم\n\nالان اینترنت ایران وضعش خرابه ولی ذخیره کن برای وقتی وصل شد 📌\n\n📖 \nhttps://samnet.dev/learn/guides/home-server-guide/?lang=fa\n\n📖 مقاله های بیشتر:\nhttps://samnet.dev/learn"
@@ -164,7 +164,7 @@
     },
     {
       "photos": [
-        "https://cdn1.telesco.pe/file/TebFHFVbhERjtYvoyczoBIftifNfeSVmsKwNKsetAblwXSOCddxSlO-KQRnIf-uah3tFqrm7-X9F42O10Q8jueqVZvi1lHy5aBEhmZFZl5QqiPGF7v5rtY3gZFG075AZ0GYyZORhH6EqYCxyrVTt66XKrx17D1stIxMumNbsrhJ6G1cQYoTYDIud_AFh8gvvs2Z_5HAsfxZ4mARP-1W_2TWLJmoSlO6WqwWqW76ZoUzziakdgnhEaWMaD_ykY8sBz91D27Weo01cOC6vmwYsQpppIuol3SG1K3axQrFMTY6ZzQnwsbFvxDyogWSx8OnF6g1eUWI3OUCaKaLJTzP09g.jpg"
+        "bale:46627310:3415095911669243648:1:65b5e3e3fd6f689b16d6ac803b36e5fb8211e6c76420e4b7"
       ]
     },
     {
@@ -217,7 +217,7 @@
     },
     {
       "photos": [
-        "https://cdn1.telesco.pe/file/Bwsl-81iWA8P0hGD_fBnJM-c9JgzguLVZ-zwZ3cvUAtYjZ2n8E88oKLcgBZLUCo3AnHJs0GP_0lcA8zjytPIWJOWkrp-eDuKK9x-8C-kVqgeFX55fFIE4k7Ekbz1v-Wj418h85Y9ij8-ptaksZslA8tY5fjHL_gEtWQHM6UXwLAmou1SZaE0xeEW4TBiNpT6wiMHQ35hwD5PTx7hnP8cvz-Im7Y3p-MvYvhTTRcyQJTWxCU_EsFxck30LoTWBF6WOxSVBhQlmUzarKJke__JLKY53RcC2BwFhojmkttfZZPXm5F5MfASvml4Wp8jxgWQ9PtfaLXIcFIbtt_X7rGGpw.jpg"
+        "bale:46627310:4790164095386853121:1:65b5e3e3fd6f689b16d6ac803b36e5fb8211e6c76420e4b7"
       ]
     },
     {
@@ -234,7 +234,7 @@
     },
     {
       "photos": [
-        "https://cdn1.telesco.pe/file/u1G4LJFuvjTDNymGmDqsJ-u-Ta9I8WrA4OS0UYqsIjyvMa6BnZn6oOQ_Wtl5es0h-G8l_G79Tu5ErubCT75JTPqNL3JTJa6NYvTlOB_bvOUNZpZQ93MJndPIAb3fdjD0T3oKYIWh7q5rBTHvnNzMhcPWvBvcq4vvdG2S94zJL6GAapBrNAsummFSXGfQL7qfsAIptBVTbj0KkuKseLiNgr0XUJ7g0ZYseYYtycL8cYWCfRTP24B-9M_PxGHxBGcNVBoyNS9TVRZW_0IN5u-y0jASfUgQw2t1NVTgVfzbjZLitAxLwX4ZNY8rKkKUvq686flI3In_YKrhTeiT0huVpA.jpg"
+        "bale:46627310:-8039272843242823934:1:65b5e3e3fd6f689b16d6ac803b36e5fb8211e6c76420e4b7"
       ]
     },
     {
@@ -263,7 +263,7 @@
     },
     {
       "videos": [
-        "bale:46627310:-4561306814801633535:1:f20fc7264f80b6e672e6431cbfb68002"
+        "bale:46627310:8703479058825486081:1:65b5e3e3fd6f689b16d6ac803b36e5fb78bd75520bbfc49a"
       ]
     },
     {
@@ -283,7 +283,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-21T02:30:46.120502",
+    "last_update": "2026-04-21T02:35:00.659205",
     "new_count": 0
   }
 }
