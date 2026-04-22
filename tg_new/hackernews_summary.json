@@ -15,10 +15,27 @@
   "returned_posts": 73,
   "posts": [
     {
+      "datetime": "2026-04-22T21:20:05+00:00",
+      "time_text": "21:20",
+      "link": "https://t.me/hackernews_summary/24748",
+      "views": "6"
+    },
+    {
+      "text": "The Illuminated Man: an unconventional portrait of JG Ballard\n\n🔸Christopher Priest's biography of JG Ballard explores the writer's unique vision shaped by his childhood in Shanghai and experiences in a Japanese prisoner-of-war camp. Priest's work, completed by his partner Nina Allan, provides a complex and poignant account of Ballard's life and work.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-5094153771430437117:1:65b5e3e3fd6f689b418695e1d93e8fbf8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24748"
+    },
+    {
       "datetime": "2026-04-22T21:10:25+00:00",
       "time_text": "21:10",
       "link": "https://t.me/hackernews_summary/24747",
-      "views": "5"
+      "views": "8"
     },
     {
       "text": "Adobe Is Cooked\n\n🔸Adobe's subscription model and prioritization of profit over innovation led to a decline in software quality and customer disrespect. The company's recent focus on AI features seems to be a desperate attempt to stay relevant, rather than addressing long-standing issues with their software.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -30,7 +47,7 @@
       "datetime": "2026-04-22T21:10:05+00:00",
       "time_text": "21:10",
       "link": "https://t.me/hackernews_summary/24746",
-      "views": "5"
+      "views": "8"
     },
     {
       "text": "Apple fixes bug that cops used to extract deleted chat messages from iPhones\n\n🔸Apple fixed a bug that allowed deleted messages to be retained on iPhones due to notifications being stored in the device's database. This issue was exploited by the FBI using forensic tools, raising concerns among privacy activists about authorities accessing deleted data.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -47,7 +64,7 @@
       "datetime": "2026-04-22T20:55:25+00:00",
       "time_text": "20:55",
       "link": "https://t.me/hackernews_summary/24745",
-      "views": "5"
+      "views": "7"
     },
     {
       "text": "Anonymous credentials: an illustrated primer (Part 2)\n\n🔸Privacy Pass is a widely used anonymous credential system that allows users to access websites without sacrificing their privacy, and it's used by companies like Apple, Google, and Cloudflare. The system uses a simple protocol that issues single-use \"wristband\" credentials, which can be bound to specific applications or time periods, and it's designed to be fast and secure.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -64,7 +81,7 @@
       "datetime": "2026-04-22T20:55:05+00:00",
       "time_text": "20:55",
       "link": "https://t.me/hackernews_summary/24744",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "Ping-pong robot beats top-level human players\n\n\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -76,7 +93,7 @@
       "datetime": "2026-04-22T20:50:05+00:00",
       "time_text": "20:50",
       "link": "https://t.me/hackernews_summary/24743",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "The great Scouse pasty war\n\n🔸Sayers, a Liverpool institution, declined due to a combination of factors including cost-cutting, loss of family ownership, and failure to adapt to changing consumer habits. Greggs, a Newcastle-based bakery chain, overtook Sayers through strategic acquisitions and innovative marketing.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -93,7 +110,7 @@
       "datetime": "2026-04-22T20:35:04+00:00",
       "time_text": "20:35",
       "link": "https://t.me/hackernews_summary/24742",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "Homegrown – An interactive map of every 2025 FBS college football player\n\n🔸Data arm of TORCH FOOTBALL BETA → Every 2025 FBS player, mapped by hometown. Pick a team, conference, state, or position to see who's from where — or hit to put two side-by-side.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -105,7 +122,7 @@
       "datetime": "2026-04-22T20:15:04+00:00",
       "time_text": "20:15",
       "link": "https://t.me/hackernews_summary/24741",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "New study compares growing corn for energy to solar production. It's no contest\n\n🔸Researchers found that converting 3.2% of US corn-for-ethanol farmland to solar energy could increase US solar output and reduce ecological pressures. This modest conversion could yield the same energy as all corn ethanol farming does annually in the US.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -122,7 +139,7 @@
       "datetime": "2026-04-22T19:35:26+00:00",
       "time_text": "19:35",
       "link": "https://t.me/hackernews_summary/24740",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "Scores decline again for 13-year-old students in reading and mathematics\n\n🔸NAEP long-term trend assessments showed 13-year-old students' average reading scores declined 4 points and math scores declined 9 points from 2020.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -134,7 +151,7 @@
       "datetime": "2026-04-22T19:35:05+00:00",
       "time_text": "19:35",
       "link": "https://t.me/hackernews_summary/24739",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "You don't need advice from editors on rejected manuscripts\n\n🔸Something went wrong, but don’t fret — let’s give it another shot. Some privacy related extensions may cause issues on x.com. Please disable them and try again.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -214,7 +231,7 @@
       "datetime": "2026-04-22T18:20:04+00:00",
       "time_text": "18:20",
       "link": "https://t.me/hackernews_summary/24734",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "Coding Models Are Doing Too Much\n\n🔸Researchers investigated the \"Over-Editing\" problem where AI models rewrite code unnecessarily, making it harder for humans to review and understand. They found that reinforcement learning can improve the editing behavior of AI models, making them more faithful and minimal, without degrading their general coding ability.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -301,27 +318,10 @@
     },
     {
       "post_id": "24729"
-    },
-    {
-      "datetime": "2026-04-22T17:30:46+00:00",
-      "time_text": "17:30",
-      "link": "https://t.me/hackernews_summary/24728",
-      "views": "4"
-    },
-    {
-      "text": "Martin Fowler: Technical, Cognitive, and Intent Debt\n\n🔸The user discussed the importance of human laziness in programming, which drives the development of crisp abstractions and simpler systems, and how AI lacks this virtue, leading to over-complication. They also highlighted the need to teach AI systems to doubt and defer decisions, especially in open systems with asymmetric or irreversible costs, to ensure safe and autonomous operation.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-8830339798244057343:1:65b5e3e3fd6f689b4d02a25254e751e58211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24728"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T00:48:39.827975",
-    "new_count": 2
+    "last_update": "2026-04-23T01:09:24.930927",
+    "new_count": 1
   }
 }
