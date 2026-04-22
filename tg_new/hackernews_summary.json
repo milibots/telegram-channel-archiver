@@ -11,9 +11,26 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 73,
-  "returned_posts": 73,
+  "total_posts": 74,
+  "returned_posts": 74,
   "posts": [
+    {
+      "datetime": "2026-04-22T22:20:04+00:00",
+      "time_text": "22:20",
+      "link": "https://t.me/hackernews_summary/24749",
+      "views": "1"
+    },
+    {
+      "text": "The Neon King of New Orleans\n\n🔸Nate Sheaffer, a neon artist, saves New Orleans' historic signs by refurbishing and designing new pieces at his shop Big Sexy Neon. He uses century-old techniques to create sustainable and long-lasting neon art, preserving the city's unique aesthetic.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-1252041821359366400:1:65b5e3e3fd6f689b45e39eb09af92c108211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24749"
+    },
     {
       "datetime": "2026-04-22T21:20:05+00:00",
       "time_text": "21:20",
@@ -306,22 +323,10 @@
     },
     {
       "post_id": "24730"
-    },
-    {
-      "datetime": "2026-04-22T17:31:06+00:00",
-      "time_text": "17:31",
-      "link": "https://t.me/hackernews_summary/24729",
-      "views": "4"
-    },
-    {
-      "text": "5x5 Pixel font for tiny screens\n\n🔸A programmer designed a 5x6 pixel font for low-resolution displays, allowing for compact layouts and easy programming. The font takes up 350 bytes of memory and is suitable for 8-bit microcontrollers.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24729"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T01:29:59.124100",
-    "new_count": 0
+    "last_update": "2026-04-23T01:50:33.073442",
+    "new_count": 1
   }
 }
