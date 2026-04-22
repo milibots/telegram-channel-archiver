@@ -42,7 +42,7 @@
       "datetime": "2026-04-21T17:37:42+00:00",
       "time_text": "17:37",
       "link": "https://t.me/papFransiz/393",
-      "views": "681"
+      "views": "684"
     },
     {
       "text": "پیاده سازی و استفاده از هوش مصنوعی در وضعیت اینترنت ملی. \n\nhttps://git.ir/article/lmstudio-setup/"
@@ -54,7 +54,7 @@
       "datetime": "2026-04-21T17:32:05+00:00",
       "time_text": "17:32",
       "link": "https://t.me/papFransiz/392",
-      "views": "640"
+      "views": "642"
     },
     {
       "text": "-OpenWRT - x86 PC Installation - Live USB\n\nwww.youtube.com/watch?v=DET3EMl6-RM\n\n- @papFransiz"
@@ -66,7 +66,7 @@
       "datetime": "2026-04-21T13:28:07+00:00",
       "time_text": "13:28",
       "link": "https://t.me/papFransiz/388",
-      "views": "380"
+      "views": "381"
     },
     {
       "text": "Cloudflare open-sourced an email client where an AI agent reads your inbox, drafts your replies, and never sends anything without your permission.\n\nIt's called Agentic Inbox. It runs entirely on Cloudflare Workers. Zero third-party servers touching your emails."
@@ -263,7 +263,7 @@
       "datetime": "2026-04-14T17:13:54+00:00",
       "time_text": "17:13",
       "link": "https://t.me/papFransiz/359",
-      "views": "604"
+      "views": "605"
     },
     {
       "text": "تنظیم پروکسی برای میرور .... \nبرای توزیع‌های مبتنی بر Debian/Ubuntu:\n  \n      sudo nano /etc/apt/apt.conf\n   \n\n      Acquire::http::Proxy \"socks5://username:password@proxyserver:port/\";\n   Acquire::https::Proxy \"socks5://username:password@proxyserver:port/\";"
@@ -273,7 +273,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-22T02:15:01.915568",
+    "last_update": "2026-04-22T02:35:19.768154",
     "new_count": 0
   }
 }
