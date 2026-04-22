@@ -11,14 +11,31 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 74,
-  "returned_posts": 74,
+  "total_posts": 75,
+  "returned_posts": 75,
   "posts": [
+    {
+      "datetime": "2026-04-22T23:35:05+00:00",
+      "time_text": "23:35",
+      "link": "https://t.me/hackernews_summary/24751",
+      "views": "3"
+    },
+    {
+      "text": "Show HN: Ghost Pepper Meet local meeting transcription and diarization\n\n🔸This is a Mac app that uses Apple Silicon for speech recognition. It's private and doesn't upload data to the cloud.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-5851385438398963965:1:65b5e3e3fd6f689b18039f40561273248211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24751"
+    },
     {
       "datetime": "2026-04-22T22:45:05+00:00",
       "time_text": "22:45",
       "link": "https://t.me/hackernews_summary/24750",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "Books are not too expensive\n\n🔸Book prices have increased over time, but when adjusted for inflation, they are actually lower than expected. Publishers face high costs and low profit margins, making it difficult to cut prices without harming authors and the publishing industry.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -311,22 +328,10 @@
     },
     {
       "post_id": "24732"
-    },
-    {
-      "datetime": "2026-04-22T18:00:05+00:00",
-      "time_text": "18:00",
-      "link": "https://t.me/hackernews_summary/24731",
-      "views": "5"
-    },
-    {
-      "text": "MythosWatch: Tracking who has access to Anthropic's Mythos AI\n\n🔸Unauthorized access to Anthropic's Claude Mythos Preview model occurred through a third-party vendor environment. Anthropic stated its core systems were not impacted and the activity remained within the vendor environment.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24731"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T02:51:50.612862",
-    "new_count": 0
+    "last_update": "2026-04-23T03:12:20.277132",
+    "new_count": 1
   }
 }
