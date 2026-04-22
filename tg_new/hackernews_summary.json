@@ -15,6 +15,69 @@
   "returned_posts": 75,
   "posts": [
     {
+      "datetime": "2026-04-22T17:31:06+00:00",
+      "time_text": "17:31",
+      "link": "https://t.me/hackernews_summary/24729",
+      "views": "1"
+    },
+    {
+      "text": "5x5 Pixel font for tiny screens\n\n🔸A programmer designed a 5x6 pixel font for low-resolution displays, allowing for compact layouts and easy programming. The font takes up 350 bytes of memory and is suitable for 8-bit microcontrollers.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24729"
+    },
+    {
+      "datetime": "2026-04-22T17:30:46+00:00",
+      "time_text": "17:30",
+      "link": "https://t.me/hackernews_summary/24728",
+      "views": "1"
+    },
+    {
+      "text": "Martin Fowler: Technical, Cognitive, and Intent Debt\n\n🔸The user discussed the importance of human laziness in programming, which drives the development of crisp abstractions and simpler systems, and how AI lacks this virtue, leading to over-complication. They also highlighted the need to teach AI systems to doubt and defer decisions, especially in open systems with asymmetric or irreversible costs, to ensure safe and autonomous operation.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-8830339798244057343:1:65b5e3e3fd6f689b4d02a25254e751e58211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24728"
+    },
+    {
+      "datetime": "2026-04-22T17:30:25+00:00",
+      "time_text": "17:30",
+      "link": "https://t.me/hackernews_summary/24727",
+      "views": "2"
+    },
+    {
+      "text": "Show HN: Broccoli, one shot coding agent on the cloud\n\n🔸Broccoli is a tool that automates engineering workflows using AI teammates, powered by Claude and Codex, and runs on Google Cloud. It requires a Google Cloud project, GitHub App, Linear API key, and other secrets to be set up manually or using the Codex deployment skill.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-5227378865737163005:1:65b5e3e3fd6f689b4d02a25254e751e58211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24727"
+    },
+    {
+      "datetime": "2026-04-22T17:30:05+00:00",
+      "time_text": "17:30",
+      "link": "https://t.me/hackernews_summary/24726",
+      "views": "2"
+    },
+    {
+      "text": "Startups Brag They Spend More Money on AI Than Human Employees\n\n🔸Tech startups are bragging about spending large amounts on AI compute, calling it a marker of growth and success. This \"tokenmaxxing\" trend is about replacing human workers with AI, but its financial sustainability and potential disasters are left unaddressed.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:2315944199835033346:1:65b5e3e3fd6f689b4d02a25254e751e58211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24726"
+    },
+    {
       "datetime": "2026-04-22T17:00:05+00:00",
       "time_text": "17:00",
       "link": "https://t.me/hackernews_summary/24725",
@@ -265,73 +328,10 @@
     },
     {
       "post_id": "24710"
-    },
-    {
-      "datetime": "2026-04-22T12:36:05+00:00",
-      "time_text": "12:36",
-      "link": "https://t.me/hackernews_summary/24709",
-      "views": "6"
-    },
-    {
-      "text": "Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter\n\n🔸Researchers developed PrfaaS to improve large-scale LLM serving by offloading long-context prefill to separate clusters and transferring KVCache over Ethernet. This design increases serving throughput by 54% and 32% compared to homogeneous and naive heterogeneous baselines.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:1915331934957674240:1:65b5e3e3fd6f689bf1de7642bb37d7da8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24709"
-    },
-    {
-      "datetime": "2026-04-22T12:35:45+00:00",
-      "time_text": "12:35",
-      "link": "https://t.me/hackernews_summary/24708",
-      "views": "5"
-    },
-    {
-      "text": "Why Musicians Are Manufacturing Sold-Out Shows\n\n🔸Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our and .\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24708"
-    },
-    {
-      "datetime": "2026-04-22T12:35:25+00:00",
-      "time_text": "12:35",
-      "link": "https://t.me/hackernews_summary/24707",
-      "views": "6"
-    },
-    {
-      "text": "GitHub CLI now collects pseudoanonymous telemetry\n\n🔸GitHub CLI sends pseudoanonymous telemetry to help improve the product by understanding feature usage. You can review the telemetry implementation and opt-out using environment variables or configuration options.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:8938545662049263363:1:65b5e3e3fd6f689b636ad4bf5ee4cfbd8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24707"
-    },
-    {
-      "datetime": "2026-04-22T12:35:04+00:00",
-      "time_text": "12:35",
-      "link": "https://t.me/hackernews_summary/24706",
-      "views": "7"
-    },
-    {
-      "text": "3.4M Solar Panels\n\n🔸The system has 96 gb of ddr5 ram clocked at 4,800 mt/s and a crucial t700 4 tb nvme m.2 ssd which can read at speeds up to 12,400 mb/s. it is running ubuntu 24 lts via microsoft's ubuntu for windows on windows 11 pro x64 based pc with qemu gps vmware and duck\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-8869726399800467709:1:65b5e3e3fd6f689b45f113f03537f1428211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24706"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-22T20:56:28.072617",
-    "new_count": 0
+    "last_update": "2026-04-22T21:17:55.862757",
+    "new_count": 4
   }
 }
