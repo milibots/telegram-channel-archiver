@@ -253,7 +253,7 @@
       "datetime": "2026-04-22T12:35:25+00:00",
       "time_text": "12:35",
       "link": "https://t.me/hackernews_summary/24707",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "GitHub CLI now collects pseudoanonymous telemetry\n\n🔸GitHub CLI sends pseudoanonymous telemetry to help improve the product by understanding feature usage. You can review the telemetry implementation and opt-out using environment variables or configuration options.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -270,7 +270,7 @@
       "datetime": "2026-04-22T12:35:04+00:00",
       "time_text": "12:35",
       "link": "https://t.me/hackernews_summary/24706",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "3.4M Solar Panels\n\n🔸The system has 96 gb of ddr5 ram clocked at 4,800 mt/s and a crucial t700 4 tb nvme m.2 ssd which can read at speeds up to 12,400 mb/s. it is running ubuntu 24 lts via microsoft's ubuntu for windows on windows 11 pro x64 based pc with qemu gps vmware and duck\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -336,7 +336,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-22T19:31:30.711777",
+    "last_update": "2026-04-22T19:52:19.493274",
     "new_count": 0
   }
 }
