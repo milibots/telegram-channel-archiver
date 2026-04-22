@@ -15,10 +15,22 @@
   "returned_posts": 60,
   "posts": [
     {
+      "datetime": "2026-04-22T09:09:55+00:00",
+      "time_text": "09:09",
+      "link": "https://t.me/vasl_bashim/10737",
+      "views": "371"
+    },
+    {
+      "text": "slipnet-enc://AZZ4+6vaJYNZXKStZw7UtfDc2KXEXPmxkJSbeoavEIC/vjwq+Md9cLtd3VxfV1hIpSXQ8jJD2tROkzT3Q8HkFEJuOfA9cL8QuKXZeufd7CTS9G5euUVRBq8ectusYxAeFNgZU244t0FI2luAQ0yMu7jFDGqR8eiDjE5CNfIBI+QKoKp1v2q1cWWsoO5cvP2SOjwaDduClctaYk9ADMJ+QJxXL8u7fJCaxsQc29RGwaUkAQ01AOWT+ZnCbt1QdOslk1GB0AmYOKHodYt8f/uVrWH4D9OKY0xbSkvX3uylYmlfM6TwCE/AkogM1ersrZmOUrX4wnK4/Hpv8ZBZLXcFNbCv+Z7E/WgjsH49dW8SDgDa9j/Rql1zHbqJJ5pcWqxPfpJEa1Q4Gs1Nm/JJmbWwvnZa3IiDZ9CAInb45b3y+5tW5IMXHWDZOq5N69mXLjkTZOqR7JbTrfGTFcqd719+8LAK9+NaU64bJ9WvO1H14CvLT8yPv1fIm2JFkXu9o3M79LaBF3ga4for0iG27c5mbIKI0qBIXRFG2uclabMyHDU2JIav6lby0L/6spJ6FlOC1HQa3PVkH5ZqczD0RRLIF8344VzCxKmmu79QkhHAnHRArcRjblJH1SYOnH7o9rZgT9fAVRqJ6lU1vMJqF2u3ouuIQpdB5SnuRTZpNo7Mlm1sDpscujAY3DI1LzZxicPNCH36nPjdZaKO86NVNjsDE1OY9D82J9PdrLuqNNTiHFnX0oqjzn/oPL4=\n\nSlipNet\nCinnected with or without proxy \nProxy :\nhttps://t.me/socks?server=127.0.0.1&port=10880&user=%40vasl_bashim\nhttps://t.me/socks?server=0.0.0.0&port=10880&user=%40vasl_bashim\n\n@vasl_bashim"
+    },
+    {
+      "post_id": "10737"
+    },
+    {
       "datetime": "2026-04-22T08:55:05+00:00",
       "time_text": "08:55",
       "link": "https://t.me/vasl_bashim/10736",
-      "views": "312"
+      "views": "775"
     },
     {
       "text": "درمورد تنظیمات اسلیپ‌نت زیاد پرسیدین\n\n- توی نسخه 2.5.2 تنظیماتو کلا ریستارت کنین\n- پروکسی مود رو روشن کنین\n- اسپلیت تانلینگ رو فعال کنین و بزارین روی حالت only و تلگرامو تانل کنین\n- اگر متصل نشد به کانفیگ Mtu و Query رو کم و زیاد کنین \n\nبا این تنظیمات اگر کانفیگ سالم باشه باید وصل بشه\n\n@vasl_bashim"
@@ -27,22 +39,10 @@
       "post_id": "10736"
     },
     {
-      "datetime": "2026-04-22T08:54:12+00:00",
-      "time_text": "08:54",
-      "link": "https://t.me/vasl_bashim/10735",
-      "views": "375"
-    },
-    {
-      "text": "روزی ۵۰۰ بار باید پست تنظیمات اسلیپ نتو بزارم"
-    },
-    {
-      "post_id": "10735"
-    },
-    {
       "datetime": "2026-04-22T08:39:49+00:00",
       "time_text": "08:39",
       "link": "https://t.me/vasl_bashim/10732",
-      "views": "842"
+      "views": "1.15K"
     },
     {
       "text": "حالا خوبه ما گیگی 400 میخریم\nبعضیا میخرن گیگی نود"
@@ -54,7 +54,7 @@
       "datetime": "2026-04-22T08:27:29+00:00",
       "time_text": "08:27",
       "link": "https://t.me/vasl_bashim/10731",
-      "views": "998"
+      "views": "1.27K"
     },
     {
       "text": "slipnet-enc://ASW/D0fPCPJ5ydO1VFHw3b9veUEO69sSVgDx98GYRYa7n026SBTvmByuE5HOs37L7KfhTOe+6cAZy1wxXvRqIY3sda0liBDVBiDBVVGW4St8NPqnA2G+8frqTv4ctOVG6N6SzlWqlczWaYBB8Z0cIyiqU3hygJyydVuHSrzxyPM3g3zHmODOePWCH1du6MdgoRq2NxeVLVwQ4c8DSKjkZiwzmAvcXkNm8wO6G3tgpLB0DIe8LypuBRwZaNowHtUYljm0e00Gmu9bHJvX00dsJQlHieFvTOq/eUsR05NaWsB7ZGlwsIAHr3BB/xPGF+E6hcGHVWngc/3zsTd0EPAi17CgH7a4JlCKZBi/iwA6whT0GMEK66eIJECAlV2awFexmvl1iQp01yeHkyhpSRK0IwwvzjGexIJpq22umQy1jwdwf6paKXeCW4eUths/te+3y5JI9qBb6mGphdRoHdjuMae/t7BjEaefE1lHEvoGxZZesQJ6SkgxqtRZB9vk+TiG+ucxOti6L3cDjwPFRv/B0Tw5gUY3phtrg7y31J0MkE1nPCzpfLiphf4WuSt9rMZ/ezed/s/VUHuogOGmywkUsXjpeJQBtrxgAhJ2s+fB8LVwYPnNXnB1YI0sPN5IBx8q9HJEv+fqUCIVM+TxMK2k2TixC8WSbzhh73SuTghwdDjRyk+nwxvd0YmqppzvApE0KAorRarHpkEPLu83xGMfKlQEswSzeU4r71qM1/L4OCPXs+iCdz2U\n\nSlipNet\nCinnected with or without proxy \nProxy :\nhttps://t.me/socks?server=127.0.0.1&port=10880&user=%40vasl_bashim\nhttps://t.me/socks?server=0.0.0.0&port=10880&user=%40vasl_bashim\n\n@vasl_bashim"
@@ -66,7 +66,7 @@
       "datetime": "2026-04-22T08:26:06+00:00",
       "time_text": "08:26",
       "link": "https://t.me/vasl_bashim/10730",
-      "views": "964"
+      "views": "1.18K"
     },
     {
       "text": "&rlm;یه کانفیگ گرفتم ۱ گیگ ۷۰ \nخیلی به صرفه هست. \nفقط وصل نمیشه"
@@ -78,7 +78,7 @@
       "datetime": "2026-04-22T07:40:01+00:00",
       "time_text": "07:40",
       "link": "https://t.me/vasl_bashim/10728",
-      "views": "1.49K"
+      "views": "1.64K"
     },
     {
       "text": "#ارسالی\nAm tunnel -> SuperDNS\n\nudp://79.175.172.101\n\nفرکانس 3 و 8\n\n@vasl_bashim"
@@ -90,7 +90,7 @@
       "datetime": "2026-04-22T07:26:05+00:00",
       "time_text": "07:26",
       "link": "https://t.me/vasl_bashim/10724",
-      "views": "1.64K"
+      "views": "1.8K"
     },
     {
       "text": "slipnet-enc://ATZMdjKuKSZIspYAmUkXrnYA1fzVhlixxW5fGVw9MGGw3YuPHzGL00OoOr/hNCrWQU3ZSKiMNYPlCLUBIutNrrLGdeUVbTUWtWMOYKBMznk5WHit+ZLVlDAvp8+OPH2V7LUVlWQ4fXtruB6tKw/WqVfhUwUrVE0Le4BlALSAr1+lygXLQ18zQToVo0VoC9dNUnRcbacvdX83Inlgl1HRt0GHDhCIw9HvW1YWA57rabxDivb/8wr9ZzhX1RTFn0cpGu1x8NUIWzrUWN7bjypR5Bium9eXzmCGk81G+ZlQ/4qMtViJ2rJgijRKNS9MpTLcOdOyku7tgCUQjcEBFg/aeiPqbvecKyEhAjLGaCRJsOdWWiqfVDKi2q1S4FkjRtIvnoViKdsPs/cBvUCG0mBMmZFgX03HPTVXVtrDdZIO3kn6M1lPiSq01Od+eFOvppqe8gxbiv++V/8SP3VtGEeE2SFV0X3sEI6f1SOb6tFM3AkRuq+/b0jp9Q6S3NnP6+EYpKBNP8ovBieNubHA2+h2WzLMdQw1seCMbKvEWz53gXoQDUDCzZcF4G0LOJ/xH6DvGvb9/6Z0I8ZyB6igGI1b69Ntsltg3SHLrztGuGQHmHwoRDkhnWqQ3lOckuXsmgQn0t/qg03ZTNoovCdeblzMKrn30S2Be+YqVGvlggdLohbjFftHyVIw/t9uUsuBfKHAvFtsla50AzKH2HoRwmrfGTOFxhy3T9vrWes=\nSlipNet\nCinnected with or without proxy \nProxy :\nhttps://t.me/socks?server=127.0.0.1&port=10880&user=%40vasl_bashim\nhttps://t.me/socks?server=0.0.0.0&port=10880&user=%40vasl_bashim\n\n@vasl_bashim"
@@ -102,7 +102,7 @@
       "datetime": "2026-04-22T06:43:44+00:00",
       "time_text": "06:43",
       "link": "https://t.me/vasl_bashim/10719",
-      "views": "1.9K"
+      "views": "1.99K"
     },
     {
       "text": "مرسی حسین جان 💙 با اینکه از هم متنفریم مرسی"
@@ -114,7 +114,7 @@
       "datetime": "2026-04-22T06:41:02+00:00",
       "time_text": "06:41",
       "link": "https://t.me/vasl_bashim/10718",
-      "views": "1.96K"
+      "views": "2.06K"
     },
     {
       "text": "slipnet-enc://AZYnuMiGA4xgsGTsRZs5KdtY77GetyOerLB4+I+OzZf9o8WklseQcx4eEftEvaAUcCOglpz+O00wEWupCmbNYewX0f1Pm9WD5i0Yhr9dEZ6iBlVifV8O4SAFfj/a1pLyYPCfpw1X0nLv2yiKI/l+NjsFkvi0ebU+Rwyl1SgvqKmd7RFlMxFQlYRlBa7fFG7MzCsChQHEkhBUUTnPRVPgSqHbWJPx+6znIUZdKGDEzUGZSwxm147WxzfD17a2kTmkaZpF822aVm2ldse+ZTz+kr4wBEjkUlTuFpYNrL+R+MM0YjlGZM2p+Z97Ye3RQLTy+IvlptLukwgLibzwozeTNrEq0oaQrueWIWIcaeDVTo1DODNLFtjsbg8tHbU35wMfVbl/Bj+ZUyiLmeqhHGGnAxrErX3DQEj71ssmO0QnsApoMRNOYTADdqy5qBltIhsfN3f0OFv0zEW5+xUxyQx03Fcd7Ukvi4E5spNdHu311EzP6k6F4ajM70VgE7M+NG2K1zl18QlP/i9fcEBrSc4aVm7xbGrf9Zh6ZMcgmAyS2RMG8HTzDPnI1SjpUgLYYLLVli12S3JPMi3OReWXoPCDxZSha3tpgmM6thpVvZwDXrKQMx6Bf+e2zIh8RCuplQbPWeFbGkB5Pzvku5JFYE1zY2OO8lMt9lT0oFTY\n\nSlipNet + Proxy\nQurry : 50-60\nProxy :\nhttps://t.me/socks?server=127.0.0.1&port=10880&user=%40vasl_bashim\nhttps://t.me/socks?server=0.0.0.0&port=10880&user=%40vasl_bashim\n\n@vasl_bashim"
@@ -126,7 +126,7 @@
       "datetime": "2026-04-22T06:39:14+00:00",
       "time_text": "06:39",
       "link": "https://t.me/vasl_bashim/10716",
-      "views": "1.72K"
+      "views": "1.78K"
     },
     {
       "text": "ریکتا رو با انگشت فاکتون خوشگل کنین"
@@ -138,7 +138,7 @@
       "datetime": "2026-04-22T06:29:01+00:00",
       "time_text": "06:29",
       "link": "https://t.me/vasl_bashim/10715",
-      "views": "1.76K"
+      "views": "1.83K"
     },
     {
       "text": "#ارسالی\nAm tunnel -> SuperDNS\n\nudp://10.185.68.113\n\nهمراه اول فرکانس 6.4.5\n\n@vasl_bashim"
@@ -150,7 +150,7 @@
       "datetime": "2026-04-22T06:24:13+00:00",
       "time_text": "06:24",
       "link": "https://t.me/vasl_bashim/10714",
-      "views": "1.8K"
+      "views": "1.86K"
     },
     {
       "text": "SlipNet \nv 2.5.2\n\nلینک دانلود داخلی ( اعتبار ۲۴ ساعت )\n\nhttps://punkpaste.ir/f/SlipNet-v2-5-2-full--6ot2ll\n\n@vasl_bashim"
@@ -162,7 +162,7 @@
       "datetime": "2026-04-22T06:12:38+00:00",
       "time_text": "06:12",
       "link": "https://t.me/vasl_bashim/10713",
-      "views": "1.92K"
+      "views": "2.01K"
     },
     {
       "text": "slipnet-enc://AcD214lgSZxIxoqaAFcTwfd0mpCGu+DAPhwrbCBF9qlgNMn6bJ3MZc2gEJyvv8uN4CLqZtbikHic+e/X7th1aoZB55EsXEgPvOQbcuy6b6uR6w7O2ZxVBbgrrm60iOJsA11gBsAihMctqTu3rGOK8ClOvFm4dZy0pLS0LNpBwl38g3Oo1ZJiWeVCvOrxCt9w2FkAs+ureybRZ0KEm6T/TH/XPPkjs5897dKJP9LAesQRZHbnlJ3DCV7I7izBpRMCfkzypkwXaM9p8TOLq5DYFCYfj5GkNksxWrcIZv85tEAk2svRP88MciXAJBWLD2YcU5Yn6tgZdU74/cllLveAJjQssLa8QdeqCrUZ1PFYPiVn+lrjJjGg/1oPaQO/DXvc4wGB6GE8J+R6QYQKCn/nuPTvALerDqI/VJc538v7PKN2vUmLDAK7pqS/b1q/Ew917obBKtzIe9I1tuC2zHfyC7YucyjceiiygC7MlFNT+RO0doJksOJW9w3IIIQDDqt5r+7T7OZzG+iuJeaLm5HWSRcain9xw6i1V3ADwb+SZo+c07bLexaosAqKyhkkJFW0Y7cPnaQpSg+nex2cEytHAkwV+05uAVJZmvpG6LYPrHk=\n\nSlipNet + Proxy\nQurry : 50-60\nProxy :\nhttps://t.me/socks?server=127.0.0.1&port=10880&user=%40vasl_bashim\nhttps://t.me/socks?server=0.0.0.0&port=10880&user=%40vasl_bashim\n\n@vasl_bashim"
@@ -174,7 +174,7 @@
       "datetime": "2026-04-22T06:06:34+00:00",
       "time_text": "06:06",
       "link": "https://t.me/vasl_bashim/10712",
-      "views": "1.74K"
+      "views": "1.83K"
     },
     {
       "text": "سلام صبحتون بخیر 💙🖤"
@@ -186,7 +186,7 @@
       "datetime": "2026-04-21T23:23:53+00:00",
       "time_text": "23:23",
       "link": "https://t.me/vasl_bashim/10711",
-      "views": "3.16K"
+      "views": "3.22K"
     },
     {
       "text": "slipnet-enc://AVt1Ba5AlvVlBRq2MPkR+cZPtgvwEl960WXCGmQLHuGmWEGMh2WPco32bNL1fx9U6w4Qn1C4IzOTgqj+tua3poEB5jFotkcRR4l0dgCnr6yjXyF0aMziEBttqTtQI02bJomBspdMboA31KqjRaqdTd9SldeiBjwiY+xtho94IlbN3LN3Civ6WRhVd1ybNt+oL6Ebg5jioz6UdIhNDWOLH9JW/R3527IN26ZIRmcDXRg3qVp3Xhej5Tl/kdGa0wBQOigkVy8UWerbk2reJPk11Fm6nHTwCeTQZBV0VNeuTTbkNjYPbr39PKSJpTISEblLZhg6hZy3XvaRQB/w6xrOqYr/amWirjblZn0f0T8EKbmL7pLQxdO15i14Qd95ePs4vqtdr/ti7oGI/kT5ZhZECyL6jenxmngej7Kwx+dlXbaECokh3v+yV+9F08GeCe1a2IOMcL6xtcjTD6VXL2Eb2YVZHdhpRrR9hsJH6QFTM1zMSND7CRhbPQZVqh7TYKKCWcNMgLw5yDgT7l0moeJqxPeNybSDwH9rkvkQGEFciDu0qDD2tdf6f2pA9RdnO6+gi8J7FwMn9QWCTolsh45Osi4FO9Ii1hI4JFUtJzczgdsWTMVC9oZIIm6TVr4ckYYuuyorICBkC97VQfwM+LtJAVhYk1b+Oqz7ltC+zJSRqD+ylEWwb4On16bSxydwZiGZK99kK8u2/cL2vdSep5wHzirVla+0hr1Oqc8eGZKDadleu102WwmadK2IyAaIz74OLQiluRZVSTQAHyM045zTAp7jAg==\n\nSlipNet\nCinnected with or without proxy \nProxy :\nhttps://t.me/socks?server=127.0.0.1&port=10880&user=%40vasl_bashim\nhttps://t.me/socks?server=0.0.0.0&port=10880&user=%40vasl_bashim\n\n@vasl_bashim"
@@ -198,7 +198,7 @@
       "datetime": "2026-04-21T22:53:33+00:00",
       "time_text": "22:53",
       "link": "https://t.me/vasl_bashim/10710",
-      "views": "2.98K"
+      "views": "3.01K"
     },
     {
       "text": "vless://d914fd2e-df97-41b7-b436-7125b41da864@94.101.180.77:43769?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#%40vasl_bashim\nترکیبی با سایفون\n@vasl_bashim"
@@ -210,7 +210,7 @@
       "datetime": "2026-04-21T22:16:12+00:00",
       "time_text": "22:16",
       "link": "https://t.me/vasl_bashim/10705",
-      "views": "3.33K"
+      "views": "3.36K"
     },
     {
       "text": "slipnet-enc://AUPysBOtsYAo5I93Qa48JB1TXC+bKJJfuM1ibr8jAzhkRY2c1PmGuWi+4m34+i5B2ohA8mYN2k7bvedgH4Xi+ya9zb643oShW59zZ8LmeDbolqiU5NxYai3L5L1sr9bIPrhwRBDBpy5pMiaMIkvb4lN6Fbx/Sc12irmuzLX4WJyRcibZRaeL3u9g0nK6hUCvm7HzBh9DNnfV9ShOdDAmUorLIjsVleTmPPGh5bGwGf2TsSkIbFvP1YqeWauD/1YYDbHCAfv/6MFgxHOq+y9dx5V+m9iM22VT3ZfBujkJLszjCO7ypxOdNnU+VfKp91R0P0WFzsTV8l/Ns4dY60738wt0+biZbzKalXFWHN/ZkxeO9V5FGIavWQ1+PBtrPin8R6rXCI9ZjUIH7iIkScnfhR1vOPu0zKdSH/8DHHKFT0M0zp4fUDC64KgAx8IGey3uIDOTBbnETbQZk3/ZVwneBcCyURQpfp1QL8KGjx341Z8rtkHw22L9cZU+WeoP8NkNLmdEa7OC5B82EL7ATbPUhSHx3/CDVb2S12zkzPR91GKmBk+Yk9OBz4wxOsKcpHckQ0vMcDzzNpuMaV9mVHbfv5pAwae10l9yTHvR7l5vNm8EF3Zoxk9GgxHxS8L93e40mq6wzMUDUTsL7tGi4Mg32qvLMSLUCChwgFx1t9q20NsWASUbl0tlJxZ4giqFDTgJLQbSs731O8AFB4G/G83pyZPN+xuTic+FTTsdMxlK\nSlipNet + Proxy\nQurry : 50-60\nProxy :\nhttps://t.me/socks?server=127.0.0.1&port=10880&user=%40vasl_bashim\nhttps://t.me/socks?server=0.0.0.0&port=10880&user=%40vasl_bashim\n\n@vasl_bashim"
@@ -222,7 +222,7 @@
       "datetime": "2026-04-21T22:11:29+00:00",
       "time_text": "22:11",
       "link": "https://t.me/vasl_bashim/10704",
-      "views": "3.02K"
+      "views": "3.05K"
     },
     {
       "text": "socks://Og@213.176.6.140:1080#%40vasl_bashim\nترکیبی با سایفون\n@vasl_bashim"
@@ -234,7 +234,7 @@
       "datetime": "2026-04-21T21:35:04+00:00",
       "time_text": "21:35",
       "link": "https://t.me/vasl_bashim/10703",
-      "views": "3.31K"
+      "views": "3.34K"
     },
     {
       "text": "درمورد تنظیمات اسلیپ‌نت زیاد پرسیدین\n\n- توی نسخه 2.5.2 تنظیماتو کلا ریستارت کنین\n- پروکسی مود رو روشن کنین\n- اسپلیت تانلینگ رو فعال کنین و بزارین روی حالت only و تلگرامو تانل کنین\n- اگر متصل نشد به کانفیگ Mtu و Query رو کم و زیاد کنین \n\nبا این تنظیمات اگر کانفیگ سالم باشه باید وصل بشه\n\n@vasl_bashim"
@@ -246,7 +246,7 @@
       "datetime": "2026-04-21T20:38:02+00:00",
       "time_text": "20:38",
       "link": "https://t.me/vasl_bashim/10701",
-      "views": "3.59K"
+      "views": "3.62K"
     },
     {
       "text": "slipnet-enc://AZYv1AD2Abw7E9d9m0fxq8aUfTWYazwy4+c+SJOD1JI8g8Jfx4rHuDty6rjqbLGMj1oYpWaSEHaY7GsBztLy44gf9HtXU2gTZV0UAwx4rxDvn3BBRFEOswKwTpxPOU2tgZ//YrRMp9XdLC8h5k3jmXAwmVm8MJFJ9jz3wYjvojKtWT/ZGy/Gw4n4s5LRtSZtcsu+vvYnYVrSmlOYI1nvE9+aSrGs0aC5/vPFIOnC+KiZ9qT4SXm96WFbO4JaFIMuKZ5ON++GCYAlwzvlf/uHLXpEcL+E2nIk5wmQqzFOSol3m6EBnhXSr+UVY0otrfA8yFLrM4oTQipTXE791Z+g0lZMO6mUeKUt745tq48QEy/PxBBxAfEZ5cI526TO7Sx0pIGasFrEF+AW6xdaLf8a9F9UuYbyo/EU/oyEzp+UhXBuJPrWp+JV8eaYha+MMPh4tOI5b35bT1I/qyY4uAUmwLz5cgqxMAEtSgVvWp22h3LYNQhPUGV3d4a/oRstLz2+7tlShtjk2LBvKbYJxW6GOKtlzdV0s+2GUL2CM1LFwIK65colBcKoIhxrCEeXtbSdCPPyWsIZgO1e9wZtC1YqXpbejvgpm6YTmH8IsEvGydTnE8RbVJigzaEUCEXgp4z5+aQUEhtxvB0CXxk+w0wAT8p2Ti8XOZPt/HG+OHT0Iwuc\n\nSlipNet\nCinnected with or without proxy \nProxy :\nhttps://t.me/socks?server=127.0.0.1&port=10880&user=%40vasl_bashim\nhttps://t.me/socks?server=0.0.0.0&port=10880&user=%40vasl_bashim\n\n@vasl_bashim"
@@ -256,7 +256,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-22T09:02:11.375469",
-    "new_count": 2
+    "last_update": "2026-04-22T09:22:41.055467",
+    "new_count": 1
   }
 }
