@@ -15,10 +15,44 @@
   "returned_posts": 76,
   "posts": [
     {
+      "datetime": "2026-04-22T18:45:05+00:00",
+      "time_text": "18:45",
+      "link": "https://t.me/hackernews_summary/24737",
+      "views": "5"
+    },
+    {
+      "text": "OpenAI: Workspace Agents for Business\n\n🔸OpenAI's workspace agents automate workflows, freeing teams to focus on higher-impact work. Agents use company tools to gather info and take action, following approved processes and governance.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:2205604764328337154:1:65b5e3e3fd6f689bf2875cd94e2d195b8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24737"
+    },
+    {
+      "datetime": "2026-04-22T18:35:06+00:00",
+      "time_text": "18:35",
+      "link": "https://t.me/hackernews_summary/24736",
+      "views": "4"
+    },
+    {
+      "text": "Workspace Agents in ChatGPT\n\n🔸Workspace agents are shared AI tools that handle complex tasks and workflows within an organization's permissions and controls. They can be built and customized to automate tasks, gather context, and follow team processes, freeing up time for higher-value work.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:8962153167361744642:1:65b5e3e3fd6f689bf2875cd94e2d195b8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24736"
+    },
+    {
       "datetime": "2026-04-22T18:20:25+00:00",
       "time_text": "18:20",
       "link": "https://t.me/hackernews_summary/24735",
-      "views": "4"
+      "views": "6"
     },
     {
       "text": "Surveillance Pricing: Exploiting Information Asymmetries\n\n🔸The practice of surveillance pricing, where companies charge different prices based on personal data, has become widespread and is enabled by market failures and information asymmetries. To address this issue, legislation such as the Stop AI Price Gouging and Wage Fixing Act of 2025 and the One Fair Price Act of 2025 aim to eliminate surveillance pricing and provide enforcement mechanisms, ...\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +69,7 @@
       "datetime": "2026-04-22T18:20:04+00:00",
       "time_text": "18:20",
       "link": "https://t.me/hackernews_summary/24734",
-      "views": "3"
+      "views": "5"
     },
     {
       "text": "Coding Models Are Doing Too Much\n\n🔸Researchers investigated the \"Over-Editing\" problem where AI models rewrite code unnecessarily, making it harder for humans to review and understand. They found that reinforcement learning can improve the editing behavior of AI models, making them more faithful and minimal, without degrading their general coding ability.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +86,7 @@
       "datetime": "2026-04-22T18:10:27+00:00",
       "time_text": "18:10",
       "link": "https://t.me/hackernews_summary/24733",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Who Killed the Florida Orange?\n\n🔸Citrus growers in florida have lost about three-quarters of their business. the state government has eroding concurrency, allowing housing developers to buy them out. cnn's john sutter talks to citrus industry leaders at the 2026 florida citrus show a year after the disease was first discovered. citrus farmers say they're trying to hold on to the processing capacity they have now - and will ...\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -69,7 +103,7 @@
       "datetime": "2026-04-22T18:10:06+00:00",
       "time_text": "18:10",
       "link": "https://t.me/hackernews_summary/24732",
-      "views": "3"
+      "views": "5"
     },
     {
       "text": "Parallel Agents in Zed\n\n🔸Zed now allows parallel agent orchestration with a new Threads Sidebar for control and monitoring. The Threads Sidebar offers instant access to common operations and helps developers stay organized with multiple projects and agents.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -241,7 +275,7 @@
       "datetime": "2026-04-22T15:16:07+00:00",
       "time_text": "15:16",
       "link": "https://t.me/hackernews_summary/24721",
-      "views": "7"
+      "views": "9"
     },
     {
       "text": "Monitor your Pi / OMP sessions\n\n🔸The pi-agent-dashboard is a web-based dashboard for monitoring and interacting with pi agent sessions from any browser, including mobile, with features like elapsed time tracking, session spawning, and integrated terminal. It can be installed globally or locally, and has a self-contained Electron app for standalone mode, with features like system tray integration, auto-update checker, and ...\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -299,44 +333,10 @@
     },
     {
       "post_id": "24718"
-    },
-    {
-      "datetime": "2026-04-22T14:40:04+00:00",
-      "time_text": "14:40",
-      "link": "https://t.me/hackernews_summary/24717",
-      "views": "8"
-    },
-    {
-      "text": "Treetops glowing during storms captured on film for first time\n\n🔸Penn State researchers led by William Brune documented corona discharges in nature for the first time, observing them on trees during thunderstorms in Florida. The phenomenon, which cleans the air by producing hydroxyl, was captured using a custom-built telescope system and has implications for forest health and atmospheric cleansing.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:5080914722058542851:1:65b5e3e3fd6f689b45f113f03537f1428211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24717"
-    },
-    {
-      "datetime": "2026-04-22T14:00:04+00:00",
-      "time_text": "14:00",
-      "link": "https://t.me/hackernews_summary/24716",
-      "views": "7"
-    },
-    {
-      "text": "Columnar Storage Is Normalization\n\n🔸Columnar data storage has trade-offs with row-oriented data, offering faster data access for specific columns but slower row modification and access. It can be viewed as a form of extreme database normalization or a data format abstraction that queries are logically blind to.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:2484922622448508673:1:65b5e3e3fd6f689b45f113f03537f1428211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24716"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-22T22:01:21.576605",
-    "new_count": 4
+    "last_update": "2026-04-22T22:21:58.603642",
+    "new_count": 2
   }
 }
