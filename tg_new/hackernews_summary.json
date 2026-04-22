@@ -15,10 +15,27 @@
   "returned_posts": 76,
   "posts": [
     {
+      "datetime": "2026-04-22T19:15:04+00:00",
+      "time_text": "19:15",
+      "link": "https://t.me/hackernews_summary/24738",
+      "views": "4"
+    },
+    {
+      "text": "We found a stable Firefox identifier linking all your private Tor identities\n\n🔸A Firefox-based browser vulnerability allows websites to derive a unique identifier from IndexedDB database ordering, linking activity across origins. Mozilla has fixed the issue in Firefox 150 and ESR 140.10.0.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-5194565317834694910:1:65b5e3e3fd6f689beb3bd756eee931dc8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24738"
+    },
+    {
       "datetime": "2026-04-22T18:45:05+00:00",
       "time_text": "18:45",
       "link": "https://t.me/hackernews_summary/24737",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "OpenAI: Workspace Agents for Business\n\n🔸OpenAI's workspace agents automate workflows, freeing teams to focus on higher-impact work. Agents use company tools to gather info and take action, following approved processes and governance.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +52,7 @@
       "datetime": "2026-04-22T18:35:06+00:00",
       "time_text": "18:35",
       "link": "https://t.me/hackernews_summary/24736",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "Workspace Agents in ChatGPT\n\n🔸Workspace agents are shared AI tools that handle complex tasks and workflows within an organization's permissions and controls. They can be built and customized to automate tasks, gather context, and follow team processes, freeing up time for higher-value work.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -316,27 +333,10 @@
     },
     {
       "post_id": "24719"
-    },
-    {
-      "datetime": "2026-04-22T15:15:05+00:00",
-      "time_text": "15:15",
-      "link": "https://t.me/hackernews_summary/24718",
-      "views": "6"
-    },
-    {
-      "text": "DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser\n\n🔸DuckDB v1.5.2 is a patch release with bugfixes, performance improvements, and support for DuckLake v1.0 lakehouse format. It includes a new WebAssembly shell and a test suite collaboration with Jepsen.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-3664017799860248830:1:65b5e3e3fd6f689b636ad4bf5ee4cfbd8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24718"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-22T22:42:39.460168",
-    "new_count": 0
+    "last_update": "2026-04-22T23:03:19.337174",
+    "new_count": 1
   }
 }
