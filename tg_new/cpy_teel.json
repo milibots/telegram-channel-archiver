@@ -15,10 +15,34 @@
   "returned_posts": 57,
   "posts": [
     {
+      "datetime": "2026-04-22T12:51:24+00:00",
+      "time_text": "12:51",
+      "link": "https://t.me/cpy_teeL/72184",
+      "views": "180"
+    },
+    {
+      "text": "آموزش اتصال به روش اسلیپ نت و سایفون :\n1- تنظیمات پایدار اپراتور خودتون رو پیدا کنید ‌و حتما گزینه \nHttp proxy \nو\nAppend http proxy to vpn\nروشن کنید .\n2-وارد سایفون بشید قسمت \nOption/vpn settings/don't tunnel selected apps / \nبرنامه های ایرانی و مخصوصا slipnet و v2rayng را انتخاب کنید&nbsp; سپس تایید کنید .\n3- قسمت Option/proxy settings \nConnect through an HTTP Proxy \nفعال کنید \nUse the following settings&nbsp; فعال کنید \n\nقسمت address: \n127.0.0.1\nقسمت port:\n8080\n4- داخل اسلیپ نت پایدار ترین\n(کمتر لوز دیتا بده) کانفیگ رو انتخاب کنید \nو وقتی سبز شد برید به Psiphon و اونو استارت کنید ."
+    },
+    {
+      "post_id": "72184"
+    },
+    {
+      "datetime": "2026-04-22T12:43:09+00:00",
+      "time_text": "12:43",
+      "link": "https://t.me/cpy_teeL/72183",
+      "views": "434"
+    },
+    {
+      "text": "Am Tunnel\n\nudp://79.175.172.101\n\nروی فرکانس 3 و 8 بذارید."
+    },
+    {
+      "post_id": "72183"
+    },
+    {
       "datetime": "2026-04-22T12:28:21+00:00",
       "time_text": "12:28",
       "link": "https://t.me/cpy_teeL/72182",
-      "views": "244"
+      "views": "734"
     },
     {
       "text": "میگن منطقه ای متصله :\nhttps://t.me/proxy?server=10.31.48.110&port=6520&secret=dd85b3fa64c15ac4fe29982ac6c76b7ae1"
@@ -30,7 +54,7 @@
       "datetime": "2026-04-22T12:01:04+00:00",
       "time_text": "12:01",
       "link": "https://t.me/cpy_teeL/72181",
-      "views": "765"
+      "views": "1.16K"
     },
     {
       "text": "ترکیبی :\n\nvless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=%2Fvless&security=tls&encryption=none&host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir&type=ws#%40nftvici"
@@ -42,7 +66,7 @@
       "datetime": "2026-04-22T11:40:27+00:00",
       "time_text": "11:40",
       "link": "https://t.me/cpy_teeL/72180",
-      "views": "1.23K"
+      "views": "1.54K"
     },
     {
       "text": "اوپنشو تخفیف گذاشته \nویتوری جدید هم موجود کرده ۴۰۰"
@@ -57,7 +81,7 @@
       "datetime": "2026-04-22T11:39:48+00:00",
       "time_text": "11:39",
       "link": "https://t.me/cpy_teeL/72179",
-      "views": "248"
+      "views": "313"
     },
     {
       "text": "[OpenVPN / V2Ray]🛅\n\n🔷پایدار حتی در اختلال\n\n🔶سرعت بالا بدون قطعی\n\n🔷تعداد محدود \n\n📡 مناسب برای استفاده راحت و بدون محدودیت\n\n📩 برای خرید، به آیدی پیام بدید\n\n@Star0vpn"
@@ -69,7 +93,7 @@
       "datetime": "2026-04-22T11:20:00+00:00",
       "time_text": "11:20",
       "link": "https://t.me/cpy_teeL/72178",
-      "views": "1.5K"
+      "views": "1.73K"
     },
     {
       "text": "37.255.205.180\n\nدی ان اس خوب\n\nایرانسل و همراه جوابه"
@@ -81,7 +105,7 @@
       "datetime": "2026-04-22T11:18:38+00:00",
       "time_text": "11:18",
       "link": "https://t.me/cpy_teeL/72175",
-      "views": "1.51K"
+      "views": "1.72K"
     },
     {
       "text": "💠Injector config ✅\n\n💠کانفینگ جدید | HTTP Injector |\n\n🎥: اموزش اضافه کردن کانفینگ\nhttps://t.me/cpy_teeL/72021?single\n\n💠اگر به کانفیگ ها متصل نمیشید یکبار حالت هواپیما بگذارید.\n💠اگر چیزی دانلود نمیشد یکبار کانفیگ رو قطع و وصل کنید.\n💠 اگر تمامی کار های بالا رو انجام دادین ولی مشکل حل نشد حتما یکبار برنامه رو کلیر دیتا کنید.\n\n🌐❤️ Channel&nbsp; 🩶&nbsp; 💬❤️&nbsp; Gap&nbsp;☑️"
@@ -93,7 +117,7 @@
       "datetime": "2026-04-22T10:03:04+00:00",
       "time_text": "10:03",
       "link": "https://t.me/cpy_teeL/72174",
-      "views": "2.11K"
+      "views": "2.25K"
     },
     {
       "text": "ترکیبی بزنید"
@@ -108,7 +132,7 @@
       "datetime": "2026-04-22T10:02:59+00:00",
       "time_text": "10:02",
       "link": "https://t.me/cpy_teeL/72173",
-      "views": "2.1K"
+      "views": "2.24K"
     },
     {
       "text": "vless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=%2Fvless&security=tls&encryption=none&insecure=0&host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir&type=ws&allowInsecure=0#Fa-cdn-xt76ff5a-cdn"
@@ -120,7 +144,7 @@
       "datetime": "2026-04-22T09:32:58+00:00",
       "time_text": "09:32",
       "link": "https://t.me/cpy_teeL/72172",
-      "views": "2.36K"
+      "views": "2.48K"
     },
     {
       "text": "تست کنید\ntg://proxy?server=95.217.28.246&port=443&secret=dd104462821249bd7ac519130220c25d09"
@@ -132,7 +156,7 @@
       "datetime": "2026-04-22T09:32:32+00:00",
       "time_text": "09:32",
       "link": "https://t.me/cpy_teeL/72171",
-      "views": "2.34K"
+      "views": "2.47K"
     },
     {
       "text": "Slipnet\nDnstt\n\nslipnet-enc://AYSolA4n9MkKM07C+FZfOiTtLlr2KO7Wu07xcwD3aXexPPELaOTwcLJxeoBIwYvQX/vMibXnWl2oTHKzxWkLXMY4DpOIWzEz0NvbTu9x3gFbSAvAvhA8ptW3+msm4jiBQD4/cAK7PQgcckmR7gn1NQgcgXdKNR7NSaQt7PcLxTYlS0U2wIj85SvPk8n8S+72V0TFBVbPRNsVEjdun+pMxntz1s2AW5EJdxe9I8BMNqSTOgX8ixt4Gj/Ln1gMy557h37L14udzZJYv+qZIKLhPjju9aQ7lL03YWs8r4M/O+08dU8QUPl9k2uUxQzSu3+B68vY7s7N4iLb1RIkcSzj/ovMrmAszNOcXhHl+e6UBSVgYk5DzzaY6uR6O8A88uW7gXTzdftXT5AaUI8P5R3rF+/JFN0+3276zZyGQs76tkGlBi/+IMz+uOowQix19WasRpruEybCQGwNyAyz8Snh7iq0DG10h5zDMMgqiuoDHzUm5mct1+6kL9dNmhcBbW2KNvcTgRW3kojFGSR7sPJhYNQP2tRh/aq2O5iQ/D+PL8WFWyBvmcSlDuDi0CZ20iXMzrr1iD65aSRsclKIqTjpfeiRxE6P5wkGopIc6BsILkRll6mR5UH/vxp9/436TvcDRz/9uM/+YVahb5V/dJ5zDqcUw+ITnQjsQIHOFAYFptvDa0t4TC0mW5zYPbpNNcMBboWP+VHxpeiAdbWwu6itQyYvkFWk5g4K1g==\nslipnet-enc://AfEvy1cmX+3pjYE51DgZhvladWxj2drTjdfHFK9UAjLHjJBeBYaOvq/T7YyPNgphFm5vkDIJRSXZfuRWeCgdj3iMyoQudRnyGntng60EA/cT+BMZ+IlVlWmninmVrOuLHm0uNlfnZnR9EXH1SKMFSI3gwWheqts8Lnq0jcYsVNwYkNYICejpISdRx3SzSga/vhMKKYRF05vNoBL1aV0mH1LPIRD4gVVyomp67gWJoiMQYI5wBykgD956GSM8CSNtubGQ5uWLPyBSg57DWl0Xj7RIzw5K8QwLWjhAcuNQSZ5MEfp/MtI95vKlKpDUTRD0Xor3zkBeGwW4ZWMmJ4jxAzq3Ezqp782Bz5U9+giON4si6lnNTmlqB7b7YGSX17EJhRBzJFtoXPtpXKikk7TLE6fc9PE5ceKzBl52beqZoz2kvVpptJBAj/nXywQmC9Rq7IPP9vNEPGw4ss5uBcoJjsokvJLHw6c3toAZiyAn1/Z+HU+v4XmBde23HQl7dUgyHegPJxia0Dskmjd2iFvqHQUCKQrm7yfYW0LDbRo7Hs1QJrtHQoCpBMa/81LL/jyKlSnOzNKx/Jw2xD1qn5VpckxXZ+GSZb6OUIEPB3QG0S3MGUcYMc7aH6W7eCT3K4Na5Fcv51OKf4FUE9jW7GzhHxnqtfsRfVGs26iqSUV7sjRDfoJEo16Dha47F5go6iGr"
@@ -144,7 +168,7 @@
       "datetime": "2026-04-22T01:50:25+00:00",
       "time_text": "01:50",
       "link": "https://t.me/cpy_teeL/72170",
-      "views": "4.14K"
+      "views": "4.22K"
     },
     {
       "text": "کانفینگ های انجکتور تو بعضی جاها وصلن"
@@ -156,7 +180,7 @@
       "datetime": "2026-04-22T01:49:58+00:00",
       "time_text": "01:49",
       "link": "https://t.me/cpy_teeL/72169",
-      "views": "4.07K"
+      "views": "4.16K"
     },
     {
       "text": "💠Injector config ✅\n\n💠کانفینگ جدید | HTTP Injector |\n\n🎥: اموزش اضافه کردن کانفینگ\nhttps://t.me/cpy_teeL/72021?single\n\n💠اگر به کانفیگ ها متصل نمیشید یکبار حالت هواپیما بگذارید.\n💠اگر چیزی دانلود نمیشد یکبار کانفیگ رو قطع و وصل کنید.\n💠 اگر تمامی کار های بالا رو انجام دادین ولی مشکل حل نشد حتما یکبار برنامه رو کلیر دیتا کنید.\n\n🌐❤️ Channel&nbsp; 🩶&nbsp; 💬❤️&nbsp; Gap&nbsp;☑️"
@@ -168,7 +192,7 @@
       "datetime": "2026-04-21T23:15:34+00:00",
       "time_text": "23:15",
       "link": "https://t.me/cpy_teeL/72168",
-      "views": "4.47K"
+      "views": "4.52K"
     },
     {
       "text": "یه ربع صبر کنید بی فیلتر وصل میشه😄\n\nhttps://t.me/socks?server=46.245.80.6&port=10808"
@@ -180,7 +204,7 @@
       "datetime": "2026-04-21T22:58:17+00:00",
       "time_text": "22:58",
       "link": "https://t.me/cpy_teeL/72167",
-      "views": "4.32K"
+      "views": "4.38K"
     },
     {
       "text": "Slipnet\nDnstt\n\nslipnet-enc://AdIO4T/Sn2lsH5Bu0bKndASrwCADBeW+OkeJG3DBvWLxG6Cz2pspbOPq7w/lNcjFnhNx3ZeCrFLRxShIoKuugsm6X+hiACIiUIIP5+FdqKUm53P8Zd/TxJNUMXFLyf+xqFB1ciV0h/f2/7gin5ih+pvoSg4qpEBP5iRk6D/TCHDd9EiG3kv7t7f55IBE2s29gY9hOkwoJ6BIJ0bGprpvmv/rJMoHGu4TGHGFm8j1As9KmHGXmCoErOYsHlg7vugp+5LJ3SRa4rSJf4EeUwOVXNmJrDquJTSZFKRJywlGa8jzBNxgTGOs8dsq2Q+dfLy6ftp7V3swih098D57addVY64DuuB6lgWBnFRGss3kzITdrlolm2EN76sj+l6Q9QZ1Q/RmZ/ge/ncke1ZsB1siqeI5I79VT4W9TTywPaM1TiThIe7cQXZhMqTcL9MWxhWAcEl9RSEgUpEasmCKKjMbnx43I5c6YNhFpX/SIeRy4qbfs+TMgDoUrSK3/NDkJC2OJHMBX9Z3sx2d0uSuuUvtistYzwu6hyZsVnaSrN5aMLO2LJmU8zw6QeiF9uXyYuDmLeVvsYSI+kqz3SnoY9dHMkH7gLLRX0P0PAaFrGZTsIR7OApt4UhaVgn70NU9OGtWjzdKeymZa+bMThntjLD/QdzGfYGA+OP9"
@@ -192,7 +216,7 @@
       "datetime": "2026-04-21T20:51:27+00:00",
       "time_text": "20:51",
       "link": "https://t.me/cpy_teeL/72165",
-      "views": "4.7K"
+      "views": "4.74K"
     },
     {
       "text": "هرموقع قیمت نفت میره بالا ترامپ یه حرکتی میزنه لامصبا مارو تو بلاتکلیفی‌ نزارید جنگتون یه درده این آتش بس تخمیتون یه درد دیگه"
@@ -207,41 +231,17 @@
       "datetime": "2026-04-21T20:48:52+00:00",
       "time_text": "20:48",
       "link": "https://t.me/cpy_teeL/72164",
-      "views": "4.54K"
+      "views": "4.58K"
     },
     {
       "text": "🇮🇷 کانفیگ اسلیپ‌نت برای تمومی اپراتور ها نامحدود مولتی لوکیشن \n\n\nslipnet-enc://AZYv1AD2Abw7E9d9m0fxq8aUfTWYazwy4+c+SJOD1JI8g8Jfx4rHuDty6rjqbLGMj1oYpWaSEHaY7GsBztLy44gf9HtXU2gTZV0UAwx4rxDvn3BBRFEOswKwTpxPOU2tgZ//YrRMp9XdLC8h5k3jmXAwmVm8MJFJ9jz3wYjvojKtWT/ZGy/Gw4n4s5LRtSZtcsu+vvYnYVrSmlOYI1nvE9+aSrGs0aC5/vPFIOnC+KiZ9qT4SXm96WFbO4JaFIMuKZ5ON++GCYAlwzvlf/uHLXpEcL+E2nIk5wmQqzFOSol3m6EBnhXSr+UVY0otrfA8yFLrM4oTQipTXE791Z+g0lZMO6mUeKUt745tq48QEy/PxBBxAfEZ5cI526TO7Sx0pIGasFrEF+AW6xdaLf8a9F9UuYbyo/EU/oyEzp+UhXBuJPrWp+JV8eaYha+MMPh4tOI5b35bT1I/qyY4uAUmwLz5cgqxMAEtSgVvWp22h3LYNQhPUGV3d4a/oRstLz2+7tlShtjk2LBvKbYJxW6GOKtlzdV0s+2GUL2CM1LFwIK65colBcKoIhxrCEeXtbSdCPPyWsIZgO1e9wZtC1YqXpbejvgpm6YTmH8IsEvGydTnE8RbVJigzaEUCEXgp4z5+aQUEhtxvB0CXxk+w0wAT8p2Ti8XOZPt/HG+OHT0Iwuc"
     },
     {
       "post_id": "72164"
-    },
-    {
-      "datetime": "2026-04-21T20:44:59+00:00",
-      "time_text": "20:44",
-      "link": "https://t.me/cpy_teeL/72163",
-      "views": "4.52K"
-    },
-    {
-      "text": "🔴 صدا و سیما:\n\n «ایران تمدید آتش‌بس را به رسمیت نمی‌شناسد و ممکن است بر اساس منافع ملی خود به آن پایبند باشد یا نباشد»\n\nترامپ نیز در توئیتش ذکر کرده است که این آتش بس یک طرفه می باشد"
-    },
-    {
-      "post_id": "72163"
-    },
-    {
-      "datetime": "2026-04-21T19:55:10+00:00",
-      "time_text": "19:55",
-      "link": "https://t.me/cpy_teeL/72162",
-      "views": "4.4K"
-    },
-    {
-      "text": "پروکسی&nbsp; \n\ntg://proxy?server=178.104.72.162&port=443&secret=dd104462821249bd7ac519130220c25d09"
-    },
-    {
-      "post_id": "72162"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-22T12:34:45.429042",
-    "new_count": 1
+    "last_update": "2026-04-22T12:55:15.774945",
+    "new_count": 2
   }
 }
