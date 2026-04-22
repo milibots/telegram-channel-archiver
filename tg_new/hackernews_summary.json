@@ -1,0 +1,342 @@
+{
+  "success": true,
+  "channel": "hackernews_summary",
+  "channel_title": "HackerNews Summary",
+  "channel_username": "@hackernews_summary",
+  "channel_avatar": "bale:46627310:-5552398727126114558:1:65b5e3e3fd6f689b636ad4bf5ee4cfbd8211e6c76420e4b7",
+  "channel_verified": false,
+  "channel_subscribers": "149",
+  "channel_photos": null,
+  "channel_videos": null,
+  "channel_files": null,
+  "channel_links": null,
+  "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
+  "total_posts": 76,
+  "returned_posts": 76,
+  "posts": [
+    {
+      "datetime": "2026-04-22T15:16:07+00:00",
+      "time_text": "15:16",
+      "link": "https://t.me/hackernews_summary/24721",
+      "views": "1"
+    },
+    {
+      "text": "Monitor your Pi / OMP sessions\n\n🔸The pi-agent-dashboard is a web-based dashboard for monitoring and interacting with pi agent sessions from any browser, including mobile, with features like elapsed time tracking, session spawning, and integrated terminal. It can be installed globally or locally, and has a self-contained Electron app for standalone mode, with features like system tray integration, auto-update checker, and ...\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:4251722809852174081:1:65b5e3e3fd6f689b636ad4bf5ee4cfbd8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24721"
+    },
+    {
+      "datetime": "2026-04-22T15:15:47+00:00",
+      "time_text": "15:15",
+      "link": "https://t.me/hackernews_summary/24720",
+      "views": "2"
+    },
+    {
+      "text": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model\n\n🔸Qwen3.6-27B is a 27-billion-parameter multimodal model that surpasses previous-generation models on major coding benchmarks. It is natively multimodal, supports both vision-language thinking and non-thinking modes, and is available for self-hosting and through Alibaba Cloud Model Studio API.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:8192145088451714816:1:65b5e3e3fd6f689b636ad4bf5ee4cfbd8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24720"
+    },
+    {
+      "datetime": "2026-04-22T15:15:25+00:00",
+      "time_text": "15:15",
+      "link": "https://t.me/hackernews_summary/24719",
+      "views": "1"
+    },
+    {
+      "text": "Show HN submissions tripled and are now mostly vibe-coded\n\n🔸User analyzed 500 Show HN pages for AI design patterns, finding 21% with heavy slop, 46% mild, and 33% clean. The results suggest most sites are uninspired rather than AI-generated.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24719"
+    },
+    {
+      "datetime": "2026-04-22T15:15:05+00:00",
+      "time_text": "15:15",
+      "link": "https://t.me/hackernews_summary/24718",
+      "views": "1"
+    },
+    {
+      "text": "DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser\n\n🔸DuckDB v1.5.2 is a patch release with bugfixes, performance improvements, and support for DuckLake v1.0 lakehouse format. It includes a new WebAssembly shell and a test suite collaboration with Jepsen.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-3664017799860248830:1:65b5e3e3fd6f689b636ad4bf5ee4cfbd8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24718"
+    },
+    {
+      "datetime": "2026-04-22T14:40:04+00:00",
+      "time_text": "14:40",
+      "link": "https://t.me/hackernews_summary/24717",
+      "views": "5"
+    },
+    {
+      "text": "Treetops glowing during storms captured on film for first time\n\n🔸Penn State researchers led by William Brune documented corona discharges in nature for the first time, observing them on trees during thunderstorms in Florida. The phenomenon, which cleans the air by producing hydroxyl, was captured using a custom-built telescope system and has implications for forest health and atmospheric cleansing.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:5080914722058542851:1:65b5e3e3fd6f689b45f113f03537f1428211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24717"
+    },
+    {
+      "datetime": "2026-04-22T14:00:04+00:00",
+      "time_text": "14:00",
+      "link": "https://t.me/hackernews_summary/24716",
+      "views": "6"
+    },
+    {
+      "text": "Columnar Storage Is Normalization\n\n🔸Columnar data storage has trade-offs with row-oriented data, offering faster data access for specific columns but slower row modification and access. It can be viewed as a form of extreme database normalization or a data format abstraction that queries are logically blind to.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:2484922622448508673:1:65b5e3e3fd6f689b45f113f03537f1428211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24716"
+    },
+    {
+      "datetime": "2026-04-22T13:50:07+00:00",
+      "time_text": "13:50",
+      "link": "https://t.me/hackernews_summary/24715",
+      "views": "6"
+    },
+    {
+      "text": "The eighth-generation TPU: An architecture deep dive\n\n🔸Google's eighth-generation TPUs (TPU 8t and TPU 8i) are designed for scalability, reliability, and efficiency, addressing the needs of AI workloads like world models and reasoning-heavy architectures. The new TPUs offer improved performance, power efficiency, and price-performance, with TPU 8t optimized for training and TPU 8i for serving and high-concurrency reasoning.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:2434870984286019330:1:65b5e3e3fd6f689bf1de7642bb37d7da8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24715"
+    },
+    {
+      "datetime": "2026-04-22T13:40:05+00:00",
+      "time_text": "13:40",
+      "link": "https://t.me/hackernews_summary/24714",
+      "views": "5"
+    },
+    {
+      "text": "Another Day Has Come\n\n🔸Tim Cook is stepping down as Apple's CEO after 15 years, handing over to John Ternus, who has been with the company for 25 years. Cook will become executive chairman, focusing on politics and policy, while Ternus takes the helm of Apple's business.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24714"
+    },
+    {
+      "datetime": "2026-04-22T13:10:25+00:00",
+      "time_text": "13:10",
+      "link": "https://t.me/hackernews_summary/24713",
+      "views": "6"
+    },
+    {
+      "text": "I don't chain everything in JavaScript anymore\n\n🔸Using chained methods like map and filter can lead to complex pipelines that are hard to debug and understand. Breaking code into explicit steps is often clearer and more maintainable, especially for large arrays or complex logic.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-6912827759537611005:1:65b5e3e3fd6f689b636ad4bf5ee4cfbd8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24713"
+    },
+    {
+      "datetime": "2026-04-22T13:10:04+00:00",
+      "time_text": "13:10",
+      "link": "https://t.me/hackernews_summary/24712",
+      "views": "5"
+    },
+    {
+      "text": "Kernel code removals driven by LLM-created security reports\n\n🔸The Linux kernel is removing the amateur radio protocol implementation and drivers due to unmaintained code and increasing security-bug reports from large language models. This removal aims to reduce the number of things to review and increase kernel security.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24712"
+    },
+    {
+      "datetime": "2026-04-22T13:00:06+00:00",
+      "time_text": "13:00",
+      "link": "https://t.me/hackernews_summary/24711",
+      "views": "5"
+    },
+    {
+      "text": "Our eighth generation TPUs: two chips for the agentic era\n\n🔸Google introduces TPU 8t and TPU 8i, two custom chips for AI training and inference, designed to power supercomputers and drive cutting-edge model development. The 8th generation TPUs deliver scale, efficiency, and capabilities for training, serving, and agentic workloads.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:6081293849069625090:1:65b5e3e3fd6f689b636ad4bf5ee4cfbd8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24711"
+    },
+    {
+      "datetime": "2026-04-22T12:45:06+00:00",
+      "time_text": "12:45",
+      "link": "https://t.me/hackernews_summary/24710",
+      "views": "5"
+    },
+    {
+      "text": "Nobody Got Fired for Uber's &#036;8M Ledger Mistake?\n\n🔸Uber's ledger system on DynamoDB was a costly failure due to high write costs and storage expenses. The company eventually migrated to its own internal ledger, LSG, built on top of DocStore, after realizing the mistake.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-1537414095804752125:1:65b5e3e3fd6f689bf1de7642bb37d7da8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24710"
+    },
+    {
+      "datetime": "2026-04-22T12:36:05+00:00",
+      "time_text": "12:36",
+      "link": "https://t.me/hackernews_summary/24709",
+      "views": "6"
+    },
+    {
+      "text": "Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter\n\n🔸Researchers developed PrfaaS to improve large-scale LLM serving by offloading long-context prefill to separate clusters and transferring KVCache over Ethernet. This design increases serving throughput by 54% and 32% compared to homogeneous and naive heterogeneous baselines.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:1915331934957674240:1:65b5e3e3fd6f689bf1de7642bb37d7da8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24709"
+    },
+    {
+      "datetime": "2026-04-22T12:35:45+00:00",
+      "time_text": "12:35",
+      "link": "https://t.me/hackernews_summary/24708",
+      "views": "5"
+    },
+    {
+      "text": "Why Musicians Are Manufacturing Sold-Out Shows\n\n🔸Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our and .\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24708"
+    },
+    {
+      "datetime": "2026-04-22T12:35:25+00:00",
+      "time_text": "12:35",
+      "link": "https://t.me/hackernews_summary/24707",
+      "views": "5"
+    },
+    {
+      "text": "GitHub CLI now collects pseudoanonymous telemetry\n\n🔸GitHub CLI sends pseudoanonymous telemetry to help improve the product by understanding feature usage. You can review the telemetry implementation and opt-out using environment variables or configuration options.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:8938545662049263363:1:65b5e3e3fd6f689b636ad4bf5ee4cfbd8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24707"
+    },
+    {
+      "datetime": "2026-04-22T12:35:04+00:00",
+      "time_text": "12:35",
+      "link": "https://t.me/hackernews_summary/24706",
+      "views": "6"
+    },
+    {
+      "text": "3.4M Solar Panels\n\n🔸The system has 96 gb of ddr5 ram clocked at 4,800 mt/s and a crucial t700 4 tb nvme m.2 ssd which can read at speeds up to 12,400 mb/s. it is running ubuntu 24 lts via microsoft's ubuntu for windows on windows 11 pro x64 based pc with qemu gps vmware and duck\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-8869726399800467709:1:65b5e3e3fd6f689b45f113f03537f1428211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24706"
+    },
+    {
+      "datetime": "2026-04-22T11:55:05+00:00",
+      "time_text": "11:55",
+      "link": "https://t.me/hackernews_summary/24705",
+      "views": "7"
+    },
+    {
+      "text": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes\n\n🔸China's CATL unveiled a new lithium-iron phosphate battery, Shenxing 3.0, with faster charging speeds and improved cold-weather performance. It can charge from 10 to 98 percent in 6 minutes and 27 seconds, outperforming BYD's Blade 2.0 in similar conditions.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-3539224107403632894:1:65b5e3e3fd6f689bf1de7642bb37d7da8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24705"
+    },
+    {
+      "datetime": "2026-04-22T10:55:05+00:00",
+      "time_text": "10:55",
+      "link": "https://t.me/hackernews_summary/24704",
+      "views": "7"
+    },
+    {
+      "text": "Context Is Software, Weights Are Hardware\n\n🔸The difference between fine-tuning and in-context learning is more fundamental than previously thought, with the latter being a transient weight update that can be mathematically equivalent to one step of gradient descent. Weight modification adds new instructions to the model's architecture, enabling it to perform computations it couldn't before, whereas in-context learning is limited to the ...\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:3226842636703833856:1:65b5e3e3fd6f689b45f113f03537f1428211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24704"
+    },
+    {
+      "datetime": "2026-04-22T10:40:05+00:00",
+      "time_text": "10:40",
+      "link": "https://t.me/hackernews_summary/24703",
+      "views": "9"
+    },
+    {
+      "text": "How the Heck Does GPS Work?\n\n🔸GPS uses satellites to measure distance by timing signal delays, then uses multiple satellites to pinpoint location. The system accounts for clock errors, gravity, and speed to provide accurate positions within a few meters.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:7933913075247488769:1:65b5e3e3fd6f689bf1de7642bb37d7da8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24703"
+    },
+    {
+      "datetime": "2026-04-22T10:30:05+00:00",
+      "time_text": "10:30",
+      "link": "https://t.me/hackernews_summary/24702",
+      "views": "9"
+    },
+    {
+      "text": "Irony as Meta staff unhappy about running surveillance software on work PCs\n\n🔸Meta is installing surveillance software on employees' work computers to gather data for AI model development. The tool will record keystrokes, mouse movements, and screenshots of employees' work activities.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-2504218362465870077:1:65b5e3e3fd6f689b636ad4bf5ee4cfbd8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24702"
+    }
+  ],
+  "fetch_metadata": {
+    "last_update": "2026-04-22T15:19:26.366229",
+    "new_count": 21
+  }
+}
