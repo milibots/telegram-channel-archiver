@@ -18,7 +18,7 @@
       "datetime": "2026-04-22T17:00:05+00:00",
       "time_text": "17:00",
       "link": "https://t.me/hackernews_summary/24725",
-      "views": "3"
+      "views": "7"
     },
     {
       "text": "The Tech Oligarch's Republic\n\n🔸The US is at a crossroads in the Iran war, with Palantir pushing for AI dominance and military control. Palantir's manifesto promotes war and surveillance, while its CEO Alexander Karp dismisses concerns about AI's role in genocide.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-22T16:45:05+00:00",
       "time_text": "16:45",
       "link": "https://t.me/hackernews_summary/24724",
-      "views": "3"
+      "views": "7"
     },
     {
       "text": "Youth Suicides Declined After Creation of National Hotline\n\n\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -47,7 +47,7 @@
       "datetime": "2026-04-22T16:35:05+00:00",
       "time_text": "16:35",
       "link": "https://t.me/hackernews_summary/24723",
-      "views": "4"
+      "views": "7"
     },
     {
       "text": "Bodega Cats of New York\n\n🔸The book documents New York City's bodega cats, highlighting their unique personalities and contributions to their stores. Advocacy efforts aim to legalize bodega cats, with two bills in committee and a petition signed by 14,000 people.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -64,7 +64,7 @@
       "datetime": "2026-04-22T15:40:05+00:00",
       "time_text": "15:40",
       "link": "https://t.me/hackernews_summary/24722",
-      "views": "5"
+      "views": "7"
     },
     {
       "text": "Top MAGA influencer revealed to be AI\n\n🔸An Indian man created a fake MAGA influencer, \"Emily Hart,\" using AI-generated images to scam conservative men online, making thousands of dollars a month. He used the money to fund his medical studies and emigrate to the US, calling his followers \"super-dumb\" for falling for the scam.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -81,7 +81,7 @@
       "datetime": "2026-04-22T15:16:07+00:00",
       "time_text": "15:16",
       "link": "https://t.me/hackernews_summary/24721",
-      "views": "5"
+      "views": "7"
     },
     {
       "text": "Monitor your Pi / OMP sessions\n\n🔸The pi-agent-dashboard is a web-based dashboard for monitoring and interacting with pi agent sessions from any browser, including mobile, with features like elapsed time tracking, session spawning, and integrated terminal. It can be installed globally or locally, and has a self-contained Electron app for standalone mode, with features like system tray integration, auto-update checker, and ...\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -98,7 +98,7 @@
       "datetime": "2026-04-22T15:15:47+00:00",
       "time_text": "15:15",
       "link": "https://t.me/hackernews_summary/24720",
-      "views": "5"
+      "views": "7"
     },
     {
       "text": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model\n\n🔸Qwen3.6-27B is a 27-billion-parameter multimodal model that surpasses previous-generation models on major coding benchmarks. It is natively multimodal, supports both vision-language thinking and non-thinking modes, and is available for self-hosting and through Alibaba Cloud Model Studio API.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -115,7 +115,7 @@
       "datetime": "2026-04-22T15:15:25+00:00",
       "time_text": "15:15",
       "link": "https://t.me/hackernews_summary/24719",
-      "views": "4"
+      "views": "6"
     },
     {
       "text": "Show HN submissions tripled and are now mostly vibe-coded\n\n🔸User analyzed 500 Show HN pages for AI design patterns, finding 21% with heavy slop, 46% mild, and 33% clean. The results suggest most sites are uninspired rather than AI-generated.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -127,7 +127,7 @@
       "datetime": "2026-04-22T15:15:05+00:00",
       "time_text": "15:15",
       "link": "https://t.me/hackernews_summary/24718",
-      "views": "4"
+      "views": "6"
     },
     {
       "text": "DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser\n\n🔸DuckDB v1.5.2 is a patch release with bugfixes, performance improvements, and support for DuckLake v1.0 lakehouse format. It includes a new WebAssembly shell and a test suite collaboration with Jepsen.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -144,7 +144,7 @@
       "datetime": "2026-04-22T14:40:04+00:00",
       "time_text": "14:40",
       "link": "https://t.me/hackernews_summary/24717",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "Treetops glowing during storms captured on film for first time\n\n🔸Penn State researchers led by William Brune documented corona discharges in nature for the first time, observing them on trees during thunderstorms in Florida. The phenomenon, which cleans the air by producing hydroxyl, was captured using a custom-built telescope system and has implications for forest health and atmospheric cleansing.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -331,7 +331,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-22T20:35:33.765089",
-    "new_count": 2
+    "last_update": "2026-04-22T20:56:28.072617",
+    "new_count": 0
   }
 }
