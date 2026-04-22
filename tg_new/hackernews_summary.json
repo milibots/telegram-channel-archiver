@@ -15,6 +15,23 @@
   "returned_posts": 76,
   "posts": [
     {
+      "datetime": "2026-04-22T16:35:05+00:00",
+      "time_text": "16:35",
+      "link": "https://t.me/hackernews_summary/24723",
+      "views": "3"
+    },
+    {
+      "text": "Bodega Cats of New York\n\n🔸The book documents New York City's bodega cats, highlighting their unique personalities and contributions to their stores. Advocacy efforts aim to legalize bodega cats, with two bills in committee and a petition signed by 14,000 people.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/Z2nYlxnA4qvnsCi05njFitQJ5DPkOZIXbHzPEpt0tD8up4nKzaYWpeIuEmrv6vo-ucfOu9FHFcxBacKacMAWq1EXzKmr6DuPCZirtksF8G3MtzR0NYYDCSqnyLTlYlafHkNIDZTOjFeH0ZMzyHL_kFIwJk60KD_Qin170bQz_n9zmpAJt5wxZxYdRqkey9v39vcvdJ4xFXxONcBR7c5M7xh6JfTnVZ0jz775LpBzJLNF74umUckHqt3zH6-kUT1ORHW2DbD1MPDEFcSVlRTEheb4DyeHfSRlZ7a-UnFvHknAZnd8fIKcDr5TLxBnORxThSXjBvi18GsGKuBq9GLqGw.jpg"
+      ]
+    },
+    {
+      "post_id": "24723"
+    },
+    {
       "datetime": "2026-04-22T15:40:05+00:00",
       "time_text": "15:40",
       "link": "https://t.me/hackernews_summary/24722",
@@ -316,27 +333,10 @@
     },
     {
       "post_id": "24704"
-    },
-    {
-      "datetime": "2026-04-22T10:40:05+00:00",
-      "time_text": "10:40",
-      "link": "https://t.me/hackernews_summary/24703",
-      "views": "9"
-    },
-    {
-      "text": "How the Heck Does GPS Work?\n\n🔸GPS uses satellites to measure distance by timing signal delays, then uses multiple satellites to pinpoint location. The system accounts for clock errors, gravity, and speed to provide accurate positions within a few meters.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:7933913075247488769:1:65b5e3e3fd6f689bf1de7642bb37d7da8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24703"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-22T19:52:19.493274",
-    "new_count": 0
+    "last_update": "2026-04-22T20:13:06.842961",
+    "new_count": 1
   }
 }

@@ -18,7 +18,7 @@
       "datetime": "2026-04-22T08:20:59+00:00",
       "time_text": "08:20",
       "link": "https://t.me/hiaimediaen/2479",
-      "views": "5.99K"
+      "views": "6.15K"
     },
     {
       "text": "👨 An elderly Chinese woman has been talking to an AI clone of her son for over a year, without knowing that he died in an accident\n\nThe woman is over 80 years old and has heart problems. Her family decided that telling her the truth could be too much of a shock.\n\nSo they turned to a team of developers, gave them photos, videos, and voice recordings of the man in his native dialect, and received a realistic avatar that looks, speaks, and even moves almost like the real person.\n\nNow this \"son\" talks to his mother every day via video call. She still tells him to dress warmly, eat well, and take care of himself, and the digital copy replies that he's working hard in another city, which is why he can't visit her. According to Zhang Zewei, the system's creator, the avatar even mimics the man's habit of leaning forward slightly while talking.\n\n✏️ The story caused a strong reaction on social media. Some called the AI son a \"white lie\" and a way to comfort someone who couldn't bear such a loss. Others saw it as emotional deception that could cause even more pain if the truth is ever discovered.\n\nWhat do you think? Is this a \"lie for good\"?\n\n❤️ — Yes, it's okay  \n🔥 — No, she should know the truth\n\n@hiaimediaen"
@@ -40,7 +40,7 @@
       "datetime": "2026-04-21T13:08:58+00:00",
       "time_text": "13:08",
       "link": "https://t.me/hiaimediaen/2470",
-      "views": "10.9K"
+      "views": "11K"
     },
     {
       "text": "⚡️ GPT Image 2: The Next Level of AI Image Generation by OpenAI\n\nA new AI creates ultra-realistic images, leaving behind previous GPT Image 1.5 and Google's Nano Banana.\n\nWhat makes it special?\n\n✅ Carefully preserves details and faces during editing;\n✅ Renders long texts and draws infographics without distortions;\n✅ Generates app interfaces and screenshots with unprecedented accuracy;\n✅ Improved aesthetics: skin and faces look strikingly lifelike, with no uncanny valley effect;\n✅ Lighting, proportions, and perspective, just like professional photos, without that yellow \"AI filter.\"\n\n🔴 You can already try it in our @GPT4Telegrambot. \n\nHow to Try?\n\n1️⃣ Go to @GPT4Telegrambot\n2️⃣ Select Image Generation → GPT Images in the menu.\n3️⃣ Type your prompt.\n\n💡 25 generations per week for free.\n\nDo you still trust pictures on the internet?\n\n❤️ — Yes, I can spot AI-generated images\n👀 — No, it's impossible to tell anymore...\n\n@hiaimediaen"
@@ -97,7 +97,7 @@
       "datetime": "2026-04-21T09:32:51+00:00",
       "time_text": "09:32",
       "link": "https://t.me/hiaimediaen/2469",
-      "views": "9.05K"
+      "views": "9.09K"
     },
     {
       "text": "📸 An AI Camera That Writes Poems Instead of Taking Photos\n\nAmerican designers Carolyn Zhang and Ryan Mather have сreated the Poetry Camera. This Polaroid-style camera writes poems inspired by whatever is in the frame, rather than taking photos.\n\nInside the 3D-printed device is a small sensor and a credit-card-sized Raspberry Pi single-board computer.\n\nWhen you press the button, the camera takes a photo and runs a script that sends it to a multimodal LLM. The algorithms then interpret the image and generate a poem, and you can immediately print it on thermal paper.\n\n💡 The original photo is never saved or stored anywhere, for maximum data privacy—the user gets only the poem, with the date and time printed on the paper.\n\n\"Everyone has a camera in their pocket through their cell phone now—we wanted to do something very different,\" the device's creators explain.\n\n➡️ You can buy the camera for &#036;349 or build it yourself—the developers have posted the detailed instructions on GitHub.\n\nWould you use a camera like this?\n\n❤️ — Yes, an interesting concept\n🔥 — No, useless gadget\n\n@hiaimediaen"
@@ -216,7 +216,7 @@
       "datetime": "2026-04-16T07:36:59+00:00",
       "time_text": "07:36",
       "link": "https://t.me/hiaimediaen/2462",
-      "views": "16.1K"
+      "views": "16.2K"
     },
     {
       "text": "❤️ AI Can Predict Heart Failure 5 Years Before The First Symptoms\n\nThe system was developed by scientists from Oxford. It analyzes CT scans of the heart and looks for changes in the fatty tissue around it. These micro-signs may contain early indications of inflammation that are invisible to the human eye.\n\nThe model was trained and tested on data from more than 70,000 patients. First, the system learned to identify these specific changes, and then to match these markers with whether or not a person developed heart failure.\n\nThis way, the algorithm learned to recognize early \"patterns\" of risk and calculate the probability of heart failure for patients who have not yet been diagnosed, with 86% accuracy.\n\n➡️ The results were especially significant for the most vulnerable group. High-risk patients were found to be 20 times more likely to develop heart failure than those in the low-risk group. The approximate chance is 1 in 4 over five years.\n\n@hiaimediaen"
@@ -265,7 +265,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-22T19:52:19.335445",
+    "last_update": "2026-04-22T20:13:05.951047",
     "new_count": 0
   }
 }
