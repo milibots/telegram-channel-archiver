@@ -18,7 +18,7 @@
       "datetime": "2026-04-22T15:40:05+00:00",
       "time_text": "15:40",
       "link": "https://t.me/hackernews_summary/24722",
-      "views": "1"
+      "views": "5"
     },
     {
       "text": "Top MAGA influencer revealed to be AI\n\n🔸An Indian man created a fake MAGA influencer, \"Emily Hart,\" using AI-generated images to scam conservative men online, making thousands of dollars a month. He used the money to fund his medical studies and emigrate to the US, calling his followers \"super-dumb\" for falling for the scam.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-22T15:16:07+00:00",
       "time_text": "15:16",
       "link": "https://t.me/hackernews_summary/24721",
-      "views": "3"
+      "views": "5"
     },
     {
       "text": "Monitor your Pi / OMP sessions\n\n🔸The pi-agent-dashboard is a web-based dashboard for monitoring and interacting with pi agent sessions from any browser, including mobile, with features like elapsed time tracking, session spawning, and integrated terminal. It can be installed globally or locally, and has a self-contained Electron app for standalone mode, with features like system tray integration, auto-update checker, and ...\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +52,7 @@
       "datetime": "2026-04-22T15:15:47+00:00",
       "time_text": "15:15",
       "link": "https://t.me/hackernews_summary/24720",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model\n\n🔸Qwen3.6-27B is a 27-billion-parameter multimodal model that surpasses previous-generation models on major coding benchmarks. It is natively multimodal, supports both vision-language thinking and non-thinking modes, and is available for self-hosting and through Alibaba Cloud Model Studio API.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -69,7 +69,7 @@
       "datetime": "2026-04-22T15:15:25+00:00",
       "time_text": "15:15",
       "link": "https://t.me/hackernews_summary/24719",
-      "views": "2"
+      "views": "4"
     },
     {
       "text": "Show HN submissions tripled and are now mostly vibe-coded\n\n🔸User analyzed 500 Show HN pages for AI design patterns, finding 21% with heavy slop, 46% mild, and 33% clean. The results suggest most sites are uninspired rather than AI-generated.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -81,7 +81,7 @@
       "datetime": "2026-04-22T15:15:05+00:00",
       "time_text": "15:15",
       "link": "https://t.me/hackernews_summary/24718",
-      "views": "2"
+      "views": "4"
     },
     {
       "text": "DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser\n\n🔸DuckDB v1.5.2 is a patch release with bugfixes, performance improvements, and support for DuckLake v1.0 lakehouse format. It includes a new WebAssembly shell and a test suite collaboration with Jepsen.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -98,7 +98,7 @@
       "datetime": "2026-04-22T14:40:04+00:00",
       "time_text": "14:40",
       "link": "https://t.me/hackernews_summary/24717",
-      "views": "5"
+      "views": "7"
     },
     {
       "text": "Treetops glowing during storms captured on film for first time\n\n🔸Penn State researchers led by William Brune documented corona discharges in nature for the first time, observing them on trees during thunderstorms in Florida. The phenomenon, which cleans the air by producing hydroxyl, was captured using a custom-built telescope system and has implications for forest health and atmospheric cleansing.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -115,7 +115,7 @@
       "datetime": "2026-04-22T14:00:04+00:00",
       "time_text": "14:00",
       "link": "https://t.me/hackernews_summary/24716",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "Columnar Storage Is Normalization\n\n🔸Columnar data storage has trade-offs with row-oriented data, offering faster data access for specific columns but slower row modification and access. It can be viewed as a form of extreme database normalization or a data format abstraction that queries are logically blind to.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -132,7 +132,7 @@
       "datetime": "2026-04-22T13:50:07+00:00",
       "time_text": "13:50",
       "link": "https://t.me/hackernews_summary/24715",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "The eighth-generation TPU: An architecture deep dive\n\n🔸Google's eighth-generation TPUs (TPU 8t and TPU 8i) are designed for scalability, reliability, and efficiency, addressing the needs of AI workloads like world models and reasoning-heavy architectures. The new TPUs offer improved performance, power efficiency, and price-performance, with TPU 8t optimized for training and TPU 8i for serving and high-concurrency reasoning.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -149,7 +149,7 @@
       "datetime": "2026-04-22T13:40:05+00:00",
       "time_text": "13:40",
       "link": "https://t.me/hackernews_summary/24714",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "Another Day Has Come\n\n🔸Tim Cook is stepping down as Apple's CEO after 15 years, handing over to John Ternus, who has been with the company for 25 years. Cook will become executive chairman, focusing on politics and policy, while Ternus takes the helm of Apple's business.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -161,7 +161,7 @@
       "datetime": "2026-04-22T13:10:25+00:00",
       "time_text": "13:10",
       "link": "https://t.me/hackernews_summary/24713",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "I don't chain everything in JavaScript anymore\n\n🔸Using chained methods like map and filter can lead to complex pipelines that are hard to debug and understand. Breaking code into explicit steps is often clearer and more maintainable, especially for large arrays or complex logic.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -304,7 +304,7 @@
       "datetime": "2026-04-22T10:55:05+00:00",
       "time_text": "10:55",
       "link": "https://t.me/hackernews_summary/24704",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "Context Is Software, Weights Are Hardware\n\n🔸The difference between fine-tuning and in-context learning is more fundamental than previously thought, with the latter being a transient weight update that can be mathematically equivalent to one step of gradient descent. Weight modification adds new instructions to the model's architecture, enabling it to perform computations it couldn't before, whereas in-context learning is limited to the ...\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -336,7 +336,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-22T19:10:53.787382",
-    "new_count": 1
+    "last_update": "2026-04-22T19:31:30.711777",
+    "new_count": 0
   }
 }
