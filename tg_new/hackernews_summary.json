@@ -11,9 +11,33 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 76,
-  "returned_posts": 76,
+  "total_posts": 75,
+  "returned_posts": 75,
   "posts": [
+    {
+      "datetime": "2026-04-22T19:35:26+00:00",
+      "time_text": "19:35",
+      "link": "https://t.me/hackernews_summary/24740",
+      "views": "2"
+    },
+    {
+      "text": "Scores decline again for 13-year-old students in reading and mathematics\n\n🔸NAEP long-term trend assessments showed 13-year-old students' average reading scores declined 4 points and math scores declined 9 points from 2020.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24740"
+    },
+    {
+      "datetime": "2026-04-22T19:35:05+00:00",
+      "time_text": "19:35",
+      "link": "https://t.me/hackernews_summary/24739",
+      "views": "2"
+    },
+    {
+      "text": "You don't need advice from editors on rejected manuscripts\n\n🔸Something went wrong, but don’t fret — let’s give it another shot. Some privacy related extensions may cause issues on x.com. Please disable them and try again.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24739"
+    },
     {
       "datetime": "2026-04-22T19:15:04+00:00",
       "time_text": "19:15",
@@ -304,39 +328,10 @@
     },
     {
       "post_id": "24721"
-    },
-    {
-      "datetime": "2026-04-22T15:15:47+00:00",
-      "time_text": "15:15",
-      "link": "https://t.me/hackernews_summary/24720",
-      "views": "7"
-    },
-    {
-      "text": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model\n\n🔸Qwen3.6-27B is a 27-billion-parameter multimodal model that surpasses previous-generation models on major coding benchmarks. It is natively multimodal, supports both vision-language thinking and non-thinking modes, and is available for self-hosting and through Alibaba Cloud Model Studio API.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:8192145088451714816:1:65b5e3e3fd6f689b636ad4bf5ee4cfbd8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24720"
-    },
-    {
-      "datetime": "2026-04-22T15:15:25+00:00",
-      "time_text": "15:15",
-      "link": "https://t.me/hackernews_summary/24719",
-      "views": "6"
-    },
-    {
-      "text": "Show HN submissions tripled and are now mostly vibe-coded\n\n🔸User analyzed 500 Show HN pages for AI design patterns, finding 21% with heavy slop, 46% mild, and 33% clean. The results suggest most sites are uninspired rather than AI-generated.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24719"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-22T23:03:19.337174",
-    "new_count": 1
+    "last_update": "2026-04-22T23:24:01.134826",
+    "new_count": 2
   }
 }
