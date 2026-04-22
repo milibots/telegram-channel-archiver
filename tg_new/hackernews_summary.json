@@ -11,14 +11,43 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 76,
-  "returned_posts": 76,
+  "total_posts": 75,
+  "returned_posts": 75,
   "posts": [
+    {
+      "datetime": "2026-04-22T17:00:05+00:00",
+      "time_text": "17:00",
+      "link": "https://t.me/hackernews_summary/24725",
+      "views": "3"
+    },
+    {
+      "text": "The Tech Oligarch's Republic\n\n🔸The US is at a crossroads in the Iran war, with Palantir pushing for AI dominance and military control. Palantir's manifesto promotes war and surveillance, while its CEO Alexander Karp dismisses concerns about AI's role in genocide.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:4597183578925899522:1:65b5e3e3fd6f689b52c5243f47fb07e58211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24725"
+    },
+    {
+      "datetime": "2026-04-22T16:45:05+00:00",
+      "time_text": "16:45",
+      "link": "https://t.me/hackernews_summary/24724",
+      "views": "3"
+    },
+    {
+      "text": "Youth Suicides Declined After Creation of National Hotline\n\n\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24724"
+    },
     {
       "datetime": "2026-04-22T16:35:05+00:00",
       "time_text": "16:35",
       "link": "https://t.me/hackernews_summary/24723",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Bodega Cats of New York\n\n🔸The book documents New York City's bodega cats, highlighting their unique personalities and contributions to their stores. Advocacy efforts aim to legalize bodega cats, with two bills in committee and a petition signed by 14,000 people.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -299,44 +328,10 @@
     },
     {
       "post_id": "24706"
-    },
-    {
-      "datetime": "2026-04-22T11:55:05+00:00",
-      "time_text": "11:55",
-      "link": "https://t.me/hackernews_summary/24705",
-      "views": "7"
-    },
-    {
-      "text": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes\n\n🔸China's CATL unveiled a new lithium-iron phosphate battery, Shenxing 3.0, with faster charging speeds and improved cold-weather performance. It can charge from 10 to 98 percent in 6 minutes and 27 seconds, outperforming BYD's Blade 2.0 in similar conditions.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-3539224107403632894:1:65b5e3e3fd6f689bf1de7642bb37d7da8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24705"
-    },
-    {
-      "datetime": "2026-04-22T10:55:05+00:00",
-      "time_text": "10:55",
-      "link": "https://t.me/hackernews_summary/24704",
-      "views": "8"
-    },
-    {
-      "text": "Context Is Software, Weights Are Hardware\n\n🔸The difference between fine-tuning and in-context learning is more fundamental than previously thought, with the latter being a transient weight update that can be mathematically equivalent to one step of gradient descent. Weight modification adds new instructions to the model's architecture, enabling it to perform computations it couldn't before, whereas in-context learning is limited to the ...\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:3226842636703833856:1:65b5e3e3fd6f689b45f113f03537f1428211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24704"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-22T20:13:06.842961",
-    "new_count": 1
+    "last_update": "2026-04-22T20:35:33.765089",
+    "new_count": 2
   }
 }
