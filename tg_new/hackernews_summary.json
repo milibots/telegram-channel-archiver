@@ -15,10 +15,56 @@
   "returned_posts": 74,
   "posts": [
     {
+      "datetime": "2026-04-22T20:55:25+00:00",
+      "time_text": "20:55",
+      "link": "https://t.me/hackernews_summary/24745",
+      "views": "2"
+    },
+    {
+      "text": "Anonymous credentials: an illustrated primer (Part 2)\n\n🔸Privacy Pass is a widely used anonymous credential system that allows users to access websites without sacrificing their privacy, and it's used by companies like Apple, Google, and Cloudflare. The system uses a simple protocol that issues single-use \"wristband\" credentials, which can be bound to specific applications or time periods, and it's designed to be fast and secure.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:6320481903073828608:1:65b5e3e3fd6f689b4f029d755f4b5ec88211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24745"
+    },
+    {
+      "datetime": "2026-04-22T20:55:05+00:00",
+      "time_text": "20:55",
+      "link": "https://t.me/hackernews_summary/24744",
+      "views": "3"
+    },
+    {
+      "text": "Ping-pong robot beats top-level human players\n\n\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24744"
+    },
+    {
+      "datetime": "2026-04-22T20:50:05+00:00",
+      "time_text": "20:50",
+      "link": "https://t.me/hackernews_summary/24743",
+      "views": "4"
+    },
+    {
+      "text": "The great Scouse pasty war\n\n🔸Sayers, a Liverpool institution, declined due to a combination of factors including cost-cutting, loss of family ownership, and failure to adapt to changing consumer habits. Greggs, a Newcastle-based bakery chain, overtook Sayers through strategic acquisitions and innovative marketing.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-2618979941768421631:1:65b5e3e3fd6f689b4f029d755f4b5ec88211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24743"
+    },
+    {
       "datetime": "2026-04-22T20:35:04+00:00",
       "time_text": "20:35",
       "link": "https://t.me/hackernews_summary/24742",
-      "views": "1"
+      "views": "4"
     },
     {
       "text": "Homegrown – An interactive map of every 2025 FBS college football player\n\n🔸Data arm of TORCH FOOTBALL BETA → Every 2025 FBS player, mapped by hometown. Pick a team, conference, state, or position to see who's from where — or hit to put two side-by-side.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -30,7 +76,7 @@
       "datetime": "2026-04-22T20:15:04+00:00",
       "time_text": "20:15",
       "link": "https://t.me/hackernews_summary/24741",
-      "views": "2"
+      "views": "4"
     },
     {
       "text": "New study compares growing corn for energy to solar production. It's no contest\n\n🔸Researchers found that converting 3.2% of US corn-for-ethanol farmland to solar energy could increase US solar output and reduce ecological pressures. This modest conversion could yield the same energy as all corn ethanol farming does annually in the US.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -47,7 +93,7 @@
       "datetime": "2026-04-22T19:35:26+00:00",
       "time_text": "19:35",
       "link": "https://t.me/hackernews_summary/24740",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Scores decline again for 13-year-old students in reading and mathematics\n\n🔸NAEP long-term trend assessments showed 13-year-old students' average reading scores declined 4 points and math scores declined 9 points from 2020.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -59,7 +105,7 @@
       "datetime": "2026-04-22T19:35:05+00:00",
       "time_text": "19:35",
       "link": "https://t.me/hackernews_summary/24739",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "You don't need advice from editors on rejected manuscripts\n\n🔸Something went wrong, but don’t fret — let’s give it another shot. Some privacy related extensions may cause issues on x.com. Please disable them and try again.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -71,7 +117,7 @@
       "datetime": "2026-04-22T19:15:04+00:00",
       "time_text": "19:15",
       "link": "https://t.me/hackernews_summary/24738",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "We found a stable Firefox identifier linking all your private Tor identities\n\n🔸A Firefox-based browser vulnerability allows websites to derive a unique identifier from IndexedDB database ordering, linking activity across origins. Mozilla has fixed the issue in Firefox 150 and ESR 140.10.0.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -277,56 +323,10 @@
     },
     {
       "post_id": "24726"
-    },
-    {
-      "datetime": "2026-04-22T17:00:05+00:00",
-      "time_text": "17:00",
-      "link": "https://t.me/hackernews_summary/24725",
-      "views": "7"
-    },
-    {
-      "text": "The Tech Oligarch's Republic\n\n🔸The US is at a crossroads in the Iran war, with Palantir pushing for AI dominance and military control. Palantir's manifesto promotes war and surveillance, while its CEO Alexander Karp dismisses concerns about AI's role in genocide.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:4597183578925899522:1:65b5e3e3fd6f689b52c5243f47fb07e58211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24725"
-    },
-    {
-      "datetime": "2026-04-22T16:45:05+00:00",
-      "time_text": "16:45",
-      "link": "https://t.me/hackernews_summary/24724",
-      "views": "8"
-    },
-    {
-      "text": "Youth Suicides Declined After Creation of National Hotline\n\n\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24724"
-    },
-    {
-      "datetime": "2026-04-22T16:35:05+00:00",
-      "time_text": "16:35",
-      "link": "https://t.me/hackernews_summary/24723",
-      "views": "7"
-    },
-    {
-      "text": "Bodega Cats of New York\n\n🔸The book documents New York City's bodega cats, highlighting their unique personalities and contributions to their stores. Advocacy efforts aim to legalize bodega cats, with two bills in committee and a petition signed by 14,000 people.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "https://cdn4.telesco.pe/file/Z2nYlxnA4qvnsCi05njFitQJ5DPkOZIXbHzPEpt0tD8up4nKzaYWpeIuEmrv6vo-ucfOu9FHFcxBacKacMAWq1EXzKmr6DuPCZirtksF8G3MtzR0NYYDCSqnyLTlYlafHkNIDZTOjFeH0ZMzyHL_kFIwJk60KD_Qin170bQz_n9zmpAJt5wxZxYdRqkey9v39vcvdJ4xFXxONcBR7c5M7xh6JfTnVZ0jz775LpBzJLNF74umUckHqt3zH6-kUT1ORHW2DbD1MPDEFcSVlRTEheb4DyeHfSRlZ7a-UnFvHknAZnd8fIKcDr5TLxBnORxThSXjBvi18GsGKuBq9GLqGw.jpg"
-      ]
-    },
-    {
-      "post_id": "24723"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T00:06:35.595956",
-    "new_count": 1
+    "last_update": "2026-04-23T00:27:18.753806",
+    "new_count": 3
   }
 }
