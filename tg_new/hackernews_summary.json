@@ -15,10 +15,27 @@
   "returned_posts": 74,
   "posts": [
     {
+      "datetime": "2026-04-22T22:45:05+00:00",
+      "time_text": "22:45",
+      "link": "https://t.me/hackernews_summary/24750",
+      "views": "4"
+    },
+    {
+      "text": "Books are not too expensive\n\n🔸Book prices have increased over time, but when adjusted for inflation, they are actually lower than expected. Publishers face high costs and low profit margins, making it difficult to cut prices without harming authors and the publishing industry.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-3121836059652120830:1:65b5e3e3fd6f689b8ab514048170d5578211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24750"
+    },
+    {
       "datetime": "2026-04-22T22:20:04+00:00",
       "time_text": "22:20",
       "link": "https://t.me/hackernews_summary/24749",
-      "views": "2"
+      "views": "5"
     },
     {
       "text": "The Neon King of New Orleans\n\n🔸Nate Sheaffer, a neon artist, saves New Orleans' historic signs by refurbishing and designing new pieces at his shop Big Sexy Neon. He uses century-old techniques to create sustainable and long-lasting neon art, preserving the city's unique aesthetic.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +52,7 @@
       "datetime": "2026-04-22T21:20:05+00:00",
       "time_text": "21:20",
       "link": "https://t.me/hackernews_summary/24748",
-      "views": "7"
+      "views": "10"
     },
     {
       "text": "The Illuminated Man: an unconventional portrait of JG Ballard\n\n🔸Christopher Priest's biography of JG Ballard explores the writer's unique vision shaped by his childhood in Shanghai and experiences in a Japanese prisoner-of-war camp. Priest's work, completed by his partner Nina Allan, provides a complex and poignant account of Ballard's life and work.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +69,7 @@
       "datetime": "2026-04-22T21:10:25+00:00",
       "time_text": "21:10",
       "link": "https://t.me/hackernews_summary/24747",
-      "views": "8"
+      "views": "11"
     },
     {
       "text": "Adobe Is Cooked\n\n🔸Adobe's subscription model and prioritization of profit over innovation led to a decline in software quality and customer disrespect. The company's recent focus on AI features seems to be a desperate attempt to stay relevant, rather than addressing long-standing issues with their software.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -168,7 +185,7 @@
       "datetime": "2026-04-22T19:35:05+00:00",
       "time_text": "19:35",
       "link": "https://t.me/hackernews_summary/24739",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "You don't need advice from editors on rejected manuscripts\n\n🔸Something went wrong, but don’t fret — let’s give it another shot. Some privacy related extensions may cause issues on x.com. Please disable them and try again.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -180,7 +197,7 @@
       "datetime": "2026-04-22T19:15:04+00:00",
       "time_text": "19:15",
       "link": "https://t.me/hackernews_summary/24738",
-      "views": "5"
+      "views": "7"
     },
     {
       "text": "We found a stable Firefox identifier linking all your private Tor identities\n\n🔸A Firefox-based browser vulnerability allows websites to derive a unique identifier from IndexedDB database ordering, linking activity across origins. Mozilla has fixed the issue in Firefox 150 and ESR 140.10.0.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -197,7 +214,7 @@
       "datetime": "2026-04-22T18:45:05+00:00",
       "time_text": "18:45",
       "link": "https://t.me/hackernews_summary/24737",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "OpenAI: Workspace Agents for Business\n\n🔸OpenAI's workspace agents automate workflows, freeing teams to focus on higher-impact work. Agents use company tools to gather info and take action, following approved processes and governance.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -306,27 +323,10 @@
     },
     {
       "post_id": "24731"
-    },
-    {
-      "datetime": "2026-04-22T17:50:05+00:00",
-      "time_text": "17:50",
-      "link": "https://t.me/hackernews_summary/24730",
-      "views": "5"
-    },
-    {
-      "text": "Anker made its own chip to bring AI to all its products\n\n🔸Anker has developed a custom AI chip called Thus, which will be integrated into its Soundcore earbuds first. The Thus chip is smaller, more energy-efficient, and can handle complex computations, improving call audio quality in noisy environments.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:9081849511601643267:1:65b5e3e3fd6f689b54dff3af2a4d9b1f8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24730"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T02:10:58.763561",
-    "new_count": 0
+    "last_update": "2026-04-23T02:31:22.239307",
+    "new_count": 1
   }
 }
