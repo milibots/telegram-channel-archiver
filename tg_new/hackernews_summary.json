@@ -15,10 +15,27 @@
   "returned_posts": 76,
   "posts": [
     {
+      "datetime": "2026-04-22T15:40:05+00:00",
+      "time_text": "15:40",
+      "link": "https://t.me/hackernews_summary/24722",
+      "views": "1"
+    },
+    {
+      "text": "Top MAGA influencer revealed to be AI\n\n🔸An Indian man created a fake MAGA influencer, \"Emily Hart,\" using AI-generated images to scam conservative men online, making thousands of dollars a month. He used the money to fund his medical studies and emigrate to the US, calling his followers \"super-dumb\" for falling for the scam.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-3442120416881205501:1:65b5e3e3fd6f689bf636cd4eb793ceca8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24722"
+    },
+    {
       "datetime": "2026-04-22T15:16:07+00:00",
       "time_text": "15:16",
       "link": "https://t.me/hackernews_summary/24721",
-      "views": "1"
+      "views": "3"
     },
     {
       "text": "Monitor your Pi / OMP sessions\n\n🔸The pi-agent-dashboard is a web-based dashboard for monitoring and interacting with pi agent sessions from any browser, including mobile, with features like elapsed time tracking, session spawning, and integrated terminal. It can be installed globally or locally, and has a self-contained Electron app for standalone mode, with features like system tray integration, auto-update checker, and ...\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +52,7 @@
       "datetime": "2026-04-22T15:15:47+00:00",
       "time_text": "15:15",
       "link": "https://t.me/hackernews_summary/24720",
-      "views": "2"
+      "views": "4"
     },
     {
       "text": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model\n\n🔸Qwen3.6-27B is a 27-billion-parameter multimodal model that surpasses previous-generation models on major coding benchmarks. It is natively multimodal, supports both vision-language thinking and non-thinking modes, and is available for self-hosting and through Alibaba Cloud Model Studio API.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +69,7 @@
       "datetime": "2026-04-22T15:15:25+00:00",
       "time_text": "15:15",
       "link": "https://t.me/hackernews_summary/24719",
-      "views": "1"
+      "views": "2"
     },
     {
       "text": "Show HN submissions tripled and are now mostly vibe-coded\n\n🔸User analyzed 500 Show HN pages for AI design patterns, finding 21% with heavy slop, 46% mild, and 33% clean. The results suggest most sites are uninspired rather than AI-generated.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -64,7 +81,7 @@
       "datetime": "2026-04-22T15:15:05+00:00",
       "time_text": "15:15",
       "link": "https://t.me/hackernews_summary/24718",
-      "views": "1"
+      "views": "2"
     },
     {
       "text": "DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser\n\n🔸DuckDB v1.5.2 is a patch release with bugfixes, performance improvements, and support for DuckLake v1.0 lakehouse format. It includes a new WebAssembly shell and a test suite collaboration with Jepsen.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -316,27 +333,10 @@
     },
     {
       "post_id": "24703"
-    },
-    {
-      "datetime": "2026-04-22T10:30:05+00:00",
-      "time_text": "10:30",
-      "link": "https://t.me/hackernews_summary/24702",
-      "views": "9"
-    },
-    {
-      "text": "Irony as Meta staff unhappy about running surveillance software on work PCs\n\n🔸Meta is installing surveillance software on employees' work computers to gather data for AI model development. The tool will record keystrokes, mouse movements, and screenshots of employees' work activities.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-2504218362465870077:1:65b5e3e3fd6f689b636ad4bf5ee4cfbd8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24702"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-22T18:50:17.495334",
-    "new_count": 0
+    "last_update": "2026-04-22T19:10:53.787382",
+    "new_count": 1
   }
 }
