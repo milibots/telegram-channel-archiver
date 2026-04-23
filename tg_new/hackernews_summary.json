@@ -11,14 +11,26 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 75,
-  "returned_posts": 75,
+  "total_posts": 74,
+  "returned_posts": 74,
   "posts": [
+    {
+      "datetime": "2026-04-23T01:00:05+00:00",
+      "time_text": "01:00",
+      "link": "https://t.me/hackernews_summary/24753",
+      "views": "1"
+    },
+    {
+      "text": "Approximating Hyperbolic Tangent\n\n🔸The hyperbolic tangent function tanh is approximated using various methods including Taylor series, Padé approximants, splines, and bitwise manipulation techniques like K-TanH and Schraudolph to achieve fast and accurate results. These methods are particularly useful in neural networks and audio signal processing where speed and accuracy are crucial.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24753"
+    },
     {
       "datetime": "2026-04-23T00:15:04+00:00",
       "time_text": "00:15",
       "link": "https://t.me/hackernews_summary/24752",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "How to Stop a Data Center in Your Backyard\n\n🔸Community groups in Monterey Park, California, and the surrounding areas organized against data centers, citing environmental concerns and lack of transparency from local governments. Organizers in the Imperial Valley, California, also protested against a proposed data center, highlighting the region's history of environmental injustices and the need for public input in decision-making processes.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +47,7 @@
       "datetime": "2026-04-22T23:35:05+00:00",
       "time_text": "23:35",
       "link": "https://t.me/hackernews_summary/24751",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Show HN: Ghost Pepper Meet local meeting transcription and diarization\n\n🔸This is a Mac app that uses Apple Silicon for speech recognition. It's private and doesn't upload data to the cloud.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -311,27 +323,10 @@
     },
     {
       "post_id": "24734"
-    },
-    {
-      "datetime": "2026-04-22T18:10:27+00:00",
-      "time_text": "18:10",
-      "link": "https://t.me/hackernews_summary/24733",
-      "views": "4"
-    },
-    {
-      "text": "Who Killed the Florida Orange?\n\n🔸Citrus growers in florida have lost about three-quarters of their business. the state government has eroding concurrency, allowing housing developers to buy them out. cnn's john sutter talks to citrus industry leaders at the 2026 florida citrus show a year after the disease was first discovered. citrus farmers say they're trying to hold on to the processing capacity they have now - and will ...\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-3556761850971742462:1:65b5e3e3fd6f689bff87bea4ac997f918211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24733"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T04:13:34.216924",
-    "new_count": 0
+    "last_update": "2026-04-23T04:34:00.694268",
+    "new_count": 1
   }
 }
