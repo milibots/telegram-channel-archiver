@@ -18,7 +18,7 @@
       "datetime": "2026-04-22T18:12:01+00:00",
       "time_text": "18:12",
       "link": "https://t.me/hiaimediaen/2480",
-      "views": "5.28K"
+      "views": "5.35K"
     },
     {
       "text": "⏫ AI Designs ADHD Peptide In 24 Hours\n\nThe decentralized science project Bio Protocol and the PeptAI platform said they used AI to design OX2R-004, a peptide for the potential treatment of attention-deficit/hyperactivity disorder, in just 24 hours.\n\nOne hypothesis about the biology of ADHD is a deficit of orexins. These peptides (chains of amino acids) are produced in the hypothalamus and help regulate nervous system activity, circadian rhythms, and sleep-wake cycles. All existing drugs that act on orexin receptors are receptor antagonists (blockers) used to treat insomnia.\n\nOX2R-004 was designed as an agonist, or activator, of the OX2R receptor. It is meant to mimic natural orexin and help stabilize the body's signaling, supporting communication between brain regions needed for concentration. There are currently no approved orexin receptor agonists on the market, while most clinical development in this area is focused on treating sleepiness and narcolepsy.\n\n⚡️ Is This A Ready-Made ADHD Drug?\n\nNot yet. For now, this is an early computational model, not a finished medicine, and the molecule still needs significant refinement. OX2R-004 breaks down too quickly, is unlikely to cross the blood-brain barrier, and may carry unwanted off-target risks.\n\nHowever, without ML tools that helped predict the peptide's shape, receptor activity, toxicity, and other parameters, even this early work could have taken months. AI handled a significant part of that process in just one day.\n\nHave you had any experience with ADHD?\n\n🔥 — Yes\n🤔 — No\n\n@hiaimediaen"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-22T08:20:59+00:00",
       "time_text": "08:20",
       "link": "https://t.me/hiaimediaen/2479",
-      "views": "9.42K"
+      "views": "9.47K"
     },
     {
       "text": "👨 An elderly Chinese woman has been talking to an AI clone of her son for over a year, without knowing that he died in an accident\n\nThe woman is over 80 years old and has heart problems. Her family decided that telling her the truth could be too much of a shock.\n\nSo they turned to a team of developers, gave them photos, videos, and voice recordings of the man in his native dialect, and received a realistic avatar that looks, speaks, and even moves almost like the real person.\n\nNow this \"son\" talks to his mother every day via video call. She still tells him to dress warmly, eat well, and take care of himself, and the digital copy replies that he's working hard in another city, which is why he can't visit her. According to Zhang Zewei, the system's creator, the avatar even mimics the man's habit of leaning forward slightly while talking.\n\n✏️ The story caused a strong reaction on social media. Some called the AI son a \"white lie\" and a way to comfort someone who couldn't bear such a loss. Others saw it as emotional deception that could cause even more pain if the truth is ever discovered.\n\nWhat do you think? Is this a \"lie for good\"?\n\n❤️ — Yes, it's okay  \n🔥 — No, she should know the truth\n\n@hiaimediaen"
@@ -114,7 +114,7 @@
       "datetime": "2026-04-21T09:32:51+00:00",
       "time_text": "09:32",
       "link": "https://t.me/hiaimediaen/2469",
-      "views": "9.91K"
+      "views": "9.92K"
     },
     {
       "text": "📸 An AI Camera That Writes Poems Instead of Taking Photos\n\nAmerican designers Carolyn Zhang and Ryan Mather have сreated the Poetry Camera. This Polaroid-style camera writes poems inspired by whatever is in the frame, rather than taking photos.\n\nInside the 3D-printed device is a small sensor and a credit-card-sized Raspberry Pi single-board computer.\n\nWhen you press the button, the camera takes a photo and runs a script that sends it to a multimodal LLM. The algorithms then interpret the image and generate a poem, and you can immediately print it on thermal paper.\n\n💡 The original photo is never saved or stored anywhere, for maximum data privacy—the user gets only the poem, with the date and time printed on the paper.\n\n\"Everyone has a camera in their pocket through their cell phone now—we wanted to do something very different,\" the device's creators explain.\n\n➡️ You can buy the camera for &#036;349 or build it yourself—the developers have posted the detailed instructions on GitHub.\n\nWould you use a camera like this?\n\n❤️ — Yes, an interesting concept\n🔥 — No, useless gadget\n\n@hiaimediaen"
@@ -131,7 +131,7 @@
       "datetime": "2026-04-20T21:28:31+00:00",
       "time_text": "21:28",
       "link": "https://t.me/hiaimediaen/2468",
-      "views": "11.4K"
+      "views": "11.5K"
     },
     {
       "text": "❗️ Tim Cook Steps Down as Apple CEO\n\nThe corporation announced that Tim Cook, who has led the company for the past 15 years, will become Apple's Executive Chairman effective September 1.\n\nThe 65-year-old Cook will be succeeded as chief executive officer by 50-year-old John Ternus, Senior Vice President of Hardware Engineering.\n\nUnder Cook's leadership, Apple's market capitalization grew from &#036;350 billion to &#036;4 trillion.\n\nℹ️ Rumors that Ternus would become Apple's next leader had been circulating since last year.\n\nTernus has been with Apple since 2001, working on the company's flagship products, including Mac, iPhone, iPad, and AirPods, and overseeing the groundbreaking iPhone Air and MacBook Neo.\n\nCook reportedly values the \"engineer at heart\" Ternus for his ability to present and his cautious approach to decision-making.\n\n🔄 In his statement on the appointment, Ternus kept things general, expressing \"optimism about the years to come.\" But his first and defining challenge will be Apple's standing in the AI race. More precisely: whether Apple can compete on equal footing, or whether it will bow out for good.\n\nWhat do you think of Apple under Tim Cook?\n\n❤️ — The company has reached its peak \n🔥 — Jobs' legacy is lost...\n\n@hiaimediaen"
@@ -265,7 +265,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T05:35:01.069008",
+    "last_update": "2026-04-23T05:55:23.974193",
     "new_count": 0
   }
 }
