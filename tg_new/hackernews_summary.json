@@ -15,10 +15,44 @@
   "returned_posts": 77,
   "posts": [
     {
+      "datetime": "2026-04-23T18:15:04+00:00",
+      "time_text": "18:15",
+      "link": "https://t.me/hackernews_summary/24802",
+      "views": "3"
+    },
+    {
+      "text": "People Do Not Yearn for Automation\n\n🔸Is editor-in-chief of the verge, host of the decoder podcast and co-host of tv show. he says software brain is changing the world, but most people aren't buying it. poll after poll shows that gen z uses ai the most and has most negative feelings about it - edward mccaffery. the tech industry needs to make the case for the investments it's making in ai, author says\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-4729570629158691071:1:65b5e3e3fd6f689b338c5b7d342f2e1b8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24802"
+    },
+    {
+      "datetime": "2026-04-23T18:05:05+00:00",
+      "time_text": "18:05",
+      "link": "https://t.me/hackernews_summary/24801",
+      "views": "3"
+    },
+    {
+      "text": "An update on recent Claude Code quality reports\n\n🔸Claude's responses worsened for some users due to three separate changes affecting Claude Code, the Claude Agent SDK, and Claude Cowork. We've fixed the issues and will implement changes to prevent similar problems in the future.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:2092779445809979139:1:65b5e3e3fd6f689b338c5b7d342f2e1b8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24801"
+    },
+    {
       "datetime": "2026-04-23T17:55:05+00:00",
       "time_text": "17:55",
       "link": "https://t.me/hackernews_summary/24800",
-      "views": "1"
+      "views": "3"
     },
     {
       "text": "Palantir Employees Are Starting to Wonder If They're the Bad Guys\n\n🔸Palantir employees are questioning the company's involvement in immigration enforcement and its relationship with the Trump administration. The company's leadership has been criticized for its handling of internal dissent and its defense of its work with ICE and the US military.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +69,7 @@
       "datetime": "2026-04-23T17:45:05+00:00",
       "time_text": "17:45",
       "link": "https://t.me/hackernews_summary/24799",
-      "views": "2"
+      "views": "3"
     },
     {
       "text": "MeshCore development team splits over trademark dispute and AI-generated code\n\n🔸A team member, Andy Kirby, secretly used AI-generated code to take over the MeshCore ecosystem, sparking a dispute over ownership and control. The core team has now separated from Andy and will continue to develop and release MeshCore firmware and app updates on their official website, meshcore.io.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -304,44 +338,10 @@
     },
     {
       "post_id": "24783"
-    },
-    {
-      "datetime": "2026-04-23T12:45:05+00:00",
-      "time_text": "12:45",
-      "link": "https://t.me/hackernews_summary/24782",
-      "views": "8"
-    },
-    {
-      "text": "Surveillance vendors caught abusing access to telcos to track people's locations\n\n🔸Citizen Lab exposed two surveillance campaigns using \"ghost\" companies to exploit phone network vulnerabilities. The campaigns targeted individuals worldwide, using SS7 and Diameter flaws to geolocate phones.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-4981498355110699262:1:65b5e3e3fd6f689b258302306f1efe858211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24782"
-    },
-    {
-      "datetime": "2026-04-23T12:30:05+00:00",
-      "time_text": "12:30",
-      "link": "https://t.me/hackernews_summary/24781",
-      "views": "11"
-    },
-    {
-      "text": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite\n\n🔸Honker is a SQLite extension and language bindings that add durable pub/sub, task queue, and event streams to SQLite without client polling or a daemon/broker, allowing atomic business writes and side-effect enqueues. It achieves single-digit millisecond reaction time and supports various languages including Python, Node, Rust, Go, Ruby, Bun, and Elixir.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-3707078342786605311:1:65b5e3e3fd6f689b258302306f1efe858211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24781"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T21:29:12.217054",
+    "last_update": "2026-04-23T21:49:55.103178",
     "new_count": 2
   }
 }
