@@ -15,10 +15,27 @@
   "returned_posts": 76,
   "posts": [
     {
+      "datetime": "2026-04-23T23:10:05+00:00",
+      "time_text": "23:10",
+      "link": "https://t.me/hackernews_summary/24819",
+      "views": "2"
+    },
+    {
+      "text": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market\n\n🔸US Army Soldier Gannon Ken Van Dyke charged with using classified information for personal gain, making over &#036;400,000 in illegal trades on Polymarket. He faces up to 40 years in prison for violating federal laws and misusing national security information.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/j18lcEPu0f84GBk0pd8_j6EvjuPEDHuhWi9-XovAP6bKkuFpx9xUM1kv40aYWkJkrMMetw4__eJkyL11bc-OybB7XhpTV_yfhgzdMebUNmtK2p9XxjoQpaRntxMl5QRsG4o9awZ04Or8iDL8GP7rpLOfebzPihDRXfkXqiXsrLNUfCkvYlIlj5ayC2VYGF41lmE7Cxo1H3ukImoGQL7Dy95_TGjXEpzQJUAjyTrODisBkaKCw7h1jiuFZdvd97w8bVWNfb50xQn2iUTXZo2ePcWAU04Mpou7mmg-J0MIu4k_1JoTreAmORlogJbm3sRHA4Du4mcFWKtAW5BRFJz2cg.jpg"
+      ]
+    },
+    {
+      "post_id": "24819"
+    },
+    {
       "datetime": "2026-04-23T22:50:05+00:00",
       "time_text": "22:50",
       "link": "https://t.me/hackernews_summary/24818",
-      "views": "1"
+      "views": "3"
     },
     {
       "text": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases\n\n🔸Tolaria is a Mac app for managing markdown knowledge bases with features like offline use, open source, and keyboard-first design. It's built for power-users with a focus on flexibility and portability.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -30,7 +47,7 @@
       "datetime": "2026-04-23T21:45:05+00:00",
       "time_text": "21:45",
       "link": "https://t.me/hackernews_summary/24817",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "GPT-5.5: Mythos-Like Hacking, Open to All\n\n🔸OpenAI's GPT-5.5 model outperforms previous versions in vulnerability detection, reducing the miss rate to 10%. It also excels in black box testing and white box testing, making it a key part of the stack for penetration testing workflows.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -98,7 +115,7 @@
       "datetime": "2026-04-23T21:15:26+00:00",
       "time_text": "21:15",
       "link": "https://t.me/hackernews_summary/24813",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "Show HN: Agent Vault – Open-source credential proxy and vault for agents\n\n🔸Agent Vault is an open-source credential broker that eliminates credential exfiltration risk by injecting credentials at the network layer. It works with any agent, including custom Python/TypeScript agents and coding agents like Claude Code.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -115,7 +132,7 @@
       "datetime": "2026-04-23T21:15:05+00:00",
       "time_text": "21:15",
       "link": "https://t.me/hackernews_summary/24812",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "Microsoft offers buyouts up to 7% of US employees\n\n🔸Microsoft is offering buyouts to employees whose years of service plus age total 70 or more, with some exceptions. This move aims to reduce headcount by 8,750 employees, or 7% of its US workforce.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -287,7 +304,7 @@
       "datetime": "2026-04-23T18:05:05+00:00",
       "time_text": "18:05",
       "link": "https://t.me/hackernews_summary/24801",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "An update on recent Claude Code quality reports\n\n🔸Claude's responses worsened for some users due to three separate changes affecting Claude Code, the Claude Agent SDK, and Claude Cowork. We've fixed the issues and will implement changes to prevent similar problems in the future.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -316,27 +333,10 @@
     },
     {
       "post_id": "24800"
-    },
-    {
-      "datetime": "2026-04-23T17:45:05+00:00",
-      "time_text": "17:45",
-      "link": "https://t.me/hackernews_summary/24799",
-      "views": "5"
-    },
-    {
-      "text": "MeshCore development team splits over trademark dispute and AI-generated code\n\n🔸A team member, Andy Kirby, secretly used AI-generated code to take over the MeshCore ecosystem, sparking a dispute over ownership and control. The core team has now separated from Andy and will continue to develop and release MeshCore firmware and app updates on their official website, meshcore.io.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-1078261301791023359:1:65b5e3e3fd6f689b9cd22565f14c0bfc8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24799"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T02:21:20.483078",
+    "last_update": "2026-04-24T02:42:01.104348",
     "new_count": 1
   }
 }

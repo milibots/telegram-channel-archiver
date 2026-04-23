@@ -3,7 +3,7 @@
   "channel": "mohammad_zammani",
   "channel_title": "هوش مصنوعی | محمد زمانی",
   "channel_username": "@mohammad_zammani",
-  "channel_avatar": "bale:46627310:-6501414135440859389:1:65b5e3e3fd6f689b8ae0819bdd69b9218211e6c76420e4b7",
+  "channel_avatar": "https://cdn4.telesco.pe/file/MMmle0fbTSuHYIXmA6dtCS6vt2HZIvh8Ita0oOh_Kc4QZ_jV5u1Q-VmKaT4ijjaC9lhw4belPLSE9XVhg_R1vl2NxYZHfFEB3CxOGj1yJEbb2-UnN8GQxncazrlt_9aeFEA0A5lHdpgR3hbxgNM3PuUViawYzRsQRNo-rsdc7U2Vt2PKGrltVPtMcT_ZxPD9Cf4BEwbH-1ISnaLXxafKXzU4b6xsgKu3pRzkRP1O9XyepVBr-gac4HyTZD8MNx4XGIzw1CFQrS4FNZYZW0w3YppaifQM2a9o6J9LRv_xnpB2E3QSMe4qMGAN36mXmHkg4Z7GSSBKdWmCbG_xD8BrQQ.jpg",
   "channel_verified": false,
   "channel_subscribers": "10.3K",
   "channel_photos": null,
@@ -238,7 +238,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T02:21:07.437262",
+    "last_update": "2026-04-24T02:41:37.726194",
     "new_count": 0
   }
 }
