@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T06:55:04+00:00",
       "time_text": "06:55",
       "link": "https://t.me/hackernews_summary/24769",
-      "views": "2"
+      "views": "3"
     },
     {
       "text": "Ars Technica: Our newsroom AI policy\n\n🔸Ars Technica uses generative AI tools in its workflow, but only with human oversight and standards. The site's editorial text is written by humans, and AI output is never treated as an authoritative source.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-23T05:20:45+00:00",
       "time_text": "05:20",
       "link": "https://t.me/hackernews_summary/24768",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "The Onion to Take over InfoWars\n\n\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -47,7 +47,7 @@
       "datetime": "2026-04-23T05:20:25+00:00",
       "time_text": "05:20",
       "link": "https://t.me/hackernews_summary/24767",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic\n\n🔸Anthropic's claude mythos preview turns out to be like the ending of the wizard of oz. a competent human exploit developer would converge on the same two bugs faster than you can read the system card, says scott wilson of crowdstrike.com. the 90-day report is supposed to answer the question of whether it actually finds anything extraordinary in their systems, he says. but it is being ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -64,7 +64,7 @@
       "datetime": "2026-04-23T05:20:05+00:00",
       "time_text": "05:20",
       "link": "https://t.me/hackernews_summary/24766",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "I am building a cloud\n\n🔸The author is building exe.dev, a cloud platform that addresses the limitations of current cloud services, allowing users to run VMs on their own resources and manage them easily. The goal is to create a cloud that is more flexible and user-friendly, with local NVMe storage, global regions, and a simple, intuitive interface.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -76,7 +76,7 @@
       "datetime": "2026-04-23T05:10:04+00:00",
       "time_text": "05:10",
       "link": "https://t.me/hackernews_summary/24765",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Flow Map Learning via Nongradient Vector Flow [pdf]\n\n🔸SGFlow is a method for learning flow maps that bypasses explicit invertibility constraints and expensive differentiation through model iteration, allowing for faster sampling from diffusion and flow models. SGFlow trains a model to compute both the ODE solutions and the implied velocity from scratch by following non-conservative dynamics, achieving favorable results on the CIFAR image ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -88,7 +88,7 @@
       "datetime": "2026-04-23T04:50:27+00:00",
       "time_text": "04:50",
       "link": "https://t.me/hackernews_summary/24764",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "It's time to reclaim the word \"Palantir\" for JRR Tolkien\n\n🔸The speaker, a former Palantir employee, argues that Palantir's tools are used for surveillance and prediction, leading to accountability loss and institutional bias. They aim to reclaim language and challenge the company's ontology, which can be used to harm people and reflect authoritarian worldviews.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -105,7 +105,7 @@
       "datetime": "2026-04-23T04:50:06+00:00",
       "time_text": "04:50",
       "link": "https://t.me/hackernews_summary/24763",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?\n\n🔸A bacterial flagellar motor rotates counterclockwise, propelling the cell through the water. the motor can also rotate clockwise causing the bacterium to tumble about randomly. protons flow into cells because they're diffusing from an area of high concentration (outside) to an (inside). the voltage drops to nothing, and cell machinery shuts down if the system isn't working optimally, says ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -122,7 +122,7 @@
       "datetime": "2026-04-23T04:20:04+00:00",
       "time_text": "04:20",
       "link": "https://t.me/hackernews_summary/24762",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Borrow-checking without type-checking\n\n🔸The user is designing a toy language with dynamic typing, inline values, stack allocation, interior pointers, single ownership, and a limited form of borrowing, aiming to provide the simplicity of value semantics while keeping the performance of reference semantics. The language uses reference counting to enforce mutable value semantics, with a focus on predictable performance and a simple ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -139,7 +139,7 @@
       "datetime": "2026-04-23T03:35:05+00:00",
       "time_text": "03:35",
       "link": "https://t.me/hackernews_summary/24761",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "How the Heck does Shazam work?\n\n🔸A phone identifies a song by breaking down sound into a three-dimensional representation called a spectrogram, which is then reduced to a set of unique \"fingerprints\" or hashes. These hashes are compared to a massive database of songs, allowing the phone to instantly identify the song, even in a noisy environment.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -156,7 +156,7 @@
       "datetime": "2026-04-23T02:55:25+00:00",
       "time_text": "02:55",
       "link": "https://t.me/hackernews_summary/24760",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "OpenAI's response to the Axios developer tool compromise\n\n🔸OpenAI is updating security certificates for macOS apps due to a third-party developer library, Axios, being compromised. Users must update their apps to the latest versions by May 8, 2026, to prevent potential risks of fake apps.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -173,7 +173,7 @@
       "datetime": "2026-04-23T02:55:04+00:00",
       "time_text": "02:55",
       "link": "https://t.me/hackernews_summary/24759",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "The handmade beauty of Machine Age data visualizations\n\n🔸William James, a psychologist and philosopher, was a talented visual artist who contributed to the development of data visualization in the 19th century. His work, along with that of Francis Galton and W.E.B. Du Bois, highlights the importance of handmade data visualization and the role of creativity in thinking.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -190,7 +190,7 @@
       "datetime": "2026-04-23T02:35:25+00:00",
       "time_text": "02:35",
       "link": "https://t.me/hackernews_summary/24758",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game\n\n🔸The user discussed three book-length projects about classic video games: TEMPEST vs TEMPEST, IRIDIS ALPHA THEORY, and psychedelia syndrome, which delve into the mechanics and source code of the games. The books are free to download and offer in-depth analysis of the games.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -207,7 +207,7 @@
       "datetime": "2026-04-23T02:35:04+00:00",
       "time_text": "02:35",
       "link": "https://t.me/hackernews_summary/24757",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Verus is a tool for verifying the correctness of code written in Rust\n\n🔸Verus is a tool for verifying Rust code correctness using computer-aided theorem proving. It extends Rust's syntax with new concepts for writing specifications and proofs.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -219,7 +219,7 @@
       "datetime": "2026-04-23T02:00:05+00:00",
       "time_text": "02:00",
       "link": "https://t.me/hackernews_summary/24756",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Rip language. Compiles to ES2022. Built-in reactivity\n\n🔸Rip is a modern language inspired by CoffeeScript, compiling to ES2022 with built-in reactivity and a self-hosting compiler. It adds new operators and features like schema declarations, interactive REPL, and a UI framework for building web applications.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -236,7 +236,7 @@
       "datetime": "2026-04-23T01:50:05+00:00",
       "time_text": "01:50",
       "link": "https://t.me/hackernews_summary/24755",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Effectful Recursion Schemes\n\n🔸The user discusses implementing recursion schemes in Effekt, a functional programming language, using effects and handlers instead of infinite recursive types. They showcase various examples of catamorphisms, anamorphisms, and hylomorphisms in Effekt, including a refunctionalized variant of a Term data structure and its applications.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -248,7 +248,7 @@
       "datetime": "2026-04-23T01:20:05+00:00",
       "time_text": "01:20",
       "link": "https://t.me/hackernews_summary/24754",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Bring your own Agent to MS Teams\n\n🔸The Teams TypeScript SDK allows you to integrate your existing HTTP server with Teams by registering a messaging endpoint and handling incoming requests. The SDK provides a pattern for integrating with Express, LangChain, and Azure Foundry, and can be used with other HTTP servers and frameworks.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -265,7 +265,7 @@
       "datetime": "2026-04-23T01:00:05+00:00",
       "time_text": "01:00",
       "link": "https://t.me/hackernews_summary/24753",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Approximating Hyperbolic Tangent\n\n🔸The hyperbolic tangent function tanh is approximated using various methods including Taylor series, Padé approximants, splines, and bitwise manipulation techniques like K-TanH and Schraudolph to achieve fast and accurate results. These methods are particularly useful in neural networks and audio signal processing where speed and accuracy are crucial.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -277,7 +277,7 @@
       "datetime": "2026-04-23T00:15:04+00:00",
       "time_text": "00:15",
       "link": "https://t.me/hackernews_summary/24752",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "How to Stop a Data Center in Your Backyard\n\n🔸Community groups in Monterey Park, California, and the surrounding areas organized against data centers, citing environmental concerns and lack of transparency from local governments. Organizers in the Imperial Valley, California, also protested against a proposed data center, highlighting the region's history of environmental injustices and the need for public input in decision-making processes.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -294,7 +294,7 @@
       "datetime": "2026-04-22T23:35:05+00:00",
       "time_text": "23:35",
       "link": "https://t.me/hackernews_summary/24751",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "Show HN: Ghost Pepper Meet local meeting transcription and diarization\n\n🔸This is a Mac app that uses Apple Silicon for speech recognition. It's private and doesn't upload data to the cloud.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -311,7 +311,7 @@
       "datetime": "2026-04-22T22:45:05+00:00",
       "time_text": "22:45",
       "link": "https://t.me/hackernews_summary/24750",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "Books are not too expensive\n\n🔸Book prices have increased over time, but when adjusted for inflation, they are actually lower than expected. Publishers face high costs and low profit margins, making it difficult to cut prices without harming authors and the publishing industry.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -326,7 +326,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T10:26:16.802879",
-    "new_count": 1
+    "last_update": "2026-04-23T10:46:47.048793",
+    "new_count": 0
   }
 }
