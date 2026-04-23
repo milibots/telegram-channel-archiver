@@ -15,10 +15,56 @@
   "returned_posts": 76,
   "posts": [
     {
+      "datetime": "2026-04-23T20:45:25+00:00",
+      "time_text": "20:45",
+      "link": "https://t.me/hackernews_summary/24811",
+      "views": "1"
+    },
+    {
+      "text": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge\n\n🔸We're verifying your browser Website owner? Click here to fix\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24811"
+    },
+    {
+      "datetime": "2026-04-23T20:45:05+00:00",
+      "time_text": "20:45",
+      "link": "https://t.me/hackernews_summary/24810",
+      "views": "1"
+    },
+    {
+      "text": "Using the internet like it's 1999\n\n🔸The author believes the internet has become a controlled echochamber where people are fed algorithmically generated content, and suggests using older technologies like RSS feeds, IRC, and email to reclaim agency over attention and information.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/sd1Dr9vt53Q14sRFsE2_JjYgnIN2C1m0CdalDYSbFoPUijZ6Ni7jSaaKN6HHFLRKk2lmVmi-qLcTxShMTOLCz44vTaXuVMc9WHlCxOA0rTjAyCmLmUX_dGWTKjlOMfTsZR9wzSEDOcN0Q3qgMpt2Vm1eqgxqBrYrK5HCeDigWIjyt4gc7SvRnnsN4ruue0Y9E6sHAG4yXCggqwjlaXolFGCLUdIOfjqWp1HZZZjzm82n11z5v26MmIFgMttRWkEO1lysBXw3tGTlpSi-1-e1qT0VotVEgSbAqoDONga0B-iEqTbp7kBifRXctXQtS1b5ePo9tpsE-AR3y21HBtBdgg.jpg"
+      ]
+    },
+    {
+      "post_id": "24810"
+    },
+    {
+      "datetime": "2026-04-23T20:35:05+00:00",
+      "time_text": "20:35",
+      "link": "https://t.me/hackernews_summary/24809",
+      "views": "3"
+    },
+    {
+      "text": "Advanced Packaging Limits Come into Focus\n\n🔸Packaging is now a performance variable, with warpage and mechanical issues complicating continued scaling. Advanced packages are no longer simple structures, but mechanically asymmetrical systems with different layers expanding, softening, and storing stress differently.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/d0hUkdXKhon9_QFPZRPeyR08MqsOoicGOjd5Vxd-hbRcdceCEnlIt87ewz9yYDQEm4rQEhZwBJbjVkXnVe8Bwr-roisG4SJesyJBY2RZV9uqEaLMulwn1jDLQ5tqu6a3ejk1kaNJHvihDXRwYS4gwN5ovYJ5NrTjI_kyMOLmBvjxjYcH0qRNfvdmEg46dZuE9IXFNuxGzkJKZM3bc3e6InxDVLhI5qdYoFLL9MvECFPy-CbIG4RbziZGIamy209TLtIsF39iFyaREgLyxgq79NQ9BXNLFZZUAL8fmXW60gQIGGW2MbkP97zYwAaT-oOpJUb4AU8v4TkAGZO9QMPQmQ.jpg"
+      ]
+    },
+    {
+      "post_id": "24809"
+    },
+    {
       "datetime": "2026-04-23T20:20:05+00:00",
       "time_text": "20:20",
       "link": "https://t.me/hackernews_summary/24808",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "WireGuard for Windows Reaches v1.0\n\n🔸Jason Donenfeld announced the v1.0 release of WireGuardNT and WireGuard for Windows with bug fixes and improvements including NdisWdfGetAdapterContextFromAdapterHandle() and proper MTU change notifications. The release also includes 42 bug and correctness fixes for WireGuardNT and a new feature for setting system DNS server programmatically on older Windows 10 versions.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -287,56 +333,10 @@
     },
     {
       "post_id": "24792"
-    },
-    {
-      "datetime": "2026-04-23T15:50:05+00:00",
-      "time_text": "15:50",
-      "link": "https://t.me/hackernews_summary/24791",
-      "views": "8"
-    },
-    {
-      "text": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets\n\n🔸James Giovansanti, a NYPD officer, has accumulated 547 speeding tickets in Staten Island since 2022, averaging one ticket every other day. His record makes him the second-most-reckless driver in the city, posing a unique danger to himself and others.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-1329807803217666304:1:65b5e3e3fd6f689b3891e65dfe5303978211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24791"
-    },
-    {
-      "datetime": "2026-04-23T15:20:25+00:00",
-      "time_text": "15:20",
-      "link": "https://t.me/hackernews_summary/24790",
-      "views": "11"
-    },
-    {
-      "text": "A History of Erasures Learning to Write Like Leylâ Erbil\n\n🔸The author initially dismissed Leylâ Erbil's work as outdated and self-indulgent, but later reevaluated her experimental novel \"What Remains\" as a powerful challenge to literary conventions in Turkey. Erbil's autofiction explores Turkish history, politics, and identity through a stream-of-consciousness narrative that blurs the lines between personal and public trauma.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24790"
-    },
-    {
-      "datetime": "2026-04-23T15:20:05+00:00",
-      "time_text": "15:20",
-      "link": "https://t.me/hackernews_summary/24789",
-      "views": "13"
-    },
-    {
-      "text": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign\n\n🔸Bitwarden CLI 2026.4.0 was compromised through a GitHub Action in its CI/CD pipeline as part of the Checkmarx supply chain campaign. Users are advised to review CI logs and rotate exposed secrets.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:3941820184517811971:1:65b5e3e3fd6f689ba1a234f0f914461d8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24789"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T23:56:07.186868",
-    "new_count": 2
+    "last_update": "2026-04-24T00:16:55.900463",
+    "new_count": 3
   }
 }
