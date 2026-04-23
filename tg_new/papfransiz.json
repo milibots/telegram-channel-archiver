@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T15:16:23+00:00",
       "time_text": "15:16",
       "link": "https://t.me/papFransiz/401",
-      "views": "84"
+      "views": "87"
     },
     {
       "text": "https://github.com/code3-dev/GNet/releases/download/v1.0.4/GNet-universal.apk"
@@ -30,7 +30,7 @@
       "datetime": "2026-04-23T14:17:27+00:00",
       "time_text": "14:17",
       "link": "https://t.me/papFransiz/400",
-      "views": "116"
+      "views": "117"
     },
     {
       "text": "این میرور چینی برای دانشگاه پکن است و با اکثر نت ها باز میشه هر چی که لازم دارید داخلش هست  مثلا :\nمیرور های لینوکس و دیسترو هاش\narchlinux,ubnuto, ..\n\nابزارهای برنامه‌نویسی مثل  nodejs,.net,python,go\n\npackage manager  : npm , docker , apache , maven,gradle , pypi\n\niso arch مثل arch , debia, centos,fedora,a ubunto\n\nبرنامه ها هم مثل docker desktio m nodejs git vscode emacs vim postman\n\nی چند تا امنیت شبکه nmap wireshark matesploit kali linux\n\nhttps://mirrors.bfsu.edu.cn/"
@@ -42,7 +42,7 @@
       "datetime": "2026-04-23T09:14:26+00:00",
       "time_text": "09:14",
       "link": "https://t.me/papFransiz/399",
-      "views": "325"
+      "views": "330"
     },
     {
       "text": "Getting network automation right: A practical strategy for enterprise networks\n\nhttps://blog.apnic.net/2026/03/16/getting-network-automation-right-a-practical-strategy-for-enterprise-networks/"
@@ -54,7 +54,7 @@
       "datetime": "2026-04-22T17:52:50+00:00",
       "time_text": "17:52",
       "link": "https://t.me/papFransiz/398",
-      "views": "627"
+      "views": "630"
     },
     {
       "text": "اسکریپت نصب ترکیبی و خودکار پکیجهای : \n\n-امنیزیا وایرگارد(AmneziaWG) بهمراه pbr و لیست آدرسهای آي پی ایران مناسب برای همه روترهای دارای پشتیبانی از OpenWrt آخرین نسخه 24.10.3:\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --amnezia --pbr --ir\n\n-پسوال ۲ بهمراه جئولیست وبسایتها و آدرسهای آیپی ایران مناسب برای روترهای دارای حداقل پردازنده Arm 64 دو هسته ای و ۲۵۶ مگابایت رم(‌۵۱۲ مگ رم به بالا پیشنهاد میشود):\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --passwall2 --ir --rebind\n\n-پسوال ۲ بهمراه جئولیست وبسایتها و آدرسهای آیپی ایران و AmneziaWG. برای استفاده ترکیبی از پروتوکل ها حداقل پردازنده Arm 64 چهار هسته ای و ۱ گیگابایت رم:\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --passwall2 --ir --rebind --amneziawg\n\nلینک گیتهاب جهت مشارکت در پروژه\nhttps://github.com/iranopenwrt/auto"
@@ -66,7 +66,7 @@
       "datetime": "2026-04-22T17:33:04+00:00",
       "time_text": "17:33",
       "link": "https://t.me/papFransiz/397",
-      "views": "191"
+      "views": "192"
     },
     {
       "text": "یک پروژه بسیار عالی برای ارسال فایل از ربات تلگرام به ربات بله\n\nhttps://github.com/ixabolfazl/telegram-to-bale-file-transfer-bot\n\nاین پروژه روی ورکر کلودفلر قابل نصب و فعالسازی هست و بعد از اجرا شما میتونید فایل های که نیاز دارید رو داخل ربات تلگرام ارسال کنید ، سپس فیلترشکن خودتون رو خاموش کنید و اون فایل رو از طریق ربات پیام رسان بله دانلود و ذخیره کنید"
@@ -81,7 +81,7 @@
       "datetime": "2026-04-22T17:32:17+00:00",
       "time_text": "17:32",
       "link": "https://t.me/papFransiz/396",
-      "views": "200"
+      "views": "201"
     },
     {
       "text": "انتقال فایل از طریق تلگرام به روبیکا برای کاهش مصرف فیلترشکن\nپروژه عالی که دوست عزیزمون  caffeinexz ساخته و روی گیتهاب به صورت اپن سورس منتشر کرده و منم ویدیو کامل راه اندازیش رو براتون آماده کردم.\n\nلینک گیتهاب پروژه :\nhttps://github.com/caffeinexz/Tele2Rub\n\nمشاهده ویدیو آموزش راه اندازی در یوتیوب :\nhttps://youtu.be/Yzbv93xaHoE\n\nبه راحتی میتونید تا سقف 2 گیگ فایل از تلگرام به روبیکا بفرستید و با نت ملی فایل رو دانلود کنید"
@@ -129,7 +129,7 @@
       "datetime": "2026-04-21T17:32:05+00:00",
       "time_text": "17:32",
       "link": "https://t.me/papFransiz/392",
-      "views": "918"
+      "views": "919"
     },
     {
       "text": "-OpenWRT - x86 PC Installation - Live USB\n\nwww.youtube.com/watch?v=DET3EMl6-RM\n\n- @papFransiz"
@@ -153,7 +153,7 @@
       "datetime": "2026-04-20T15:22:32+00:00",
       "time_text": "15:22",
       "link": "https://t.me/papFransiz/381",
-      "views": "1.43K"
+      "views": "1.44K"
     },
     {
       "text": "👆👆👆"
@@ -248,7 +248,7 @@
       "datetime": "2026-04-16T20:39:44+00:00",
       "time_text": "20:39",
       "link": "https://t.me/papFransiz/368",
-      "views": "607"
+      "views": "608"
     },
     {
       "text": "قبلا با یه لیتر عرق میبردم باغ\nالان با یدونه کانفیگ میبرم باغ"
@@ -260,7 +260,7 @@
       "datetime": "2026-04-16T08:08:55+00:00",
       "time_text": "08:08",
       "link": "https://t.me/papFransiz/365",
-      "views": "641"
+      "views": "642"
     },
     {
       "text": "Securing NTP\n\nhttps://blog.apnic.net/2026/03/10/securing-ntp/"
@@ -270,7 +270,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T22:10:29.980718",
+    "last_update": "2026-04-23T22:31:12.845970",
     "new_count": 0
   }
 }

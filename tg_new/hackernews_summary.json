@@ -15,6 +15,23 @@
   "returned_posts": 77,
   "posts": [
     {
+      "datetime": "2026-04-23T19:00:04+00:00",
+      "time_text": "19:00",
+      "link": "https://t.me/hackernews_summary/24803",
+      "views": "1"
+    },
+    {
+      "text": "Middle Eastern News Sites Are U.S. Government Propaganda Ops\n\n🔸Al-Fassel and Pishtaz News are propaganda websites funded by the US government, spreading pro-US and anti-Iranian content. They use social media to disseminate biased information, often masquerading as independent news outlets.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:3840340077170204417:1:65b5e3e3fd6f689ba73a203ae529e0e58211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24803"
+    },
+    {
       "datetime": "2026-04-23T18:15:04+00:00",
       "time_text": "18:15",
       "link": "https://t.me/hackernews_summary/24802",
@@ -52,7 +69,7 @@
       "datetime": "2026-04-23T17:55:05+00:00",
       "time_text": "17:55",
       "link": "https://t.me/hackernews_summary/24800",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Palantir Employees Are Starting to Wonder If They're the Bad Guys\n\n🔸Palantir employees are questioning the company's involvement in immigration enforcement and its relationship with the Trump administration. The company's leadership has been criticized for its handling of internal dissent and its defense of its work with ICE and the US military.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -229,7 +246,7 @@
       "datetime": "2026-04-23T15:20:05+00:00",
       "time_text": "15:20",
       "link": "https://t.me/hackernews_summary/24789",
-      "views": "12"
+      "views": "13"
     },
     {
       "text": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign\n\n🔸Bitwarden CLI 2026.4.0 was compromised through a GitHub Action in its CI/CD pipeline as part of the Checkmarx supply chain campaign. Users are advised to review CI logs and rotate exposed secrets.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -246,7 +263,7 @@
       "datetime": "2026-04-23T14:45:05+00:00",
       "time_text": "14:45",
       "link": "https://t.me/hackernews_summary/24788",
-      "views": "9"
+      "views": "10"
     },
     {
       "text": "Modern Board Games: and why you should play them (2022)\n\n🔸The user presented a team with an introduction to modern board games, dispelling common misconceptions that there are only a few board games and that they are only for children. They highlighted the diversity and complexity of modern board games, encouraging the team to try them out for their social, intellectual, and entertaining benefits.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -263,7 +280,7 @@
       "datetime": "2026-04-23T14:05:05+00:00",
       "time_text": "14:05",
       "link": "https://t.me/hackernews_summary/24787",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "Trump administration reclassifies cannabis as less dangerous\n\n🔸The US Department of Justice reclassified cannabis as less dangerous, moving it from Schedule I to Schedule III, allowing for increased research and access. The change is seen as symbolic, but could lead to policymakers considering full legalization.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -321,27 +338,10 @@
     },
     {
       "post_id": "24784"
-    },
-    {
-      "datetime": "2026-04-23T12:45:25+00:00",
-      "time_text": "12:45",
-      "link": "https://t.me/hackernews_summary/24783",
-      "views": "10"
-    },
-    {
-      "text": "Sneaky spam in conversational replies to blog posts\n\n🔸A spammer used AI to post three fake comments on a blog, each pretending to be a reply to the others, with a suspicious link in the middle one. The comments were spaced 3 minutes apart and came from the same IP address in the Philippines.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-1034953776839844096:1:65b5e3e3fd6f689b258302306f1efe858211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24783"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T22:10:42.428001",
-    "new_count": 0
+    "last_update": "2026-04-23T22:31:21.101033",
+    "new_count": 1
   }
 }
