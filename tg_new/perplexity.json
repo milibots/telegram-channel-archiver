@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T18:58:18+00:00",
       "time_text": "18:58",
       "link": "https://t.me/perplexity/949",
-      "views": "10.5K"
+      "views": "10.7K"
     },
     {
       "text": "💬 OpenAI Releases GPT-5.5\n\nThe new model tops the benchmarks against its main rivals, Claude Opus 4.7 and Google's Gemini 3.1 Pro, even outperforming GPT-5.4 Pro in some areas.\n\nThe model is built for agentic tasks and ease of use: GPT-5.5 figures out what you're trying to do and handles most of the work on its own.\n\n💰 Paid ChatGPT subscribers are already getting access, but the API price is twice that of GPT-5.4: &#036;5/&#036;30 per 1M input/output tokens. \n\nIs the price worth it?\n\n❤️ — Yes, the best always costs more\n🔥 — No, it's too much"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-23T11:12:58+00:00",
       "time_text": "11:12",
       "link": "https://t.me/perplexity/948",
-      "views": "22.4K"
+      "views": "22.6K"
     },
     {
       "text": "🦖 Dobot Shows Ultra-Realistic Robotic Dino\n\nChinese company Dobot has unveiled the third version of its Sinornithosaurus robot, a dinosaur that lived around 120 million years ago.\n\nThe new version breathes, has realistic artificial muscles and synthetic skin, and can respond to human commands and even touch.\n\nDoes it look like a real dinosaur?\n\n❤️ — Yes&#33;\n👎 — No, just a plastic toy..."
@@ -199,7 +199,7 @@
       "datetime": "2026-04-16T18:23:09+00:00",
       "time_text": "18:23",
       "link": "https://t.me/perplexity/932",
-      "views": "65.5K"
+      "views": "65.6K"
     },
     {
       "text": "🌥 Claude Opus 4.7 Is Out\n\nThe new Anthropic's Claude Opus 4.7 outperforms competitors like GPT-5.4 and Gemini 3.1 Pro on almost every benchmark (though it still falls well short of the unreleased Mythos Preview).\n\nIt follows instructions more reliably, handles complex coding and UI design tasks better, and does a noticeably improved job recognizing high-resolution images and reading charts.\n\n➡️ Already available on claude.ai for paid subscribers."
@@ -265,7 +265,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T03:02:29.214319",
+    "last_update": "2026-04-24T03:22:58.023939",
     "new_count": 0
   }
 }
