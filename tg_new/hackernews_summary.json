@@ -11,9 +11,43 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 72,
-  "returned_posts": 72,
+  "total_posts": 74,
+  "returned_posts": 74,
   "posts": [
+    {
+      "datetime": "2026-04-23T02:55:25+00:00",
+      "time_text": "02:55",
+      "link": "https://t.me/hackernews_summary/24760",
+      "views": "1"
+    },
+    {
+      "text": "OpenAI's response to the Axios developer tool compromise\n\n🔸OpenAI is updating security certificates for macOS apps due to a third-party developer library, Axios, being compromised. Users must update their apps to the latest versions by May 8, 2026, to prevent potential risks of fake apps.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-4198608877070246144:1:65b5e3e3fd6f689b26931dd5e4c85c938211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24760"
+    },
+    {
+      "datetime": "2026-04-23T02:55:04+00:00",
+      "time_text": "02:55",
+      "link": "https://t.me/hackernews_summary/24759",
+      "views": "1"
+    },
+    {
+      "text": "The handmade beauty of Machine Age data visualizations\n\n🔸William James, a psychologist and philosopher, was a talented visual artist who contributed to the development of data visualization in the 19th century. His work, along with that of Francis Galton and W.E.B. Du Bois, highlights the importance of handmade data visualization and the role of creativity in thinking.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:3986668276014194435:1:65b5e3e3fd6f689b1c70b2bf47b897fb8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24759"
+    },
     {
       "datetime": "2026-04-23T02:35:25+00:00",
       "time_text": "02:35",
@@ -289,34 +323,10 @@
     },
     {
       "post_id": "24741"
-    },
-    {
-      "datetime": "2026-04-22T19:35:26+00:00",
-      "time_text": "19:35",
-      "link": "https://t.me/hackernews_summary/24740",
-      "views": "5"
-    },
-    {
-      "text": "Scores decline again for 13-year-old students in reading and mathematics\n\n🔸NAEP long-term trend assessments showed 13-year-old students' average reading scores declined 4 points and math scores declined 9 points from 2020.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24740"
-    },
-    {
-      "datetime": "2026-04-22T19:35:05+00:00",
-      "time_text": "19:35",
-      "link": "https://t.me/hackernews_summary/24739",
-      "views": "6"
-    },
-    {
-      "text": "You don't need advice from editors on rejected manuscripts\n\n🔸Something went wrong, but don’t fret — let’s give it another shot. Some privacy related extensions may cause issues on x.com. Please disable them and try again.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24739"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T06:21:13.478967",
+    "last_update": "2026-04-23T06:41:33.661701",
     "new_count": 2
   }
 }
