@@ -11,14 +11,43 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 73,
-  "returned_posts": 73,
+  "total_posts": 72,
+  "returned_posts": 72,
   "posts": [
+    {
+      "datetime": "2026-04-23T02:35:25+00:00",
+      "time_text": "02:35",
+      "link": "https://t.me/hackernews_summary/24758",
+      "views": "2"
+    },
+    {
+      "text": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game\n\n🔸The user discussed three book-length projects about classic video games: TEMPEST vs TEMPEST, IRIDIS ALPHA THEORY, and psychedelia syndrome, which delve into the mechanics and source code of the games. The books are free to download and offer in-depth analysis of the games.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:653926185649643266:1:65b5e3e3fd6f689b18c93b106efc3f078211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24758"
+    },
+    {
+      "datetime": "2026-04-23T02:35:04+00:00",
+      "time_text": "02:35",
+      "link": "https://t.me/hackernews_summary/24757",
+      "views": "2"
+    },
+    {
+      "text": "Verus is a tool for verifying the correctness of code written in Rust\n\n🔸Verus is a tool for verifying Rust code correctness using computer-aided theorem proving. It extends Rust's syntax with new concepts for writing specifications and proofs.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24757"
+    },
     {
       "datetime": "2026-04-23T02:00:05+00:00",
       "time_text": "02:00",
       "link": "https://t.me/hackernews_summary/24756",
-      "views": "1"
+      "views": "2"
     },
     {
       "text": "Rip language. Compiles to ES2022. Built-in reactivity\n\n🔸Rip is a modern language inspired by CoffeeScript, compiling to ES2022 with built-in reactivity and a self-hosting compiler. It adds new operators and features like schema declarations, interactive REPL, and a UI framework for building web applications.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +64,7 @@
       "datetime": "2026-04-23T01:50:05+00:00",
       "time_text": "01:50",
       "link": "https://t.me/hackernews_summary/24755",
-      "views": "1"
+      "views": "2"
     },
     {
       "text": "Effectful Recursion Schemes\n\n🔸The user discusses implementing recursion schemes in Effekt, a functional programming language, using effects and handlers instead of infinite recursive types. They showcase various examples of catamorphisms, anamorphisms, and hylomorphisms in Effekt, including a refunctionalized variant of a Term data structure and its applications.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -127,7 +156,7 @@
       "datetime": "2026-04-22T22:20:04+00:00",
       "time_text": "22:20",
       "link": "https://t.me/hackernews_summary/24749",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "The Neon King of New Orleans\n\n🔸Nate Sheaffer, a neon artist, saves New Orleans' historic signs by refurbishing and designing new pieces at his shop Big Sexy Neon. He uses century-old techniques to create sustainable and long-lasting neon art, preserving the city's unique aesthetic.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -284,44 +313,10 @@
     },
     {
       "post_id": "24739"
-    },
-    {
-      "datetime": "2026-04-22T19:15:04+00:00",
-      "time_text": "19:15",
-      "link": "https://t.me/hackernews_summary/24738",
-      "views": "7"
-    },
-    {
-      "text": "We found a stable Firefox identifier linking all your private Tor identities\n\n🔸A Firefox-based browser vulnerability allows websites to derive a unique identifier from IndexedDB database ordering, linking activity across origins. Mozilla has fixed the issue in Firefox 150 and ESR 140.10.0.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-5194565317834694910:1:65b5e3e3fd6f689beb3bd756eee931dc8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24738"
-    },
-    {
-      "datetime": "2026-04-22T18:45:05+00:00",
-      "time_text": "18:45",
-      "link": "https://t.me/hackernews_summary/24737",
-      "views": "7"
-    },
-    {
-      "text": "OpenAI: Workspace Agents for Business\n\n🔸OpenAI's workspace agents automate workflows, freeing teams to focus on higher-impact work. Agents use company tools to gather info and take action, following approved processes and governance.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:2205604764328337154:1:65b5e3e3fd6f689bf2875cd94e2d195b8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24737"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T06:00:52.478304",
-    "new_count": 0
+    "last_update": "2026-04-23T06:21:13.478967",
+    "new_count": 2
   }
 }
