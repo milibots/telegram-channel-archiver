@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T07:29:58+00:00",
       "time_text": "07:29",
       "link": "https://t.me/hiaimediaen/2481",
-      "views": "4.73K"
+      "views": "4.9K"
     },
     {
       "text": "💻 Monkeys Controlled a Virtual Body Using Only Their Thoughts\n\nBrain-computer interfaces already allow paralyzed patients to open apps, use social media, and even play video games. But these interactions are mostly limited to two dimensions: users are essentially just moving a cursor on a screen with their minds.\n\nControlling movement in the real world is still limited to experimental prosthetics, which often require months of training to perform simple actions like lifting an arm, making a fist, or taking a step.\n\n⚙️ Researchers in Belgium took a step further by developing a neural implant that can control an entire virtual body. Most brain-computer interfaces connect only to the motor cortex, which handles movement. In this case, scientists also implanted electrodes in the premotor cortex—the part of the brain responsible for planning movements.\n\nTo test their new system, the researchers worked with three macaques. The animals wore 3D glasses and sat in front of a screen displaying a virtual environment. During training, they watched a ball roll toward a target across a flat surface.\n\n❗️ After just seven minutes, the system began to interpret the monkeys' intentions. The animals were then able to move the ball themselves, guiding it to the target, and even control an avatar as it navigated through a forest, adjusting its path in real time to avoid obstacles.\n\n\"We found that the brain adapts to the system surprisingly fast. This makes the technology a much better candidate for applications for patients,\" says study lead Peter Janssen.\n\n⚡️ The researchers plan to begin human trials within the next two years.\n\n@hiaimediaen"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-22T18:12:01+00:00",
       "time_text": "18:12",
       "link": "https://t.me/hiaimediaen/2480",
-      "views": "9.09K"
+      "views": "9.19K"
     },
     {
       "text": "⏫ AI Designs ADHD Peptide In 24 Hours\n\nThe decentralized science project Bio Protocol and the PeptAI platform said they used AI to design OX2R-004, a peptide for the potential treatment of attention-deficit/hyperactivity disorder, in just 24 hours.\n\nOne hypothesis about the biology of ADHD is a deficit of orexins. These peptides (chains of amino acids) are produced in the hypothalamus and help regulate nervous system activity, circadian rhythms, and sleep-wake cycles. All existing drugs that act on orexin receptors are receptor antagonists (blockers) used to treat insomnia.\n\nOX2R-004 was designed as an agonist, or activator, of the OX2R receptor. It is meant to mimic natural orexin and help stabilize the body's signaling, supporting communication between brain regions needed for concentration. There are currently no approved orexin receptor agonists on the market, while most clinical development in this area is focused on treating sleepiness and narcolepsy.\n\n⚡️ Is This A Ready-Made ADHD Drug?\n\nNot yet. For now, this is an early computational model, not a finished medicine, and the molecule still needs significant refinement. OX2R-004 breaks down too quickly, is unlikely to cross the blood-brain barrier, and may carry unwanted off-target risks.\n\nHowever, without ML tools that helped predict the peptide's shape, receptor activity, toxicity, and other parameters, even this early work could have taken months. AI handled a significant part of that process in just one day.\n\nHave you had any experience with ADHD?\n\n🔥 — Yes\n🤔 — No\n\n@hiaimediaen"
@@ -52,7 +52,7 @@
       "datetime": "2026-04-22T08:20:59+00:00",
       "time_text": "08:20",
       "link": "https://t.me/hiaimediaen/2479",
-      "views": "11.1K"
+      "views": "11.2K"
     },
     {
       "text": "👨 An elderly Chinese woman has been talking to an AI clone of her son for over a year, without knowing that he died in an accident\n\nThe woman is over 80 years old and has heart problems. Her family decided that telling her the truth could be too much of a shock.\n\nSo they turned to a team of developers, gave them photos, videos, and voice recordings of the man in his native dialect, and received a realistic avatar that looks, speaks, and even moves almost like the real person.\n\nNow this \"son\" talks to his mother every day via video call. She still tells him to dress warmly, eat well, and take care of himself, and the digital copy replies that he's working hard in another city, which is why he can't visit her. According to Zhang Zewei, the system's creator, the avatar even mimics the man's habit of leaning forward slightly while talking.\n\n✏️ The story caused a strong reaction on social media. Some called the AI son a \"white lie\" and a way to comfort someone who couldn't bear such a loss. Others saw it as emotional deception that could cause even more pain if the truth is ever discovered.\n\nWhat do you think? Is this a \"lie for good\"?\n\n❤️ — Yes, it's okay  \n🔥 — No, she should know the truth\n\n@hiaimediaen"
@@ -131,7 +131,7 @@
       "datetime": "2026-04-21T09:32:51+00:00",
       "time_text": "09:32",
       "link": "https://t.me/hiaimediaen/2469",
-      "views": "10.6K"
+      "views": "10.7K"
     },
     {
       "text": "📸 An AI Camera That Writes Poems Instead of Taking Photos\n\nAmerican designers Carolyn Zhang and Ryan Mather have сreated the Poetry Camera. This Polaroid-style camera writes poems inspired by whatever is in the frame, rather than taking photos.\n\nInside the 3D-printed device is a small sensor and a credit-card-sized Raspberry Pi single-board computer.\n\nWhen you press the button, the camera takes a photo and runs a script that sends it to a multimodal LLM. The algorithms then interpret the image and generate a poem, and you can immediately print it on thermal paper.\n\n💡 The original photo is never saved or stored anywhere, for maximum data privacy—the user gets only the poem, with the date and time printed on the paper.\n\n\"Everyone has a camera in their pocket through their cell phone now—we wanted to do something very different,\" the device's creators explain.\n\n➡️ You can buy the camera for &#036;349 or build it yourself—the developers have posted the detailed instructions on GitHub.\n\nWould you use a camera like this?\n\n❤️ — Yes, an interesting concept\n🔥 — No, useless gadget\n\n@hiaimediaen"
@@ -182,7 +182,7 @@
       "datetime": "2026-04-19T09:29:58+00:00",
       "time_text": "09:29",
       "link": "https://t.me/hiaimediaen/2466",
-      "views": "16K"
+      "views": "16.1K"
     },
     {
       "text": "💬 OpenAI Is Looking to Replace Sam Altman Before IPO\n\nSources told the WSJ that some shareholders are questioning whether Sam Altman should remain at the helm of the company and are floating board chairman Bret Taylor as a potential replacement.\n\nOpenAI's board is concerned about possible conflicts of interest on Altman's part, as well as his being spread too thin ahead of the company's planned public offering, which is preliminarily valued at &#036;850 billion.\n\nAltman has been pushing OpenAI investments into Helion, a nuclear fusion startup, Stoke Space, and Merge Labs, a brain-computer interface lab—all companies in which he has personal stakes. Meanwhile, OpenAI has publicly stated it's stepping back from side projects to stay focused on its core AI products.\n\nOn top of that, Altman said back in December that he has \"zero percent\" interest in being a CEO of a public company.\n\n\"Am I excited to be a public company CEO? 0%,\" he explained. \"Am I excited for OpenAI to be a public company? In some ways, I am, and in some ways I think it'd be really annoying.\"\n\nSo, do you think Altman will step down as CEO?\n\n❤️ — Yes, most likely \n🤔 — Not sure \n🔥 — Don't care, just drop GPT-6\n\n@hiaimediaen"
@@ -199,7 +199,7 @@
       "datetime": "2026-04-18T09:10:09+00:00",
       "time_text": "09:10",
       "link": "https://t.me/hiaimediaen/2465",
-      "views": "18.6K"
+      "views": "18.7K"
     },
     {
       "text": "❤️ AI Agents Could Find You a Romantic Partner\n\nLondon developers have built a simulation where AI digital twins of people interact to gauge how compatible their real-life counterparts might be—for work, friendship, or relationships. The project is called Pixel Societies.\n\nAn agent is built on an LLM—the model is fed with data about a person's personality and interests. These virtual clones meet and chat, then recommend who might be worth pursuing a real-life connection with.\n\n💡 In 2017, psychologists from the University of Utah showed that algorithms, based solely on questionnaires, can barely predict whether two people will feel a spark. The key factors are how much time they spend together and how their first encounter goes.\n\nSo instead of endless swiping, Pixel Societies aims to help people connect naturally—on a global scale.\n\n\"As humans, we only live one life. But what if we could live a million? It would give us more breadth to experiment,\" says platform co-creator Joon Sang Lee.\n\nWould you trust AI to find you a partner?\n\n❤️ — Yes, it's more convenient\n🤔 — No, it's just weird\n\n@hiaimediaen"
@@ -265,7 +265,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T16:39:21.782185",
+    "last_update": "2026-04-23T17:00:06.556422",
     "new_count": 0
   }
 }

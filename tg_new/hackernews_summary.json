@@ -15,10 +15,22 @@
   "returned_posts": 75,
   "posts": [
     {
+      "datetime": "2026-04-23T13:25:05+00:00",
+      "time_text": "13:25",
+      "link": "https://t.me/hackernews_summary/24785",
+      "views": "4"
+    },
+    {
+      "text": "Work with the Garage Door Up\n\n🔸Creative people sharing their process can create invested followings and avoid pitching problems. This type of communication is like having a physical business sign, showing \"I am here, working.\"\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24785"
+    },
+    {
       "datetime": "2026-04-23T12:50:05+00:00",
       "time_text": "12:50",
       "link": "https://t.me/hackernews_summary/24784",
-      "views": "4"
+      "views": "6"
     },
     {
       "text": "Show HN: Built a daily game where you sort historical events chronologically\n\n🔸Sort 6 historical events intochronological order. April 23, 2026Puzzle #9Created by Damian Krajnakdamiankrajnakk@gmail.com\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +47,7 @@
       "datetime": "2026-04-23T12:45:25+00:00",
       "time_text": "12:45",
       "link": "https://t.me/hackernews_summary/24783",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "Sneaky spam in conversational replies to blog posts\n\n🔸A spammer used AI to post three fake comments on a blog, each pretending to be a reply to the others, with a suspicious link in the middle one. The comments were spaced 3 minutes apart and came from the same IP address in the Philippines.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +64,7 @@
       "datetime": "2026-04-23T12:45:05+00:00",
       "time_text": "12:45",
       "link": "https://t.me/hackernews_summary/24782",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "Surveillance vendors caught abusing access to telcos to track people's locations\n\n🔸Citizen Lab exposed two surveillance campaigns using \"ghost\" companies to exploit phone network vulnerabilities. The campaigns targeted individuals worldwide, using SS7 and Diameter flaws to geolocate phones.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -69,7 +81,7 @@
       "datetime": "2026-04-23T12:30:05+00:00",
       "time_text": "12:30",
       "link": "https://t.me/hackernews_summary/24781",
-      "views": "5"
+      "views": "7"
     },
     {
       "text": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite\n\n🔸Honker is a SQLite extension and language bindings that add durable pub/sub, task queue, and event streams to SQLite without client polling or a daemon/broker, allowing atomic business writes and side-effect enqueues. It achieves single-digit millisecond reaction time and supports various languages including Python, Node, Rust, Go, Ruby, Bun, and Elixir.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -86,7 +98,7 @@
       "datetime": "2026-04-23T12:20:04+00:00",
       "time_text": "12:20",
       "link": "https://t.me/hackernews_summary/24780",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "Email could have been X.400 times better\n\n🔸Email's early history involved a complex system called X.400, which had features like recall and encryption, but was difficult to use and implement. SMTP, a simpler protocol, eventually became the standard for email, outliving X.400 due to its ease of use and rapid iteration.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -316,22 +328,10 @@
     },
     {
       "post_id": "24766"
-    },
-    {
-      "datetime": "2026-04-23T05:10:04+00:00",
-      "time_text": "05:10",
-      "link": "https://t.me/hackernews_summary/24765",
-      "views": "5"
-    },
-    {
-      "text": "Flow Map Learning via Nongradient Vector Flow [pdf]\n\n🔸SGFlow is a method for learning flow maps that bypasses explicit invertibility constraints and expensive differentiation through model iteration, allowing for faster sampling from diffusion and flow models. SGFlow trains a model to compute both the ODE solutions and the implied velocity from scratch by following non-conservative dynamics, achieving favorable results on the CIFAR image ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24765"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T16:39:22.753991",
+    "last_update": "2026-04-23T17:00:06.766466",
     "new_count": 1
   }
 }
