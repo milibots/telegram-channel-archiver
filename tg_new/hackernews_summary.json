@@ -15,6 +15,23 @@
   "returned_posts": 75,
   "posts": [
     {
+      "datetime": "2026-04-23T00:15:04+00:00",
+      "time_text": "00:15",
+      "link": "https://t.me/hackernews_summary/24752",
+      "views": "1"
+    },
+    {
+      "text": "How to Stop a Data Center in Your Backyard\n\n🔸Community groups in Monterey Park, California, and the surrounding areas organized against data centers, citing environmental concerns and lack of transparency from local governments. Organizers in the Imperial Valley, California, also protested against a proposed data center, highlighting the region's history of environmental injustices and the need for public input in decision-making processes.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:2420803319011352321:1:65b5e3e3fd6f689b32fc6041259b61608211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24752"
+    },
+    {
       "datetime": "2026-04-22T23:35:05+00:00",
       "time_text": "23:35",
       "link": "https://t.me/hackernews_summary/24751",
@@ -311,27 +328,10 @@
     },
     {
       "post_id": "24733"
-    },
-    {
-      "datetime": "2026-04-22T18:10:06+00:00",
-      "time_text": "18:10",
-      "link": "https://t.me/hackernews_summary/24732",
-      "views": "5"
-    },
-    {
-      "text": "Parallel Agents in Zed\n\n🔸Zed now allows parallel agent orchestration with a new Threads Sidebar for control and monitoring. The Threads Sidebar offers instant access to common operations and helps developers stay organized with multiple projects and agents.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:8076555328385982210:1:65b5e3e3fd6f689bff87bea4ac997f918211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24732"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T03:32:46.076416",
-    "new_count": 0
+    "last_update": "2026-04-23T03:53:12.196767",
+    "new_count": 1
   }
 }
