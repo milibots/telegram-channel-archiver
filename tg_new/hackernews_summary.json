@@ -5,20 +5,71 @@
   "channel_username": "@hackernews_summary",
   "channel_avatar": "bale:46627310:-4842745602944065792:1:65b5e3e3fd6f689b54dff3af2a4d9b1f8211e6c76420e4b7",
   "channel_verified": false,
-  "channel_subscribers": "149",
+  "channel_subscribers": "150",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 77,
-  "returned_posts": 77,
+  "total_posts": 78,
+  "returned_posts": 78,
   "posts": [
+    {
+      "datetime": "2026-04-23T16:35:27+00:00",
+      "time_text": "16:35",
+      "link": "https://t.me/hackernews_summary/24795",
+      "views": "2"
+    },
+    {
+      "text": "A DIY Watch You Can Actually Wear\n\n🔸The LILYGO T-Watch Ultra is a DIY smartwatch with ESP32-S3, IP65-rated case, and various features like AI acceleration, Wi-Fi, Bluetooth, and LoRa. It's suitable for complex applications and has a long runtime due to its 1,100mAh battery and improved display.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:2823985522023079680:1:65b5e3e3fd6f689b7cb7e90279f5e07e8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24795"
+    },
+    {
+      "datetime": "2026-04-23T16:35:06+00:00",
+      "time_text": "16:35",
+      "link": "https://t.me/hackernews_summary/24794",
+      "views": "2"
+    },
+    {
+      "text": "If America's So Rich, How'd It Get So Sad?\n\n🔸The US has experienced a sharp decline in self-reported happiness since 2020, with no recovery, despite a strong economy and low unemployment. The culprit is likely the ongoing COVID pandemic and its aftermath, including inflation, economic uncertainty, and a uniquely negative news environment.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-4926752447972696320:1:65b5e3e3fd6f689b7cb7e90279f5e07e8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24794"
+    },
+    {
+      "datetime": "2026-04-23T16:20:05+00:00",
+      "time_text": "16:20",
+      "link": "https://t.me/hackernews_summary/24793",
+      "views": "5"
+    },
+    {
+      "text": "France confirms data breach at government agency that manages citizens' IDs\n\n🔸A data breach at the Agence Nationale des Titres Sécurisés (ANTS) exposed personal info of an undisclosed number of citizens. Millions may have been affected, with a hacker claiming to have 19 million records on a hacking forum.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:7741420569407397633:1:65b5e3e3fd6f689b7cb7e90279f5e07e8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24793"
+    },
     {
       "datetime": "2026-04-23T16:00:06+00:00",
       "time_text": "16:00",
       "link": "https://t.me/hackernews_summary/24792",
-      "views": "4"
+      "views": "6"
     },
     {
       "text": "The end of responsive images\n\n🔸The author of the article, a former Chair of the RICG, confesses to creating the responsive image syntax that has caused frustration for developers. They reveal that they hated the syntax but fought for it because they knew developers would have done it wrong.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +86,7 @@
       "datetime": "2026-04-23T15:50:05+00:00",
       "time_text": "15:50",
       "link": "https://t.me/hackernews_summary/24791",
-      "views": "4"
+      "views": "6"
     },
     {
       "text": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets\n\n🔸James Giovansanti, a NYPD officer, has accumulated 547 speeding tickets in Staten Island since 2022, averaging one ticket every other day. His record makes him the second-most-reckless driver in the city, posing a unique danger to himself and others.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +103,7 @@
       "datetime": "2026-04-23T15:20:25+00:00",
       "time_text": "15:20",
       "link": "https://t.me/hackernews_summary/24790",
-      "views": "7"
+      "views": "9"
     },
     {
       "text": "A History of Erasures Learning to Write Like Leylâ Erbil\n\n🔸The author initially dismissed Leylâ Erbil's work as outdated and self-indulgent, but later reevaluated her experimental novel \"What Remains\" as a powerful challenge to literary conventions in Turkey. Erbil's autofiction explores Turkish history, politics, and identity through a stream-of-consciousness narrative that blurs the lines between personal and public trauma.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -64,7 +115,7 @@
       "datetime": "2026-04-23T15:20:05+00:00",
       "time_text": "15:20",
       "link": "https://t.me/hackernews_summary/24789",
-      "views": "7"
+      "views": "9"
     },
     {
       "text": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign\n\n🔸Bitwarden CLI 2026.4.0 was compromised through a GitHub Action in its CI/CD pipeline as part of the Checkmarx supply chain campaign. Users are advised to review CI logs and rotate exposed secrets.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -195,7 +246,7 @@
       "datetime": "2026-04-23T12:30:05+00:00",
       "time_text": "12:30",
       "link": "https://t.me/hackernews_summary/24781",
-      "views": "9"
+      "views": "10"
     },
     {
       "text": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite\n\n🔸Honker is a SQLite extension and language bindings that add durable pub/sub, task queue, and event streams to SQLite without client polling or a daemon/broker, allowing atomic business writes and side-effect enqueues. It achieves single-digit millisecond reaction time and supports various languages including Python, Node, Rust, Go, Ruby, Bun, and Elixir.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -292,56 +343,10 @@
     },
     {
       "post_id": "24776"
-    },
-    {
-      "datetime": "2026-04-23T10:40:25+00:00",
-      "time_text": "10:40",
-      "link": "https://t.me/hackernews_summary/24775",
-      "views": "9"
-    },
-    {
-      "text": "MacBook Neo and How the iPad Should Be\n\n🔸The writer argues that iPads should be touch-only devices with unique, weird apps, while MacBooks should be for multitasking and keyboard-based work.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-2622746930770338048:1:65b5e3e3fd6f689b66094ae32bcbf7d68211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24775"
-    },
-    {
-      "datetime": "2026-04-23T10:40:04+00:00",
-      "time_text": "10:40",
-      "link": "https://t.me/hackernews_summary/24774",
-      "views": "7"
-    },
-    {
-      "text": "Fundamental Theorem of Calculus\n\n🔸The Riemann integral is a mathematical concept that approximates the area under a graph by using rectangles and partitions, and a function is Riemann integrable if the difference between the upper and lower sums is less than any given positive value. The Fundamental Theorem of Calculus states that the definite integral of a function is equal to the difference of its antiderivative evaluated ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24774"
-    },
-    {
-      "datetime": "2026-04-23T09:00:05+00:00",
-      "time_text": "09:00",
-      "link": "https://t.me/hackernews_summary/24773",
-      "views": "7"
-    },
-    {
-      "text": "An amateur historian's favorite books about the Silk Road\n\n🔸A retired medical doctor shares their passion for researching the Maritime Silk Route and its significance in Indian Ocean trade, drawing from various books and experiences. Their book, Sri Lanka, Serendib, and the Silk Road of the Sea, fills a gap in knowledge about Sri Lanka's role in this trade since ancient times.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-1424862434561024253:1:65b5e3e3fd6f689b337120416cdf7cc28211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24773"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T19:45:30.206123",
-    "new_count": 1
+    "last_update": "2026-04-23T20:06:17.951398",
+    "new_count": 3
   }
 }
