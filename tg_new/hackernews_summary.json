@@ -15,10 +15,61 @@
   "returned_posts": 75,
   "posts": [
     {
+      "datetime": "2026-04-23T12:45:25+00:00",
+      "time_text": "12:45",
+      "link": "https://t.me/hackernews_summary/24783",
+      "views": "2"
+    },
+    {
+      "text": "Sneaky spam in conversational replies to blog posts\n\n🔸A spammer used AI to post three fake comments on a blog, each pretending to be a reply to the others, with a suspicious link in the middle one. The comments were spaced 3 minutes apart and came from the same IP address in the Philippines.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-1034953776839844096:1:65b5e3e3fd6f689b258302306f1efe858211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24783"
+    },
+    {
+      "datetime": "2026-04-23T12:45:05+00:00",
+      "time_text": "12:45",
+      "link": "https://t.me/hackernews_summary/24782",
+      "views": "2"
+    },
+    {
+      "text": "Surveillance vendors caught abusing access to telcos to track people's locations\n\n🔸Citizen Lab exposed two surveillance campaigns using \"ghost\" companies to exploit phone network vulnerabilities. The campaigns targeted individuals worldwide, using SS7 and Diameter flaws to geolocate phones.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-4981498355110699262:1:65b5e3e3fd6f689b258302306f1efe858211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24782"
+    },
+    {
+      "datetime": "2026-04-23T12:30:05+00:00",
+      "time_text": "12:30",
+      "link": "https://t.me/hackernews_summary/24781",
+      "views": "5"
+    },
+    {
+      "text": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite\n\n🔸Honker is a SQLite extension and language bindings that add durable pub/sub, task queue, and event streams to SQLite without client polling or a daemon/broker, allowing atomic business writes and side-effect enqueues. It achieves single-digit millisecond reaction time and supports various languages including Python, Node, Rust, Go, Ruby, Bun, and Elixir.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-3707078342786605311:1:65b5e3e3fd6f689b258302306f1efe858211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24781"
+    },
+    {
       "datetime": "2026-04-23T12:20:04+00:00",
       "time_text": "12:20",
       "link": "https://t.me/hackernews_summary/24780",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "Email could have been X.400 times better\n\n🔸Email's early history involved a complex system called X.400, which had features like recall and encryption, but was difficult to use and implement. SMTP, a simpler protocol, eventually became the standard for email, outliving X.400 due to its ease of use and rapid iteration.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +86,7 @@
       "datetime": "2026-04-23T11:40:04+00:00",
       "time_text": "11:40",
       "link": "https://t.me/hackernews_summary/24779",
-      "views": "7"
+      "views": "9"
     },
     {
       "text": "Writing a C Compiler, in Zig\n\n🔸This is a series of articles I wrote while writing paella, following Nora Sandler's Writing a C Compiler. It was both an exercise to learn Zig and a way to waste time instead of looking for work, as I am currently \"between jobs\". I did not edit them as I collect them here outside of fixing some broken links.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -277,61 +328,10 @@
     },
     {
       "post_id": "24764"
-    },
-    {
-      "datetime": "2026-04-23T04:50:06+00:00",
-      "time_text": "04:50",
-      "link": "https://t.me/hackernews_summary/24763",
-      "views": "4"
-    },
-    {
-      "text": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?\n\n🔸A bacterial flagellar motor rotates counterclockwise, propelling the cell through the water. the motor can also rotate clockwise causing the bacterium to tumble about randomly. protons flow into cells because they're diffusing from an area of high concentration (outside) to an (inside). the voltage drops to nothing, and cell machinery shuts down if the system isn't working optimally, says ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-3573047064239988990:1:65b5e3e3fd6f689b16fe05705cea0d508211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24763"
-    },
-    {
-      "datetime": "2026-04-23T04:20:04+00:00",
-      "time_text": "04:20",
-      "link": "https://t.me/hackernews_summary/24762",
-      "views": "4"
-    },
-    {
-      "text": "Borrow-checking without type-checking\n\n🔸The user is designing a toy language with dynamic typing, inline values, stack allocation, interior pointers, single ownership, and a limited form of borrowing, aiming to provide the simplicity of value semantics while keeping the performance of reference semantics. The language uses reference counting to enforce mutable value semantics, with a focus on predictable performance and a simple ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-3621032479478046973:1:65b5e3e3fd6f689be1f2a6bb905bea0c8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24762"
-    },
-    {
-      "datetime": "2026-04-23T03:35:05+00:00",
-      "time_text": "03:35",
-      "link": "https://t.me/hackernews_summary/24761",
-      "views": "4"
-    },
-    {
-      "text": "How the Heck does Shazam work?\n\n🔸A phone identifies a song by breaking down sound into a three-dimensional representation called a spectrogram, which is then reduced to a set of unique \"fingerprints\" or hashes. These hashes are compared to a massive database of songs, allowing the phone to instantly identify the song, even in a noisy environment.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-66965877319262462:1:65b5e3e3fd6f689b1b9f9f075586c5c28211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24761"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T15:57:59.523966",
-    "new_count": 1
+    "last_update": "2026-04-23T16:18:42.064512",
+    "new_count": 3
   }
 }
