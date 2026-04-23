@@ -15,10 +15,39 @@
   "returned_posts": 74,
   "posts": [
     {
+      "datetime": "2026-04-23T10:40:25+00:00",
+      "time_text": "10:40",
+      "link": "https://t.me/hackernews_summary/24775",
+      "views": "2"
+    },
+    {
+      "text": "MacBook Neo and How the iPad Should Be\n\n🔸The writer argues that iPads should be touch-only devices with unique, weird apps, while MacBooks should be for multitasking and keyboard-based work.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-2622746930770338048:1:65b5e3e3fd6f689b66094ae32bcbf7d68211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24775"
+    },
+    {
+      "datetime": "2026-04-23T10:40:04+00:00",
+      "time_text": "10:40",
+      "link": "https://t.me/hackernews_summary/24774",
+      "views": "2"
+    },
+    {
+      "text": "Fundamental Theorem of Calculus\n\n🔸The Riemann integral is a mathematical concept that approximates the area under a graph by using rectangles and partitions, and a function is Riemann integrable if the difference between the upper and lower sums is less than any given positive value. The Fundamental Theorem of Calculus states that the definite integral of a function is equal to the difference of its antiderivative evaluated ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24774"
+    },
+    {
       "datetime": "2026-04-23T09:00:05+00:00",
       "time_text": "09:00",
       "link": "https://t.me/hackernews_summary/24773",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "An amateur historian's favorite books about the Silk Road\n\n🔸A retired medical doctor shares their passion for researching the Maritime Silk Route and its significance in Indian Ocean trade, drawing from various books and experiences. Their book, Sri Lanka, Serendib, and the Silk Road of the Sea, fills a gap in knowledge about Sri Lanka's role in this trade since ancient times.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +81,7 @@
       "datetime": "2026-04-23T08:00:05+00:00",
       "time_text": "08:00",
       "link": "https://t.me/hackernews_summary/24771",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image\n\n🔸Arch Linux now has a reproducible Docker image under the \"repro\" tag, but pacman is not usable out of the box due to stripped pacman keys. Users must regenerate the pacman keyring before installing packages.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -294,39 +323,10 @@
     },
     {
       "post_id": "24756"
-    },
-    {
-      "datetime": "2026-04-23T01:50:05+00:00",
-      "time_text": "01:50",
-      "link": "https://t.me/hackernews_summary/24755",
-      "views": "4"
-    },
-    {
-      "text": "Effectful Recursion Schemes\n\n🔸The user discusses implementing recursion schemes in Effekt, a functional programming language, using effects and handlers instead of infinite recursive types. They showcase various examples of catamorphisms, anamorphisms, and hylomorphisms in Effekt, including a refunctionalized variant of a Term data structure and its applications.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24755"
-    },
-    {
-      "datetime": "2026-04-23T01:20:05+00:00",
-      "time_text": "01:20",
-      "link": "https://t.me/hackernews_summary/24754",
-      "views": "5"
-    },
-    {
-      "text": "Bring your own Agent to MS Teams\n\n🔸The Teams TypeScript SDK allows you to integrate your existing HTTP server with Teams by registering a messaging endpoint and handling incoming requests. The SDK provides a pattern for integrating with Express, LangChain, and Azure Foundry, and can be used with other HTTP servers and frameworks.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-12189198238081277:1:65b5e3e3fd6f689bc4883925c2e173438211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24754"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T13:53:47.445359",
-    "new_count": 0
+    "last_update": "2026-04-23T14:14:15.444911",
+    "new_count": 2
   }
 }
