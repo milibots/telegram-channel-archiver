@@ -15,10 +15,27 @@
   "returned_posts": 74,
   "posts": [
     {
+      "datetime": "2026-04-23T10:50:04+00:00",
+      "time_text": "10:50",
+      "link": "https://t.me/hackernews_summary/24776",
+      "views": "5"
+    },
+    {
+      "text": "Isopods of the world\n\n🔸Isopod Site aims to improve isopod identification through basic anatomy understanding. Selective breeding is used in the hobby to boost unique traits in new lineages.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-3521790561235165440:1:65b5e3e3fd6f689bd060da9aab9c0df38211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24776"
+    },
+    {
       "datetime": "2026-04-23T10:40:25+00:00",
       "time_text": "10:40",
       "link": "https://t.me/hackernews_summary/24775",
-      "views": "2"
+      "views": "5"
     },
     {
       "text": "MacBook Neo and How the iPad Should Be\n\n🔸The writer argues that iPads should be touch-only devices with unique, weird apps, while MacBooks should be for multitasking and keyboard-based work.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +52,7 @@
       "datetime": "2026-04-23T10:40:04+00:00",
       "time_text": "10:40",
       "link": "https://t.me/hackernews_summary/24774",
-      "views": "2"
+      "views": "5"
     },
     {
       "text": "Fundamental Theorem of Calculus\n\n🔸The Riemann integral is a mathematical concept that approximates the area under a graph by using rectangles and partitions, and a function is Riemann integrable if the difference between the upper and lower sums is less than any given positive value. The Fundamental Theorem of Calculus states that the definite integral of a function is equal to the difference of its antiderivative evaluated ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -127,7 +144,7 @@
       "datetime": "2026-04-23T05:20:45+00:00",
       "time_text": "05:20",
       "link": "https://t.me/hackernews_summary/24768",
-      "views": "8"
+      "views": "9"
     },
     {
       "text": "The Onion to Take over InfoWars\n\n\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -180,7 +197,7 @@
       "datetime": "2026-04-23T04:50:27+00:00",
       "time_text": "04:50",
       "link": "https://t.me/hackernews_summary/24764",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "It's time to reclaim the word \"Palantir\" for JRR Tolkien\n\n🔸The speaker, a former Palantir employee, argues that Palantir's tools are used for surveillance and prediction, leading to accountability loss and institutional bias. They aim to reclaim language and challenge the company's ontology, which can be used to harm people and reflect authoritarian worldviews.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -306,27 +323,10 @@
     },
     {
       "post_id": "24757"
-    },
-    {
-      "datetime": "2026-04-23T02:00:05+00:00",
-      "time_text": "02:00",
-      "link": "https://t.me/hackernews_summary/24756",
-      "views": "4"
-    },
-    {
-      "text": "Rip language. Compiles to ES2022. Built-in reactivity\n\n🔸Rip is a modern language inspired by CoffeeScript, compiling to ES2022 with built-in reactivity and a self-hosting compiler. It adds new operators and features like schema declarations, interactive REPL, and a UI framework for building web applications.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:1610769493826346753:1:65b5e3e3fd6f689b10d3d77efe29673d8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24756"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T14:14:15.444911",
-    "new_count": 2
+    "last_update": "2026-04-23T14:34:56.905855",
+    "new_count": 1
   }
 }
