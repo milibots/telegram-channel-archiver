@@ -11,14 +11,48 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 74,
-  "returned_posts": 74,
+  "total_posts": 75,
+  "returned_posts": 75,
   "posts": [
+    {
+      "datetime": "2026-04-23T11:20:26+00:00",
+      "time_text": "11:20",
+      "link": "https://t.me/hackernews_summary/24778",
+      "views": "4"
+    },
+    {
+      "text": "Do you want the US to \"win\" AI?\n\n🔸The writer is concerned about the direction of AI development and its potential impact on society, preferring a more nuanced approach to technology. They question Elon's worldview and the value of a society where AI is controlled by powerful individuals.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-8988359654896230655:1:65b5e3e3fd6f689beec3617e13a1f61a8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24778"
+    },
+    {
+      "datetime": "2026-04-23T11:20:06+00:00",
+      "time_text": "11:20",
+      "link": "https://t.me/hackernews_summary/24777",
+      "views": "4"
+    },
+    {
+      "text": "Highlights from Git 2.54\n\n🔸Git 2.54 introduces new features including the experimental 'git history' command for rewriting commit history and a new way to define hooks in configuration files. Other notable changes include improved usability in 'git add -p' and 'git log -L', as well as enhancements to 'git blame' and 'git backfill'.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-7538053542292218112:1:65b5e3e3fd6f689beec3617e13a1f61a8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24777"
+    },
     {
       "datetime": "2026-04-23T10:50:04+00:00",
       "time_text": "10:50",
       "link": "https://t.me/hackernews_summary/24776",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "Isopods of the world\n\n🔸Isopod Site aims to improve isopod identification through basic anatomy understanding. Selective breeding is used in the hobby to boost unique traits in new lineages.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +69,7 @@
       "datetime": "2026-04-23T10:40:25+00:00",
       "time_text": "10:40",
       "link": "https://t.me/hackernews_summary/24775",
-      "views": "5"
+      "views": "7"
     },
     {
       "text": "MacBook Neo and How the iPad Should Be\n\n🔸The writer argues that iPads should be touch-only devices with unique, weird apps, while MacBooks should be for multitasking and keyboard-based work.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +86,7 @@
       "datetime": "2026-04-23T10:40:04+00:00",
       "time_text": "10:40",
       "link": "https://t.me/hackernews_summary/24774",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "Fundamental Theorem of Calculus\n\n🔸The Riemann integral is a mathematical concept that approximates the area under a graph by using rectangles and partitions, and a function is Riemann integrable if the difference between the upper and lower sums is less than any given positive value. The Fundamental Theorem of Calculus states that the definite integral of a function is equal to the difference of its antiderivative evaluated ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -185,7 +219,7 @@
       "datetime": "2026-04-23T05:10:04+00:00",
       "time_text": "05:10",
       "link": "https://t.me/hackernews_summary/24765",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "Flow Map Learning via Nongradient Vector Flow [pdf]\n\n🔸SGFlow is a method for learning flow maps that bypasses explicit invertibility constraints and expensive differentiation through model iteration, allowing for faster sampling from diffusion and flow models. SGFlow trains a model to compute both the ODE solutions and the implied velocity from scratch by following non-conservative dynamics, achieving favorable results on the CIFAR image ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -294,39 +328,10 @@
     },
     {
       "post_id": "24759"
-    },
-    {
-      "datetime": "2026-04-23T02:35:25+00:00",
-      "time_text": "02:35",
-      "link": "https://t.me/hackernews_summary/24758",
-      "views": "4"
-    },
-    {
-      "text": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game\n\n🔸The user discussed three book-length projects about classic video games: TEMPEST vs TEMPEST, IRIDIS ALPHA THEORY, and psychedelia syndrome, which delve into the mechanics and source code of the games. The books are free to download and offer in-depth analysis of the games.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:653926185649643266:1:65b5e3e3fd6f689b18c93b106efc3f078211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24758"
-    },
-    {
-      "datetime": "2026-04-23T02:35:04+00:00",
-      "time_text": "02:35",
-      "link": "https://t.me/hackernews_summary/24757",
-      "views": "4"
-    },
-    {
-      "text": "Verus is a tool for verifying the correctness of code written in Rust\n\n🔸Verus is a tool for verifying Rust code correctness using computer-aided theorem proving. It extends Rust's syntax with new concepts for writing specifications and proofs.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24757"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T14:34:56.905855",
-    "new_count": 1
+    "last_update": "2026-04-23T14:55:38.639112",
+    "new_count": 2
   }
 }
