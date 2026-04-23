@@ -15,10 +15,44 @@
   "returned_posts": 76,
   "posts": [
     {
+      "datetime": "2026-04-23T21:45:05+00:00",
+      "time_text": "21:45",
+      "link": "https://t.me/hackernews_summary/24817",
+      "views": "3"
+    },
+    {
+      "text": "GPT-5.5: Mythos-Like Hacking, Open to All\n\n🔸OpenAI's GPT-5.5 model outperforms previous versions in vulnerability detection, reducing the miss rate to 10%. It also excels in black box testing and white box testing, making it a key part of the stack for penetration testing workflows.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/FpOzt58msxMwU72ZVvmtWPRk5KCK1mO9yOHwzEbtYoHutJYYptp_-hQnVUZRzzkUxAdm5F7OeQ0yWTZH7-6U1a9srtjRSvZwM_dQxYlck0N8fuxTv3gyR0b_2r--g_eUUxsJ9T9ZtRSiaEluyAZ6PrtwbUwMBZ85e0EwnUefuRktXilbKZAXveLmlqflQl0DHIAY59YT0CBqcx-GjU-JJz-UjmV7n3oTG4i7V3X0E7P780iBsgM7o8XBeU_2sorJbjJ6QoWAnZlNPmiKROOHQeAIONqunsKbLnRTQXiW7zbmfKRZGCBEb6Kr1t4wbyGVJG-ma92asS2O7qgZI9BUqQ.jpg"
+      ]
+    },
+    {
+      "post_id": "24817"
+    },
+    {
+      "datetime": "2026-04-23T21:35:05+00:00",
+      "time_text": "21:35",
+      "link": "https://t.me/hackernews_summary/24816",
+      "views": "4"
+    },
+    {
+      "text": "How the Tech World Turned Evil\n\n🔸Silicon Valley tech leaders like Peter Thiel and Marc Andreessen are framing their economic self-interest as a religious imperative, warning of a war between good (AI) and evil (government regulation) and predicting a Singularity where human intelligence is eclipsed by intellectually superior computers. The tech industry has shifted from a counterculture that promised to disperse power and ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/BcRMsOOrivnjRdM7Gz7Vkjq_i00dL6Pp7PfYbXb-QLTP4Ugyj39Ha5BL39YJAbbnHJ4OA-4abxx0LYo_otGi-KSdasAzTf3p7dBSqk0Vc2ZwS0dqkmnWGOTGx0Yfz4yxYZOuw9GTDsjg2lyOs1P8lQaI6YCRUvNv0Ke5zpT1BA31suBjALdwsveKZL1LuBxNOcBqfwu8OKrYFdz5CwdW9-9B1viSf4WGvgEQwSIbyA4fZICD7W-O26AcWc2C5OBveFsyHU0q7-AFT7ZjB8KarsNVV-SVTOfyuxz3UnqlYVZTkxyNHfdi6FbMjj7r-90NPMLVK5DsBy19LyvQFrkHPQ.jpg"
+      ]
+    },
+    {
+      "post_id": "24816"
+    },
+    {
       "datetime": "2026-04-23T21:25:04+00:00",
       "time_text": "21:25",
       "link": "https://t.me/hackernews_summary/24815",
-      "views": "3"
+      "views": "5"
     },
     {
       "text": "UK Biobank health data keeps ending up on GitHub\n\n🔸UK Biobank has used copyright takedown notices to remove health data from GitHub, targeting 110 requests since July 2025. The notices mostly target Jupyter or R notebooks, genetic and genomic data files, and tabular datasets containing participant health records.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +69,7 @@
       "datetime": "2026-04-23T21:15:46+00:00",
       "time_text": "21:15",
       "link": "https://t.me/hackernews_summary/24814",
-      "views": "2"
+      "views": "3"
     },
     {
       "text": "My phone replaced a brass plug\n\n🔸The author spent six months developing a computer vision model to automate scoring of shooting targets, using a combination of OpenCV and YOLOv8, and eventually created an offline-first app to track shooting performance.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +86,7 @@
       "datetime": "2026-04-23T21:15:26+00:00",
       "time_text": "21:15",
       "link": "https://t.me/hackernews_summary/24813",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Show HN: Agent Vault – Open-source credential proxy and vault for agents\n\n🔸Agent Vault is an open-source credential broker that eliminates credential exfiltration risk by injecting credentials at the network layer. It works with any agent, including custom Python/TypeScript agents and coding agents like Claude Code.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -69,7 +103,7 @@
       "datetime": "2026-04-23T21:15:05+00:00",
       "time_text": "21:15",
       "link": "https://t.me/hackernews_summary/24812",
-      "views": "3"
+      "views": "5"
     },
     {
       "text": "Microsoft offers buyouts up to 7% of US employees\n\n🔸Microsoft is offering buyouts to employees whose years of service plus age total 70 or more, with some exceptions. This move aims to reduce headcount by 8,750 employees, or 7% of its US workforce.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -299,44 +333,10 @@
     },
     {
       "post_id": "24798"
-    },
-    {
-      "datetime": "2026-04-23T17:25:07+00:00",
-      "time_text": "17:25",
-      "link": "https://t.me/hackernews_summary/24797",
-      "views": "8"
-    },
-    {
-      "text": "'Hairdryer used to trick weather sensor' to win &#036;34,000 Polymarket bet\n\n🔸French police investigate possible tampering with weather readings at Charles de Gaulle airport to influence Polymarket bets. A hairdryer may have been used to manipulate temperature readings, causing gamblers to win thousands of dollars.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-4872204870100050173:1:65b5e3e3fd6f689b92d7ff6c9aedd3ec8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24797"
-    },
-    {
-      "datetime": "2026-04-23T16:55:05+00:00",
-      "time_text": "16:55",
-      "link": "https://t.me/hackernews_summary/24796",
-      "views": "9"
-    },
-    {
-      "text": "Incident with Multple GitHub Services\n\n🔸GitHub's Status Page - Incident with multple GitHub services.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-2122431318375194877:1:65b5e3e3fd6f689b03cf1ab20cf086558211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24796"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T00:58:11.061421",
-    "new_count": 4
+    "last_update": "2026-04-24T01:18:44.540408",
+    "new_count": 2
   }
 }

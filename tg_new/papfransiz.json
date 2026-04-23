@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T15:16:23+00:00",
       "time_text": "15:16",
       "link": "https://t.me/papFransiz/401",
-      "views": "101"
+      "views": "104"
     },
     {
       "text": "https://github.com/code3-dev/GNet/releases/download/v1.0.4/GNet-universal.apk"
@@ -30,7 +30,7 @@
       "datetime": "2026-04-23T14:17:27+00:00",
       "time_text": "14:17",
       "link": "https://t.me/papFransiz/400",
-      "views": "129"
+      "views": "132"
     },
     {
       "text": "این میرور چینی برای دانشگاه پکن است و با اکثر نت ها باز میشه هر چی که لازم دارید داخلش هست  مثلا :\nمیرور های لینوکس و دیسترو هاش\narchlinux,ubnuto, ..\n\nابزارهای برنامه‌نویسی مثل  nodejs,.net,python,go\n\npackage manager  : npm , docker , apache , maven,gradle , pypi\n\niso arch مثل arch , debia, centos,fedora,a ubunto\n\nبرنامه ها هم مثل docker desktio m nodejs git vscode emacs vim postman\n\nی چند تا امنیت شبکه nmap wireshark matesploit kali linux\n\nhttps://mirrors.bfsu.edu.cn/"
@@ -42,7 +42,7 @@
       "datetime": "2026-04-23T09:14:26+00:00",
       "time_text": "09:14",
       "link": "https://t.me/papFransiz/399",
-      "views": "349"
+      "views": "353"
     },
     {
       "text": "Getting network automation right: A practical strategy for enterprise networks\n\nhttps://blog.apnic.net/2026/03/16/getting-network-automation-right-a-practical-strategy-for-enterprise-networks/"
@@ -54,7 +54,7 @@
       "datetime": "2026-04-22T17:52:50+00:00",
       "time_text": "17:52",
       "link": "https://t.me/papFransiz/398",
-      "views": "670"
+      "views": "676"
     },
     {
       "text": "اسکریپت نصب ترکیبی و خودکار پکیجهای : \n\n-امنیزیا وایرگارد(AmneziaWG) بهمراه pbr و لیست آدرسهای آي پی ایران مناسب برای همه روترهای دارای پشتیبانی از OpenWrt آخرین نسخه 24.10.3:\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --amnezia --pbr --ir\n\n-پسوال ۲ بهمراه جئولیست وبسایتها و آدرسهای آیپی ایران مناسب برای روترهای دارای حداقل پردازنده Arm 64 دو هسته ای و ۲۵۶ مگابایت رم(‌۵۱۲ مگ رم به بالا پیشنهاد میشود):\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --passwall2 --ir --rebind\n\n-پسوال ۲ بهمراه جئولیست وبسایتها و آدرسهای آیپی ایران و AmneziaWG. برای استفاده ترکیبی از پروتوکل ها حداقل پردازنده Arm 64 چهار هسته ای و ۱ گیگابایت رم:\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --passwall2 --ir --rebind --amneziawg\n\nلینک گیتهاب جهت مشارکت در پروژه\nhttps://github.com/iranopenwrt/auto"
@@ -224,7 +224,7 @@
       "datetime": "2026-04-17T07:17:13+00:00",
       "time_text": "07:17",
       "link": "https://t.me/papFransiz/370",
-      "views": "1.44K"
+      "views": "1.45K"
     },
     {
       "text": "اگه ایده های بابت پروژه یک ، پروژه starlink pannel ، پروژه D-WPK ابزار ضدنت‌ملی. دارید میتونید. اینجا بگید.👇\n- به خصوص درمورد پروژه مربوط به استارلینک هر نوع ایده دارید. می‌تونه به بهبود پروژه کمک کنه 👌\n\nid:' @Pap_pv \nTxt:' t.me/papFransiz?direct"
@@ -270,7 +270,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T00:58:05.295509",
+    "last_update": "2026-04-24T01:18:36.781895",
     "new_count": 0
   }
 }
