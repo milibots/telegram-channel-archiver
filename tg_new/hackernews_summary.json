@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T19:40:06+00:00",
       "time_text": "19:40",
       "link": "https://t.me/hackernews_summary/24806",
-      "views": "1"
+      "views": "3"
     },
     {
       "text": "Girl, 10, finds rare Mexican axolotl under Welsh bridge\n\n🔸A 10-year-old girl named Evie found an endangered Mexican axolotl under a bridge in Wales, saving its life. The axolotl, named Dippy, was the first documented discovery in the UK and is one of only 50 to 1,000 left globally.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-23T19:20:04+00:00",
       "time_text": "19:20",
       "link": "https://t.me/hackernews_summary/24805",
-      "views": "2"
+      "views": "3"
     },
     {
       "text": "Meta to cut 10% of jobs, or 8k employees\n\n🔸Meta plans to start layoffs on May 20 to improve efficiency and offset investments in metaverse and AI efforts. The company will let go of employees who made meaningful contributions due to failed metaverse efforts and increased AI investments.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +52,7 @@
       "datetime": "2026-04-23T19:10:05+00:00",
       "time_text": "19:10",
       "link": "https://t.me/hackernews_summary/24804",
-      "views": "2"
+      "views": "3"
     },
     {
       "text": "I spent years trying to make CSS states predictable\n\n🔸The author describes a problem with CSS where component state is managed through overlap, leading to complexity and potential bugs. They created a system called Tasty that allows component state to be expressed declaratively, making it easier to extend or change components without reopening the state-resolution problem.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -341,7 +341,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T23:12:50.846089",
-    "new_count": 1
+    "last_update": "2026-04-23T23:35:24.757023",
+    "new_count": 0
   }
 }
