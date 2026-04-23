@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T18:52:40+00:00",
       "time_text": "18:52",
       "link": "https://t.me/hiaimediaen/2483",
-      "views": "786"
+      "views": "1.4K"
     },
     {
       "text": "💬 GPT-5.5 Is Out: Better And Pricier\n\nOpenAI has released its new GPT-5.5 model for paid subscribers. According to the developers, it's the best AI out there for coding, scientific research, work, and agentic tasks.\n\nBenchmarks and independent evaluations back the claims. GPT-5.5 scored 60 points on Artificial Analysis's AI Intelligence Index, edging out its closest rivals, Claude Opus 4.7 and Gemini 3.1 Pro.\n\n💰 Still, GPT-5.5 costs twice as much as the previous version. API pricing sits at &#036;5/&#036;30 per 1M input/output tokens. That's the highest price tag among frontier models, now even steeper than Opus 4.7. On the flip side, the model is very efficient with token usage, which somewhat softens the blow.\n\n💡 Experts at Artificial Analysis also flagged a relatively high hallucination rate in their tests—despite the model having the strongest knowledge base of any available AI. GPT-5.5 makes up answers instead of admitting it doesn't know them about 1.5–2x more often than Opus 4.7 and Gemini 3.1 Pro.\n\n🔍 The frontier labs' release cycle is only halfway through. Elon Musk's xAI is already testing Grok 4.3, and Chinese lab DeepSeek is expected to unveil the long-awaited V4 soon. So \"the smartest model from OpenAI\" may have some serious new competition right around the corner.\n\nDo you use OpenAI models?\n\n❤️ — Absolutely, they're the best\n🔥 — No, switched to Claude/Gemini/Grok/...\n\n@hiaimediaen"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-23T16:35:21+00:00",
       "time_text": "16:35",
       "link": "https://t.me/hiaimediaen/2482",
-      "views": "3.96K"
+      "views": "4.31K"
     },
     {
       "text": "❤️ \"Smart\" Pillow Changes Shape to Help You Really Get Some Sleep\n\nA \"smart\" pillow called Mirakuru has been developed in Japan. It gently redistributes pressure during sleep, helping you wake up without that sluggish morning feeling.\n\nThe idea came from Yujihiro Takenouchi, founder of the RIRAKURU massage parlor chain, which grew to 600 locations across Japan over ten years. But all that time, Takenouchi couldn't figure out why people still woke up feeling groggy even after a relaxing massage. That led him to the idea — the problem might be the pillow.\n\n🔍 Most people sleep without moving, keeping the same areas of the head and neck under pressure for hours. By morning, that turns into stiffness and soreness. Mirakuru periodically and gently shifts the support point by moving air between six internal chambers. The person doesn't wake up — the noise level stays below 50 decibels.\n\n💡 Takenouchi tested the device on himself and was completely satisfied, claiming that sleep trackers confirmed the improvement. The project has already raised &#036;85,000 on Kickstarter — several times its initial goal. The first backers will receive their pillows in June.\n\nWould you try a pillow like this?\n\n❤️ — Yes, I'd finally get some real sleep\n🤔 — I doubt it would help\n\n@hiaimediaen"
@@ -52,7 +52,7 @@
       "datetime": "2026-04-23T07:29:58+00:00",
       "time_text": "07:29",
       "link": "https://t.me/hiaimediaen/2481",
-      "views": "8.11K"
+      "views": "8.29K"
     },
     {
       "text": "💻 Monkeys Controlled a Virtual Body Using Only Their Thoughts\n\nBrain-computer interfaces already allow paralyzed patients to open apps, use social media, and even play video games. But these interactions are mostly limited to two dimensions: users are essentially just moving a cursor on a screen with their minds.\n\nControlling movement in the real world is still limited to experimental prosthetics, which often require months of training to perform simple actions like lifting an arm, making a fist, or taking a step.\n\n⚙️ Researchers in Belgium took a step further by developing a neural implant that can control an entire virtual body. Most brain-computer interfaces connect only to the motor cortex, which handles movement. In this case, scientists also implanted electrodes in the premotor cortex—the part of the brain responsible for planning movements.\n\nTo test their new system, the researchers worked with three macaques. The animals wore 3D glasses and sat in front of a screen displaying a virtual environment. During training, they watched a ball roll toward a target across a flat surface.\n\n❗️ After just seven minutes, the system began to interpret the monkeys' intentions. The animals were then able to move the ball themselves, guiding it to the target, and even control an avatar as it navigated through a forest, adjusting its path in real time to avoid obstacles.\n\n\"We found that the brain adapts to the system surprisingly fast. This makes the technology a much better candidate for applications for patients,\" says study lead Peter Janssen.\n\n⚡️ The researchers plan to begin human trials within the next two years.\n\n@hiaimediaen"
@@ -69,7 +69,7 @@
       "datetime": "2026-04-22T18:12:01+00:00",
       "time_text": "18:12",
       "link": "https://t.me/hiaimediaen/2480",
-      "views": "10.8K"
+      "views": "10.9K"
     },
     {
       "text": "⏫ AI Designs ADHD Peptide In 24 Hours\n\nThe decentralized science project Bio Protocol and the PeptAI platform said they used AI to design OX2R-004, a peptide for the potential treatment of attention-deficit/hyperactivity disorder, in just 24 hours.\n\nOne hypothesis about the biology of ADHD is a deficit of orexins. These peptides (chains of amino acids) are produced in the hypothalamus and help regulate nervous system activity, circadian rhythms, and sleep-wake cycles. All existing drugs that act on orexin receptors are receptor antagonists (blockers) used to treat insomnia.\n\nOX2R-004 was designed as an agonist, or activator, of the OX2R receptor. It is meant to mimic natural orexin and help stabilize the body's signaling, supporting communication between brain regions needed for concentration. There are currently no approved orexin receptor agonists on the market, while most clinical development in this area is focused on treating sleepiness and narcolepsy.\n\n⚡️ Is This A Ready-Made ADHD Drug?\n\nNot yet. For now, this is an early computational model, not a finished medicine, and the molecule still needs significant refinement. OX2R-004 breaks down too quickly, is unlikely to cross the blood-brain barrier, and may carry unwanted off-target risks.\n\nHowever, without ML tools that helped predict the peptide's shape, receptor activity, toxicity, and other parameters, even this early work could have taken months. AI handled a significant part of that process in just one day.\n\nHave you had any experience with ADHD?\n\n🔥 — Yes\n🤔 — No\n\n@hiaimediaen"
@@ -86,7 +86,7 @@
       "datetime": "2026-04-22T08:20:59+00:00",
       "time_text": "08:20",
       "link": "https://t.me/hiaimediaen/2479",
-      "views": "12K"
+      "views": "12.1K"
     },
     {
       "text": "👨 An elderly Chinese woman has been talking to an AI clone of her son for over a year, without knowing that he died in an accident\n\nThe woman is over 80 years old and has heart problems. Her family decided that telling her the truth could be too much of a shock.\n\nSo they turned to a team of developers, gave them photos, videos, and voice recordings of the man in his native dialect, and received a realistic avatar that looks, speaks, and even moves almost like the real person.\n\nNow this \"son\" talks to his mother every day via video call. She still tells him to dress warmly, eat well, and take care of himself, and the digital copy replies that he's working hard in another city, which is why he can't visit her. According to Zhang Zewei, the system's creator, the avatar even mimics the man's habit of leaning forward slightly while talking.\n\n✏️ The story caused a strong reaction on social media. Some called the AI son a \"white lie\" and a way to comfort someone who couldn't bear such a loss. Others saw it as emotional deception that could cause even more pain if the truth is ever discovered.\n\nWhat do you think? Is this a \"lie for good\"?\n\n❤️ — Yes, it's okay  \n🔥 — No, she should know the truth\n\n@hiaimediaen"
@@ -108,7 +108,7 @@
       "datetime": "2026-04-21T13:08:58+00:00",
       "time_text": "13:08",
       "link": "https://t.me/hiaimediaen/2470",
-      "views": "13.9K"
+      "views": "14K"
     },
     {
       "text": "⚡️ GPT Image 2: The Next Level of AI Image Generation by OpenAI\n\nA new AI creates ultra-realistic images, leaving behind previous GPT Image 1.5 and Google's Nano Banana.\n\nWhat makes it special?\n\n✅ Carefully preserves details and faces during editing;\n✅ Renders long texts and draws infographics without distortions;\n✅ Generates app interfaces and screenshots with unprecedented accuracy;\n✅ Improved aesthetics: skin and faces look strikingly lifelike, with no uncanny valley effect;\n✅ Lighting, proportions, and perspective, just like professional photos, without that yellow \"AI filter.\"\n\n🔴 You can already try it in our @GPT4Telegrambot. \n\nHow to Try?\n\n1️⃣ Go to @GPT4Telegrambot\n2️⃣ Select Image Generation → GPT Images in the menu.\n3️⃣ Type your prompt.\n\n💡 25 generations per week for free.\n\nDo you still trust pictures on the internet?\n\n❤️ — Yes, I can spot AI-generated images\n👀 — No, it's impossible to tell anymore...\n\n@hiaimediaen"
@@ -182,7 +182,7 @@
       "datetime": "2026-04-20T21:28:31+00:00",
       "time_text": "21:28",
       "link": "https://t.me/hiaimediaen/2468",
-      "views": "12.3K"
+      "views": "12.4K"
     },
     {
       "text": "❗️ Tim Cook Steps Down as Apple CEO\n\nThe corporation announced that Tim Cook, who has led the company for the past 15 years, will become Apple's Executive Chairman effective September 1.\n\nThe 65-year-old Cook will be succeeded as chief executive officer by 50-year-old John Ternus, Senior Vice President of Hardware Engineering.\n\nUnder Cook's leadership, Apple's market capitalization grew from &#036;350 billion to &#036;4 trillion.\n\nℹ️ Rumors that Ternus would become Apple's next leader had been circulating since last year.\n\nTernus has been with Apple since 2001, working on the company's flagship products, including Mac, iPhone, iPad, and AirPods, and overseeing the groundbreaking iPhone Air and MacBook Neo.\n\nCook reportedly values the \"engineer at heart\" Ternus for his ability to present and his cautious approach to decision-making.\n\n🔄 In his statement on the appointment, Ternus kept things general, expressing \"optimism about the years to come.\" But his first and defining challenge will be Apple's standing in the AI race. More precisely: whether Apple can compete on equal footing, or whether it will bow out for good.\n\nWhat do you think of Apple under Tim Cook?\n\n❤️ — The company has reached its peak \n🔥 — Jobs' legacy is lost...\n\n@hiaimediaen"
@@ -216,7 +216,7 @@
       "datetime": "2026-04-19T09:29:58+00:00",
       "time_text": "09:29",
       "link": "https://t.me/hiaimediaen/2466",
-      "views": "16.6K"
+      "views": "16.7K"
     },
     {
       "text": "💬 OpenAI Is Looking to Replace Sam Altman Before IPO\n\nSources told the WSJ that some shareholders are questioning whether Sam Altman should remain at the helm of the company and are floating board chairman Bret Taylor as a potential replacement.\n\nOpenAI's board is concerned about possible conflicts of interest on Altman's part, as well as his being spread too thin ahead of the company's planned public offering, which is preliminarily valued at &#036;850 billion.\n\nAltman has been pushing OpenAI investments into Helion, a nuclear fusion startup, Stoke Space, and Merge Labs, a brain-computer interface lab—all companies in which he has personal stakes. Meanwhile, OpenAI has publicly stated it's stepping back from side projects to stay focused on its core AI products.\n\nOn top of that, Altman said back in December that he has \"zero percent\" interest in being a CEO of a public company.\n\n\"Am I excited to be a public company CEO? 0%,\" he explained. \"Am I excited for OpenAI to be a public company? In some ways, I am, and in some ways I think it'd be really annoying.\"\n\nSo, do you think Altman will step down as CEO?\n\n❤️ — Yes, most likely \n🤔 — Not sure \n🔥 — Don't care, just drop GPT-6\n\n@hiaimediaen"
@@ -265,7 +265,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T22:31:20.113390",
-    "new_count": 1
+    "last_update": "2026-04-23T22:51:59.520861",
+    "new_count": 0
   }
 }

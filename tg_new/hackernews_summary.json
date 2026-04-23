@@ -15,10 +15,39 @@
   "returned_posts": 77,
   "posts": [
     {
+      "datetime": "2026-04-23T19:20:04+00:00",
+      "time_text": "19:20",
+      "link": "https://t.me/hackernews_summary/24805",
+      "views": "1"
+    },
+    {
+      "text": "Meta to cut 10% of jobs, or 8k employees\n\n🔸Meta plans to start layoffs on May 20 to improve efficiency and offset investments in metaverse and AI efforts. The company will let go of employees who made meaningful contributions due to failed metaverse efforts and increased AI investments.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:943837904193068803:1:65b5e3e3fd6f689b8b48a7a3577f62418211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24805"
+    },
+    {
+      "datetime": "2026-04-23T19:10:05+00:00",
+      "time_text": "19:10",
+      "link": "https://t.me/hackernews_summary/24804",
+      "views": "1"
+    },
+    {
+      "text": "I spent years trying to make CSS states predictable\n\n🔸The author describes a problem with CSS where component state is managed through overlap, leading to complexity and potential bugs. They created a system called Tasty that allows component state to be expressed declaratively, making it easier to extend or change components without reopening the state-resolution problem.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24804"
+    },
+    {
       "datetime": "2026-04-23T19:00:04+00:00",
       "time_text": "19:00",
       "link": "https://t.me/hackernews_summary/24803",
-      "views": "1"
+      "views": "3"
     },
     {
       "text": "Middle Eastern News Sites Are U.S. Government Propaganda Ops\n\n🔸Al-Fassel and Pishtaz News are propaganda websites funded by the US government, spreading pro-US and anti-Iranian content. They use social media to disseminate biased information, often masquerading as independent news outlets.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +64,7 @@
       "datetime": "2026-04-23T18:15:04+00:00",
       "time_text": "18:15",
       "link": "https://t.me/hackernews_summary/24802",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "People Do Not Yearn for Automation\n\n🔸Is editor-in-chief of the verge, host of the decoder podcast and co-host of tv show. he says software brain is changing the world, but most people aren't buying it. poll after poll shows that gen z uses ai the most and has most negative feelings about it - edward mccaffery. the tech industry needs to make the case for the investments it's making in ai, author says\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +81,7 @@
       "datetime": "2026-04-23T18:05:05+00:00",
       "time_text": "18:05",
       "link": "https://t.me/hackernews_summary/24801",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "An update on recent Claude Code quality reports\n\n🔸Claude's responses worsened for some users due to three separate changes affecting Claude Code, the Claude Agent SDK, and Claude Cowork. We've fixed the issues and will implement changes to prevent similar problems in the future.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -86,7 +115,7 @@
       "datetime": "2026-04-23T17:45:05+00:00",
       "time_text": "17:45",
       "link": "https://t.me/hackernews_summary/24799",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "MeshCore development team splits over trademark dispute and AI-generated code\n\n🔸A team member, Andy Kirby, secretly used AI-generated code to take over the MeshCore ecosystem, sparking a dispute over ownership and control. The core team has now separated from Andy and will continue to develop and release MeshCore firmware and app updates on their official website, meshcore.io.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -103,7 +132,7 @@
       "datetime": "2026-04-23T17:35:05+00:00",
       "time_text": "17:35",
       "link": "https://t.me/hackernews_summary/24798",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "The Ferrari of Espresso Machines Is Fueling a Hot Resale Market\n\n\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -115,7 +144,7 @@
       "datetime": "2026-04-23T17:25:07+00:00",
       "time_text": "17:25",
       "link": "https://t.me/hackernews_summary/24797",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "'Hairdryer used to trick weather sensor' to win &#036;34,000 Polymarket bet\n\n🔸French police investigate possible tampering with weather readings at Charles de Gaulle airport to influence Polymarket bets. A hairdryer may have been used to manipulate temperature readings, causing gamblers to win thousands of dollars.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -132,7 +161,7 @@
       "datetime": "2026-04-23T16:55:05+00:00",
       "time_text": "16:55",
       "link": "https://t.me/hackernews_summary/24796",
-      "views": "8"
+      "views": "9"
     },
     {
       "text": "Incident with Multple GitHub Services\n\n🔸GitHub's Status Page - Incident with multple GitHub services.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -149,7 +178,7 @@
       "datetime": "2026-04-23T16:35:27+00:00",
       "time_text": "16:35",
       "link": "https://t.me/hackernews_summary/24795",
-      "views": "8"
+      "views": "9"
     },
     {
       "text": "A DIY Watch You Can Actually Wear\n\n🔸The LILYGO T-Watch Ultra is a DIY smartwatch with ESP32-S3, IP65-rated case, and various features like AI acceleration, Wi-Fi, Bluetooth, and LoRa. It's suitable for complex applications and has a long runtime due to its 1,100mAh battery and improved display.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -166,7 +195,7 @@
       "datetime": "2026-04-23T16:35:06+00:00",
       "time_text": "16:35",
       "link": "https://t.me/hackernews_summary/24794",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "If America's So Rich, How'd It Get So Sad?\n\n🔸The US has experienced a sharp decline in self-reported happiness since 2020, with no recovery, despite a strong economy and low unemployment. The culprit is likely the ongoing COVID pandemic and its aftermath, including inflation, economic uncertainty, and a uniquely negative news environment.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -183,7 +212,7 @@
       "datetime": "2026-04-23T16:20:05+00:00",
       "time_text": "16:20",
       "link": "https://t.me/hackernews_summary/24793",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "France confirms data breach at government agency that manages citizens' IDs\n\n🔸A data breach at the Agence Nationale des Titres Sécurisés (ANTS) exposed personal info of an undisclosed number of citizens. Millions may have been affected, with a hacker claiming to have 19 million records on a hacking forum.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -200,7 +229,7 @@
       "datetime": "2026-04-23T16:00:06+00:00",
       "time_text": "16:00",
       "link": "https://t.me/hackernews_summary/24792",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "The end of responsive images\n\n🔸The author of the article, a former Chair of the RICG, confesses to creating the responsive image syntax that has caused frustration for developers. They reveal that they hated the syntax but fought for it because they knew developers would have done it wrong.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -217,7 +246,7 @@
       "datetime": "2026-04-23T15:50:05+00:00",
       "time_text": "15:50",
       "link": "https://t.me/hackernews_summary/24791",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets\n\n🔸James Giovansanti, a NYPD officer, has accumulated 547 speeding tickets in Staten Island since 2022, averaging one ticket every other day. His record makes him the second-most-reckless driver in the city, posing a unique danger to himself and others.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -234,7 +263,7 @@
       "datetime": "2026-04-23T15:20:25+00:00",
       "time_text": "15:20",
       "link": "https://t.me/hackernews_summary/24790",
-      "views": "10"
+      "views": "11"
     },
     {
       "text": "A History of Erasures Learning to Write Like Leylâ Erbil\n\n🔸The author initially dismissed Leylâ Erbil's work as outdated and self-indulgent, but later reevaluated her experimental novel \"What Remains\" as a powerful challenge to literary conventions in Turkey. Erbil's autofiction explores Turkish history, politics, and identity through a stream-of-consciousness narrative that blurs the lines between personal and public trauma.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -309,39 +338,10 @@
     },
     {
       "post_id": "24786"
-    },
-    {
-      "datetime": "2026-04-23T13:25:05+00:00",
-      "time_text": "13:25",
-      "link": "https://t.me/hackernews_summary/24785",
-      "views": "9"
-    },
-    {
-      "text": "Work with the Garage Door Up\n\n🔸Creative people sharing their process can create invested followings and avoid pitching problems. This type of communication is like having a physical business sign, showing \"I am here, working.\"\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24785"
-    },
-    {
-      "datetime": "2026-04-23T12:50:05+00:00",
-      "time_text": "12:50",
-      "link": "https://t.me/hackernews_summary/24784",
-      "views": "9"
-    },
-    {
-      "text": "Show HN: Built a daily game where you sort historical events chronologically\n\n🔸Sort 6 historical events intochronological order. April 23, 2026Puzzle #9Created by Damian Krajnakdamiankrajnakk@gmail.com\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:8616289388369944321:1:65b5e3e3fd6f689b09b7a533b910bc0b8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24784"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T22:31:21.101033",
-    "new_count": 1
+    "last_update": "2026-04-23T22:52:00.419204",
+    "new_count": 2
   }
 }
