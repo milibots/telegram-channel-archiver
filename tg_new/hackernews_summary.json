@@ -11,14 +11,43 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 77,
-  "returned_posts": 77,
+  "total_posts": 76,
+  "returned_posts": 76,
   "posts": [
+    {
+      "datetime": "2026-04-23T20:20:05+00:00",
+      "time_text": "20:20",
+      "link": "https://t.me/hackernews_summary/24808",
+      "views": "3"
+    },
+    {
+      "text": "WireGuard for Windows Reaches v1.0\n\n🔸Jason Donenfeld announced the v1.0 release of WireGuardNT and WireGuard for Windows with bug fixes and improvements including NdisWdfGetAdapterContextFromAdapterHandle() and proper MTU change notifications. The release also includes 42 bug and correctness fixes for WireGuardNT and a new feature for setting system DNS server programmatically on older Windows 10 versions.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24808"
+    },
+    {
+      "datetime": "2026-04-23T20:15:05+00:00",
+      "time_text": "20:15",
+      "link": "https://t.me/hackernews_summary/24807",
+      "views": "4"
+    },
+    {
+      "text": "Astronomers Find the Edge of the Milky Way\n\n🔸A team of astronomers found that the Milky Way's star-forming disk ends at 35,000-40,000 light-years from its center. Stars beyond this point are older and likely migrated outward due to the galaxy's spiral waves.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/KeojBnceHd5ZwRex-mo7LBKsEA3rmRQsX6HM93BGHXcnSDpGlD8kCsK-F3IVBwG0FeW3g5HWBoluUMG0IUul3HTjeGv2j8VDijxY8sdDzq5SC_L7vGI5QPzrk3SG3SpsAD6y8a3HEwsGcKwEgqdyK-aRlSFKrmmJTNJYnHDsqM9fBilGO4GnjDiZnJ-9bZaR2YBwdJ_tsKktqWD9S3ZEjsSgSQzKQ4_IzRav64MUFUN0uLtcWSIoFb6aQjVHuy7lHFr-eCZEiOUpmWTQ2T91t_HKmgl2dHeZqqanKwYEZzTMQuLcdOvbIy70oHFZykbIThqFrpvZH0QUs1n_cPdOxg.jpg"
+      ]
+    },
+    {
+      "post_id": "24807"
+    },
     {
       "datetime": "2026-04-23T19:40:06+00:00",
       "time_text": "19:40",
       "link": "https://t.me/hackernews_summary/24806",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Girl, 10, finds rare Mexican axolotl under Welsh bridge\n\n🔸A 10-year-old girl named Evie found an endangered Mexican axolotl under a bridge in Wales, saving its life. The axolotl, named Dippy, was the first documented discovery in the UK and is one of only 50 to 1,000 left globally.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +64,7 @@
       "datetime": "2026-04-23T19:20:04+00:00",
       "time_text": "19:20",
       "link": "https://t.me/hackernews_summary/24805",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Meta to cut 10% of jobs, or 8k employees\n\n🔸Meta plans to start layoffs on May 20 to improve efficiency and offset investments in metaverse and AI efforts. The company will let go of employees who made meaningful contributions due to failed metaverse efforts and increased AI investments.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +81,7 @@
       "datetime": "2026-04-23T19:10:05+00:00",
       "time_text": "19:10",
       "link": "https://t.me/hackernews_summary/24804",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "I spent years trying to make CSS states predictable\n\n🔸The author describes a problem with CSS where component state is managed through overlap, leading to complexity and potential bugs. They created a system called Tasty that allows component state to be expressed declaratively, making it easier to extend or change components without reopening the state-resolution problem.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -304,44 +333,10 @@
     },
     {
       "post_id": "24789"
-    },
-    {
-      "datetime": "2026-04-23T14:45:05+00:00",
-      "time_text": "14:45",
-      "link": "https://t.me/hackernews_summary/24788",
-      "views": "10"
-    },
-    {
-      "text": "Modern Board Games: and why you should play them (2022)\n\n🔸The user presented a team with an introduction to modern board games, dispelling common misconceptions that there are only a few board games and that they are only for children. They highlighted the diversity and complexity of modern board games, encouraging the team to try them out for their social, intellectual, and entertaining benefits.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:8556616541152288515:1:65b5e3e3fd6f689bc277632ed1412cb48211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24788"
-    },
-    {
-      "datetime": "2026-04-23T14:05:05+00:00",
-      "time_text": "14:05",
-      "link": "https://t.me/hackernews_summary/24787",
-      "views": "8"
-    },
-    {
-      "text": "Trump administration reclassifies cannabis as less dangerous\n\n🔸The US Department of Justice reclassified cannabis as less dangerous, moving it from Schedule I to Schedule III, allowing for increased research and access. The change is seen as symbolic, but could lead to policymakers considering full legalization.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:351015605685788417:1:65b5e3e3fd6f689bfeaeba215684b1568211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24787"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T23:35:24.757023",
-    "new_count": 0
+    "last_update": "2026-04-23T23:56:07.186868",
+    "new_count": 2
   }
 }
