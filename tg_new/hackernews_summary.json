@@ -11,9 +11,38 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 74,
-  "returned_posts": 74,
+  "total_posts": 73,
+  "returned_posts": 73,
   "posts": [
+    {
+      "datetime": "2026-04-23T02:00:05+00:00",
+      "time_text": "02:00",
+      "link": "https://t.me/hackernews_summary/24756",
+      "views": "1"
+    },
+    {
+      "text": "Rip language. Compiles to ES2022. Built-in reactivity\n\n🔸Rip is a modern language inspired by CoffeeScript, compiling to ES2022 with built-in reactivity and a self-hosting compiler. It adds new operators and features like schema declarations, interactive REPL, and a UI framework for building web applications.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:1610769493826346753:1:65b5e3e3fd6f689b10d3d77efe29673d8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24756"
+    },
+    {
+      "datetime": "2026-04-23T01:50:05+00:00",
+      "time_text": "01:50",
+      "link": "https://t.me/hackernews_summary/24755",
+      "views": "1"
+    },
+    {
+      "text": "Effectful Recursion Schemes\n\n🔸The user discusses implementing recursion schemes in Effekt, a functional programming language, using effects and handlers instead of infinite recursive types. They showcase various examples of catamorphisms, anamorphisms, and hylomorphisms in Effekt, including a refunctionalized variant of a Term data structure and its applications.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24755"
+    },
     {
       "datetime": "2026-04-23T01:20:05+00:00",
       "time_text": "01:20",
@@ -289,44 +318,10 @@
     },
     {
       "post_id": "24737"
-    },
-    {
-      "datetime": "2026-04-22T18:35:06+00:00",
-      "time_text": "18:35",
-      "link": "https://t.me/hackernews_summary/24736",
-      "views": "6"
-    },
-    {
-      "text": "Workspace Agents in ChatGPT\n\n🔸Workspace agents are shared AI tools that handle complex tasks and workflows within an organization's permissions and controls. They can be built and customized to automate tasks, gather context, and follow team processes, freeing up time for higher-value work.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:8962153167361744642:1:65b5e3e3fd6f689bf2875cd94e2d195b8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24736"
-    },
-    {
-      "datetime": "2026-04-22T18:20:25+00:00",
-      "time_text": "18:20",
-      "link": "https://t.me/hackernews_summary/24735",
-      "views": "6"
-    },
-    {
-      "text": "Surveillance Pricing: Exploiting Information Asymmetries\n\n🔸The practice of surveillance pricing, where companies charge different prices based on personal data, has become widespread and is enabled by market failures and information asymmetries. To address this issue, legislation such as the Stop AI Price Gouging and Wage Fixing Act of 2025 and the One Fair Price Act of 2025 aim to eliminate surveillance pricing and provide enforcement mechanisms, ...\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-8970237578967310591:1:65b5e3e3fd6f689bff87bea4ac997f918211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24735"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T05:14:42.098491",
-    "new_count": 0
+    "last_update": "2026-04-23T05:35:01.887751",
+    "new_count": 2
   }
 }
