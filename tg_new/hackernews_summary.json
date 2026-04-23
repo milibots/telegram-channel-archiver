@@ -15,10 +15,27 @@
   "returned_posts": 77,
   "posts": [
     {
+      "datetime": "2026-04-23T19:40:06+00:00",
+      "time_text": "19:40",
+      "link": "https://t.me/hackernews_summary/24806",
+      "views": "1"
+    },
+    {
+      "text": "Girl, 10, finds rare Mexican axolotl under Welsh bridge\n\n🔸A 10-year-old girl named Evie found an endangered Mexican axolotl under a bridge in Wales, saving its life. The axolotl, named Dippy, was the first documented discovery in the UK and is one of only 50 to 1,000 left globally.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:5957674870071566080:1:65b5e3e3fd6f689b4d87edf870eaba698211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24806"
+    },
+    {
       "datetime": "2026-04-23T19:20:04+00:00",
       "time_text": "19:20",
       "link": "https://t.me/hackernews_summary/24805",
-      "views": "1"
+      "views": "2"
     },
     {
       "text": "Meta to cut 10% of jobs, or 8k employees\n\n🔸Meta plans to start layoffs on May 20 to improve efficiency and offset investments in metaverse and AI efforts. The company will let go of employees who made meaningful contributions due to failed metaverse efforts and increased AI investments.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +52,7 @@
       "datetime": "2026-04-23T19:10:05+00:00",
       "time_text": "19:10",
       "link": "https://t.me/hackernews_summary/24804",
-      "views": "1"
+      "views": "2"
     },
     {
       "text": "I spent years trying to make CSS states predictable\n\n🔸The author describes a problem with CSS where component state is managed through overlap, leading to complexity and potential bugs. They created a system called Tasty that allows component state to be expressed declaratively, making it easier to extend or change components without reopening the state-resolution problem.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -144,7 +161,7 @@
       "datetime": "2026-04-23T17:25:07+00:00",
       "time_text": "17:25",
       "link": "https://t.me/hackernews_summary/24797",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "'Hairdryer used to trick weather sensor' to win &#036;34,000 Polymarket bet\n\n🔸French police investigate possible tampering with weather readings at Charles de Gaulle airport to influence Polymarket bets. A hairdryer may have been used to manipulate temperature readings, causing gamblers to win thousands of dollars.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -321,27 +338,10 @@
     },
     {
       "post_id": "24787"
-    },
-    {
-      "datetime": "2026-04-23T13:45:04+00:00",
-      "time_text": "13:45",
-      "link": "https://t.me/hackernews_summary/24786",
-      "views": "9"
-    },
-    {
-      "text": "A Renaissance gambling dispute spawned probability theory\n\n🔸Mathematicians Blaise Pascal and Pierre de Fermat solved the \"problem of points\" by considering future possibilities of the score. Their solution, based on expected value, is used in risk assessments and has become a fundamental pillar of modern probability theory.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:11287962313170688:1:65b5e3e3fd6f689b2e19f96f5f982c388211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24786"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T22:52:00.419204",
-    "new_count": 2
+    "last_update": "2026-04-23T23:12:50.846089",
+    "new_count": 1
   }
 }

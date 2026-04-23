@@ -5,7 +5,7 @@
   "channel_username": "@papfransiz",
   "channel_avatar": "bale:46627310:-97791133082575102:1:65b5e3e3fd6f689bcbe700a528ebb1728211e6c76420e4b7",
   "channel_verified": false,
-  "channel_subscribers": "472",
+  "channel_subscribers": "473",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
@@ -42,7 +42,7 @@
       "datetime": "2026-04-23T09:14:26+00:00",
       "time_text": "09:14",
       "link": "https://t.me/papFransiz/399",
-      "views": "333"
+      "views": "334"
     },
     {
       "text": "Getting network automation right: A practical strategy for enterprise networks\n\nhttps://blog.apnic.net/2026/03/16/getting-network-automation-right-a-practical-strategy-for-enterprise-networks/"
@@ -54,7 +54,7 @@
       "datetime": "2026-04-22T17:52:50+00:00",
       "time_text": "17:52",
       "link": "https://t.me/papFransiz/398",
-      "views": "634"
+      "views": "637"
     },
     {
       "text": "اسکریپت نصب ترکیبی و خودکار پکیجهای : \n\n-امنیزیا وایرگارد(AmneziaWG) بهمراه pbr و لیست آدرسهای آي پی ایران مناسب برای همه روترهای دارای پشتیبانی از OpenWrt آخرین نسخه 24.10.3:\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --amnezia --pbr --ir\n\n-پسوال ۲ بهمراه جئولیست وبسایتها و آدرسهای آیپی ایران مناسب برای روترهای دارای حداقل پردازنده Arm 64 دو هسته ای و ۲۵۶ مگابایت رم(‌۵۱۲ مگ رم به بالا پیشنهاد میشود):\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --passwall2 --ir --rebind\n\n-پسوال ۲ بهمراه جئولیست وبسایتها و آدرسهای آیپی ایران و AmneziaWG. برای استفاده ترکیبی از پروتوکل ها حداقل پردازنده Arm 64 چهار هسته ای و ۱ گیگابایت رم:\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --passwall2 --ir --rebind --amneziawg\n\nلینک گیتهاب جهت مشارکت در پروژه\nhttps://github.com/iranopenwrt/auto"
@@ -129,7 +129,7 @@
       "datetime": "2026-04-21T17:32:05+00:00",
       "time_text": "17:32",
       "link": "https://t.me/papFransiz/392",
-      "views": "919"
+      "views": "920"
     },
     {
       "text": "-OpenWRT - x86 PC Installation - Live USB\n\nwww.youtube.com/watch?v=DET3EMl6-RM\n\n- @papFransiz"
@@ -270,7 +270,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T22:51:52.697333",
+    "last_update": "2026-04-23T23:12:29.193362",
     "new_count": 0
   }
 }

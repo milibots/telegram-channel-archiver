@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T18:50:31+00:00",
       "time_text": "18:50",
       "link": "https://t.me/shin_persian/5569",
-      "views": "1.47K"
+      "views": "1.82K"
     },
     {
       "text": "• سخت‌کردن range-parallel: اعتبارسنجی هدر `Content-Range` قبل از دوختن پاسخ‌های ۲۰۶. پاسخ‌های نامعتبر دیگه به صورت ۲۰۰ OK جعلی ترکیب نمی‌شن — probe نامعتبر به GET تکی برمی‌گرده، چانک‌های نامعتبر به پاسخ probe برمی‌گرده (PR #78)\n• رد configهایی که HTTP و SOCKS5 رو روی یک پورت تنظیم کرده‌اند قبل از bind failure زمان اجرا. هم در load config و هم در فرم UI چک می‌شه (PR #79)\n• یادداشت README درباره محدودیت user-CA اندروید 7+ — اپ‌هایی مثل Telegram / WhatsApp / Instagram به CA ما اعتماد نمی‌کنن، برای اون‌ها از PROXY_ONLY یا upstream_socks5 استفاده کنید (issues #74 #81)\n• رفع زیرساخت CI (دور دوم): rust-cache v2 به صورت پیش‌فرض `&#036;CARGO_HOME/bin` رو در پایان هر job pruneمی‌کرد و باینری `rustup` رو (که توسط rustup-init نصب شده، نه `cargo install`) پاک می‌کرد. این باعث می‌شد jobهای بعدی روی symlinkهای شکسته به TOML parse error برخورد کنن. حالا `cache-bin: \"false\"` تنظیم کردیم و `cargo-ndk` هم به `/usr/local/bin/` منتقل شده\n• اسکن SNI خودکار: دستور جدید `mhrv-rs scan-sni` که از رنج IPهای Google با PTR lookup روی dns.google شروع می‌کنه، روی هر IP SNIهای Google-related رو کشف می‌کنه، و هر کدوم رو با TLS handshake علیه `google_ip` تست می‌کنه تا ببینه DPI رو رد می‌کنن یا نه (PR #83)\n\n• Range-parallel hardening: validate `Content-Range` before stitching 206 responses. Invalid responses no longer combine into a fake 200 OK — invalid probe falls back to a normal single GET, invalid later chunks fall back to the probe response (PR #78)\n• Reject configs that set HTTP and SOCKS5 to the same port before the runtime bind failure. Enforced both at config-load time and in the UI form (PR #79)\n• README note on the Android 7+ user-CA trust limit — apps like Telegram / WhatsApp / Instagram don't trust user-installed CAs, use PROXY_ONLY or upstream_socks5 for those (issues #74 #81)\n• CI infrastructure fix (round 1): apt-get steps on Linux build jobs gated to GitHub-hosted runners only. On the new self-hosted runners, multiple parallel matrix jobs were racing on `/var/lib/apt/lists/lock` and failing all at once. Packages now pre-installed at runner setup time\n• CI infrastructure fix (round 2): rust-cache v2's default bin-pruning was wiping the `rustup` binary at end of each job (since rustup wasn't installed via `cargo install`, rust-cache considered it an \"unknown\" bin). Next job then hit TOML parse errors from broken cargo symlinks. Set `cache-bin: \"false\"` and moved `cargo-ndk` to `/usr/local/bin/` out of rust-cache's reach\n• New `mhrv-rs scan-sni` subcommand: pulls Google's IP ranges, does PTR lookups via dns.google on each IP to discover Google-related hostnames, then TLS-probes each discovered SNI against the configured `google_ip` to see if it bypasses DPI. Useful for rebuilding a working SNI pool on a new ISP (PR #83)"
@@ -33,7 +33,7 @@
       "datetime": "2026-04-23T18:50:30+00:00",
       "time_text": "18:50",
       "link": "https://t.me/shin_persian/5568",
-      "views": "1.45K"
+      "views": "1.79K"
     },
     {
       "text": "mhrv-rs Android v1.2.6\n\nSHA-256: 3ed79edf50b3363acc721bdcd1e67a42ecbcda81c2ff52c3be503564ab55ab05\nhttps://github.com/therealaleph/MasterHttpRelayVPN-RUST\nhttps://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.2.6"
@@ -45,7 +45,7 @@
       "datetime": "2026-04-23T18:29:19+00:00",
       "time_text": "18:29",
       "link": "https://t.me/shin_persian/5567",
-      "views": "2.08K"
+      "views": "2.34K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn\nThu, 23 Apr 2026 18:29:11 UTC\n\nExplosion  @ 2118Z\nSattarkhan, Western Tehran\n#Tehran Province, #Iran\n\nفارسی\n\nانفجار @ ۱۸۱۸ زولو (۲۱:۴۸ به وقت تهران)\nستارخان، غرب تهران\n#Tehran Province, #Iran\n\n𝕏  ·  @shin_persian"
@@ -62,7 +62,7 @@
       "datetime": "2026-04-23T18:27:46+00:00",
       "time_text": "18:27",
       "link": "https://t.me/shin_persian/5566",
-      "views": "1.95K"
+      "views": "2.17K"
     },
     {
       "text": "U.S. Central Command ✓  @CENTCOM\nThu, 23 Apr 2026 18:01:44 UTC\n\nNimitz-class aircraft carrier USS George H.W. Bush (CVN 77) sails in the Indian Ocean in the U.S. Central Command area of responsibility, April 23.\n\nفارسی\n\nناو هواپیمابر کلاس نیمیتز یواس‌اس جورج اچ.دبلیو. بوش (CVN 77) در تاریخ ۲۳ آوریل در اقیانوس هند در محدوده مسئولیت ستاد فرماندهی مرکزی ایالات متحده (سنتکام/CENTCOM) در حال دریانوردی است.\n\n𝕏  ·  @shin_persian"
@@ -79,7 +79,7 @@
       "datetime": "2026-04-23T18:00:42+00:00",
       "time_text": "18:00",
       "link": "https://t.me/shin_persian/5565",
-      "views": "2.52K"
+      "views": "2.69K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn\nThu, 23 Apr 2026 18:00:33 UTC\n\nNOW @ 1800Z -\nPower outage in Azadi neighborhood, Tehran Province, #Iran\n\nفارسی\n\nهم‌اکنون در ۱۸۰۰ زولو (۲۱:۳۰ به وقت تهران) -\nقطعی برق در محله آزادی، استان تهران، #Iran\n\n𝕏  ·  @shin_persian"
@@ -91,7 +91,7 @@
       "datetime": "2026-04-23T17:44:41+00:00",
       "time_text": "17:44",
       "link": "https://t.me/shin_persian/5564",
-      "views": "2.61K"
+      "views": "2.73K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn\nThu, 23 Apr 2026 17:44:32 UTC\n\nAnother angle: AA activity in central Tehran \n(Via @iliahashemicom)\nTehran Province, #Iran\n\nفارسی\n\nزاویه‌ای دیگر: فعالیت پدافند هوایی در مرکز تهران\n(از طریق @iliahashemicom)\nاستان تهران، #Iran\n\n𝕏  ·  @shin_persian"
@@ -108,7 +108,7 @@
       "datetime": "2026-04-23T17:42:06+00:00",
       "time_text": "17:42",
       "link": "https://t.me/shin_persian/5563",
-      "views": "2.64K"
+      "views": "2.77K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn\nThu, 23 Apr 2026 17:41:58 UTC\n\nState-owned MehrNews confirms AA activity against \"hostile [aerial] targets\" in Tehran\n#Tehran Province, #Iran\n\nفارسی\n\nخبرگزاری دولتی مهر فعالیت پدافند هوایی علیه «اهداف متخاصم [هوایی]» در تهران را تایید کرد.\n#Tehran Province, #Iran\n\n𝕏  ·  @shin_persian"
@@ -125,7 +125,7 @@
       "datetime": "2026-04-23T17:40:20+00:00",
       "time_text": "17:40",
       "link": "https://t.me/shin_persian/5562",
-      "views": "2.59K"
+      "views": "2.68K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn\nThu, 23 Apr 2026 17:40:12 UTC\n\nSomething blew up in southeastern Tehran, one eyewitness tells me.\n\nفارسی\n\nیک شاهد عینی به من می‌گوید چیزی در جنوب شرقی تهران منفجر شد.\n\n𝕏  ·  @shin_persian"
@@ -137,7 +137,7 @@
       "datetime": "2026-04-23T17:38:53+00:00",
       "time_text": "17:38",
       "link": "https://t.me/shin_persian/5561",
-      "views": "2.45K"
+      "views": "2.54K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn\nThu, 23 Apr 2026 17:38:45 UTC\n\n2033Z\nAA activity Shahr E Rey, south of Tehran\n#Tehran Province, #Iran\n\nفارسی\n\n۲۰۳۳ زولو (۰۰:۰۳ به وقت تهران)\nفعالیت پدافند هوایی (AA) در شهر ری، جنوب تهران\n#Tehran Province, #Iran\n\n𝕏  ·  @shin_persian"
@@ -149,7 +149,7 @@
       "datetime": "2026-04-23T17:33:20+00:00",
       "time_text": "17:33",
       "link": "https://t.me/shin_persian/5560",
-      "views": "2.45K"
+      "views": "2.54K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn\nThu, 23 Apr 2026 17:33:13 UTC\n\nIntense IAF Jet activity over southern Lebanon\n\nفارسی\n\nفعالیت شدید جنگنده‌های نیروی هوایی اسرائیل (IAF) بر فراز جنوب لبنان\n\n𝕏  ·  @shin_persian"
@@ -161,7 +161,7 @@
       "datetime": "2026-04-23T17:32:48+00:00",
       "time_text": "17:32",
       "link": "https://t.me/shin_persian/5559",
-      "views": "2.42K"
+      "views": "2.5K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn\nThu, 23 Apr 2026 17:32:39 UTC\n\nAA activity (&amp; Cat meowing)\nWestern Tehran\n#Tehran Province, #Iran\n\nفارسی\n\nفعالیت پدافند هوایی (و صدای میو میو گربه)\nغرب تهران\n#استان_تهران، #ایران\n\n𝕏  ·  @shin_persian"
@@ -178,7 +178,7 @@
       "datetime": "2026-04-23T17:29:43+00:00",
       "time_text": "17:29",
       "link": "https://t.me/shin_persian/5558",
-      "views": "2.4K"
+      "views": "2.48K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn\nThu, 23 Apr 2026 17:29:33 UTC\n\nAA activity west of Tehran \n#TEhran Province, #Iran\n\nفارسی\n\nفعالیت پدافند هوایی در غرب تهران\n#Tehran Province, #Iran\n\n𝕏  ·  @shin_persian"
@@ -195,7 +195,7 @@
       "datetime": "2026-04-23T17:27:17+00:00",
       "time_text": "17:27",
       "link": "https://t.me/shin_persian/5557",
-      "views": "2.44K"
+      "views": "2.53K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn\nThu, 23 Apr 2026 17:27:09 UTC\n\nNOW @ 1727Z -\nAA activity over western Tehran, Tehran Province, #Iran\n\nفارسی\n\nاکنون در ۱۷۲۷ زولو (۲۰:۵۷ به وقت تهران) -\nفعالیت پدافند هوایی در آسمان غرب تهران، استان تهران، #Iran\n\n𝕏  ·  @shin_persian"
@@ -207,7 +207,7 @@
       "datetime": "2026-04-23T17:27:08+00:00",
       "time_text": "17:27",
       "link": "https://t.me/shin_persian/5556",
-      "views": "2.5K"
+      "views": "2.59K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn\nThu, 23 Apr 2026 17:27:00 UTC\n\nNOW @ 1726Z -\nAA activity over central Tehran, Tehran Province, #Iran\n\nفارسی\n\nهم‌اکنون در ۱۷۲۶ زولو (۲۰:۵۶ به وقت تهران) -\nفعالیت پدافند هوایی در مرکز تهران، استان تهران، #Iran\n\n𝕏  ·  @shin_persian"
@@ -219,7 +219,7 @@
       "datetime": "2026-04-23T16:46:44+00:00",
       "time_text": "16:46",
       "link": "https://t.me/shin_persian/5555",
-      "views": "2.78K"
+      "views": "2.87K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn\nThu, 23 Apr 2026 16:46:36 UTC\n\nNOW @ 1646Z -\nAA activity over Parand, Tehran Province, #Iran\n\nفارسی\n\nهم‌اکنون در ۱۶۴۶ زولو (۲۰:۱۶ به وقت تهران) -\nفعالیت پدافند هوایی بر فراز پرند، استان تهران، #Iran\n\n𝕏  ·  @shin_persian"
@@ -231,7 +231,7 @@
       "datetime": "2026-04-23T16:19:38+00:00",
       "time_text": "16:19",
       "link": "https://t.me/shin_persian/5554",
-      "views": "3.1K"
+      "views": "3.15K"
     },
     {
       "text": "به این دوستانی که ری اکشن خشمگین گذاشتن: عصبانیتتون قابل درکه، منتها وقت من واقعا محدوده و زندگی شخصی خودم رو هم باید اداره کنم. فلذا، هر ری اکشن شما در این کانال، چه شاد، چه قلب، چه بیلاخ سر بالا یا سر پایین و چه خشمگین، چیزی نیست جز کیری در روح علی خامنه ای و جسم سید مجتبی مقوایی."
@@ -249,7 +249,7 @@
       "datetime": "2026-04-23T16:15:10+00:00",
       "time_text": "16:15",
       "link": "https://t.me/shin_persian/5553",
-      "views": "3.09K"
+      "views": "3.17K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn\nThu, 23 Apr 2026 16:15:02 UTC\n\nPress TV: \nIran files complaint at UN against 5 Arab states for allowing US to use their territory for attacks.\n#Iran\n\nفارسی\n\nپرس تی‌وی:\nایران شکایتی را در سازمان ملل علیه ۵ کشور عربی به دلیل اجازه دادن به ایالات متحده برای استفاده از خاکشان جهت حملات، ثبت کرد.\n#Iran\n\n𝕏  ·  @shin_persian"
@@ -261,7 +261,7 @@
       "datetime": "2026-04-23T16:09:30+00:00",
       "time_text": "16:09",
       "link": "https://t.me/shin_persian/5552",
-      "views": "3.22K"
+      "views": "3.31K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn\nThu, 23 Apr 2026 16:09:22 UTC\n\nRumor has it that in an hour, PM @netanyahu  will hold a security assessment through phone. \"preparations are underway to secure approval from the Trump administration to resume combat operations against [Islamic Regime in] Iran\" \n\n#Iran #Israel\n\nفارسی\n\nشایعات حاکی از آن است که تا یک ساعت دیگر، بنیامین نتانیاهو (@netanyahu) نخست‌وزیر اسرائیل، یک ارزیابی امنیتی تلفنی برگزار خواهد کرد. «تدارکات برای کسب تاییدیه از دولت ترامپ جهت ازسرگیری عملیات‌های رزمی علیه [رژیم اسلامی در] ایران در جریان است.»\n\n#Iran #Israel\n\n𝕏  ·  @shin_persian"
@@ -273,7 +273,7 @@
       "datetime": "2026-04-23T12:58:36+00:00",
       "time_text": "12:58",
       "link": "https://t.me/shin_persian/5551",
-      "views": "3.9K"
+      "views": "3.91K"
     },
     {
       "text": "سلام به بچه های فارسی زبان این کانال، \nامیدوارم خوب باشید. \nیک نکته ای رو عرض کنم و یک خواهش هم مطرح کنم:\nمن در طول روز با چندین کار مختلف درگیرم و وسطش دارم با claude سر و کله میزنم تا این اپ بتونه ـ حتی اگر شده ۱ نفر رو متصل نگه داره ـ بروز باشه، آی دی تلگرام من که در کانال هست برای ارسال اخبار هستش و نمی تونم سوال و مشکلات مربوط به این اپ رو تک تک جواب بدم. بخش نظرات کانال بازه و می تونید از هم کمک بگیرید و به هم کمک کنید. مشکلات  مربوط به اپ رو هم می تونید به عنوان issues داخل گیتهاب ارسال کنید، پس لطفا در مورد این اپ در قسمت پیام های خصوصی به من پیام نفرستید که شرمنده نشم. \nممنونم."
@@ -288,7 +288,7 @@
       "datetime": "2026-04-23T12:53:55+00:00",
       "time_text": "12:53",
       "link": "https://t.me/shin_persian/5550",
-      "views": "3.81K"
+      "views": "3.85K"
     },
     {
       "text": "Shin ✓  @hey_itsmyturn Thu, 23 Apr 2026 12:53:46 UTC  President Trump @POTUS: \"I have ordered the United States Navy to shoot and kill any boat, small boats though they may be (Their naval ships are ALL, 159 of them, at the bottom of the sea&#33;), that is putting…",
@@ -301,7 +301,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T22:51:28.975786",
+    "last_update": "2026-04-23T23:12:09.161857",
     "new_count": 0
   }
 }
