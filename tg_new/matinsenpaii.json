@@ -5,7 +5,7 @@
   "channel_username": "@matinsenpaii",
   "channel_avatar": "bale:46627310:-5256582940919455999:1:65b5e3e3fd6f689bc6cbe9ca6a38e74a8211e6c76420e4b7",
   "channel_verified": false,
-  "channel_subscribers": "64.9K",
+  "channel_subscribers": "65K",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T09:09:06+00:00",
       "time_text": "09:09",
       "link": "https://t.me/MatinSenPaii/2823",
-      "views": "15.3K"
+      "views": "16.2K"
     },
     {
       "text": "2- تمام مراحل دیگه رو طبق ویدئوی من انجام میدید که پین هست.\n3- توی سایت اسکریپت ممکنه سر زوم و اینا یه کم اذیت کنه(خودمو توی کروم اذیت کرد زیاد برای گوشی بهینه نیست اما یه کم اینور اونور کنید میشه اوکیش کرد)\n4- طبق این آموزش: https://t.me/MatinSenPaii/2818 سرتیفیکیت‌ها رو هم تنظیم کنید"
@@ -33,7 +33,7 @@
       "datetime": "2026-04-23T09:06:47+00:00",
       "time_text": "09:06",
       "link": "https://t.me/MatinSenPaii/2822",
-      "views": "15.8K"
+      "views": "16.6K"
     },
     {
       "text": "ببینید من سر این تمام مراحل دیپلوی‌منت رو با گوشی انجام دادم که بهتون بگم آقا، کسی که لپ تاپ نداره هم میتونه.\n1- این کد رو کپی می‌کنید:\n\n/**\n * DomainFront Relay — Google Apps Script\n *\n * TWO modes:\n *   1. Single:  POST { k, m, u, h, b, ct, r }       → { s, h, b }\n *   2. Batch:   POST { k, q: [{m,u,h,b,ct,r}, ...] } → { q: [{s,h,b}, ...] }\n *      Uses UrlFetchApp.fetchAll() — all URLs fetched IN PARALLEL.\n *\n * DEPLOYMENT:\n *   1. Go to https://script.google.com → New project\n *   2. Delete the default code, paste THIS entire file\n *   3. Click Deploy → New deployment\n *   4. Type: Web app  |  Execute as: Me  |  Who has access: Anyone\n *   5. Copy the Deployment ID into config.json as \"script_id\"\n *\n * CHANGE THE AUTH KEY BELOW TO YOUR OWN SECRET&#33;\n */\n\nconst AUTH_KEY = \"CHANGE_ME_TO_A_STRONG_SECRET\";\n\n// Keep browser capability headers (sec-ch-ua*, sec-fetch-*) intact.\n// Some modern apps, notably Google Meet, use them for browser gating.\nconst SKIP_HEADERS = {\n  host: 1, connection: 1, \"content-length\": 1,\n  \"transfer-encoding\": 1, \"proxy-connection\": 1, \"proxy-authorization\": 1,\n  \"priority\": 1, te: 1,\n};\n\nfunction doPost(e) {\n  try {\n    var req = JSON.parse(e.postData.contents);\n    if (req.k &#33;== AUTH_KEY) return _json({ e: \"unauthorized\" });\n\n    // Batch mode: { k, q: [...] }\n    if (Array.isArray(req.q)) return _doBatch(req.q);\n\n    // Single mode\n    return _doSingle(req);\n  } catch (err) {\n    return _json({ e: String(err) });\n  }\n}\n\nfunction _doSingle(req) {\n  if (&#33;req.u  typeof req.u &#33;== \"string\"  &#33;req.u.match(/^https?:&#092;/&#092;//i)) {\n    return _json({ e: \"bad url\" });\n  }\n  var opts = _buildOpts(req);\n  var resp = UrlFetchApp.fetch(req.u, opts);\n  return _json({\n    s: resp.getResponseCode(),\n    h: _respHeaders(resp),\n    b: Utilities.base64Encode(resp.getContent()),\n  });\n}\n\nfunction _doBatch(items) {\n  var fetchArgs = [];\n  var errorMap = {};\n\n  for (var i = 0; i < items.length; i++) {\n    var item = items[i];\n    if (&#33;item.u  typeof item.u &#33;== \"string\"  &#33;item.u.match(/^https?:&#092;/&#092;//i)) {\n      errorMap[i] = \"bad url\";\n      continue;\n    }\n    var opts = _buildOpts(item);\n    opts.url = item.u;\n    fetchArgs.push({ _i: i, _o: opts });\n  }\n\n  // fetchAll() processes all requests in parallel inside Google\n  var responses = [];\n  if (fetchArgs.length > 0) {\n    responses = UrlFetchApp.fetchAll(fetchArgs.map(function(x) { return x._o; }));\n  }\n\n  var results = [];\n  var rIdx = 0;\n  for (var i = 0; i < items.length; i++) {\n    if (errorMap.hasOwnProperty(i)) {\n      results.push({ e: errorMap[i] });\n    } else {\n      var resp = responses[rIdx++];\n      results.push({\n        s: resp.getResponseCode(),\n        h: _respHeaders(resp),\n        b: Utilities.base64Encode(resp.getContent()),\n      });\n    }\n  }\n  return _json({ q: results });\n}\n\nfunction _buildOpts(req) {\n  var opts = {\n    method: (req.m || \"GET\").toLowerCase(),\n    muteHttpExceptions: true,\n    followRedirects: req.r &#33;== false,\n    validateHttpsCertificates: true,\n    escaping: false,\n  };\n  if (req.h && typeof req.h === \"object\") {\n    var headers = {};\n    for (var k in req.h) {\n      if (req.h.hasOwnProperty(k) && &#33;SKIP_HEADERS[k.toLowerCase()]) {\n        headers[k] = req.h[k];\n      }\n    }\n    opts.headers = headers;\n  }\n  if (req.b) {\n    opts.payload = Utilities.base64Decode(req.b);\n    if (req.ct) opts.contentType = req.ct;\n  }\n  return opts;\n}\n\nfunction _respHeaders(resp) {\n  try {\n    if (typeof resp.getAllHeaders === \"function\") {\n      return resp.getAllHeaders();\n    }\n  } catch (err) {}\n  return resp.getHeaders();\n}\n\nfunction doGet(e) {\n  return HtmlService.createHtmlOutput(\n    \"<&#33;DOCTYPE html><html><head><title>My App</title></head>\" +\n      '<body style=\"font-family:sans-serif;max-width:600px;margin:40px auto\">' +\n      \"<h1>Welcome</h1><p>This application is running normally.</p>\" +\n      \"</body></html>\"\n  );\n}\n\nfunction _json(obj) {\n  return ContentService.createTextOutput(JSON.stringify(obj)).setMimeType(\n    ContentService.MimeType.JSON\n  );\n}"
@@ -45,7 +45,7 @@
       "datetime": "2026-04-23T08:50:10+00:00",
       "time_text": "08:50",
       "link": "https://t.me/MatinSenPaii/2821",
-      "views": "17.1K"
+      "views": "17.9K"
     },
     {
       "text": "به خدا شبیه هیچی جز بیلبیلک نیست😂"
@@ -60,7 +60,7 @@
       "datetime": "2026-04-23T08:44:48+00:00",
       "time_text": "08:44",
       "link": "https://t.me/MatinSenPaii/2820",
-      "views": "17.4K"
+      "views": "18.1K"
     },
     {
       "text": "اون بیلبیلک سبزه که میاد بالا یعنی وصله. m.youtube.com بزنید توی مرورگر، بالا میاد. ویدئو پلی نشد، دیپلویمنت رو عوض کنید"
@@ -78,7 +78,7 @@
       "datetime": "2026-04-23T07:07:06+00:00",
       "time_text": "07:07",
       "link": "https://t.me/MatinSenPaii/2818",
-      "views": "21.9K"
+      "views": "22.5K"
     },
     {
       "text": "💬ترجمه‌ی دستورالعمل برنامه‌نویس:\n\n\n🌐نحوه استفاده (How to use)\n\n1. یک یا چند URL مربوط به Apps Script deployment (یا فقط IDها) و همچنین auth_key خودت رو وارد کن.\n\n\n2. روی گزینه Install MITM certificate بزن. پیام تأیید رو قبول کن.\nگواهی در مسیر Downloads/mhrv-ca.crt ذخیره میشه و تنظیمات گوشی باز میشه.\nداخل Settings جستجو کن «CA certificate»، روی همون نتیجه بزن (نه «VPN & app user certificate» و نه «Wi-Fi»)، بعد فایل mhrv-ca.crt رو از Downloads انتخاب کن.\nاگر قفل صفحه نداری، ازت میخواد یکی تنظیم کنی (الزام اندروید).\n\n\n3. قبل از زدن Start، بخش SNI pool + tester رو باز کن و روی Test all بزن.\nاگر همه آیتم‌ها timeout شدن، یعنی google_ip در دسترس نیست. باید با یه IP جایگزینش کنی که روی دستگاهت resolve بشه (مثلاً با دستور nslookup www.google.com روی یه دستگاه سالم).\n\n\n4. روی Start بزن و درخواست VPN رو قبول کن.\nاین حالت TUN کامل، تمام ترافیک دستگاه رو از طریق پراکسی عبور میده و نیازی به تنظیم جداگانه برای هر اپ نیست.\n(در اندروید، VPNها از طریق یک تونل سراسری کل ترافیک رو هدایت می‌کنن )\n\n\n5. اگر تو Chrome خطای 504 Relay timeout دیدی:\nیعنی Apps Script پاسخ نمی‌ده. باید اسکریپت رو دوباره deploy کنی، لینک جدید /exec رو بگیری و جایگزین کنی.\nدر لاگ زنده (Live logs) به خطاهای \"Relay timeout\" و \"connect:\" دقت کن تا بفهمی مشکل از کدوم لایه است.\n\n\n❓محدودیت شناخته‌شده\n\nسیستم Cloudflare Turnstile (همون «Verify you are human») معمولاً روی اکثر سایت‌های محافظت‌شده با Cloudflare وارد لوپ بی‌نهایت میشه.\n\nدلیلش:\n\nهر درخواست Apps Script از یک IP دیتاسنتر گوگل متفاوت ارسال میشه\n\nولی User-Agent و TLS fingerprint ثابت هست\n\nکوکی cf_clearance به ترکیب (IP، UA، JA3) وابسته‌ست\n\nپس وقتی IP عوض میشه، Cloudflare دوباره چالش میده.\n\nهیچ راه‌حلی داخل این اپ برای این مشکل وجود نداره، چون ذاتاً به نحوه کار Apps Script برمی‌گرده.\nفقط سایت‌هایی که فقط صفحه اول رو بررسی می‌کنن (نه همه درخواست‌ها) بعد از یک بار تأیید، کار خواهند کرد✔️"
@@ -90,7 +90,7 @@
       "datetime": "2026-04-23T06:39:04+00:00",
       "time_text": "06:39",
       "link": "https://t.me/MatinSenPaii/2817",
-      "views": "22.7K"
+      "views": "23.3K"
     },
     {
       "text": "⚡️نسخه اندروید MHR\nhttps://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.0.2"
@@ -102,7 +102,7 @@
       "datetime": "2026-04-23T06:28:24+00:00",
       "time_text": "06:28",
       "link": "https://t.me/MatinSenPaii/2816",
-      "views": "19.5K"
+      "views": "20K"
     },
     {
       "text": "httprelay (google script) for Mac 🔥🔥🔥🔥\n\n\nنسخه اولیه پیاده سازی شده با سویفت به صورت نیتیو برای مک الان در دسترسه&#33;\nقابلیت ها:\n- آیدی اسکریپت و پسورد رو میگیره و تمام. دکمه استارت رو بزن و سیستمت وی پی ان میشه\n- میتونی چند تا آیدی و پسورد بعنوان پروفایل های مختلف (مثل کانفیگ) اضافه کنی\n\nلطف کنید به گیت هاب این دوست خوب برید و استار بدید و حتما ازشون حمایت کنید - زمان زیادی صرف درست کردن این پروژه ها میشه\n \nhttps://github.com/g3ntrix/Shade\n\n@whitedns"
@@ -114,7 +114,7 @@
       "datetime": "2026-04-22T21:56:21+00:00",
       "time_text": "21:56",
       "link": "https://t.me/MatinSenPaii/2815",
-      "views": "28.8K"
+      "views": "29K"
     },
     {
       "text": "دوستان توی متد Master Http Relay (به اختصار MHR) آیپی شما، آیپی خودتونه از ایران. سایت‌های مثل chatgpt، جمنای، و... ما رو تحریم کردن باز نمیشن. در نتیجه می‌تونید از extensionهای vpn مثل windscribe روی کروم استفاده کنید دوباره یا VPN OVER VPN بزنید."
@@ -126,7 +126,7 @@
       "datetime": "2026-04-22T21:24:47+00:00",
       "time_text": "21:24",
       "link": "https://t.me/MatinSenPaii/2813",
-      "views": "30.6K"
+      "views": "30.8K"
     },
     {
       "text": "متدهایی که الان متصل هستن:\n1- متد https://t.me/MatinSenPaii/2785\n2- متد دامین فرانتینگ پترنیها MITM: https://github.com/patterniha/MITM-DomainFronting\n3- متدهای برپایه دی ان اس مثل DNSTT که آموزش ‌هاش رو توی کانال @whitedns می‌ذاریم با دی ان اس تمیز\n4- همچنان اسپوف sni روی یک سری سرورهای ایران \n\nبه هیچ وجه پول خرید سرور و دامنه برای تانل و... ندید خواهش میکنم. هیچ روش عمومی‌ای برای تانل زدن و اتصال عادی وجود نداره"
@@ -138,7 +138,7 @@
       "datetime": "2026-04-22T21:19:35+00:00",
       "time_text": "21:19",
       "link": "https://t.me/MatinSenPaii/2812",
-      "views": "29.9K"
+      "views": "30.1K"
     },
     {
       "text": "خلاصه:\n1- دوباره دیپلوی کنید\n2- با ورژن جدید اسکریپت پیش برید\n3- استفاده از نسخه standalone رو تست کنید\n4- نسخه‌ی Rust رو نصب کنید\n5- اپراتورتون رو عوض کنید"
@@ -153,7 +153,7 @@
       "datetime": "2026-04-22T21:13:22+00:00",
       "time_text": "21:13",
       "link": "https://t.me/MatinSenPaii/2811",
-      "views": "29.6K"
+      "views": "29.8K"
     },
     {
       "text": "همه‌ی دوستانی که «ویدئو واسشون لود نمی‌شد» و یه کاری کردن که الان «لود میشه»، لطف کنن این زیر به دوستانی که هنوز واسشون «لود نمیشه» توضیح بدن که چیکار کردن که «لود شد»"
@@ -165,7 +165,7 @@
       "datetime": "2026-04-22T12:09:15+00:00",
       "time_text": "12:09",
       "link": "https://t.me/MatinSenPaii/2810",
-      "views": "34.9K"
+      "views": "35K"
     },
     {
       "text": "همچنان به Master Http Relay وصل هستید دیگه؟"
@@ -177,7 +177,7 @@
       "datetime": "2026-04-22T09:01:49+00:00",
       "time_text": "09:01",
       "link": "https://t.me/MatinSenPaii/2809",
-      "views": "36.8K"
+      "views": "36.9K"
     },
     {
       "text": "من تازه دیدم که یک نفر امروز صبح 500 دلار دونیت کرده به wallet های روی پروفایل توییترم. و هر کس که بوده، واقعا ازش ممنونم❤️\nکمک بسیار بزرگی به ادامه‌ی فعالیت و همینطور دلگرمی هست برای من توی شرایطی که درآمد یوتوب قابل برداشت نیست و شرایط اقتصادی داغونه. اگر نیاز دارید به پول دونیت، بذارید جیبتون. همینکه شما وصل میشید برای من بزرگترین خوشحالیه"
@@ -192,7 +192,7 @@
       "datetime": "2026-04-22T08:55:28+00:00",
       "time_text": "08:55",
       "link": "https://t.me/MatinSenPaii/2807",
-      "views": "36.1K"
+      "views": "36.2K"
     },
     {
       "text": "💎توضیح ساده:\nبا نصب این نسخه نیازی به Python و کتابخونه‌هاش نیست. همه چیز توی یه باندل آماده، یک جا"
@@ -217,7 +217,7 @@
       "datetime": "2026-04-22T08:52:14+00:00",
       "time_text": "08:52",
       "link": "https://t.me/MatinSenPaii/2806",
-      "views": "30.5K"
+      "views": "30.6K"
     },
     {
       "text": "🚀 نسخه اختصاصی ویندوز MasterHttpRelayVPN منتشر شد&#33; \n\nیک ابزار قدرتمند و کاملاً مستقل (Standalone) برای دور زدن فیلترینگ که ترافیک شما را از طریق زیرساخت‌های قدرتمند گوگل (Google Apps Script) و با روش Domain Fronting تونل می‌کند.\n\n✅ ویژگی‌های این نسخه:\nبدون نیاز به سرور (VPS): فقط با یک اسکریپت رایگان گوگل کار می‌کند&#33;\nتنظیم خودکار: پروکسی کل ویندوز را به صورت اتوماتیک تغییر می‌دهد.\n\nراهنما داخل فایل زیپ هست - لطفا مطالعه فرمایید \n\nلینک دانلود داخلی : \nhttps://dl.toolschi.com/up/fb6a5977aa14898e.zip\n\nاین پروژه بر گرفته از زحمات عزیزانی هست که صفحه گیت هابشون در پایین گذاشته شده - \nلطفا ازشون حمایت کنید \nhttps://github.com/patterniha/MITM-DomainFronting\n\nhttps://github.com/masterking32/MasterHttpRelayVPN\n\nتیم WhiteDns\n\n@whitedns"
@@ -229,7 +229,7 @@
       "datetime": "2026-04-21T23:12:13+00:00",
       "time_text": "23:12",
       "link": "https://t.me/MatinSenPaii/2805",
-      "views": "36.3K"
+      "views": "36.4K"
     },
     {
       "text": "True"
@@ -256,7 +256,7 @@
       "datetime": "2026-04-21T22:52:04+00:00",
       "time_text": "22:52",
       "link": "https://t.me/MatinSenPaii/2803",
-      "views": "36.4K"
+      "views": "36.5K"
     },
     {
       "text": "این روزا دیگه از شنیدن کلمه‌ی امنیت حالم به هم می‌خوره واقعا. دغدغه‌ی من یکی دیگه امنیت نیست اما اگر یه کم منطقی فکر کنید، میبینید که:\n1- پروژه‌ها اوپن سورس هستن می‌تونید مطالعه کنید اگر دغدغه امنیت دارید و خودتون بیلد بگیرید\n2- ترافیک داره از روی جیمیل شما رد میشه و جای دیگه‌ای نمیره"
@@ -271,7 +271,7 @@
       "datetime": "2026-04-21T22:35:15+00:00",
       "time_text": "22:35",
       "link": "https://t.me/MatinSenPaii/2801",
-      "views": "37.1K"
+      "views": "37.2K"
     },
     {
       "text": "☄️نسخه‌ی قدرتمندتر این اسکریپت با ویژگی‌های جدید، پیاده‌سازی شده با زبان RUST بدون نیاز به نصب وابستگی مجزا:\nhttps://github.com/therealaleph/MasterHttpRelayVPN-RUST#%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C"
@@ -281,7 +281,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T14:55:18.886960",
+    "last_update": "2026-04-23T15:16:07.401092",
     "new_count": 0
   }
 }
