@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T11:40:04+00:00",
       "time_text": "11:40",
       "link": "https://t.me/hackernews_summary/24779",
-      "views": "2"
+      "views": "4"
     },
     {
       "text": "Writing a C Compiler, in Zig\n\n🔸This is a series of articles I wrote while writing paella, following Nora Sandler's Writing a C Compiler. It was both an exercise to learn Zig and a way to waste time instead of looking for work, as I am currently \"between jobs\". I did not edit them as I collect them here outside of fixing some broken links.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-23T11:20:26+00:00",
       "time_text": "11:20",
       "link": "https://t.me/hackernews_summary/24778",
-      "views": "6"
+      "views": "8"
     },
     {
       "text": "Do you want the US to \"win\" AI?\n\n🔸The writer is concerned about the direction of AI development and its potential impact on society, preferring a more nuanced approach to technology. They question Elon's worldview and the value of a society where AI is controlled by powerful individuals.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +52,7 @@
       "datetime": "2026-04-23T11:20:06+00:00",
       "time_text": "11:20",
       "link": "https://t.me/hackernews_summary/24777",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "Highlights from Git 2.54\n\n🔸Git 2.54 introduces new features including the experimental 'git history' command for rewriting commit history and a new way to define hooks in configuration files. Other notable changes include improved usability in 'git add -p' and 'git log -L', as well as enhancements to 'git blame' and 'git backfill'.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -69,7 +69,7 @@
       "datetime": "2026-04-23T10:50:04+00:00",
       "time_text": "10:50",
       "link": "https://t.me/hackernews_summary/24776",
-      "views": "6"
+      "views": "8"
     },
     {
       "text": "Isopods of the world\n\n🔸Isopod Site aims to improve isopod identification through basic anatomy understanding. Selective breeding is used in the hobby to boost unique traits in new lineages.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -86,7 +86,7 @@
       "datetime": "2026-04-23T10:40:25+00:00",
       "time_text": "10:40",
       "link": "https://t.me/hackernews_summary/24775",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "MacBook Neo and How the iPad Should Be\n\n🔸The writer argues that iPads should be touch-only devices with unique, weird apps, while MacBooks should be for multitasking and keyboard-based work.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -207,7 +207,7 @@
       "datetime": "2026-04-23T05:20:25+00:00",
       "time_text": "05:20",
       "link": "https://t.me/hackernews_summary/24767",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic\n\n🔸Anthropic's claude mythos preview turns out to be like the ending of the wizard of oz. a competent human exploit developer would converge on the same two bugs faster than you can read the system card, says scott wilson of crowdstrike.com. the 90-day report is supposed to answer the question of whether it actually finds anything extraordinary in their systems, he says. but it is being ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -331,7 +331,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T15:16:31.286461",
-    "new_count": 1
+    "last_update": "2026-04-23T15:37:16.616672",
+    "new_count": 0
   }
 }
