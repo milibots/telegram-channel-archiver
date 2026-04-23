@@ -5,7 +5,7 @@
   "channel_username": "@snifinland",
   "channel_avatar": "bale:46627310:-3079807068905267454:1:65b5e3e3fd6f689b628eb6801d38527e8211e6c76420e4b7",
   "channel_verified": false,
-  "channel_subscribers": "70",
+  "channel_subscribers": "72",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
@@ -54,7 +54,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T19:03:50.072242",
+    "last_update": "2026-04-23T19:24:30.699448",
     "new_count": 0
   }
 }

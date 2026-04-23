@@ -15,10 +15,27 @@
   "returned_posts": 77,
   "posts": [
     {
+      "datetime": "2026-04-23T15:50:05+00:00",
+      "time_text": "15:50",
+      "link": "https://t.me/hackernews_summary/24791",
+      "views": "2"
+    },
+    {
+      "text": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets\n\n🔸James Giovansanti, a NYPD officer, has accumulated 547 speeding tickets in Staten Island since 2022, averaging one ticket every other day. His record makes him the second-most-reckless driver in the city, posing a unique danger to himself and others.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-1329807803217666304:1:65b5e3e3fd6f689b3891e65dfe5303978211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24791"
+    },
+    {
       "datetime": "2026-04-23T15:20:25+00:00",
       "time_text": "15:20",
       "link": "https://t.me/hackernews_summary/24790",
-      "views": "5"
+      "views": "7"
     },
     {
       "text": "A History of Erasures Learning to Write Like Leylâ Erbil\n\n🔸The author initially dismissed Leylâ Erbil's work as outdated and self-indulgent, but later reevaluated her experimental novel \"What Remains\" as a powerful challenge to literary conventions in Turkey. Erbil's autofiction explores Turkish history, politics, and identity through a stream-of-consciousness narrative that blurs the lines between personal and public trauma.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -30,7 +47,7 @@
       "datetime": "2026-04-23T15:20:05+00:00",
       "time_text": "15:20",
       "link": "https://t.me/hackernews_summary/24789",
-      "views": "5"
+      "views": "7"
     },
     {
       "text": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign\n\n🔸Bitwarden CLI 2026.4.0 was compromised through a GitHub Action in its CI/CD pipeline as part of the Checkmarx supply chain campaign. Users are advised to review CI logs and rotate exposed secrets.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -47,7 +64,7 @@
       "datetime": "2026-04-23T14:45:05+00:00",
       "time_text": "14:45",
       "link": "https://t.me/hackernews_summary/24788",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "Modern Board Games: and why you should play them (2022)\n\n🔸The user presented a team with an introduction to modern board games, dispelling common misconceptions that there are only a few board games and that they are only for children. They highlighted the diversity and complexity of modern board games, encouraging the team to try them out for their social, intellectual, and entertaining benefits.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -81,7 +98,7 @@
       "datetime": "2026-04-23T13:45:04+00:00",
       "time_text": "13:45",
       "link": "https://t.me/hackernews_summary/24786",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "A Renaissance gambling dispute spawned probability theory\n\n🔸Mathematicians Blaise Pascal and Pierre de Fermat solved the \"problem of points\" by considering future possibilities of the score. Their solution, based on expected value, is used in risk assessments and has become a fundamental pillar of modern probability theory.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -321,27 +338,10 @@
     },
     {
       "post_id": "24772"
-    },
-    {
-      "datetime": "2026-04-23T08:00:05+00:00",
-      "time_text": "08:00",
-      "link": "https://t.me/hackernews_summary/24771",
-      "views": "8"
-    },
-    {
-      "text": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image\n\n🔸Arch Linux now has a reproducible Docker image under the \"repro\" tag, but pacman is not usable out of the box due to stripped pacman keys. Users must regenerate the pacman keyring before installing packages.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:6440043907263045379:1:65b5e3e3fd6f689b6d0d42bfa12d63c08211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24771"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T19:04:11.984992",
-    "new_count": 2
+    "last_update": "2026-04-23T19:24:46.023697",
+    "new_count": 1
   }
 }
