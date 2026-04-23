@@ -11,14 +11,31 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 75,
-  "returned_posts": 75,
+  "total_posts": 76,
+  "returned_posts": 76,
   "posts": [
+    {
+      "datetime": "2026-04-23T13:45:04+00:00",
+      "time_text": "13:45",
+      "link": "https://t.me/hackernews_summary/24786",
+      "views": "3"
+    },
+    {
+      "text": "A Renaissance gambling dispute spawned probability theory\n\n🔸Mathematicians Blaise Pascal and Pierre de Fermat solved the \"problem of points\" by considering future possibilities of the score. Their solution, based on expected value, is used in risk assessments and has become a fundamental pillar of modern probability theory.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:11287962313170688:1:65b5e3e3fd6f689b2e19f96f5f982c388211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24786"
+    },
     {
       "datetime": "2026-04-23T13:25:05+00:00",
       "time_text": "13:25",
       "link": "https://t.me/hackernews_summary/24785",
-      "views": "4"
+      "views": "7"
     },
     {
       "text": "Work with the Garage Door Up\n\n🔸Creative people sharing their process can create invested followings and avoid pitching problems. This type of communication is like having a physical business sign, showing \"I am here, working.\"\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -30,7 +47,7 @@
       "datetime": "2026-04-23T12:50:05+00:00",
       "time_text": "12:50",
       "link": "https://t.me/hackernews_summary/24784",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "Show HN: Built a daily game where you sort historical events chronologically\n\n🔸Sort 6 historical events intochronological order. April 23, 2026Puzzle #9Created by Damian Krajnakdamiankrajnakk@gmail.com\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -47,7 +64,7 @@
       "datetime": "2026-04-23T12:45:25+00:00",
       "time_text": "12:45",
       "link": "https://t.me/hackernews_summary/24783",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "Sneaky spam in conversational replies to blog posts\n\n🔸A spammer used AI to post three fake comments on a blog, each pretending to be a reply to the others, with a suspicious link in the middle one. The comments were spaced 3 minutes apart and came from the same IP address in the Philippines.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -64,7 +81,7 @@
       "datetime": "2026-04-23T12:45:05+00:00",
       "time_text": "12:45",
       "link": "https://t.me/hackernews_summary/24782",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "Surveillance vendors caught abusing access to telcos to track people's locations\n\n🔸Citizen Lab exposed two surveillance campaigns using \"ghost\" companies to exploit phone network vulnerabilities. The campaigns targeted individuals worldwide, using SS7 and Diameter flaws to geolocate phones.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -81,7 +98,7 @@
       "datetime": "2026-04-23T12:30:05+00:00",
       "time_text": "12:30",
       "link": "https://t.me/hackernews_summary/24781",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite\n\n🔸Honker is a SQLite extension and language bindings that add durable pub/sub, task queue, and event streams to SQLite without client polling or a daemon/broker, allowing atomic business writes and side-effect enqueues. It achieves single-digit millisecond reaction time and supports various languages including Python, Node, Rust, Go, Ruby, Bun, and Elixir.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -98,7 +115,7 @@
       "datetime": "2026-04-23T12:20:04+00:00",
       "time_text": "12:20",
       "link": "https://t.me/hackernews_summary/24780",
-      "views": "8"
+      "views": "9"
     },
     {
       "text": "Email could have been X.400 times better\n\n🔸Email's early history involved a complex system called X.400, which had features like recall and encryption, but was difficult to use and implement. SMTP, a simpler protocol, eventually became the standard for email, outliving X.400 due to its ease of use and rapid iteration.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -316,22 +333,10 @@
     },
     {
       "post_id": "24767"
-    },
-    {
-      "datetime": "2026-04-23T05:20:05+00:00",
-      "time_text": "05:20",
-      "link": "https://t.me/hackernews_summary/24766",
-      "views": "4"
-    },
-    {
-      "text": "I am building a cloud\n\n🔸The author is building exe.dev, a cloud platform that addresses the limitations of current cloud services, allowing users to run VMs on their own resources and manage them easily. The goal is to create a cloud that is more flexible and user-friendly, with local NVMe storage, global regions, and a simple, intuitive interface.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24766"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T17:00:06.766466",
+    "last_update": "2026-04-23T17:20:43.892509",
     "new_count": 1
   }
 }
