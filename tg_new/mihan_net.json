@@ -5,7 +5,7 @@
   "channel_username": "@mihan_net",
   "channel_avatar": "bale:46627310:7803043531321843458:1:65b5e3e3fd6f689b51467048d1efc3758211e6c76420e4b7",
   "channel_verified": false,
-  "channel_subscribers": "895",
+  "channel_subscribers": "896",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
@@ -229,7 +229,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T04:33:59.726445",
+    "last_update": "2026-04-23T04:54:19.779002",
     "new_count": 0
   }
 }

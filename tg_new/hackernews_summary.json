@@ -15,6 +15,23 @@
   "returned_posts": 74,
   "posts": [
     {
+      "datetime": "2026-04-23T01:20:05+00:00",
+      "time_text": "01:20",
+      "link": "https://t.me/hackernews_summary/24754",
+      "views": "1"
+    },
+    {
+      "text": "Bring your own Agent to MS Teams\n\n🔸The Teams TypeScript SDK allows you to integrate your existing HTTP server with Teams by registering a messaging endpoint and handling incoming requests. The SDK provides a pattern for integrating with Express, LangChain, and Azure Foundry, and can be used with other HTTP servers and frameworks.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-12189198238081277:1:65b5e3e3fd6f689bc4883925c2e173438211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24754"
+    },
+    {
       "datetime": "2026-04-23T01:00:05+00:00",
       "time_text": "01:00",
       "link": "https://t.me/hackernews_summary/24753",
@@ -306,27 +323,10 @@
     },
     {
       "post_id": "24735"
-    },
-    {
-      "datetime": "2026-04-22T18:20:04+00:00",
-      "time_text": "18:20",
-      "link": "https://t.me/hackernews_summary/24734",
-      "views": "7"
-    },
-    {
-      "text": "Coding Models Are Doing Too Much\n\n🔸Researchers investigated the \"Over-Editing\" problem where AI models rewrite code unnecessarily, making it harder for humans to review and understand. They found that reinforcement learning can improve the editing behavior of AI models, making them more faithful and minimal, without degrading their general coding ability.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:4652139132671762176:1:65b5e3e3fd6f689bff87bea4ac997f918211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24734"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T04:34:00.694268",
+    "last_update": "2026-04-23T04:54:21.931851",
     "new_count": 1
   }
 }
