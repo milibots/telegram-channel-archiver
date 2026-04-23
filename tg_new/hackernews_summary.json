@@ -15,10 +15,27 @@
   "returned_posts": 75,
   "posts": [
     {
+      "datetime": "2026-04-23T12:20:04+00:00",
+      "time_text": "12:20",
+      "link": "https://t.me/hackernews_summary/24780",
+      "views": "5"
+    },
+    {
+      "text": "Email could have been X.400 times better\n\n🔸Email's early history involved a complex system called X.400, which had features like recall and encryption, but was difficult to use and implement. SMTP, a simpler protocol, eventually became the standard for email, outliving X.400 due to its ease of use and rapid iteration.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:1711422466873433859:1:65b5e3e3fd6f689b2c3c11d07ad7615c8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24780"
+    },
+    {
       "datetime": "2026-04-23T11:40:04+00:00",
       "time_text": "11:40",
       "link": "https://t.me/hackernews_summary/24779",
-      "views": "4"
+      "views": "7"
     },
     {
       "text": "Writing a C Compiler, in Zig\n\n🔸This is a series of articles I wrote while writing paella, following Nora Sandler's Writing a C Compiler. It was both an exercise to learn Zig and a way to waste time instead of looking for work, as I am currently \"between jobs\". I did not edit them as I collect them here outside of fixing some broken links.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +52,7 @@
       "datetime": "2026-04-23T11:20:26+00:00",
       "time_text": "11:20",
       "link": "https://t.me/hackernews_summary/24778",
-      "views": "8"
+      "views": "9"
     },
     {
       "text": "Do you want the US to \"win\" AI?\n\n🔸The writer is concerned about the direction of AI development and its potential impact on society, preferring a more nuanced approach to technology. They question Elon's worldview and the value of a society where AI is controlled by powerful individuals.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +69,7 @@
       "datetime": "2026-04-23T11:20:06+00:00",
       "time_text": "11:20",
       "link": "https://t.me/hackernews_summary/24777",
-      "views": "8"
+      "views": "9"
     },
     {
       "text": "Highlights from Git 2.54\n\n🔸Git 2.54 introduces new features including the experimental 'git history' command for rewriting commit history and a new way to define hooks in configuration files. Other notable changes include improved usability in 'git add -p' and 'git log -L', as well as enhancements to 'git blame' and 'git backfill'.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -69,7 +86,7 @@
       "datetime": "2026-04-23T10:50:04+00:00",
       "time_text": "10:50",
       "link": "https://t.me/hackernews_summary/24776",
-      "views": "8"
+      "views": "9"
     },
     {
       "text": "Isopods of the world\n\n🔸Isopod Site aims to improve isopod identification through basic anatomy understanding. Selective breeding is used in the hobby to boost unique traits in new lineages.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -86,7 +103,7 @@
       "datetime": "2026-04-23T10:40:25+00:00",
       "time_text": "10:40",
       "link": "https://t.me/hackernews_summary/24775",
-      "views": "8"
+      "views": "9"
     },
     {
       "text": "MacBook Neo and How the iPad Should Be\n\n🔸The writer argues that iPads should be touch-only devices with unique, weird apps, while MacBooks should be for multitasking and keyboard-based work.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -103,7 +120,7 @@
       "datetime": "2026-04-23T10:40:04+00:00",
       "time_text": "10:40",
       "link": "https://t.me/hackernews_summary/24774",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "Fundamental Theorem of Calculus\n\n🔸The Riemann integral is a mathematical concept that approximates the area under a graph by using rectangles and partitions, and a function is Riemann integrable if the difference between the upper and lower sums is less than any given positive value. The Fundamental Theorem of Calculus states that the definite integral of a function is equal to the difference of its antiderivative evaluated ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -115,7 +132,7 @@
       "datetime": "2026-04-23T09:00:05+00:00",
       "time_text": "09:00",
       "link": "https://t.me/hackernews_summary/24773",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "An amateur historian's favorite books about the Silk Road\n\n🔸A retired medical doctor shares their passion for researching the Maritime Silk Route and its significance in Indian Ocean trade, drawing from various books and experiences. Their book, Sri Lanka, Serendib, and the Silk Road of the Sea, fills a gap in knowledge about Sri Lanka's role in this trade since ancient times.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -132,7 +149,7 @@
       "datetime": "2026-04-23T08:35:05+00:00",
       "time_text": "08:35",
       "link": "https://t.me/hackernews_summary/24772",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "Your hex editor should color-code bytes\n\n🔸The user discusses the benefits of using color in hex dumps to make it easier to notice patterns and details in the data. They propose a custom hex editor called hexapoda and suggest that more tools should include color-coded bytes.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -207,7 +224,7 @@
       "datetime": "2026-04-23T05:20:25+00:00",
       "time_text": "05:20",
       "link": "https://t.me/hackernews_summary/24767",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic\n\n🔸Anthropic's claude mythos preview turns out to be like the ending of the wizard of oz. a competent human exploit developer would converge on the same two bugs faster than you can read the system card, says scott wilson of crowdstrike.com. the 90-day report is supposed to answer the question of whether it actually finds anything extraordinary in their systems, he says. but it is being ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -311,27 +328,10 @@
     },
     {
       "post_id": "24761"
-    },
-    {
-      "datetime": "2026-04-23T02:55:25+00:00",
-      "time_text": "02:55",
-      "link": "https://t.me/hackernews_summary/24760",
-      "views": "4"
-    },
-    {
-      "text": "OpenAI's response to the Axios developer tool compromise\n\n🔸OpenAI is updating security certificates for macOS apps due to a third-party developer library, Axios, being compromised. Users must update their apps to the latest versions by May 8, 2026, to prevent potential risks of fake apps.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-4198608877070246144:1:65b5e3e3fd6f689b26931dd5e4c85c938211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24760"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T15:37:16.616672",
-    "new_count": 0
+    "last_update": "2026-04-23T15:57:59.523966",
+    "new_count": 1
   }
 }
