@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T01:20:05+00:00",
       "time_text": "01:20",
       "link": "https://t.me/hackernews_summary/24754",
-      "views": "1"
+      "views": "2"
     },
     {
       "text": "Bring your own Agent to MS Teams\n\n🔸The Teams TypeScript SDK allows you to integrate your existing HTTP server with Teams by registering a messaging endpoint and handling incoming requests. The SDK provides a pattern for integrating with Express, LangChain, and Azure Foundry, and can be used with other HTTP servers and frameworks.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-23T01:00:05+00:00",
       "time_text": "01:00",
       "link": "https://t.me/hackernews_summary/24753",
-      "views": "1"
+      "views": "2"
     },
     {
       "text": "Approximating Hyperbolic Tangent\n\n🔸The hyperbolic tangent function tanh is approximated using various methods including Taylor series, Padé approximants, splines, and bitwise manipulation techniques like K-TanH and Schraudolph to achieve fast and accurate results. These methods are particularly useful in neural networks and audio signal processing where speed and accuracy are crucial.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -219,7 +219,7 @@
       "datetime": "2026-04-22T20:15:04+00:00",
       "time_text": "20:15",
       "link": "https://t.me/hackernews_summary/24741",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "New study compares growing corn for energy to solar production. It's no contest\n\n🔸Researchers found that converting 3.2% of US corn-for-ethanol farmland to solar energy could increase US solar output and reduce ecological pressures. This modest conversion could yield the same energy as all corn ethanol farming does annually in the US.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -326,7 +326,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T04:54:21.931851",
-    "new_count": 1
+    "last_update": "2026-04-23T05:14:42.098491",
+    "new_count": 0
   }
 }
