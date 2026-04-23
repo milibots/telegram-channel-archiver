@@ -15,6 +15,23 @@
   "returned_posts": 74,
   "posts": [
     {
+      "datetime": "2026-04-23T06:55:04+00:00",
+      "time_text": "06:55",
+      "link": "https://t.me/hackernews_summary/24769",
+      "views": "2"
+    },
+    {
+      "text": "Ars Technica: Our newsroom AI policy\n\n🔸Ars Technica uses generative AI tools in its workflow, but only with human oversight and standards. The site's editorial text is written by humans, and AI output is never treated as an authoritative source.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:2573516392882380547:1:65b5e3e3fd6f689bc5b874d9079666718211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24769"
+    },
+    {
       "datetime": "2026-04-23T05:20:45+00:00",
       "time_text": "05:20",
       "link": "https://t.me/hackernews_summary/24768",
@@ -306,27 +323,10 @@
     },
     {
       "post_id": "24750"
-    },
-    {
-      "datetime": "2026-04-22T22:20:04+00:00",
-      "time_text": "22:20",
-      "link": "https://t.me/hackernews_summary/24749",
-      "views": "8"
-    },
-    {
-      "text": "The Neon King of New Orleans\n\n🔸Nate Sheaffer, a neon artist, saves New Orleans' historic signs by refurbishing and designing new pieces at his shop Big Sexy Neon. He uses century-old techniques to create sustainable and long-lasting neon art, preserving the city's unique aesthetic.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-1252041821359366400:1:65b5e3e3fd6f689b45e39eb09af92c108211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24749"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T10:05:47.826241",
-    "new_count": 0
+    "last_update": "2026-04-23T10:26:16.802879",
+    "new_count": 1
   }
 }

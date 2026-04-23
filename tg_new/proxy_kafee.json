@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T06:11:10+00:00",
       "time_text": "06:11",
       "link": "https://t.me/proxy_kafee/42420",
-      "views": "688"
+      "views": "999"
     },
     {
       "text": "روش ترکیب 🔐 Psiphon➕v2rayNG 📱\n\n🟢اگه کانفیگ ویتوری دارید که قطع شده ولی مطمئنید که سرورش روشنه و حجم داره طبق آموزش زیر پیش برید👇\n\n1⃣وارد ویتوری بشید برید قسمت تنظیمات تقریبا آخر صفحه یه قسمت هست به اسم ( پورت پروکسی محلی / Local proxy port ) اون رو بزارید عدد 10808\n\n🔢در آخر همون صفحه که نوشته تنظیمات پیشرفته یا Advanced Settings یه گزینه هست به اسم (حالت / Mode)، اون رو که پیش‌فرض روی VPN هست، روی حالت (فقط پروکسی / Proxy only) بزارید.\n\n🔢بعد در برنامه کانفیگ پایین یا یه کانفیگ با ویژگی که بالاتر گفتم وارد کنید و بعدش ویتوری رو روشن کنید👇\nvmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiQHByb3h5X2thZmVlIC0gUHNpcGhvbiAyNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=\n🔢سپس وارد برنامه سایفون بشید، در قسمت (گزینه‌ها / Options) گزینه (تنظیمات VPN VPN Options) رو انتخاب کنید، گزینه (عدم تونل برنامه‌های انتخاب شده / Don't tunnel selected apps) رو تیک بزنید و بعد زیرش یه گزینه هست برای انتخاب برنامه، اونو بزنید و از لیست برنامه v2rayNG رو تیک بزنید.\n\n🔢یه مرحله برگردید عقب و برید قسمت (تنظیمات&nbsp;پروکسی / Proxy settings)\n\nتیک گزینه Connect through an HTTP Proxy رو بزنید و گزینه (استفاده از این تنظیمات / Use the following settings) رو انتخاب کنید:\nاین اطلاعات رو وارد کنید👇\nHost address: 127.0.0.1\nPort : 10808\n💡سایفون رو روشن کنید و حداکثر 5 دقیقه صبر کنید تا متصل شه و برید تلگرام یکم صبر کنید.\n\n@proxy_kafee"
@@ -30,7 +30,7 @@
       "datetime": "2026-04-23T05:22:29+00:00",
       "time_text": "05:22",
       "link": "https://t.me/proxy_kafee/42419",
-      "views": "1.54K"
+      "views": "1.77K"
     },
     {
       "text": "با یک کلیک کپی کنید\nvless://49522264-23cf-4e32-9e34-c5c8bb4eb509@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%40proxy_kafee%20-%20Psiphon%2023\nترکیبی"
@@ -42,7 +42,7 @@
       "datetime": "2026-04-23T04:38:53+00:00",
       "time_text": "04:38",
       "link": "https://t.me/proxy_kafee/42418",
-      "views": "1.99K"
+      "views": "2.18K"
     },
     {
       "text": "https://t.me/socks?server=2.144.21.20&port=23300&user=a8y8HCxBo1&pass=zo89b4EmHH@proxy_kafee\n\nپروکسی"
@@ -54,7 +54,7 @@
       "datetime": "2026-04-23T04:24:10+00:00",
       "time_text": "04:24",
       "link": "https://t.me/proxy_kafee/42417",
-      "views": "2.2K"
+      "views": "2.37K"
     },
     {
       "text": "💢 مشاهده پهپادها در آسمان غرب ایران"
@@ -71,7 +71,7 @@
       "datetime": "2026-04-23T03:24:20+00:00",
       "time_text": "03:24",
       "link": "https://t.me/proxy_kafee/42416",
-      "views": "2.67K"
+      "views": "2.83K"
     },
     {
       "text": "#گزارش_مردمی \n ما توی چابکسر - استان گیلان هستیم ، نزدیک به رامسر - مازندران\nاز 4 صبح تا 5 صبح بالای 6 تا پهباد توی آسمون دیدیم که مسیرشون به سمت تهران و مازندران بود"
@@ -83,7 +83,7 @@
       "datetime": "2026-04-23T03:17:21+00:00",
       "time_text": "03:17",
       "link": "https://t.me/proxy_kafee/42415",
-      "views": "2.67K"
+      "views": "2.82K"
     },
     {
       "text": "۲ فروند جنگنده میگ ۲۹ ارتش برفراز تهران گشت زدن \n\nساعت 4 صبح\n\nانفجار سمت پارچین بود \n\nتایید رد نمیشه"
@@ -95,7 +95,7 @@
       "datetime": "2026-04-23T03:10:03+00:00",
       "time_text": "03:10",
       "link": "https://t.me/proxy_kafee/42414",
-      "views": "2.72K"
+      "views": "2.88K"
     },
     {
       "text": "اینترنشنال و وحید آنلاین نیز صدای انفجار های تهران را تأیید کردند."
@@ -107,7 +107,7 @@
       "datetime": "2026-04-22T22:34:36+00:00",
       "time_text": "22:34",
       "link": "https://t.me/proxy_kafee/42413",
-      "views": "4.03K"
+      "views": "4.19K"
     },
     {
       "text": "✔️دو دی‌ان‌اس برای Am Tunnel\nudp://85.185.163.4\nudp://79.175.172.101\n💡    فرکانس ۳-۶-۴-۵-۸ تست کنید.\n📥&nbsp;&nbsp;&nbsp; دانلود AM TUNNEL PRO\n\n@proxy_kafee\n\nرمز فایل \n\ni10i11"
@@ -119,7 +119,7 @@
       "datetime": "2026-04-22T22:15:25+00:00",
       "time_text": "22:15",
       "link": "https://t.me/proxy_kafee/42412",
-      "views": "4.24K"
+      "views": "4.36K"
     },
     {
       "text": "🔴 نسخه جدید فیلترشکن سایفون (اندروید)\n\n• نسخه 460\n\nنسخه مود شده و بدون محدودیت\n\n\n📥لینک دانلود داخلی \n﻿\n@proxy_kafee"
@@ -131,7 +131,7 @@
       "datetime": "2026-04-22T18:45:48+00:00",
       "time_text": "18:45",
       "link": "https://t.me/proxy_kafee/42411",
-      "views": "5.34K"
+      "views": "5.41K"
     },
     {
       "text": "vless://d025ab69-864f-4370-ae56-e5bcafd62199@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#@proxy_kafee\n\nتست کنید"
@@ -143,7 +143,7 @@
       "datetime": "2026-04-22T16:57:48+00:00",
       "time_text": "16:57",
       "link": "https://t.me/proxy_kafee/42410",
-      "views": "5.76K"
+      "views": "5.84K"
     },
     {
       "text": "سرور مخصوص برنامه Happ ⚡️\n\nhapp://crypt4/BRTXbphsuesBpICJ6nBRKFTk32UXXjKjA6YDOHTAu6PkmitoujfVR9Wiw8wCHP590HhF++GFfKNtfiL1CZF2eDUgUSO12jHD34BUhFf57Rip0cKmMA3Ilmt0M46zud1uF70/i0hVMohx83SSN8Z1oEKXR5q9D1p/NOHYaB3fyQPZ4xtGpAMV2lIsMAjyD/sTCEbtxD7GbWB6+QBEuuyeb0ROPCGFy+n3iOckmKvH2QKYq66WF2uAXL8LSA5eyIEDOcjuckbHuP3FHCTVtrSXR3zd8xwWMRGaxPC7Xjg4+JNFkyYVYW0Wo+sqnEEWvW1UWvDjs+yAYknevbkn5AvTsIFvi2PDKxsfIceWqJLvTDlCH3CwtaNDPB9FL0wGGlQ1n9mY0R+xK4t6lpMhrRN8Qk81uIInNfM+2azSsxgPwdg4H6Xjnt4JetAGwBOiQ1y735t2A0JgZa1CyiBRUT6ZFUxfZ+nkhsLuejw8Jk61xwALH1TfhKTBJdquWcL4xCd4C5Q/9qPp+xlE+l6YlfRxZjU1E/d0L0NtbfRnTM1Dws8dXoIfmcuAqNC30eZq7xEv5ZsdAzM0mLNkP1nSQ4p4eex8z0yi4gWABIuO0aaeNGTiw8xM80SOA5CKpWvlNJ2dwW6YvU5N2L6VgQ0o7RUUrJnRbkREGWqD/USqvNSkP+8=\nحجم : 50GB  🔋\n\n✅ دانلود برنامه Happ با اینترنت داخلی ( بدون فیلترشکن باز کنید )\n\n@proxy_kafee"
@@ -155,7 +155,7 @@
       "datetime": "2026-04-22T15:44:04+00:00",
       "time_text": "15:44",
       "link": "https://t.me/proxy_kafee/42409",
-      "views": "6.48K"
+      "views": "6.56K"
     },
     {
       "text": "vless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=%2Fvless&security=tls&encryption=none&insecure=0&host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir&type=ws&allowInsecure=0#proxy_kafee\n\nترکیب سایفون"
@@ -167,7 +167,7 @@
       "datetime": "2026-04-22T13:47:20+00:00",
       "time_text": "13:47",
       "link": "https://t.me/proxy_kafee/42408",
-      "views": "5.85K"
+      "views": "5.89K"
     },
     {
       "text": "کاش حداقل تو این شرایط ۹۰ سالم بود، نه 35🚶"
@@ -179,7 +179,7 @@
       "datetime": "2026-04-22T13:42:40+00:00",
       "time_text": "13:42",
       "link": "https://t.me/proxy_kafee/42407",
-      "views": "5.95K"
+      "views": "5.99K"
     },
     {
       "text": "پروکسی‌&nbsp; \n\ntg://proxy?server=195.201.250.234&port=443&secret=dd104462821249bd7ac519130220c25d09"
@@ -191,7 +191,7 @@
       "datetime": "2026-04-22T13:35:54+00:00",
       "time_text": "13:35",
       "link": "https://t.me/proxy_kafee/42406",
-      "views": "5.97K"
+      "views": "6.01K"
     },
     {
       "text": "📌 باز شدن کلودفلر موقتی بود؛ گشایشی ایجاد نشد \n\n➖ در پی انتشار خبر بامداد امروز چهارشنبه (دوم اردیبهشت ماه) مبنی بر روشن شدن کلودفلر بر روی برخی دیتاسنترهای داخلی و احتمال گشایش هایی در اتصال به اینترنت بین‌الملل در صورت تثبیت اتصال، بررسی های تکمیلی حاکی است که این دسترسی به صورت موقت و محدود ایجاد شده بود و ادامه نیافت ولذا باعث هیچ گونه رفع محدودیتی نشد.\n\n➖ هم اکنون داده‌های «کلودفلر رادار»، «نت‌بلاکس»، «گزارش شفافیت گوگل» و «کنتیک» نشان می‌دهد که اتصال ایران به اینترنت جهانی همچنان در سطحی بسیار محدود باقی مانده و الگوی اختلال بدون تغییر ادامه دارد، بدون آن‌که نشانه‌ای از بهبود پایدار در وضعیت ارتباطی دیده شود./سیتنا\n\n@proxy_kafee"
@@ -203,7 +203,7 @@
       "datetime": "2026-04-22T11:43:06+00:00",
       "time_text": "11:43",
       "link": "https://t.me/proxy_kafee/42405",
-      "views": "5.93K"
+      "views": "5.97K"
     },
     {
       "text": "فاکس نیوز :\n\"تمدید آتش‌بسی که ترامپ برای ایران داده، اگه زود به توافق نرسن زیاد دووم نمیاره و کوتاهه؛\nکلاً هم این تمدید بیشتر از سر احترام به میانجی‌های پاکستانی بوده.\""
@@ -215,7 +215,7 @@
       "datetime": "2026-04-22T11:23:00+00:00",
       "time_text": "11:23",
       "link": "https://t.me/proxy_kafee/42404",
-      "views": "5.89K"
+      "views": "5.93K"
     },
     {
       "text": "https://t.me/socks?server=151.233.56.8&port=10808"
@@ -227,7 +227,7 @@
       "datetime": "2026-04-22T10:58:29+00:00",
       "time_text": "10:58",
       "link": "https://t.me/proxy_kafee/42403",
-      "views": "6.07K"
+      "views": "6.08K"
     },
     {
       "text": "vless://7c8c4cfc-75b6-4860-84f6-048a6c126b21@snapp.ir:8080?type=ws&encryption=none&path=%2F&host=hi.jahansportmarkazi.ir&security=none#@proxy_kafee\n\nتست کنید"
@@ -239,7 +239,7 @@
       "datetime": "2026-04-22T08:28:37+00:00",
       "time_text": "08:28",
       "link": "https://t.me/proxy_kafee/42402",
-      "views": "6.45K"
+      "views": "6.46K"
     },
     {
       "text": "دی ان اس برای AM Tunnel\n\nudp://79.175.172.101\n\nروی فرکانس 3 و 8 بذارید"
@@ -251,7 +251,7 @@
       "datetime": "2026-04-22T06:27:22+00:00",
       "time_text": "06:27",
       "link": "https://t.me/proxy_kafee/42401",
-      "views": "6.4K"
+      "views": "6.41K"
     },
     {
       "text": "VayDNS UDP 🇩🇪\n\nکانفیگ SlipNet 🕊 اختصاصی کانال\nکاملا رایگان\nمتصل ✅⚡️\n⚠️تنظیمات Slipnet حالت پیش فرض \nمخصوص&nbsp; نسخه 2.5.2 نهایی\n\nslipnet-enc://Ae/zUPTgHb9bGFQNRqx6UX0J2WHiJuK8X7EqZ9RFjymMOghEfWu+sJ64mo59mMjPibMcIF1zH7MGe1M4+FKpfNVgxVQDQo3TZsdDr5N0YCiAYD1vBQ4FWdojuAIEmJqzL8vlUsC+YrQuWHvX2hV3jeTGWqPtx+uZjrXZw9/M5dl9VahftbW1t/Nynzxb1hWcXJS1rVJnglTTShR4ecyOvbR9efhfVnR51mUXyF1rlfXyBSEzwEStc5VwRMuHVS048fyCK+HWIaMiSYxc4wVF2AWLqSFiuDJFL6h8IhM15CMx/JtMzO9yQFyZA2AgVWUznJxgE1FCGxA+yOD9j3+EmUGsWp/r4epCBczcXGHnaEu1xEjdZMmoBB2dE7IV81s5tgencGZaC77vqzdf/vMl09+4SY1jOHR6r0p7aRNGFw0Nob8wr1nW0Mb9GKUdFtSYa1X+8GfoQ9P8zFhKSeZtcPJ6W/j4LfnLGRRCaS9bV+sY9qfvFTuXpm7aJ3nt8vXk66aHzF+9lwYYlEHfuVww65HYXRagiYz9t9c+3vwGODbvixJVUye7rvjwVAvYCaG2zALCezO8gnJdZqj2kn5Q7djCJEvF0UjsjmAuEFC0eLL+NinLK/TABGiDr8T6uriIh3bqKZGL0JKyY7oacynPbsliH/JygvaYvj7JVO5JwRA3UKbStNxykEK9/8rYAGGmzjQBMaRQTr71U4rx2AkZFkrEndd/dVImFB+C4FH5Vk/Obra+zEes\nVayDNS+SSH UDP 🇩🇪\n\nslipnet-enc://Ac7Wvp0EUDQRrYQ8hI30Bl6le6NgwmRtGCUtI/t9ziH4ZAeWR0uIua2oW7ODEhSza63WUuwztBBASxS1egJZKHIkh5HJE0zDe/WcPy69ol1pqzvTyCx3zYKCtqJbm4GFlAAJC0+Jd2tWvpMQRoBeKycYH91sKPIz4jn426TrSJrymaJlDgKIUfrANJqFQ/gsYLH2Xs5tdID0VdRKOA5778oRDfJFZa386jXQ35ZjD/eqOIFVRz8rGH0VeZ+aPqOVh+6E8Bhm2SIgbUSjED+QE+ZcumaChMeD5ckteV9TIbYqO81QUhtAkddYiO5uFy9NXEbW1AiCeeU0ikI64x3rtb4eDRhed1YXRYc60HwEZGYAwdNIhktvKh4C9yDzfTh27NNSWGRtbdyCTTS0GsSdsBemgUwBBlvZTQzJgZ1w8Nr+ZmiqlXXYPhRovvohZWhX1YIM6MKPjg90Lf4EV6O5Nu1xF/IZ0ZtIdG4qAGpg8NeJNHdHAZIbFivov+tI94th8RBmTZE9pT2l9XVIGNdwm7y6gX/95VQv+X6AbIsgwkvc1e8Icl+tcf8l6eHacRaLQ0nT7pwAFOyha7Z99zd4JMNdSeHcMLMFg8fJ9GVbbrloGklNsfkGDRUv8w8OZNja1e37gX1J23bcOSJbiTJw2TVhNV9RVHSHefXEkLySOTeH8PTypLfq\nVPN MTU : 1232 ~ 1280 ✅\n\n@proxy_kafee"
@@ -261,7 +261,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T10:05:31.653053",
+    "last_update": "2026-04-23T10:26:00.044325",
     "new_count": 0
   }
 }
