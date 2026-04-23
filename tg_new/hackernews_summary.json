@@ -15,10 +15,27 @@
   "returned_posts": 73,
   "posts": [
     {
+      "datetime": "2026-04-23T08:35:05+00:00",
+      "time_text": "08:35",
+      "link": "https://t.me/hackernews_summary/24772",
+      "views": "2"
+    },
+    {
+      "text": "Your hex editor should color-code bytes\n\n🔸The user discusses the benefits of using color in hex dumps to make it easier to notice patterns and details in the data. They propose a custom hex editor called hexapoda and suggest that more tools should include color-coded bytes.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:8076488187130355458:1:65b5e3e3fd6f689b4707d608591dc20f8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24772"
+    },
+    {
       "datetime": "2026-04-23T08:00:05+00:00",
       "time_text": "08:00",
       "link": "https://t.me/hackernews_summary/24771",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image\n\n🔸Arch Linux now has a reproducible Docker image under the \"repro\" tag, but pacman is not usable out of the box due to stripped pacman keys. Users must regenerate the pacman keyring before installing packages.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +52,7 @@
       "datetime": "2026-04-23T07:50:04+00:00",
       "time_text": "07:50",
       "link": "https://t.me/hackernews_summary/24770",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "Plexus P/20 Emulator\n\n🔸To run the emulator, download the hard disk image and wait for the selftest to complete or abort it by typing '&#33;'.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -47,7 +64,7 @@
       "datetime": "2026-04-23T06:55:04+00:00",
       "time_text": "06:55",
       "link": "https://t.me/hackernews_summary/24769",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "Ars Technica: Our newsroom AI policy\n\n🔸Ars Technica uses generative AI tools in its workflow, but only with human oversight and standards. The site's editorial text is written by humans, and AI output is never treated as an authoritative source.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -64,7 +81,7 @@
       "datetime": "2026-04-23T05:20:45+00:00",
       "time_text": "05:20",
       "link": "https://t.me/hackernews_summary/24768",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "The Onion to Take over InfoWars\n\n\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -76,7 +93,7 @@
       "datetime": "2026-04-23T05:20:25+00:00",
       "time_text": "05:20",
       "link": "https://t.me/hackernews_summary/24767",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic\n\n🔸Anthropic's claude mythos preview turns out to be like the ending of the wizard of oz. a competent human exploit developer would converge on the same two bugs faster than you can read the system card, says scott wilson of crowdstrike.com. the 90-day report is supposed to answer the question of whether it actually finds anything extraordinary in their systems, he says. but it is being ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -301,27 +318,10 @@
     },
     {
       "post_id": "24753"
-    },
-    {
-      "datetime": "2026-04-23T00:15:04+00:00",
-      "time_text": "00:15",
-      "link": "https://t.me/hackernews_summary/24752",
-      "views": "6"
-    },
-    {
-      "text": "How to Stop a Data Center in Your Backyard\n\n🔸Community groups in Monterey Park, California, and the surrounding areas organized against data centers, citing environmental concerns and lack of transparency from local governments. Organizers in the Imperial Valley, California, also protested against a proposed data center, highlighting the region's history of environmental injustices and the need for public input in decision-making processes.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:2420803319011352321:1:65b5e3e3fd6f689b32fc6041259b61608211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24752"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T11:48:17.231165",
+    "last_update": "2026-04-23T12:08:51.359922",
     "new_count": 1
   }
 }
