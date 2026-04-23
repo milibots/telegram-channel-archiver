@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T08:27:00+00:00",
       "time_text": "08:27",
       "link": "https://t.me/proxy_kafee/42421",
-      "views": "1.59K"
+      "views": "1.79K"
     },
     {
       "text": "vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?security=none&encryption=none&headerType=none&type=tcp#%40proxy_kafee\nvmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiVGVsZWdyYW0gQHByb3h5X2thZmVlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==\nvmess://eyJhZGQiOiJ2MTEubWFpbGlyYW4ubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyNTdiMzFlLTA4MDUtNGYyOC05MjA5LTI1MWI3MmI5YTU5MyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTE5OTkiLCJwcyI6IkBwcm94eV9rYWZlZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=\nvmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiejRUZWxlZ3JhbSBAcHJveHlfa2FmZWUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9\n@proxy_kafee"
@@ -30,7 +30,7 @@
       "datetime": "2026-04-23T06:11:10+00:00",
       "time_text": "06:11",
       "link": "https://t.me/proxy_kafee/42420",
-      "views": "3.01K"
+      "views": "3.17K"
     },
     {
       "text": "روش ترکیب 🔐 Psiphon➕v2rayNG 📱\n\n🟢اگه کانفیگ ویتوری دارید که قطع شده ولی مطمئنید که سرورش روشنه و حجم داره طبق آموزش زیر پیش برید👇\n\n1⃣وارد ویتوری بشید برید قسمت تنظیمات تقریبا آخر صفحه یه قسمت هست به اسم ( پورت پروکسی محلی / Local proxy port ) اون رو بزارید عدد 10808\n\n🔢در آخر همون صفحه که نوشته تنظیمات پیشرفته یا Advanced Settings یه گزینه هست به اسم (حالت / Mode)، اون رو که پیش‌فرض روی VPN هست، روی حالت (فقط پروکسی / Proxy only) بزارید.\n\n🔢بعد در برنامه کانفیگ پایین یا یه کانفیگ با ویژگی که بالاتر گفتم وارد کنید و بعدش ویتوری رو روشن کنید👇\nvmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiQHByb3h5X2thZmVlIC0gUHNpcGhvbiAyNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=\n🔢سپس وارد برنامه سایفون بشید، در قسمت (گزینه‌ها / Options) گزینه (تنظیمات VPN VPN Options) رو انتخاب کنید، گزینه (عدم تونل برنامه‌های انتخاب شده / Don't tunnel selected apps) رو تیک بزنید و بعد زیرش یه گزینه هست برای انتخاب برنامه، اونو بزنید و از لیست برنامه v2rayNG رو تیک بزنید.\n\n🔢یه مرحله برگردید عقب و برید قسمت (تنظیمات&nbsp;پروکسی / Proxy settings)\n\nتیک گزینه Connect through an HTTP Proxy رو بزنید و گزینه (استفاده از این تنظیمات / Use the following settings) رو انتخاب کنید:\nاین اطلاعات رو وارد کنید👇\nHost address: 127.0.0.1\nPort : 10808\n💡سایفون رو روشن کنید و حداکثر 5 دقیقه صبر کنید تا متصل شه و برید تلگرام یکم صبر کنید.\n\n@proxy_kafee"
@@ -42,7 +42,7 @@
       "datetime": "2026-04-23T05:22:29+00:00",
       "time_text": "05:22",
       "link": "https://t.me/proxy_kafee/42419",
-      "views": "3.34K"
+      "views": "3.45K"
     },
     {
       "text": "با یک کلیک کپی کنید\nvless://49522264-23cf-4e32-9e34-c5c8bb4eb509@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%40proxy_kafee%20-%20Psiphon%2023\nترکیبی"
@@ -54,7 +54,7 @@
       "datetime": "2026-04-23T04:38:53+00:00",
       "time_text": "04:38",
       "link": "https://t.me/proxy_kafee/42418",
-      "views": "3.59K"
+      "views": "3.67K"
     },
     {
       "text": "https://t.me/socks?server=2.144.21.20&port=23300&user=a8y8HCxBo1&pass=zo89b4EmHH@proxy_kafee\n\nپروکسی"
@@ -66,7 +66,7 @@
       "datetime": "2026-04-23T04:24:10+00:00",
       "time_text": "04:24",
       "link": "https://t.me/proxy_kafee/42417",
-      "views": "3.71K"
+      "views": "3.8K"
     },
     {
       "text": "💢 مشاهده پهپادها در آسمان غرب ایران"
@@ -83,7 +83,7 @@
       "datetime": "2026-04-23T03:24:20+00:00",
       "time_text": "03:24",
       "link": "https://t.me/proxy_kafee/42416",
-      "views": "4K"
+      "views": "4.08K"
     },
     {
       "text": "#گزارش_مردمی \n ما توی چابکسر - استان گیلان هستیم ، نزدیک به رامسر - مازندران\nاز 4 صبح تا 5 صبح بالای 6 تا پهباد توی آسمون دیدیم که مسیرشون به سمت تهران و مازندران بود"
@@ -95,7 +95,7 @@
       "datetime": "2026-04-23T03:17:21+00:00",
       "time_text": "03:17",
       "link": "https://t.me/proxy_kafee/42415",
-      "views": "3.89K"
+      "views": "3.96K"
     },
     {
       "text": "۲ فروند جنگنده میگ ۲۹ ارتش برفراز تهران گشت زدن \n\nساعت 4 صبح\n\nانفجار سمت پارچین بود \n\nتایید رد نمیشه"
@@ -107,7 +107,7 @@
       "datetime": "2026-04-23T03:10:03+00:00",
       "time_text": "03:10",
       "link": "https://t.me/proxy_kafee/42414",
-      "views": "3.92K"
+      "views": "3.99K"
     },
     {
       "text": "اینترنشنال و وحید آنلاین نیز صدای انفجار های تهران را تأیید کردند."
@@ -119,7 +119,7 @@
       "datetime": "2026-04-22T22:34:36+00:00",
       "time_text": "22:34",
       "link": "https://t.me/proxy_kafee/42413",
-      "views": "5.03K"
+      "views": "5.1K"
     },
     {
       "text": "✔️دو دی‌ان‌اس برای Am Tunnel\nudp://85.185.163.4\nudp://79.175.172.101\n💡    فرکانس ۳-۶-۴-۵-۸ تست کنید.\n📥&nbsp;&nbsp;&nbsp; دانلود AM TUNNEL PRO\n\n@proxy_kafee\n\nرمز فایل \n\ni10i11"
@@ -131,7 +131,7 @@
       "datetime": "2026-04-22T22:15:25+00:00",
       "time_text": "22:15",
       "link": "https://t.me/proxy_kafee/42412",
-      "views": "5.06K"
+      "views": "5.14K"
     },
     {
       "text": "🔴 نسخه جدید فیلترشکن سایفون (اندروید)\n\n• نسخه 460\n\nنسخه مود شده و بدون محدودیت\n\n\n📥لینک دانلود داخلی \n﻿\n@proxy_kafee"
@@ -143,7 +143,7 @@
       "datetime": "2026-04-22T18:45:48+00:00",
       "time_text": "18:45",
       "link": "https://t.me/proxy_kafee/42411",
-      "views": "5.82K"
+      "views": "5.86K"
     },
     {
       "text": "vless://d025ab69-864f-4370-ae56-e5bcafd62199@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#@proxy_kafee\n\nتست کنید"
@@ -155,7 +155,7 @@
       "datetime": "2026-04-22T16:57:48+00:00",
       "time_text": "16:57",
       "link": "https://t.me/proxy_kafee/42410",
-      "views": "6.19K"
+      "views": "6.23K"
     },
     {
       "text": "سرور مخصوص برنامه Happ ⚡️\n\nhapp://crypt4/BRTXbphsuesBpICJ6nBRKFTk32UXXjKjA6YDOHTAu6PkmitoujfVR9Wiw8wCHP590HhF++GFfKNtfiL1CZF2eDUgUSO12jHD34BUhFf57Rip0cKmMA3Ilmt0M46zud1uF70/i0hVMohx83SSN8Z1oEKXR5q9D1p/NOHYaB3fyQPZ4xtGpAMV2lIsMAjyD/sTCEbtxD7GbWB6+QBEuuyeb0ROPCGFy+n3iOckmKvH2QKYq66WF2uAXL8LSA5eyIEDOcjuckbHuP3FHCTVtrSXR3zd8xwWMRGaxPC7Xjg4+JNFkyYVYW0Wo+sqnEEWvW1UWvDjs+yAYknevbkn5AvTsIFvi2PDKxsfIceWqJLvTDlCH3CwtaNDPB9FL0wGGlQ1n9mY0R+xK4t6lpMhrRN8Qk81uIInNfM+2azSsxgPwdg4H6Xjnt4JetAGwBOiQ1y735t2A0JgZa1CyiBRUT6ZFUxfZ+nkhsLuejw8Jk61xwALH1TfhKTBJdquWcL4xCd4C5Q/9qPp+xlE+l6YlfRxZjU1E/d0L0NtbfRnTM1Dws8dXoIfmcuAqNC30eZq7xEv5ZsdAzM0mLNkP1nSQ4p4eex8z0yi4gWABIuO0aaeNGTiw8xM80SOA5CKpWvlNJ2dwW6YvU5N2L6VgQ0o7RUUrJnRbkREGWqD/USqvNSkP+8=\nحجم : 50GB  🔋\n\n✅ دانلود برنامه Happ با اینترنت داخلی ( بدون فیلترشکن باز کنید )\n\n@proxy_kafee"
@@ -167,7 +167,7 @@
       "datetime": "2026-04-22T15:44:04+00:00",
       "time_text": "15:44",
       "link": "https://t.me/proxy_kafee/42409",
-      "views": "6.96K"
+      "views": "7K"
     },
     {
       "text": "vless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=%2Fvless&security=tls&encryption=none&insecure=0&host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir&type=ws&allowInsecure=0#proxy_kafee\n\nترکیب سایفون"
@@ -191,7 +191,7 @@
       "datetime": "2026-04-22T13:42:40+00:00",
       "time_text": "13:42",
       "link": "https://t.me/proxy_kafee/42407",
-      "views": "6.25K"
+      "views": "6.26K"
     },
     {
       "text": "پروکسی‌&nbsp; \n\ntg://proxy?server=195.201.250.234&port=443&secret=dd104462821249bd7ac519130220c25d09"
@@ -203,7 +203,7 @@
       "datetime": "2026-04-22T13:35:54+00:00",
       "time_text": "13:35",
       "link": "https://t.me/proxy_kafee/42406",
-      "views": "6.29K"
+      "views": "6.32K"
     },
     {
       "text": "📌 باز شدن کلودفلر موقتی بود؛ گشایشی ایجاد نشد \n\n➖ در پی انتشار خبر بامداد امروز چهارشنبه (دوم اردیبهشت ماه) مبنی بر روشن شدن کلودفلر بر روی برخی دیتاسنترهای داخلی و احتمال گشایش هایی در اتصال به اینترنت بین‌الملل در صورت تثبیت اتصال، بررسی های تکمیلی حاکی است که این دسترسی به صورت موقت و محدود ایجاد شده بود و ادامه نیافت ولذا باعث هیچ گونه رفع محدودیتی نشد.\n\n➖ هم اکنون داده‌های «کلودفلر رادار»، «نت‌بلاکس»، «گزارش شفافیت گوگل» و «کنتیک» نشان می‌دهد که اتصال ایران به اینترنت جهانی همچنان در سطحی بسیار محدود باقی مانده و الگوی اختلال بدون تغییر ادامه دارد، بدون آن‌که نشانه‌ای از بهبود پایدار در وضعیت ارتباطی دیده شود./سیتنا\n\n@proxy_kafee"
@@ -215,7 +215,7 @@
       "datetime": "2026-04-22T11:43:06+00:00",
       "time_text": "11:43",
       "link": "https://t.me/proxy_kafee/42405",
-      "views": "6.17K"
+      "views": "6.2K"
     },
     {
       "text": "فاکس نیوز :\n\"تمدید آتش‌بسی که ترامپ برای ایران داده، اگه زود به توافق نرسن زیاد دووم نمیاره و کوتاهه؛\nکلاً هم این تمدید بیشتر از سر احترام به میانجی‌های پاکستانی بوده.\""
@@ -261,7 +261,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T13:32:57.846031",
+    "last_update": "2026-04-23T13:53:29.787206",
     "new_count": 0
   }
 }
