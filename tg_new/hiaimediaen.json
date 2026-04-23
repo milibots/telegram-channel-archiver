@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T07:29:58+00:00",
       "time_text": "07:29",
       "link": "https://t.me/hiaimediaen/2481",
-      "views": "5.4K"
+      "views": "5.56K"
     },
     {
       "text": "💻 Monkeys Controlled a Virtual Body Using Only Their Thoughts\n\nBrain-computer interfaces already allow paralyzed patients to open apps, use social media, and even play video games. But these interactions are mostly limited to two dimensions: users are essentially just moving a cursor on a screen with their minds.\n\nControlling movement in the real world is still limited to experimental prosthetics, which often require months of training to perform simple actions like lifting an arm, making a fist, or taking a step.\n\n⚙️ Researchers in Belgium took a step further by developing a neural implant that can control an entire virtual body. Most brain-computer interfaces connect only to the motor cortex, which handles movement. In this case, scientists also implanted electrodes in the premotor cortex—the part of the brain responsible for planning movements.\n\nTo test their new system, the researchers worked with three macaques. The animals wore 3D glasses and sat in front of a screen displaying a virtual environment. During training, they watched a ball roll toward a target across a flat surface.\n\n❗️ After just seven minutes, the system began to interpret the monkeys' intentions. The animals were then able to move the ball themselves, guiding it to the target, and even control an avatar as it navigated through a forest, adjusting its path in real time to avoid obstacles.\n\n\"We found that the brain adapts to the system surprisingly fast. This makes the technology a much better candidate for applications for patients,\" says study lead Peter Janssen.\n\n⚡️ The researchers plan to begin human trials within the next two years.\n\n@hiaimediaen"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-22T18:12:01+00:00",
       "time_text": "18:12",
       "link": "https://t.me/hiaimediaen/2480",
-      "views": "9.49K"
+      "views": "9.57K"
     },
     {
       "text": "⏫ AI Designs ADHD Peptide In 24 Hours\n\nThe decentralized science project Bio Protocol and the PeptAI platform said they used AI to design OX2R-004, a peptide for the potential treatment of attention-deficit/hyperactivity disorder, in just 24 hours.\n\nOne hypothesis about the biology of ADHD is a deficit of orexins. These peptides (chains of amino acids) are produced in the hypothalamus and help regulate nervous system activity, circadian rhythms, and sleep-wake cycles. All existing drugs that act on orexin receptors are receptor antagonists (blockers) used to treat insomnia.\n\nOX2R-004 was designed as an agonist, or activator, of the OX2R receptor. It is meant to mimic natural orexin and help stabilize the body's signaling, supporting communication between brain regions needed for concentration. There are currently no approved orexin receptor agonists on the market, while most clinical development in this area is focused on treating sleepiness and narcolepsy.\n\n⚡️ Is This A Ready-Made ADHD Drug?\n\nNot yet. For now, this is an early computational model, not a finished medicine, and the molecule still needs significant refinement. OX2R-004 breaks down too quickly, is unlikely to cross the blood-brain barrier, and may carry unwanted off-target risks.\n\nHowever, without ML tools that helped predict the peptide's shape, receptor activity, toxicity, and other parameters, even this early work could have taken months. AI handled a significant part of that process in just one day.\n\nHave you had any experience with ADHD?\n\n🔥 — Yes\n🤔 — No\n\n@hiaimediaen"
@@ -74,7 +74,7 @@
       "datetime": "2026-04-21T13:08:58+00:00",
       "time_text": "13:08",
       "link": "https://t.me/hiaimediaen/2470",
-      "views": "13.4K"
+      "views": "13.5K"
     },
     {
       "text": "⚡️ GPT Image 2: The Next Level of AI Image Generation by OpenAI\n\nA new AI creates ultra-realistic images, leaving behind previous GPT Image 1.5 and Google's Nano Banana.\n\nWhat makes it special?\n\n✅ Carefully preserves details and faces during editing;\n✅ Renders long texts and draws infographics without distortions;\n✅ Generates app interfaces and screenshots with unprecedented accuracy;\n✅ Improved aesthetics: skin and faces look strikingly lifelike, with no uncanny valley effect;\n✅ Lighting, proportions, and perspective, just like professional photos, without that yellow \"AI filter.\"\n\n🔴 You can already try it in our @GPT4Telegrambot. \n\nHow to Try?\n\n1️⃣ Go to @GPT4Telegrambot\n2️⃣ Select Image Generation → GPT Images in the menu.\n3️⃣ Type your prompt.\n\n💡 25 generations per week for free.\n\nDo you still trust pictures on the internet?\n\n❤️ — Yes, I can spot AI-generated images\n👀 — No, it's impossible to tell anymore...\n\n@hiaimediaen"
@@ -250,7 +250,7 @@
       "datetime": "2026-04-16T07:36:59+00:00",
       "time_text": "07:36",
       "link": "https://t.me/hiaimediaen/2462",
-      "views": "16.5K"
+      "views": "16.6K"
     },
     {
       "text": "❤️ AI Can Predict Heart Failure 5 Years Before The First Symptoms\n\nThe system was developed by scientists from Oxford. It analyzes CT scans of the heart and looks for changes in the fatty tissue around it. These micro-signs may contain early indications of inflammation that are invisible to the human eye.\n\nThe model was trained and tested on data from more than 70,000 patients. First, the system learned to identify these specific changes, and then to match these markers with whether or not a person developed heart failure.\n\nThis way, the algorithm learned to recognize early \"patterns\" of risk and calculate the probability of heart failure for patients who have not yet been diagnosed, with 86% accuracy.\n\n➡️ The results were especially significant for the most vulnerable group. High-risk patients were found to be 20 times more likely to develop heart failure than those in the low-risk group. The approximate chance is 1 in 4 over five years.\n\n@hiaimediaen"
@@ -265,7 +265,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T18:02:15.300606",
+    "last_update": "2026-04-23T18:22:52.659687",
     "new_count": 0
   }
 }
