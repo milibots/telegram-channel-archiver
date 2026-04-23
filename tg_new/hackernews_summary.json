@@ -11,14 +11,55 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 75,
-  "returned_posts": 75,
+  "total_posts": 74,
+  "returned_posts": 74,
   "posts": [
+    {
+      "datetime": "2026-04-23T05:20:45+00:00",
+      "time_text": "05:20",
+      "link": "https://t.me/hackernews_summary/24768",
+      "views": "2"
+    },
+    {
+      "text": "The Onion to Take over InfoWars\n\n\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24768"
+    },
+    {
+      "datetime": "2026-04-23T05:20:25+00:00",
+      "time_text": "05:20",
+      "link": "https://t.me/hackernews_summary/24767",
+      "views": "2"
+    },
+    {
+      "text": "A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic\n\n🔸Anthropic's claude mythos preview turns out to be like the ending of the wizard of oz. a competent human exploit developer would converge on the same two bugs faster than you can read the system card, says scott wilson of crowdstrike.com. the 90-day report is supposed to answer the question of whether it actually finds anything extraordinary in their systems, he says. but it is being ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:5428748280477392640:1:65b5e3e3fd6f689b7ca44aeb1c62f64e8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24767"
+    },
+    {
+      "datetime": "2026-04-23T05:20:05+00:00",
+      "time_text": "05:20",
+      "link": "https://t.me/hackernews_summary/24766",
+      "views": "2"
+    },
+    {
+      "text": "I am building a cloud\n\n🔸The author is building exe.dev, a cloud platform that addresses the limitations of current cloud services, allowing users to run VMs on their own resources and manage them easily. The goal is to create a cloud that is more flexible and user-friendly, with local NVMe storage, global regions, and a simple, intuitive interface.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24766"
+    },
     {
       "datetime": "2026-04-23T05:10:04+00:00",
       "time_text": "05:10",
       "link": "https://t.me/hackernews_summary/24765",
-      "views": "1"
+      "views": "2"
     },
     {
       "text": "Flow Map Learning via Nongradient Vector Flow [pdf]\n\n🔸SGFlow is a method for learning flow maps that bypasses explicit invertibility constraints and expensive differentiation through model iteration, allowing for faster sampling from diffusion and flow models. SGFlow trains a model to compute both the ODE solutions and the implied velocity from scratch by following non-conservative dynamics, achieving favorable results on the CIFAR image ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -282,56 +323,10 @@
     },
     {
       "post_id": "24749"
-    },
-    {
-      "datetime": "2026-04-22T21:20:05+00:00",
-      "time_text": "21:20",
-      "link": "https://t.me/hackernews_summary/24748",
-      "views": "10"
-    },
-    {
-      "text": "The Illuminated Man: an unconventional portrait of JG Ballard\n\n🔸Christopher Priest's biography of JG Ballard explores the writer's unique vision shaped by his childhood in Shanghai and experiences in a Japanese prisoner-of-war camp. Priest's work, completed by his partner Nina Allan, provides a complex and poignant account of Ballard's life and work.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-5094153771430437117:1:65b5e3e3fd6f689b418695e1d93e8fbf8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24748"
-    },
-    {
-      "datetime": "2026-04-22T21:10:25+00:00",
-      "time_text": "21:10",
-      "link": "https://t.me/hackernews_summary/24747",
-      "views": "11"
-    },
-    {
-      "text": "Adobe Is Cooked\n\n🔸Adobe's subscription model and prioritization of profit over innovation led to a decline in software quality and customer disrespect. The company's recent focus on AI features seems to be a desperate attempt to stay relevant, rather than addressing long-standing issues with their software.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24747"
-    },
-    {
-      "datetime": "2026-04-22T21:10:05+00:00",
-      "time_text": "21:10",
-      "link": "https://t.me/hackernews_summary/24746",
-      "views": "8"
-    },
-    {
-      "text": "Apple fixes bug that cops used to extract deleted chat messages from iPhones\n\n🔸Apple fixed a bug that allowed deleted messages to be retained on iPhones due to notifications being stored in the device's database. This issue was exploited by the FBI using forensic tools, raising concerns among privacy activists about authorities accessing deleted data.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-101379812601225472:1:65b5e3e3fd6f689b624d065393c2f0e68211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24746"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T08:43:59.504990",
-    "new_count": 1
+    "last_update": "2026-04-23T09:04:24.544304",
+    "new_count": 3
   }
 }
