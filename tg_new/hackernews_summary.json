@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T20:45:25+00:00",
       "time_text": "20:45",
       "link": "https://t.me/hackernews_summary/24811",
-      "views": "1"
+      "views": "6"
     },
     {
       "text": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge\n\n🔸We're verifying your browser Website owner? Click here to fix\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -30,7 +30,7 @@
       "datetime": "2026-04-23T20:45:05+00:00",
       "time_text": "20:45",
       "link": "https://t.me/hackernews_summary/24810",
-      "views": "1"
+      "views": "6"
     },
     {
       "text": "Using the internet like it's 1999\n\n🔸The author believes the internet has become a controlled echochamber where people are fed algorithmically generated content, and suggests using older technologies like RSS feeds, IRC, and email to reclaim agency over attention and information.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -47,7 +47,7 @@
       "datetime": "2026-04-23T20:35:05+00:00",
       "time_text": "20:35",
       "link": "https://t.me/hackernews_summary/24809",
-      "views": "3"
+      "views": "6"
     },
     {
       "text": "Advanced Packaging Limits Come into Focus\n\n🔸Packaging is now a performance variable, with warpage and mechanical issues complicating continued scaling. Advanced packages are no longer simple structures, but mechanically asymmetrical systems with different layers expanding, softening, and storing stress differently.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -64,7 +64,7 @@
       "datetime": "2026-04-23T20:20:05+00:00",
       "time_text": "20:20",
       "link": "https://t.me/hackernews_summary/24808",
-      "views": "4"
+      "views": "6"
     },
     {
       "text": "WireGuard for Windows Reaches v1.0\n\n🔸Jason Donenfeld announced the v1.0 release of WireGuardNT and WireGuard for Windows with bug fixes and improvements including NdisWdfGetAdapterContextFromAdapterHandle() and proper MTU change notifications. The release also includes 42 bug and correctness fixes for WireGuardNT and a new feature for setting system DNS server programmatically on older Windows 10 versions.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -76,7 +76,7 @@
       "datetime": "2026-04-23T20:15:05+00:00",
       "time_text": "20:15",
       "link": "https://t.me/hackernews_summary/24807",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "Astronomers Find the Edge of the Milky Way\n\n🔸A team of astronomers found that the Milky Way's star-forming disk ends at 35,000-40,000 light-years from its center. Stars beyond this point are older and likely migrated outward due to the galaxy's spiral waves.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -93,7 +93,7 @@
       "datetime": "2026-04-23T19:40:06+00:00",
       "time_text": "19:40",
       "link": "https://t.me/hackernews_summary/24806",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "Girl, 10, finds rare Mexican axolotl under Welsh bridge\n\n🔸A 10-year-old girl named Evie found an endangered Mexican axolotl under a bridge in Wales, saving its life. The axolotl, named Dippy, was the first documented discovery in the UK and is one of only 50 to 1,000 left globally.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -110,7 +110,7 @@
       "datetime": "2026-04-23T19:20:04+00:00",
       "time_text": "19:20",
       "link": "https://t.me/hackernews_summary/24805",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "Meta to cut 10% of jobs, or 8k employees\n\n🔸Meta plans to start layoffs on May 20 to improve efficiency and offset investments in metaverse and AI efforts. The company will let go of employees who made meaningful contributions due to failed metaverse efforts and increased AI investments.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -190,7 +190,7 @@
       "datetime": "2026-04-23T17:55:05+00:00",
       "time_text": "17:55",
       "link": "https://t.me/hackernews_summary/24800",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "Palantir Employees Are Starting to Wonder If They're the Bad Guys\n\n🔸Palantir employees are questioning the company's involvement in immigration enforcement and its relationship with the Trump administration. The company's leadership has been criticized for its handling of internal dissent and its defense of its work with ICE and the US military.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -207,7 +207,7 @@
       "datetime": "2026-04-23T17:45:05+00:00",
       "time_text": "17:45",
       "link": "https://t.me/hackernews_summary/24799",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "MeshCore development team splits over trademark dispute and AI-generated code\n\n🔸A team member, Andy Kirby, secretly used AI-generated code to take over the MeshCore ecosystem, sparking a dispute over ownership and control. The core team has now separated from Andy and will continue to develop and release MeshCore firmware and app updates on their official website, meshcore.io.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -336,7 +336,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T00:16:55.900463",
-    "new_count": 3
+    "last_update": "2026-04-24T00:37:30.799161",
+    "new_count": 0
   }
 }
