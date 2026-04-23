@@ -15,10 +15,39 @@
   "returned_posts": 77,
   "posts": [
     {
+      "datetime": "2026-04-23T15:20:25+00:00",
+      "time_text": "15:20",
+      "link": "https://t.me/hackernews_summary/24790",
+      "views": "5"
+    },
+    {
+      "text": "A History of Erasures Learning to Write Like Leylâ Erbil\n\n🔸The author initially dismissed Leylâ Erbil's work as outdated and self-indulgent, but later reevaluated her experimental novel \"What Remains\" as a powerful challenge to literary conventions in Turkey. Erbil's autofiction explores Turkish history, politics, and identity through a stream-of-consciousness narrative that blurs the lines between personal and public trauma.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24790"
+    },
+    {
+      "datetime": "2026-04-23T15:20:05+00:00",
+      "time_text": "15:20",
+      "link": "https://t.me/hackernews_summary/24789",
+      "views": "5"
+    },
+    {
+      "text": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign\n\n🔸Bitwarden CLI 2026.4.0 was compromised through a GitHub Action in its CI/CD pipeline as part of the Checkmarx supply chain campaign. Users are advised to review CI logs and rotate exposed secrets.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:3941820184517811971:1:65b5e3e3fd6f689ba1a234f0f914461d8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24789"
+    },
+    {
       "datetime": "2026-04-23T14:45:05+00:00",
       "time_text": "14:45",
       "link": "https://t.me/hackernews_summary/24788",
-      "views": "4"
+      "views": "7"
     },
     {
       "text": "Modern Board Games: and why you should play them (2022)\n\n🔸The user presented a team with an introduction to modern board games, dispelling common misconceptions that there are only a few board games and that they are only for children. They highlighted the diversity and complexity of modern board games, encouraging the team to try them out for their social, intellectual, and entertaining benefits.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -309,39 +338,10 @@
     },
     {
       "post_id": "24771"
-    },
-    {
-      "datetime": "2026-04-23T07:50:04+00:00",
-      "time_text": "07:50",
-      "link": "https://t.me/hackernews_summary/24770",
-      "views": "8"
-    },
-    {
-      "text": "Plexus P/20 Emulator\n\n🔸To run the emulator, download the hard disk image and wait for the selftest to complete or abort it by typing '&#33;'.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24770"
-    },
-    {
-      "datetime": "2026-04-23T06:55:04+00:00",
-      "time_text": "06:55",
-      "link": "https://t.me/hackernews_summary/24769",
-      "views": "8"
-    },
-    {
-      "text": "Ars Technica: Our newsroom AI policy\n\n🔸Ars Technica uses generative AI tools in its workflow, but only with human oversight and standards. The site's editorial text is written by humans, and AI output is never treated as an authoritative source.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:2573516392882380547:1:65b5e3e3fd6f689bc5b874d9079666718211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24769"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T18:43:31.184301",
-    "new_count": 0
+    "last_update": "2026-04-23T19:04:11.984992",
+    "new_count": 2
   }
 }
