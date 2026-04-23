@@ -11,14 +11,26 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 74,
-  "returned_posts": 74,
+  "total_posts": 73,
+  "returned_posts": 73,
   "posts": [
+    {
+      "datetime": "2026-04-23T07:50:04+00:00",
+      "time_text": "07:50",
+      "link": "https://t.me/hackernews_summary/24770",
+      "views": "3"
+    },
+    {
+      "text": "Plexus P/20 Emulator\n\n🔸To run the emulator, download the hard disk image and wait for the selftest to complete or abort it by typing '&#33;'.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24770"
+    },
     {
       "datetime": "2026-04-23T06:55:04+00:00",
       "time_text": "06:55",
       "link": "https://t.me/hackernews_summary/24769",
-      "views": "3"
+      "views": "5"
     },
     {
       "text": "Ars Technica: Our newsroom AI policy\n\n🔸Ars Technica uses generative AI tools in its workflow, but only with human oversight and standards. The site's editorial text is written by humans, and AI output is never treated as an authoritative source.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +47,7 @@
       "datetime": "2026-04-23T05:20:45+00:00",
       "time_text": "05:20",
       "link": "https://t.me/hackernews_summary/24768",
-      "views": "4"
+      "views": "6"
     },
     {
       "text": "The Onion to Take over InfoWars\n\n\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -306,27 +318,10 @@
     },
     {
       "post_id": "24751"
-    },
-    {
-      "datetime": "2026-04-22T22:45:05+00:00",
-      "time_text": "22:45",
-      "link": "https://t.me/hackernews_summary/24750",
-      "views": "8"
-    },
-    {
-      "text": "Books are not too expensive\n\n🔸Book prices have increased over time, but when adjusted for inflation, they are actually lower than expected. Publishers face high costs and low profit margins, making it difficult to cut prices without harming authors and the publishing industry.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-3121836059652120830:1:65b5e3e3fd6f689b8ab514048170d5578211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24750"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T11:07:17.285576",
-    "new_count": 0
+    "last_update": "2026-04-23T11:27:46.337077",
+    "new_count": 1
   }
 }
