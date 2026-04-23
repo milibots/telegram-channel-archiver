@@ -15,10 +15,27 @@
   "returned_posts": 76,
   "posts": [
     {
+      "datetime": "2026-04-23T23:20:05+00:00",
+      "time_text": "23:20",
+      "link": "https://t.me/hackernews_summary/24820",
+      "views": "2"
+    },
+    {
+      "text": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale\n\n🔸Google's Tensor Processing Units (TPUs) require a software stack that meets demands for performance, hardware portability, and reliability, leading to the development of TorchTPU, a PyTorch integration for native and efficient TPU usage. TorchTPU achieves this through its \"Eager First\" philosophy, Fused Eager mode, and native support for custom kernels, ensuring a seamless and ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/evx9kXW9c8RchWr7DZml5QvlYSnk4WdMtSt4TSCsb-9d_zQdb7H5PlXKS8tKYcbOi-LaKSAdXvvI1wAMugJ_DEEoSwSa65ZmHvDxp3BiGDz20XP-1WZloG5tXX9TtcHEO3J2cjrWlHyCUubj4WNPVo4zQPhuVsuhnik4gvq3l3ViYT_X0RY1QXto2xNiaMoJQZpLODgZEUa0SSwx86mQ72QrNQuK5xU_6ZbthyR44xyJhU3y0tN2KEI0JYe5JNpbmtwae2V03nGZny2KQHe0rK2vMba4LDfOv9Pw6pe3FSPvud1meZYu7I6EaX0Ks4BxFDuikqyjXT82Fnz5l3gHIQ.jpg"
+      ]
+    },
+    {
+      "post_id": "24820"
+    },
+    {
       "datetime": "2026-04-23T23:10:05+00:00",
       "time_text": "23:10",
       "link": "https://t.me/hackernews_summary/24819",
-      "views": "2"
+      "views": "3"
     },
     {
       "text": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market\n\n🔸US Army Soldier Gannon Ken Van Dyke charged with using classified information for personal gain, making over &#036;400,000 in illegal trades on Polymarket. He faces up to 40 years in prison for violating federal laws and misusing national security information.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +52,7 @@
       "datetime": "2026-04-23T22:50:05+00:00",
       "time_text": "22:50",
       "link": "https://t.me/hackernews_summary/24818",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases\n\n🔸Tolaria is a Mac app for managing markdown knowledge bases with features like offline use, open source, and keyboard-first design. It's built for power-users with a focus on flexibility and portability.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -224,7 +241,7 @@
       "datetime": "2026-04-23T19:40:06+00:00",
       "time_text": "19:40",
       "link": "https://t.me/hackernews_summary/24806",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "Girl, 10, finds rare Mexican axolotl under Welsh bridge\n\n🔸A 10-year-old girl named Evie found an endangered Mexican axolotl under a bridge in Wales, saving its life. The axolotl, named Dippy, was the first documented discovery in the UK and is one of only 50 to 1,000 left globally.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -316,27 +333,10 @@
     },
     {
       "post_id": "24801"
-    },
-    {
-      "datetime": "2026-04-23T17:55:05+00:00",
-      "time_text": "17:55",
-      "link": "https://t.me/hackernews_summary/24800",
-      "views": "5"
-    },
-    {
-      "text": "Palantir Employees Are Starting to Wonder If They're the Bad Guys\n\n🔸Palantir employees are questioning the company's involvement in immigration enforcement and its relationship with the Trump administration. The company's leadership has been criticized for its handling of internal dissent and its defense of its work with ICE and the US military.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:8377557334535773954:1:65b5e3e3fd6f689b9cd22565f14c0bfc8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24800"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T02:42:01.104348",
+    "last_update": "2026-04-24T03:02:28.723777",
     "new_count": 1
   }
 }
