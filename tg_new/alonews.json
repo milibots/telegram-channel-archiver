@@ -5,7 +5,7 @@
   "channel_username": "@alonews",
   "channel_avatar": "bale:46627310:8556115361377689346:1:65b5e3e3fd6f689b957b7d6f9e7d44f18211e6c76420e4b7",
   "channel_verified": false,
-  "channel_subscribers": "940K",
+  "channel_subscribers": "941K",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
@@ -15,10 +15,49 @@
   "returned_posts": 65,
   "posts": [
     {
+      "datetime": "2026-04-23T21:23:06+00:00",
+      "time_text": "21:23",
+      "link": "https://t.me/alonews/115246",
+      "views": "1.95K"
+    },
+    {
+      "text": "👈دقایقی پیش ارتش اسرائیل چند حمله سنگین به جنوب لبنان انجام داد\n\n✅ @AloNews خبر جنگ"
+    },
+    {
+      "videos": [
+        "https://cdn1.telesco.pe/file/6dc3b0ff45.mp4?token=QZseYaehnz_gtGH3Ld5oWqbcza6p8H9q2FKlKosQuZTMo24Ycw-hTRVcKozPsVFJPUeiOAXVvUzd_OPlbHIq-mbHe9WoDXjOxBuEDKmoxZQmBuPhbEVrHd72PD2tzmBsute3kekthX6m2jyzPb0rsvjPiV0mnBcIEQ_bCR3uhTFMX5gX4rz2pv08n-pi2JGnlWhZqHROvR1fDYhPhndcgyWMFxjXViaAizX7i-NiVHTV3LE-feClCCFMtRwXsZeIsdf99t_n-7ZzWh-Amr70YluMeOwBcGYKqcgaTT7k73enZM8nZuFqb8nd1hv8njZnYRsI42osaaVa6Fk4VIW3rQ"
+      ]
+    },
+    {
+      "videos": [
+        "https://cdn1.telesco.pe/file/e5828c0978.mp4?token=syWuO088O-RpN4_b3oD10QZu9CBEFBJ88OPdFhndGab87-XlSZq0bWumTWNt3BWPvHp8vE-G_sRu_kyS8UvX1gACOzkfRqmYtVDiDGceZ5Vg0MCnBDIsxMtmyCAFfCIIu_4uTjy8J4BakAx9pyrEFye3GKA80YWaNEAAQFaifDGmnc44h915EurTskctHg5p7h29jE-ej6nu9EL9Wj-WPoNiy9wore6eO796IjamrtiAjGxs2EcQtRmbJegE3si9U_tdm6d0xejFwshLAuVTxeDijKOn3Svu05R2Co0VGzdsMMo_NiuUInuEgyBsDSB4zesScpw81MqaIQE9KBSVyQ"
+      ]
+    },
+    {
+      "post_id": "115246"
+    },
+    {
+      "datetime": "2026-04-23T21:12:38+00:00",
+      "time_text": "21:12",
+      "link": "https://t.me/alonews/115245",
+      "views": "4.7K"
+    },
+    {
+      "text": "👈ترامپ: دیروز، هشت زن جوان قرار بود عصر ساعت ۶ اعدام شوند.\n\n🔴از آن‌ها درخواست کردم، چه به عنوان لطف و چه به عنوان درخواست اخلاقی، که اعدام نشوند.\n\n🔴آن‌ها به زودی چهار نفر از آن‌ها را آزاد می‌کنند و چهار نفر دیگر را برای مدت یک ماه در زندان نگه می‌دارند و سپس آزاد خواهند کرد.\n\n✅ @AloNews خبر جنگ"
+    },
+    {
+      "videos": [
+        "https://cdn4.telesco.pe/file/5e0e227f30.mp4?token=TQKf4TSmrCyIBrWp1w0c6UGEXOQr6PCPw3ocBe2O-gHkdPDkTOKqvjMTao2kmkR_koh7zaKtVaY5XtsBifi8DeVJXQ9clqrGGHNiLd84F95Mo5ktdC89GvS0w5i97awui0MRw_r-yUrvcXuBgb2Vt0ktbhFaq5ZTR8kZajbKQBi2NCwJag3hUD81Vq_vhjSEDcoo0Ei1FTgf5NUxAkptBlHaTrnGILZ6Eu6Q57L25bFncVCcXUfqPG4eWqVuS98NE9QPO5lLphnRcdRhErsPVtHNVexZIs0JSU1Q1VLWFXEVNBhBAkhrT4UPUBIgScAj7DEGCuA4kt2Tq6nnOaIGoA"
+      ]
+    },
+    {
+      "post_id": "115245"
+    },
+    {
       "datetime": "2026-04-23T21:06:16+00:00",
       "time_text": "21:06",
       "link": "https://t.me/alonews/115244",
-      "views": "22"
+      "views": "6.32K"
     },
     {
       "text": "👈سی ان ان: آمریکا داره برنامه‌ریزی می‌کنه که اگه آتش‌بس شکست بخوره، به تأسیسات دفاعی ایران تو تنگه هرمز حمله کنه \n\n✅ @AloNews خبر جنگ"
@@ -35,7 +74,7 @@
       "datetime": "2026-04-23T20:51:40+00:00",
       "time_text": "20:51",
       "link": "https://t.me/alonews/115243",
-      "views": "4.34K"
+      "views": "8.71K"
     },
     {
       "text": "👈حزب‌الله لبنان با راکت به سمت اسرائیل حمله کرده \n\n✅ @AloNews خبر جنگ"
@@ -47,7 +86,7 @@
       "datetime": "2026-04-23T20:43:33+00:00",
       "time_text": "20:43",
       "link": "https://t.me/alonews/115242",
-      "views": "6.58K"
+      "views": "10.4K"
     },
     {
       "text": "👈الجزيره: هم اکنون آغاز مذاکرات مستقیم بین لبنان و اسرائیل در کاخ سفید\n\n✅ @AloNews خبر جنگ"
@@ -59,7 +98,7 @@
       "datetime": "2026-04-23T20:34:16+00:00",
       "time_text": "20:34",
       "link": "https://t.me/alonews/115240",
-      "views": "8.75K"
+      "views": "11.8K"
     },
     {
       "text": "👈 ترامپ: پرنس هری نماینده بریتانیا نیست؛ من فکر می‌کنم بیشتر از پرنس هری برای بریتانیا صحبت می‌کنم.\n\n✅ @AloNews خبر جنگ"
@@ -71,7 +110,7 @@
       "datetime": "2026-04-23T20:33:38+00:00",
       "time_text": "20:33",
       "link": "https://t.me/alonews/115239",
-      "views": "8.76K"
+      "views": "11.7K"
     },
     {
       "text": "👈 ترامپ درباره ایران:\nما نمی‌دانیم با چه کسی باید معامله کنیم.\n\n🔴ما نمی‌دانیم رهبر ایران کیست چون، به یاد داشته باشید، تغییر رژیم.\n\n✅ @AloNews خبر جنگ"
@@ -83,7 +122,7 @@
       "datetime": "2026-04-23T20:28:10+00:00",
       "time_text": "20:28",
       "link": "https://t.me/alonews/115238",
-      "views": "9.77K"
+      "views": "12.2K"
     },
     {
       "text": "👈خبرنگار: از شروع جنگ در ایران ۸ هفته می‌گذرد—شما ابتدا گفته بودید که ۴ تا ۶ هفته طول می‌کشد\n\n🔴ترامپ: من کمی استراحت کردم&#33;\n\n✅ @AloNews خبر جنگ"
@@ -95,7 +134,7 @@
       "datetime": "2026-04-23T20:24:27+00:00",
       "time_text": "20:24",
       "link": "https://t.me/alonews/115237",
-      "views": "9.85K"
+      "views": "12.8K"
     },
     {
       "text": "👈خبرنگار: آیا شما از سلاح هسته‌ای علیه ایران استفاده خواهید کرد؟\n\n🔴ترامپ: نه. چه سوال احمقانه‌ای - چرا باید به آن نیاز داشته باشم؟\n\n✅ @AloNews خبر جنگ"
@@ -112,7 +151,7 @@
       "datetime": "2026-04-23T20:23:41+00:00",
       "time_text": "20:23",
       "link": "https://t.me/alonews/115236",
-      "views": "9.74K"
+      "views": "11.9K"
     },
     {
       "text": "👈ترامپ: هیچ‌کس نباید اجازه استفاده از سلاح هسته‌ای را داشته باشد.\n\n✅ @AloNews خبر جنگ"
@@ -124,7 +163,7 @@
       "datetime": "2026-04-23T20:21:24+00:00",
       "time_text": "20:21",
       "link": "https://t.me/alonews/115235",
-      "views": "9.75K"
+      "views": "12.1K"
     },
     {
       "text": "👈 گزارشگر: اگر قیمت نفت به ۲۰۰ برسد چه می‌شود؟\n\n🔴ترامپ: فکر می‌کنم هیچ چیز بدتر از یک سلاح هسته‌ای نیست که یکی از شهرهای شما، یا دو تا از شهرهایتان، یا سه تا را نابود کند.\n\n🔴فکر می‌کنم هیچ چیز بدتر از یک سلاح هسته‌ای که قرار است خاورمیانه، از جمله اسرائیل را نابود کند، وجود ندارد.\n\n🔴فکر می‌کنم هیچ چیز بدتر از وقوع هولوکاست هسته‌ای در اروپا نخواهد بود.\n\n✅ @AloNews خبر جنگ"
@@ -139,7 +178,7 @@
       "datetime": "2026-04-23T20:17:00+00:00",
       "time_text": "20:17",
       "link": "https://t.me/alonews/115234",
-      "views": "10.8K"
+      "views": "12.2K"
     },
     {
       "text": "🔴فوری / ترامپ : فکر می‌کنم هیچ چیز بدتر از یک سلاح هسته‌ای نیست که یکی از شهرهاتون رو نابود کنه، یا دوتا شهر، یا سه‌تا\n\n✅ @AloNews خبر جنگ"
@@ -156,7 +195,7 @@
       "datetime": "2026-04-23T20:16:13+00:00",
       "time_text": "20:16",
       "link": "https://t.me/alonews/115233",
-      "views": "9.72K"
+      "views": "11.8K"
     },
     {
       "text": "👈ترامپ درباره ایران: ما هرگز اینقدر مهمات نداشتیم. کشتی‌های ما پر از مهمات هستند.\n\n🔴من به آن‌ها «قفل شده و آماده» می‌گویم. آن‌ها قفل شده و آماده‌اند. آن‌ها آماده حرکت هستند.\n\n🔴ما تجهیزات بسیار باکیفیت‌تری نسبت به زمانی که شروع کردیم داریم.\n\n✅ @AloNews خبر جنگ"
@@ -168,7 +207,7 @@
       "datetime": "2026-04-23T20:15:32+00:00",
       "time_text": "20:15",
       "link": "https://t.me/alonews/115232",
-      "views": "9.68K"
+      "views": "11.7K"
     },
     {
       "text": "👈 ترامپ درباره ایران: اگر نفت خود را به حرکت در نیاورند، کل زیرساخت نفتی‌شان منفجر خواهد شد.\n\n🔴چون جایی برای ذخیره آن ندارند\n\n✅ @AloNews خبر جنگ"
@@ -180,7 +219,7 @@
       "datetime": "2026-04-23T20:13:59+00:00",
       "time_text": "20:13",
       "link": "https://t.me/alonews/115231",
-      "views": "9.7K"
+      "views": "11.8K"
     },
     {
       "text": "👈خبرنگار : به مردم آمریکا که می‌پرسن این وضعیت تا کی طول می‌کشه چی می‌گی؟ واضح هم هست که قیمت بنزین بالاتر رفته.\n\n🔴ترامپ : تو واقعاً مایه خجالتی،نشنیدی من چی گفتم؟ ویتنام چند سال طول کشید؟\n\n✅ @AloNews خبر جنگ"
@@ -195,7 +234,7 @@
       "datetime": "2026-04-23T20:09:30+00:00",
       "time_text": "20:09",
       "link": "https://t.me/alonews/115230",
-      "views": "10.2K"
+      "views": "11.9K"
     },
     {
       "text": "👈ترامپ: «تنگه هرمز زمانی باز خواهد شد که ایران یک توافق امضا کند یا وقتی اتفاق دیگری بیفتد»\n\n✅ @AloNews خبر جنگ"
@@ -207,7 +246,7 @@
       "datetime": "2026-04-23T20:09:07+00:00",
       "time_text": "20:09",
       "link": "https://t.me/alonews/115229",
-      "views": "10.4K"
+      "views": "11.9K"
     },
     {
       "text": "👈ترامپ: ما حدود 75 درصد از اهداف خود را زده ایم. کمی زود توقف کردیم چون می خواستند کمی آرامش داشته باشند.\n\n🔴ما محاصره ای داریم که 100 درصد مؤثر است. و آنها هیچ کاری ندارند.\n\n🔴آنها می خواهند معامله کنند. ما با آنها صحبت کرده‌ایم، اما آنها حتی نمی‌دانند چه کسی کشور را رهبری می‌کند. آنها در آشفتگی هستند.\n\n✅ @AloNews خبر جنگ"
@@ -219,7 +258,7 @@
       "datetime": "2026-04-23T20:07:49+00:00",
       "time_text": "20:07",
       "link": "https://t.me/alonews/115228",
-      "views": "10.3K"
+      "views": "11.7K"
     },
     {
       "text": "👈 خبرنگار: چقدر حاضرید برای ایران صبر کنید؟\n\n🔴ترامپ: من را عجله ندهید.\n\n✅ @AloNews خبر جنگ"
@@ -231,53 +270,17 @@
       "datetime": "2026-04-23T20:07:21+00:00",
       "time_text": "20:07",
       "link": "https://t.me/alonews/115227",
-      "views": "10.3K"
+      "views": "11.7K"
     },
     {
       "text": "👈ترامپ: ایران ممکن است در طول وقفه دو هفته‌ای دوباره مسلح شده باشد.\n\n✅ @AloNews خبر جنگ"
     },
     {
       "post_id": "115227"
-    },
-    {
-      "datetime": "2026-04-23T20:06:54+00:00",
-      "time_text": "20:06",
-      "link": "https://t.me/alonews/115226",
-      "views": "10.6K"
-    },
-    {
-      "text": "👈ترامپ در پاسخ به این سوال که جنگ با ایران چه زمانی به پایان می رسد:\n\n🔴 ما سال های زیادی را در جنگ ویتنام و عراق گذراندیم و نباید عجله کنیم.\n\n✅ @AloNews خبر جنگ"
-    },
-    {
-      "post_id": "115226"
-    },
-    {
-      "datetime": "2026-04-23T20:06:21+00:00",
-      "time_text": "20:06",
-      "link": "https://t.me/alonews/115225",
-      "views": "9.85K"
-    },
-    {
-      "text": "👈ترامپ: چند قایق کوچک چیزی است که از نیروی دریایی ایران باقی مانده است و ما آنها را نیز نابود خواهیم کرد\n\n✅ @AloNews خبر جنگ"
-    },
-    {
-      "post_id": "115225"
-    },
-    {
-      "datetime": "2026-04-23T20:05:57+00:00",
-      "time_text": "20:05",
-      "link": "https://t.me/alonews/115224",
-      "views": "9.82K"
-    },
-    {
-      "text": "👈ترامپ درباره اخراج وزیر نیروی دریایی جان سی. فلان: او مرد بسیار خوبی است. من واقعاً او را دوست داشتم. اما او با—نه لزوماً با پیت، بلکه با برخی دیگر—تضاد داشت. او فردی پرانرژی است.\n\n🔴او آدم فوق‌العاده‌ای است. فکر می‌کنم با من خیلی خوب کنار می‌آمد. من واقعاً زیاد با او سر و کار نداشتم.\n\n✅ @AloNews خبر جنگ"
-    },
-    {
-      "post_id": "115224"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T00:37:05.925253",
+    "last_update": "2026-04-24T00:57:45.562817",
     "new_count": 2
   }
 }

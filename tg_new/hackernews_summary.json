@@ -15,6 +15,74 @@
   "returned_posts": 76,
   "posts": [
     {
+      "datetime": "2026-04-23T21:25:04+00:00",
+      "time_text": "21:25",
+      "link": "https://t.me/hackernews_summary/24815",
+      "views": "3"
+    },
+    {
+      "text": "UK Biobank health data keeps ending up on GitHub\n\n🔸UK Biobank has used copyright takedown notices to remove health data from GitHub, targeting 110 requests since July 2025. The notices mostly target Jupyter or R notebooks, genetic and genomic data files, and tabular datasets containing participant health records.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/rcqSxnt2iw9qbVEb71sjW10djLi7agfRfJAnkFKsedb-lr2VGkRHYcSBvWg0zGNmdpz4c-Bu2VoIxJaeAWDLp7mWv9X13i8GNzlpcyBDxIGc02eNuaojiU98DcfLIZgWXNhpZvEsUERBKuPYosPPGC59GtZfcvStwM0FdQn7M4UkSkA3j4CY_dS34Eg11mKubmHW40a8R1rBPuCxpRcjw06W1LNgWgBjNNRq-ZOR5TeFzB8Rjz2ZhBC_j9gIuj3Yxq9_ga-ZHCFN3QLrbqZLPUMJmUFvfPwbDsYXfrEAHhIJGXauQ6oDq53eoXAvYNiJrgWv8Mg8nfJBgMzfYcZGrA.jpg"
+      ]
+    },
+    {
+      "post_id": "24815"
+    },
+    {
+      "datetime": "2026-04-23T21:15:46+00:00",
+      "time_text": "21:15",
+      "link": "https://t.me/hackernews_summary/24814",
+      "views": "2"
+    },
+    {
+      "text": "My phone replaced a brass plug\n\n🔸The author spent six months developing a computer vision model to automate scoring of shooting targets, using a combination of OpenCV and YOLOv8, and eventually created an offline-first app to track shooting performance.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/MIf9GAACQ-BmMIHTbkbYgigp1cy4vk1rTOZIvtvgEZsK8Zay-l93PDPSzbQLw__LEnXmv1cnZaLdOkx0KRrgFnwxs1jWbtyZ40YpRLsKBp3zM-DEt7uMw2-8p5anhFA4btj13FIFv2PYODtblsy31g2Dy1APckT7DH5JCrBMP9ycw6uPJZ2WqUwz96rQdt38oL90i97LqU0hU-_ReVBDIiBuwbmN23R1QrkJZ88lpJUwEwFJv8bFrxJ61y4BWPLBzym2UGZj6doxJFaTqLN044CSmavH2Id09Xu17GH3k7P8_KmdEQA1gAx2acLNMmekzZMch7aq2FjkxG8b8Thn-A.jpg"
+      ]
+    },
+    {
+      "post_id": "24814"
+    },
+    {
+      "datetime": "2026-04-23T21:15:26+00:00",
+      "time_text": "21:15",
+      "link": "https://t.me/hackernews_summary/24813",
+      "views": "3"
+    },
+    {
+      "text": "Show HN: Agent Vault – Open-source credential proxy and vault for agents\n\n🔸Agent Vault is an open-source credential broker that eliminates credential exfiltration risk by injecting credentials at the network layer. It works with any agent, including custom Python/TypeScript agents and coding agents like Claude Code.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/pXuGRFXccZOCLEB6-xS-IibLGcX0LxysjNDyi7Yy_p_CmRaVfWR5EIHjssD55SwZ_0OhdqmOW5askF0kL8CxCGMVBEbWqKQCykWrddlwc6xtpSo5aSjSgTRKVJ1ciQ_Et9pca3QnpaMkQS1Om68ZK-rnJAU1TYmORUElPiW1V4aNXFr5MoMNx4PhjaccRaJ6dGv8QEfihQxSqbHA_nrkw0Sw9eJNW7GaROZEXr4eBphFmGZayoj_lqYYtpV5suEIsBhYluJNegw3GcP0QG90LlBXaozjV8gOBq5fSNlXewLxZgt3S11j1ozDjs-wRq1SqiEEjxF7RJFpAvkKbD52yg.jpg"
+      ]
+    },
+    {
+      "post_id": "24813"
+    },
+    {
+      "datetime": "2026-04-23T21:15:05+00:00",
+      "time_text": "21:15",
+      "link": "https://t.me/hackernews_summary/24812",
+      "views": "3"
+    },
+    {
+      "text": "Microsoft offers buyouts up to 7% of US employees\n\n🔸Microsoft is offering buyouts to employees whose years of service plus age total 70 or more, with some exceptions. This move aims to reduce headcount by 8,750 employees, or 7% of its US workforce.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/bzRlfpBPvm-iBWiGAffumRivcc4JRAR-3amR_dIQkhBsrZVgx-UnakUWMv_NAhnaMCFzht-frhfDg37pjD4hz7gybh-JWCQJxiXrK7hv2OSRioMwOeO-G1bKRo4cdgwkf5OCGybtj9Rz1TVpUHphCXNJrdwRR2beTvGrjNnSEB18xF1mPpmJNW5qUBSlYdqMoSWfXiMVZQIEcjyZxHsiCsCN7psZSyS0_FneXJDXuVD6v92IivEgRjgIyu5RhjX-2ksGZy3z-Fzq3zPJ9_C7jEI-IploF5QNZoi6q5DQn83DX56vpnDh9jzKtq5nPUfXuZHFf8-jKIBjT7xYMv495w.jpg"
+      ]
+    },
+    {
+      "post_id": "24812"
+    },
+    {
       "datetime": "2026-04-23T20:45:25+00:00",
       "time_text": "20:45",
       "link": "https://t.me/hackernews_summary/24811",
@@ -236,7 +304,7 @@
       "datetime": "2026-04-23T17:25:07+00:00",
       "time_text": "17:25",
       "link": "https://t.me/hackernews_summary/24797",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "'Hairdryer used to trick weather sensor' to win &#036;34,000 Polymarket bet\n\n🔸French police investigate possible tampering with weather readings at Charles de Gaulle airport to influence Polymarket bets. A hairdryer may have been used to manipulate temperature readings, causing gamblers to win thousands of dollars.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -265,78 +333,10 @@
     },
     {
       "post_id": "24796"
-    },
-    {
-      "datetime": "2026-04-23T16:35:27+00:00",
-      "time_text": "16:35",
-      "link": "https://t.me/hackernews_summary/24795",
-      "views": "9"
-    },
-    {
-      "text": "A DIY Watch You Can Actually Wear\n\n🔸The LILYGO T-Watch Ultra is a DIY smartwatch with ESP32-S3, IP65-rated case, and various features like AI acceleration, Wi-Fi, Bluetooth, and LoRa. It's suitable for complex applications and has a long runtime due to its 1,100mAh battery and improved display.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:2823985522023079680:1:65b5e3e3fd6f689b7cb7e90279f5e07e8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24795"
-    },
-    {
-      "datetime": "2026-04-23T16:35:06+00:00",
-      "time_text": "16:35",
-      "link": "https://t.me/hackernews_summary/24794",
-      "views": "7"
-    },
-    {
-      "text": "If America's So Rich, How'd It Get So Sad?\n\n🔸The US has experienced a sharp decline in self-reported happiness since 2020, with no recovery, despite a strong economy and low unemployment. The culprit is likely the ongoing COVID pandemic and its aftermath, including inflation, economic uncertainty, and a uniquely negative news environment.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-4926752447972696320:1:65b5e3e3fd6f689b7cb7e90279f5e07e8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24794"
-    },
-    {
-      "datetime": "2026-04-23T16:20:05+00:00",
-      "time_text": "16:20",
-      "link": "https://t.me/hackernews_summary/24793",
-      "views": "7"
-    },
-    {
-      "text": "France confirms data breach at government agency that manages citizens' IDs\n\n🔸A data breach at the Agence Nationale des Titres Sécurisés (ANTS) exposed personal info of an undisclosed number of citizens. Millions may have been affected, with a hacker claiming to have 19 million records on a hacking forum.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:7741420569407397633:1:65b5e3e3fd6f689b7cb7e90279f5e07e8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24793"
-    },
-    {
-      "datetime": "2026-04-23T16:00:06+00:00",
-      "time_text": "16:00",
-      "link": "https://t.me/hackernews_summary/24792",
-      "views": "8"
-    },
-    {
-      "text": "The end of responsive images\n\n🔸The author of the article, a former Chair of the RICG, confesses to creating the responsive image syntax that has caused frustration for developers. They reveal that they hated the syntax but fought for it because they knew developers would have done it wrong.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-715855759959187712:1:65b5e3e3fd6f689b7f6030372ca8f6a98211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24792"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T00:37:30.799161",
-    "new_count": 0
+    "last_update": "2026-04-24T00:58:11.061421",
+    "new_count": 4
   }
 }
