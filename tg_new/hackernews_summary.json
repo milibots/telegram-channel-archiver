@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T21:45:05+00:00",
       "time_text": "21:45",
       "link": "https://t.me/hackernews_summary/24817",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "GPT-5.5: Mythos-Like Hacking, Open to All\n\n🔸OpenAI's GPT-5.5 model outperforms previous versions in vulnerability detection, reducing the miss rate to 10%. It also excels in black box testing and white box testing, making it a key part of the stack for penetration testing workflows.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-23T21:35:05+00:00",
       "time_text": "21:35",
       "link": "https://t.me/hackernews_summary/24816",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "How the Tech World Turned Evil\n\n🔸Silicon Valley tech leaders like Peter Thiel and Marc Andreessen are framing their economic self-interest as a religious imperative, warning of a war between good (AI) and evil (government regulation) and predicting a Singularity where human intelligence is eclipsed by intellectually superior computers. The tech industry has shifted from a counterculture that promised to disperse power and ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -258,7 +258,7 @@
       "datetime": "2026-04-23T18:15:04+00:00",
       "time_text": "18:15",
       "link": "https://t.me/hackernews_summary/24802",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "People Do Not Yearn for Automation\n\n🔸Is editor-in-chief of the verge, host of the decoder podcast and co-host of tv show. he says software brain is changing the world, but most people aren't buying it. poll after poll shows that gen z uses ai the most and has most negative feelings about it - edward mccaffery. the tech industry needs to make the case for the investments it's making in ai, author says\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -336,7 +336,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T01:18:44.540408",
-    "new_count": 2
+    "last_update": "2026-04-24T01:39:21.233334",
+    "new_count": 0
   }
 }
