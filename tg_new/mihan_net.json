@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T09:17:52+00:00",
       "time_text": "09:17",
       "link": "https://t.me/Mihan_Net/108",
-      "views": "115"
+      "views": "116"
     },
     {
       "text": "📌 Range Scout Android v0.1.2\n\n&rlm;- این نسخه روی کنترل بهتر سرعت اسکن، تنظیم دقیق‌تر DNS/DNSTT و به‌روزرسانی لیست‌های آماده WhiteDNS تمرکز دارد.\n\n⚙️ ویژگی‌ها و تغییرات\n\n&rlm;- تعداد Worker برای اسکن DNS قابل تنظیم‌تر شد و سقف آن تا 64 افزایش پیدا کرد.\n\n&rlm;- تعداد Worker برای تست DNSTT هم قابل تنظیم شد و سقف آن تا 32 قرار گرفت.\n\n&rlm;- مقدار پیش‌فرض Worker برای DNSTT از 4 به 8 افزایش پیدا کرد تا تست‌ها سریع‌تر انجام شوند.\n\n&rlm;- گزینه Query Size به تنظیمات اسکن DNS اضافه شد تا اندازه کوئری برای تست واقع‌گرایانه‌تر تونل DNS قابل کنترل باشد.\n\n&rlm;- گزینه DNSTT MTU به تنظیمات DNSTT اضافه شد. \n\n✅ دانلود سرور داخلی\n\n&rlm;- نسخه arm64-v8a برای بیشتر گوشی‌های اندرویدی جدید:\nhttps://guardnet.ir/f/arm64-v8a\n\n&rlm;- نسخه armeabi-v7a برای گوشی‌های قدیمی‌تر 32 بیتی:\nhttps://guardnet.ir/f/armeabi-v7a\n\n&rlm;- نسخه x64/x86 برای امولاتور یا دستگاه‌های اندروید x86:\nhttps://guardnet.ir/f/x64-x86\n\n&rlm;- نسخه Universal برای وقتی که از معماری دستگاه مطمئن نیستید:\nhttps://guardnet.ir/f/universal\n\n\n🐱 گیتهاب  \nhttps://github.com/iampedii/range-scout-android"
@@ -234,7 +234,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T20:06:14.100171",
+    "last_update": "2026-04-23T20:26:52.140861",
     "new_count": 0
   }
 }

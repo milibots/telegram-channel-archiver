@@ -15,10 +15,27 @@
   "returned_posts": 78,
   "posts": [
     {
+      "datetime": "2026-04-23T16:55:05+00:00",
+      "time_text": "16:55",
+      "link": "https://t.me/hackernews_summary/24796",
+      "views": "3"
+    },
+    {
+      "text": "Incident with Multple GitHub Services\n\n🔸GitHub's Status Page - Incident with multple GitHub services.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-2122431318375194877:1:65b5e3e3fd6f689b03cf1ab20cf086558211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24796"
+    },
+    {
       "datetime": "2026-04-23T16:35:27+00:00",
       "time_text": "16:35",
       "link": "https://t.me/hackernews_summary/24795",
-      "views": "2"
+      "views": "4"
     },
     {
       "text": "A DIY Watch You Can Actually Wear\n\n🔸The LILYGO T-Watch Ultra is a DIY smartwatch with ESP32-S3, IP65-rated case, and various features like AI acceleration, Wi-Fi, Bluetooth, and LoRa. It's suitable for complex applications and has a long runtime due to its 1,100mAh battery and improved display.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +52,7 @@
       "datetime": "2026-04-23T16:35:06+00:00",
       "time_text": "16:35",
       "link": "https://t.me/hackernews_summary/24794",
-      "views": "2"
+      "views": "4"
     },
     {
       "text": "If America's So Rich, How'd It Get So Sad?\n\n🔸The US has experienced a sharp decline in self-reported happiness since 2020, with no recovery, despite a strong economy and low unemployment. The culprit is likely the ongoing COVID pandemic and its aftermath, including inflation, economic uncertainty, and a uniquely negative news environment.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +69,7 @@
       "datetime": "2026-04-23T16:20:05+00:00",
       "time_text": "16:20",
       "link": "https://t.me/hackernews_summary/24793",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "France confirms data breach at government agency that manages citizens' IDs\n\n🔸A data breach at the Agence Nationale des Titres Sécurisés (ANTS) exposed personal info of an undisclosed number of citizens. Millions may have been affected, with a hacker claiming to have 19 million records on a hacking forum.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -115,7 +132,7 @@
       "datetime": "2026-04-23T15:20:05+00:00",
       "time_text": "15:20",
       "link": "https://t.me/hackernews_summary/24789",
-      "views": "9"
+      "views": "10"
     },
     {
       "text": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign\n\n🔸Bitwarden CLI 2026.4.0 was compromised through a GitHub Action in its CI/CD pipeline as part of the Checkmarx supply chain campaign. Users are advised to review CI logs and rotate exposed secrets.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -280,7 +297,7 @@
       "datetime": "2026-04-23T11:40:04+00:00",
       "time_text": "11:40",
       "link": "https://t.me/hackernews_summary/24779",
-      "views": "10"
+      "views": "11"
     },
     {
       "text": "Writing a C Compiler, in Zig\n\n🔸This is a series of articles I wrote while writing paella, following Nora Sandler's Writing a C Compiler. It was both an exercise to learn Zig and a way to waste time instead of looking for work, as I am currently \"between jobs\". I did not edit them as I collect them here outside of fixing some broken links.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -297,7 +314,7 @@
       "datetime": "2026-04-23T11:20:26+00:00",
       "time_text": "11:20",
       "link": "https://t.me/hackernews_summary/24778",
-      "views": "9"
+      "views": "10"
     },
     {
       "text": "Do you want the US to \"win\" AI?\n\n🔸The writer is concerned about the direction of AI development and its potential impact on society, preferring a more nuanced approach to technology. They question Elon's worldview and the value of a society where AI is controlled by powerful individuals.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -314,7 +331,7 @@
       "datetime": "2026-04-23T11:20:06+00:00",
       "time_text": "11:20",
       "link": "https://t.me/hackernews_summary/24777",
-      "views": "9"
+      "views": "10"
     },
     {
       "text": "Highlights from Git 2.54\n\n🔸Git 2.54 introduces new features including the experimental 'git history' command for rewriting commit history and a new way to define hooks in configuration files. Other notable changes include improved usability in 'git add -p' and 'git log -L', as well as enhancements to 'git blame' and 'git backfill'.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -326,27 +343,10 @@
     },
     {
       "post_id": "24777"
-    },
-    {
-      "datetime": "2026-04-23T10:50:04+00:00",
-      "time_text": "10:50",
-      "link": "https://t.me/hackernews_summary/24776",
-      "views": "9"
-    },
-    {
-      "text": "Isopods of the world\n\n🔸Isopod Site aims to improve isopod identification through basic anatomy understanding. Selective breeding is used in the hobby to boost unique traits in new lineages.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-3521790561235165440:1:65b5e3e3fd6f689bd060da9aab9c0df38211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24776"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T20:06:17.951398",
-    "new_count": 3
+    "last_update": "2026-04-23T20:26:53.803265",
+    "new_count": 1
   }
 }
