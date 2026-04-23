@@ -15,10 +15,27 @@
   "returned_posts": 73,
   "posts": [
     {
+      "datetime": "2026-04-23T08:00:05+00:00",
+      "time_text": "08:00",
+      "link": "https://t.me/hackernews_summary/24771",
+      "views": "6"
+    },
+    {
+      "text": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image\n\n🔸Arch Linux now has a reproducible Docker image under the \"repro\" tag, but pacman is not usable out of the box due to stripped pacman keys. Users must regenerate the pacman keyring before installing packages.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:6440043907263045379:1:65b5e3e3fd6f689b6d0d42bfa12d63c08211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24771"
+    },
+    {
       "datetime": "2026-04-23T07:50:04+00:00",
       "time_text": "07:50",
       "link": "https://t.me/hackernews_summary/24770",
-      "views": "3"
+      "views": "7"
     },
     {
       "text": "Plexus P/20 Emulator\n\n🔸To run the emulator, download the hard disk image and wait for the selftest to complete or abort it by typing '&#33;'.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -30,7 +47,7 @@
       "datetime": "2026-04-23T06:55:04+00:00",
       "time_text": "06:55",
       "link": "https://t.me/hackernews_summary/24769",
-      "views": "5"
+      "views": "7"
     },
     {
       "text": "Ars Technica: Our newsroom AI policy\n\n🔸Ars Technica uses generative AI tools in its workflow, but only with human oversight and standards. The site's editorial text is written by humans, and AI output is never treated as an authoritative source.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -47,7 +64,7 @@
       "datetime": "2026-04-23T05:20:45+00:00",
       "time_text": "05:20",
       "link": "https://t.me/hackernews_summary/24768",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "The Onion to Take over InfoWars\n\n\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -59,7 +76,7 @@
       "datetime": "2026-04-23T05:20:25+00:00",
       "time_text": "05:20",
       "link": "https://t.me/hackernews_summary/24767",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic\n\n🔸Anthropic's claude mythos preview turns out to be like the ending of the wizard of oz. a competent human exploit developer would converge on the same two bugs faster than you can read the system card, says scott wilson of crowdstrike.com. the 90-day report is supposed to answer the question of whether it actually finds anything extraordinary in their systems, he says. but it is being ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -301,27 +318,10 @@
     },
     {
       "post_id": "24752"
-    },
-    {
-      "datetime": "2026-04-22T23:35:05+00:00",
-      "time_text": "23:35",
-      "link": "https://t.me/hackernews_summary/24751",
-      "views": "6"
-    },
-    {
-      "text": "Show HN: Ghost Pepper Meet local meeting transcription and diarization\n\n🔸This is a Mac app that uses Apple Silicon for speech recognition. It's private and doesn't upload data to the cloud.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-5851385438398963965:1:65b5e3e3fd6f689b18039f40561273248211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24751"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T11:27:46.337077",
+    "last_update": "2026-04-23T11:48:17.231165",
     "new_count": 1
   }
 }
