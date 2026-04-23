@@ -15,10 +15,44 @@
   "returned_posts": 77,
   "posts": [
     {
+      "datetime": "2026-04-23T17:55:05+00:00",
+      "time_text": "17:55",
+      "link": "https://t.me/hackernews_summary/24800",
+      "views": "1"
+    },
+    {
+      "text": "Palantir Employees Are Starting to Wonder If They're the Bad Guys\n\n🔸Palantir employees are questioning the company's involvement in immigration enforcement and its relationship with the Trump administration. The company's leadership has been criticized for its handling of internal dissent and its defense of its work with ICE and the US military.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:8377557334535773954:1:65b5e3e3fd6f689b9cd22565f14c0bfc8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24800"
+    },
+    {
+      "datetime": "2026-04-23T17:45:05+00:00",
+      "time_text": "17:45",
+      "link": "https://t.me/hackernews_summary/24799",
+      "views": "2"
+    },
+    {
+      "text": "MeshCore development team splits over trademark dispute and AI-generated code\n\n🔸A team member, Andy Kirby, secretly used AI-generated code to take over the MeshCore ecosystem, sparking a dispute over ownership and control. The core team has now separated from Andy and will continue to develop and release MeshCore firmware and app updates on their official website, meshcore.io.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-1078261301791023359:1:65b5e3e3fd6f689b9cd22565f14c0bfc8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24799"
+    },
+    {
       "datetime": "2026-04-23T17:35:05+00:00",
       "time_text": "17:35",
       "link": "https://t.me/hackernews_summary/24798",
-      "views": "1"
+      "views": "4"
     },
     {
       "text": "The Ferrari of Espresso Machines Is Fueling a Hot Resale Market\n\n\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -30,7 +64,7 @@
       "datetime": "2026-04-23T17:25:07+00:00",
       "time_text": "17:25",
       "link": "https://t.me/hackernews_summary/24797",
-      "views": "3"
+      "views": "5"
     },
     {
       "text": "'Hairdryer used to trick weather sensor' to win &#036;34,000 Polymarket bet\n\n🔸French police investigate possible tampering with weather readings at Charles de Gaulle airport to influence Polymarket bets. A hairdryer may have been used to manipulate temperature readings, causing gamblers to win thousands of dollars.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -47,7 +81,7 @@
       "datetime": "2026-04-23T16:55:05+00:00",
       "time_text": "16:55",
       "link": "https://t.me/hackernews_summary/24796",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "Incident with Multple GitHub Services\n\n🔸GitHub's Status Page - Incident with multple GitHub services.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -64,7 +98,7 @@
       "datetime": "2026-04-23T16:35:27+00:00",
       "time_text": "16:35",
       "link": "https://t.me/hackernews_summary/24795",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "A DIY Watch You Can Actually Wear\n\n🔸The LILYGO T-Watch Ultra is a DIY smartwatch with ESP32-S3, IP65-rated case, and various features like AI acceleration, Wi-Fi, Bluetooth, and LoRa. It's suitable for complex applications and has a long runtime due to its 1,100mAh battery and improved display.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -304,44 +338,10 @@
     },
     {
       "post_id": "24781"
-    },
-    {
-      "datetime": "2026-04-23T12:20:04+00:00",
-      "time_text": "12:20",
-      "link": "https://t.me/hackernews_summary/24780",
-      "views": "10"
-    },
-    {
-      "text": "Email could have been X.400 times better\n\n🔸Email's early history involved a complex system called X.400, which had features like recall and encryption, but was difficult to use and implement. SMTP, a simpler protocol, eventually became the standard for email, outliving X.400 due to its ease of use and rapid iteration.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:1711422466873433859:1:65b5e3e3fd6f689b2c3c11d07ad7615c8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24780"
-    },
-    {
-      "datetime": "2026-04-23T11:40:04+00:00",
-      "time_text": "11:40",
-      "link": "https://t.me/hackernews_summary/24779",
-      "views": "11"
-    },
-    {
-      "text": "Writing a C Compiler, in Zig\n\n🔸This is a series of articles I wrote while writing paella, following Nora Sandler's Writing a C Compiler. It was both an exercise to learn Zig and a way to waste time instead of looking for work, as I am currently \"between jobs\". I did not edit them as I collect them here outside of fixing some broken links.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-7084029060220313853:1:65b5e3e3fd6f689bd2cca9ec77ce04c38211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24779"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T21:08:13.599367",
+    "last_update": "2026-04-23T21:29:12.217054",
     "new_count": 2
   }
 }
