@@ -15,10 +15,27 @@
   "returned_posts": 77,
   "posts": [
     {
+      "datetime": "2026-04-23T16:00:06+00:00",
+      "time_text": "16:00",
+      "link": "https://t.me/hackernews_summary/24792",
+      "views": "4"
+    },
+    {
+      "text": "The end of responsive images\n\n🔸The author of the article, a former Chair of the RICG, confesses to creating the responsive image syntax that has caused frustration for developers. They reveal that they hated the syntax but fought for it because they knew developers would have done it wrong.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-715855759959187712:1:65b5e3e3fd6f689b7f6030372ca8f6a98211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24792"
+    },
+    {
       "datetime": "2026-04-23T15:50:05+00:00",
       "time_text": "15:50",
       "link": "https://t.me/hackernews_summary/24791",
-      "views": "2"
+      "views": "4"
     },
     {
       "text": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets\n\n🔸James Giovansanti, a NYPD officer, has accumulated 547 speeding tickets in Staten Island since 2022, averaging one ticket every other day. His record makes him the second-most-reckless driver in the city, posing a unique danger to himself and others.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -321,27 +338,10 @@
     },
     {
       "post_id": "24773"
-    },
-    {
-      "datetime": "2026-04-23T08:35:05+00:00",
-      "time_text": "08:35",
-      "link": "https://t.me/hackernews_summary/24772",
-      "views": "7"
-    },
-    {
-      "text": "Your hex editor should color-code bytes\n\n🔸The user discusses the benefits of using color in hex dumps to make it easier to notice patterns and details in the data. They propose a custom hex editor called hexapoda and suggest that more tools should include color-coded bytes.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:8076488187130355458:1:65b5e3e3fd6f689b4707d608591dc20f8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24772"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T19:24:46.023697",
+    "last_update": "2026-04-23T19:45:30.206123",
     "new_count": 1
   }
 }
