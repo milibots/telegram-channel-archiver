@@ -15,6 +15,23 @@
   "returned_posts": 74,
   "posts": [
     {
+      "datetime": "2026-04-23T03:35:05+00:00",
+      "time_text": "03:35",
+      "link": "https://t.me/hackernews_summary/24761",
+      "views": "1"
+    },
+    {
+      "text": "How the Heck does Shazam work?\n\n🔸A phone identifies a song by breaking down sound into a three-dimensional representation called a spectrogram, which is then reduced to a set of unique \"fingerprints\" or hashes. These hashes are compared to a massive database of songs, allowing the phone to instantly identify the song, even in a noisy environment.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-66965877319262462:1:65b5e3e3fd6f689b1b9f9f075586c5c28211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24761"
+    },
+    {
       "datetime": "2026-04-23T02:55:25+00:00",
       "time_text": "02:55",
       "link": "https://t.me/hackernews_summary/24760",
@@ -306,27 +323,10 @@
     },
     {
       "post_id": "24742"
-    },
-    {
-      "datetime": "2026-04-22T20:15:04+00:00",
-      "time_text": "20:15",
-      "link": "https://t.me/hackernews_summary/24741",
-      "views": "6"
-    },
-    {
-      "text": "New study compares growing corn for energy to solar production. It's no contest\n\n🔸Researchers found that converting 3.2% of US corn-for-ethanol farmland to solar energy could increase US solar output and reduce ecological pressures. This modest conversion could yield the same energy as all corn ethanol farming does annually in the US.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:3431135729605091075:1:65b5e3e3fd6f689bb46db4f9773fc9868211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24741"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T07:01:54.037887",
-    "new_count": 0
+    "last_update": "2026-04-23T07:22:25.912125",
+    "new_count": 1
   }
 }
