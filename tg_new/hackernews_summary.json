@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T08:35:05+00:00",
       "time_text": "08:35",
       "link": "https://t.me/hackernews_summary/24772",
-      "views": "2"
+      "views": "3"
     },
     {
       "text": "Your hex editor should color-code bytes\n\n🔸The user discusses the benefits of using color in hex dumps to make it easier to notice patterns and details in the data. They propose a custom hex editor called hexapoda and suggest that more tools should include color-coded bytes.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -321,7 +321,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T12:08:51.359922",
-    "new_count": 1
+    "last_update": "2026-04-23T12:29:34.630893",
+    "new_count": 0
   }
 }
