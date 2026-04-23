@@ -15,10 +15,27 @@
   "returned_posts": 76,
   "posts": [
     {
+      "datetime": "2026-04-23T14:05:05+00:00",
+      "time_text": "14:05",
+      "link": "https://t.me/hackernews_summary/24787",
+      "views": "5"
+    },
+    {
+      "text": "Trump administration reclassifies cannabis as less dangerous\n\n🔸The US Department of Justice reclassified cannabis as less dangerous, moving it from Schedule I to Schedule III, allowing for increased research and access. The change is seen as symbolic, but could lead to policymakers considering full legalization.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:351015605685788417:1:65b5e3e3fd6f689bfeaeba215684b1568211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24787"
+    },
+    {
       "datetime": "2026-04-23T13:45:04+00:00",
       "time_text": "13:45",
       "link": "https://t.me/hackernews_summary/24786",
-      "views": "3"
+      "views": "6"
     },
     {
       "text": "A Renaissance gambling dispute spawned probability theory\n\n🔸Mathematicians Blaise Pascal and Pierre de Fermat solved the \"problem of points\" by considering future possibilities of the score. Their solution, based on expected value, is used in risk assessments and has become a fundamental pillar of modern probability theory.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -64,7 +81,7 @@
       "datetime": "2026-04-23T12:45:25+00:00",
       "time_text": "12:45",
       "link": "https://t.me/hackernews_summary/24783",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "Sneaky spam in conversational replies to blog posts\n\n🔸A spammer used AI to post three fake comments on a blog, each pretending to be a reply to the others, with a suspicious link in the middle one. The comments were spaced 3 minutes apart and came from the same IP address in the Philippines.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -316,27 +333,10 @@
     },
     {
       "post_id": "24768"
-    },
-    {
-      "datetime": "2026-04-23T05:20:25+00:00",
-      "time_text": "05:20",
-      "link": "https://t.me/hackernews_summary/24767",
-      "views": "8"
-    },
-    {
-      "text": "A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic\n\n🔸Anthropic's claude mythos preview turns out to be like the ending of the wizard of oz. a competent human exploit developer would converge on the same two bugs faster than you can read the system card, says scott wilson of crowdstrike.com. the 90-day report is supposed to answer the question of whether it actually finds anything extraordinary in their systems, he says. but it is being ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:5428748280477392640:1:65b5e3e3fd6f689b7ca44aeb1c62f64e8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24767"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T17:20:43.892509",
+    "last_update": "2026-04-23T17:41:25.247369",
     "new_count": 1
   }
 }
