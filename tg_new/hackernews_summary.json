@@ -11,14 +11,31 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 73,
-  "returned_posts": 73,
+  "total_posts": 74,
+  "returned_posts": 74,
   "posts": [
+    {
+      "datetime": "2026-04-23T09:00:05+00:00",
+      "time_text": "09:00",
+      "link": "https://t.me/hackernews_summary/24773",
+      "views": "5"
+    },
+    {
+      "text": "An amateur historian's favorite books about the Silk Road\n\n🔸A retired medical doctor shares their passion for researching the Maritime Silk Route and its significance in Indian Ocean trade, drawing from various books and experiences. Their book, Sri Lanka, Serendib, and the Silk Road of the Sea, fills a gap in knowledge about Sri Lanka's role in this trade since ancient times.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-1424862434561024253:1:65b5e3e3fd6f689b337120416cdf7cc28211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24773"
+    },
     {
       "datetime": "2026-04-23T08:35:05+00:00",
       "time_text": "08:35",
       "link": "https://t.me/hackernews_summary/24772",
-      "views": "3"
+      "views": "6"
     },
     {
       "text": "Your hex editor should color-code bytes\n\n🔸The user discusses the benefits of using color in hex dumps to make it easier to notice patterns and details in the data. They propose a custom hex editor called hexapoda and suggest that more tools should include color-coded bytes.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -306,22 +323,10 @@
     },
     {
       "post_id": "24754"
-    },
-    {
-      "datetime": "2026-04-23T01:00:05+00:00",
-      "time_text": "01:00",
-      "link": "https://t.me/hackernews_summary/24753",
-      "views": "5"
-    },
-    {
-      "text": "Approximating Hyperbolic Tangent\n\n🔸The hyperbolic tangent function tanh is approximated using various methods including Taylor series, Padé approximants, splines, and bitwise manipulation techniques like K-TanH and Schraudolph to achieve fast and accurate results. These methods are particularly useful in neural networks and audio signal processing where speed and accuracy are crucial.\n\n22 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24753"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T12:29:34.630893",
-    "new_count": 0
+    "last_update": "2026-04-23T12:52:09.741692",
+    "new_count": 1
   }
 }
