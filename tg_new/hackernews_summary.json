@@ -3,7 +3,7 @@
   "channel": "hackernews_summary",
   "channel_title": "HackerNews Summary",
   "channel_username": "@hackernews_summary",
-  "channel_avatar": "bale:46627310:-4842745602944065792:1:65b5e3e3fd6f689b54dff3af2a4d9b1f8211e6c76420e4b7",
+  "channel_avatar": "bale:46627310:6690244088047214339:1:65b5e3e3fd6f689b92d7ff6c9aedd3ec8211e6c76420e4b7",
   "channel_verified": false,
   "channel_subscribers": "150",
   "channel_photos": null,
@@ -11,14 +11,43 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 78,
-  "returned_posts": 78,
+  "total_posts": 77,
+  "returned_posts": 77,
   "posts": [
+    {
+      "datetime": "2026-04-23T17:35:05+00:00",
+      "time_text": "17:35",
+      "link": "https://t.me/hackernews_summary/24798",
+      "views": "1"
+    },
+    {
+      "text": "The Ferrari of Espresso Machines Is Fueling a Hot Resale Market\n\n\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24798"
+    },
+    {
+      "datetime": "2026-04-23T17:25:07+00:00",
+      "time_text": "17:25",
+      "link": "https://t.me/hackernews_summary/24797",
+      "views": "3"
+    },
+    {
+      "text": "'Hairdryer used to trick weather sensor' to win &#036;34,000 Polymarket bet\n\n🔸French police investigate possible tampering with weather readings at Charles de Gaulle airport to influence Polymarket bets. A hairdryer may have been used to manipulate temperature readings, causing gamblers to win thousands of dollars.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "bale:46627310:-4872204870100050173:1:65b5e3e3fd6f689b92d7ff6c9aedd3ec8211e6c76420e4b7"
+      ]
+    },
+    {
+      "post_id": "24797"
+    },
     {
       "datetime": "2026-04-23T16:55:05+00:00",
       "time_text": "16:55",
       "link": "https://t.me/hackernews_summary/24796",
-      "views": "5"
+      "views": "7"
     },
     {
       "text": "Incident with Multple GitHub Services\n\n🔸GitHub's Status Page - Incident with multple GitHub services.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +64,7 @@
       "datetime": "2026-04-23T16:35:27+00:00",
       "time_text": "16:35",
       "link": "https://t.me/hackernews_summary/24795",
-      "views": "5"
+      "views": "7"
     },
     {
       "text": "A DIY Watch You Can Actually Wear\n\n🔸The LILYGO T-Watch Ultra is a DIY smartwatch with ESP32-S3, IP65-rated case, and various features like AI acceleration, Wi-Fi, Bluetooth, and LoRa. It's suitable for complex applications and has a long runtime due to its 1,100mAh battery and improved display.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +81,7 @@
       "datetime": "2026-04-23T16:35:06+00:00",
       "time_text": "16:35",
       "link": "https://t.me/hackernews_summary/24794",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "If America's So Rich, How'd It Get So Sad?\n\n🔸The US has experienced a sharp decline in self-reported happiness since 2020, with no recovery, despite a strong economy and low unemployment. The culprit is likely the ongoing COVID pandemic and its aftermath, including inflation, economic uncertainty, and a uniquely negative news environment.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -86,7 +115,7 @@
       "datetime": "2026-04-23T16:00:06+00:00",
       "time_text": "16:00",
       "link": "https://t.me/hackernews_summary/24792",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "The end of responsive images\n\n🔸The author of the article, a former Chair of the RICG, confesses to creating the responsive image syntax that has caused frustration for developers. They reveal that they hated the syntax but fought for it because they knew developers would have done it wrong.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -103,7 +132,7 @@
       "datetime": "2026-04-23T15:50:05+00:00",
       "time_text": "15:50",
       "link": "https://t.me/hackernews_summary/24791",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets\n\n🔸James Giovansanti, a NYPD officer, has accumulated 547 speeding tickets in Staten Island since 2022, averaging one ticket every other day. His record makes him the second-most-reckless driver in the city, posing a unique danger to himself and others.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -120,7 +149,7 @@
       "datetime": "2026-04-23T15:20:25+00:00",
       "time_text": "15:20",
       "link": "https://t.me/hackernews_summary/24790",
-      "views": "9"
+      "views": "10"
     },
     {
       "text": "A History of Erasures Learning to Write Like Leylâ Erbil\n\n🔸The author initially dismissed Leylâ Erbil's work as outdated and self-indulgent, but later reevaluated her experimental novel \"What Remains\" as a powerful challenge to literary conventions in Turkey. Erbil's autofiction explores Turkish history, politics, and identity through a stream-of-consciousness narrative that blurs the lines between personal and public trauma.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -132,7 +161,7 @@
       "datetime": "2026-04-23T15:20:05+00:00",
       "time_text": "15:20",
       "link": "https://t.me/hackernews_summary/24789",
-      "views": "10"
+      "views": "12"
     },
     {
       "text": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign\n\n🔸Bitwarden CLI 2026.4.0 was compromised through a GitHub Action in its CI/CD pipeline as part of the Checkmarx supply chain campaign. Users are advised to review CI logs and rotate exposed secrets.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -149,7 +178,7 @@
       "datetime": "2026-04-23T14:45:05+00:00",
       "time_text": "14:45",
       "link": "https://t.me/hackernews_summary/24788",
-      "views": "8"
+      "views": "9"
     },
     {
       "text": "Modern Board Games: and why you should play them (2022)\n\n🔸The user presented a team with an introduction to modern board games, dispelling common misconceptions that there are only a few board games and that they are only for children. They highlighted the diversity and complexity of modern board games, encouraging the team to try them out for their social, intellectual, and entertaining benefits.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -166,7 +195,7 @@
       "datetime": "2026-04-23T14:05:05+00:00",
       "time_text": "14:05",
       "link": "https://t.me/hackernews_summary/24787",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "Trump administration reclassifies cannabis as less dangerous\n\n🔸The US Department of Justice reclassified cannabis as less dangerous, moving it from Schedule I to Schedule III, allowing for increased research and access. The change is seen as symbolic, but could lead to policymakers considering full legalization.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -183,7 +212,7 @@
       "datetime": "2026-04-23T13:45:04+00:00",
       "time_text": "13:45",
       "link": "https://t.me/hackernews_summary/24786",
-      "views": "8"
+      "views": "9"
     },
     {
       "text": "A Renaissance gambling dispute spawned probability theory\n\n🔸Mathematicians Blaise Pascal and Pierre de Fermat solved the \"problem of points\" by considering future possibilities of the score. Their solution, based on expected value, is used in risk assessments and has become a fundamental pillar of modern probability theory.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -200,7 +229,7 @@
       "datetime": "2026-04-23T13:25:05+00:00",
       "time_text": "13:25",
       "link": "https://t.me/hackernews_summary/24785",
-      "views": "8"
+      "views": "9"
     },
     {
       "text": "Work with the Garage Door Up\n\n🔸Creative people sharing their process can create invested followings and avoid pitching problems. This type of communication is like having a physical business sign, showing \"I am here, working.\"\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -212,7 +241,7 @@
       "datetime": "2026-04-23T12:50:05+00:00",
       "time_text": "12:50",
       "link": "https://t.me/hackernews_summary/24784",
-      "views": "8"
+      "views": "9"
     },
     {
       "text": "Show HN: Built a daily game where you sort historical events chronologically\n\n🔸Sort 6 historical events intochronological order. April 23, 2026Puzzle #9Created by Damian Krajnakdamiankrajnakk@gmail.com\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -229,7 +258,7 @@
       "datetime": "2026-04-23T12:45:25+00:00",
       "time_text": "12:45",
       "link": "https://t.me/hackernews_summary/24783",
-      "views": "9"
+      "views": "10"
     },
     {
       "text": "Sneaky spam in conversational replies to blog posts\n\n🔸A spammer used AI to post three fake comments on a blog, each pretending to be a reply to the others, with a suspicious link in the middle one. The comments were spaced 3 minutes apart and came from the same IP address in the Philippines.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -246,7 +275,7 @@
       "datetime": "2026-04-23T12:45:05+00:00",
       "time_text": "12:45",
       "link": "https://t.me/hackernews_summary/24782",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "Surveillance vendors caught abusing access to telcos to track people's locations\n\n🔸Citizen Lab exposed two surveillance campaigns using \"ghost\" companies to exploit phone network vulnerabilities. The campaigns targeted individuals worldwide, using SS7 and Diameter flaws to geolocate phones.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -263,7 +292,7 @@
       "datetime": "2026-04-23T12:30:05+00:00",
       "time_text": "12:30",
       "link": "https://t.me/hackernews_summary/24781",
-      "views": "10"
+      "views": "11"
     },
     {
       "text": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite\n\n🔸Honker is a SQLite extension and language bindings that add durable pub/sub, task queue, and event streams to SQLite without client polling or a daemon/broker, allowing atomic business writes and side-effect enqueues. It achieves single-digit millisecond reaction time and supports various languages including Python, Node, Rust, Go, Ruby, Bun, and Elixir.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -280,7 +309,7 @@
       "datetime": "2026-04-23T12:20:04+00:00",
       "time_text": "12:20",
       "link": "https://t.me/hackernews_summary/24780",
-      "views": "9"
+      "views": "10"
     },
     {
       "text": "Email could have been X.400 times better\n\n🔸Email's early history involved a complex system called X.400, which had features like recall and encryption, but was difficult to use and implement. SMTP, a simpler protocol, eventually became the standard for email, outliving X.400 due to its ease of use and rapid iteration.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -309,44 +338,10 @@
     },
     {
       "post_id": "24779"
-    },
-    {
-      "datetime": "2026-04-23T11:20:26+00:00",
-      "time_text": "11:20",
-      "link": "https://t.me/hackernews_summary/24778",
-      "views": "10"
-    },
-    {
-      "text": "Do you want the US to \"win\" AI?\n\n🔸The writer is concerned about the direction of AI development and its potential impact on society, preferring a more nuanced approach to technology. They question Elon's worldview and the value of a society where AI is controlled by powerful individuals.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-8988359654896230655:1:65b5e3e3fd6f689beec3617e13a1f61a8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24778"
-    },
-    {
-      "datetime": "2026-04-23T11:20:06+00:00",
-      "time_text": "11:20",
-      "link": "https://t.me/hackernews_summary/24777",
-      "views": "10"
-    },
-    {
-      "text": "Highlights from Git 2.54\n\n🔸Git 2.54 introduces new features including the experimental 'git history' command for rewriting commit history and a new way to define hooks in configuration files. Other notable changes include improved usability in 'git add -p' and 'git log -L', as well as enhancements to 'git blame' and 'git backfill'.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-7538053542292218112:1:65b5e3e3fd6f689beec3617e13a1f61a8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24777"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T20:47:33.855499",
-    "new_count": 0
+    "last_update": "2026-04-23T21:08:13.599367",
+    "new_count": 2
   }
 }
