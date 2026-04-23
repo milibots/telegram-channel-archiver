@@ -18,7 +18,7 @@
       "datetime": "2026-04-22T17:52:50+00:00",
       "time_text": "17:52",
       "link": "https://t.me/papFransiz/398",
-      "views": "121"
+      "views": "123"
     },
     {
       "text": "اسکریپت نصب ترکیبی و خودکار پکیجهای : \n\n-امنیزیا وایرگارد(AmneziaWG) بهمراه pbr و لیست آدرسهای آي پی ایران مناسب برای همه روترهای دارای پشتیبانی از OpenWrt آخرین نسخه 24.10.3:\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --amnezia --pbr --ir\n\n-پسوال ۲ بهمراه جئولیست وبسایتها و آدرسهای آیپی ایران مناسب برای روترهای دارای حداقل پردازنده Arm 64 دو هسته ای و ۲۵۶ مگابایت رم(‌۵۱۲ مگ رم به بالا پیشنهاد میشود):\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --passwall2 --ir --rebind\n\n-پسوال ۲ بهمراه جئولیست وبسایتها و آدرسهای آیپی ایران و AmneziaWG. برای استفاده ترکیبی از پروتوکل ها حداقل پردازنده Arm 64 چهار هسته ای و ۱ گیگابایت رم:\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --passwall2 --ir --rebind --amneziawg\n\nلینک گیتهاب جهت مشارکت در پروژه\nhttps://github.com/iranopenwrt/auto"
@@ -30,7 +30,7 @@
       "datetime": "2026-04-22T17:33:04+00:00",
       "time_text": "17:33",
       "link": "https://t.me/papFransiz/397",
-      "views": "136"
+      "views": "138"
     },
     {
       "text": "یک پروژه بسیار عالی برای ارسال فایل از ربات تلگرام به ربات بله\n\nhttps://github.com/ixabolfazl/telegram-to-bale-file-transfer-bot\n\nاین پروژه روی ورکر کلودفلر قابل نصب و فعالسازی هست و بعد از اجرا شما میتونید فایل های که نیاز دارید رو داخل ربات تلگرام ارسال کنید ، سپس فیلترشکن خودتون رو خاموش کنید و اون فایل رو از طریق ربات پیام رسان بله دانلود و ذخیره کنید"
@@ -45,7 +45,7 @@
       "datetime": "2026-04-22T17:32:17+00:00",
       "time_text": "17:32",
       "link": "https://t.me/papFransiz/396",
-      "views": "137"
+      "views": "141"
     },
     {
       "text": "انتقال فایل از طریق تلگرام به روبیکا برای کاهش مصرف فیلترشکن\nپروژه عالی که دوست عزیزمون  caffeinexz ساخته و روی گیتهاب به صورت اپن سورس منتشر کرده و منم ویدیو کامل راه اندازیش رو براتون آماده کردم.\n\nلینک گیتهاب پروژه :\nhttps://github.com/caffeinexz/Tele2Rub\n\nمشاهده ویدیو آموزش راه اندازی در یوتیوب :\nhttps://youtu.be/Yzbv93xaHoE\n\nبه راحتی میتونید تا سقف 2 گیگ فایل از تلگرام به روبیکا بفرستید و با نت ملی فایل رو دانلود کنید"
@@ -57,7 +57,7 @@
       "datetime": "2026-04-21T17:53:24+00:00",
       "time_text": "17:53",
       "link": "https://t.me/papFransiz/395",
-      "views": "189"
+      "views": "191"
     },
     {
       "text": "https://github.com/juanfont/headscale"
@@ -69,7 +69,7 @@
       "datetime": "2026-04-21T17:39:13+00:00",
       "time_text": "17:39",
       "link": "https://t.me/papFransiz/394",
-      "views": "210"
+      "views": "212"
     },
     {
       "text": "https://hub.docker.com/r/techgarageir/mtwireguard/"
@@ -81,7 +81,7 @@
       "datetime": "2026-04-21T17:37:42+00:00",
       "time_text": "17:37",
       "link": "https://t.me/papFransiz/393",
-      "views": "938"
+      "views": "942"
     },
     {
       "text": "پیاده سازی و استفاده از هوش مصنوعی در وضعیت اینترنت ملی. \n\nhttps://git.ir/article/lmstudio-setup/"
@@ -93,7 +93,7 @@
       "datetime": "2026-04-21T17:32:05+00:00",
       "time_text": "17:32",
       "link": "https://t.me/papFransiz/392",
-      "views": "849"
+      "views": "852"
     },
     {
       "text": "-OpenWRT - x86 PC Installation - Live USB\n\nwww.youtube.com/watch?v=DET3EMl6-RM\n\n- @papFransiz"
@@ -105,7 +105,7 @@
       "datetime": "2026-04-21T13:28:07+00:00",
       "time_text": "13:28",
       "link": "https://t.me/papFransiz/388",
-      "views": "432"
+      "views": "433"
     },
     {
       "text": "Cloudflare open-sourced an email client where an AI agent reads your inbox, drafts your replies, and never sends anything without your permission.\n\nIt's called Agentic Inbox. It runs entirely on Cloudflare Workers. Zero third-party servers touching your emails."
@@ -276,7 +276,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-23T08:03:02.719583",
+    "last_update": "2026-04-23T08:23:27.552016",
     "new_count": 0
   }
 }
