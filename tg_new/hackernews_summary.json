@@ -15,6 +15,52 @@
   "returned_posts": 75,
   "posts": [
     {
+      "datetime": "2026-04-24T03:55:25+00:00",
+      "time_text": "03:55",
+      "link": "https://t.me/hackernews_summary/24824",
+      "views": "1"
+    },
+    {
+      "text": "2026 Ruby on Rails Community Survey\n\n🔸Rails developers shared their work habits in 2024, and now in 2026, we're exploring AI's impact on their workflows. More voices contribute to a more useful community resource.\n\n24 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/TkRVQbrGKbHUNygLd0YL9IL2uRf109bNoxvgH6gRuA3YQCY2RiXr0d9UFr7-rm12zzLbnpUWK4yfr0G8oXOZKFub3J4IRQ4Vb5-1B80WStavM8dadkoYJVjt95aBlEZ_WtVgKgVqGnQ_T-X63RSbaM_Njz7Uln67Fakr-9eW-Qf0TEj68Akz7O7_dcOsZ6-9g-lgJjCS3t_uSWNVNRA_APku2kN4OzJPfClykMX9XroH7CGE5yNXM7gznZ-hjcYSSX0mQOedvOp2GpzzlF71KBt8NKH8_x8Pb_swZJZgMUAS1i66oE42XQggaX3XEtQyHzQOkApF3m_h2ePbwHd5JA.jpg"
+      ]
+    },
+    {
+      "post_id": "24824"
+    },
+    {
+      "datetime": "2026-04-24T03:55:05+00:00",
+      "time_text": "03:55",
+      "link": "https://t.me/hackernews_summary/24823",
+      "views": "1"
+    },
+    {
+      "text": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence\n\n🔸We present DeepSeek-V4 series with two MoE models, DeepSeek-V4-Pro and DeepSeek-V4-Flash, supporting 1M-token context length. They achieve improved efficiency and performance through hybrid attention and manifold-constrained hyper-connections.\n\n24 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24823"
+    },
+    {
+      "datetime": "2026-04-24T03:40:05+00:00",
+      "time_text": "03:40",
+      "link": "https://t.me/hackernews_summary/24822",
+      "views": "1"
+    },
+    {
+      "text": "US special forces soldier arrested after allegedly winning &#036;400k on Maduro raid\n\n🔸US soldier Master Sgt Gannon Ken Van Dyke was arrested and charged with stealing and misusing classified information after allegedly betting &#036;32,000 on Venezuelan President Maduro's capture and winning &#036;400,000. He faces five criminal charges and a related civil complaint from the Commodity Futures Trading Commission.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "photos": [
+        "https://cdn4.telesco.pe/file/XBW6dk7Yr3a5F5QV4ts7LfSWoAFblLlylQlwbXStpHhX_rHGtiOXqX7LOvdm1kGHstUzAHNWfDIS5LWWK96aTICsgRc2zm7wY9zvtvf3agWeXc7QWX7p-b8M1yTc3llMn1vgOHUphRAyw-z01uKV7vGcgwf0D01Jyz4hwHnROGPOleHt1v_SxZQ0WNYFhdbOmoFQ7qSZI49o5Y66U2ioH3MdR8G1WpUFEWhy_SZ9Q3EJ5LZSYwO3-vnW1tmAZ85n78haiHgaYtU_PXSJ1tWzjaq70LqOdFi3PB_rpOuB5pTldeZ95HgIha2ZH2JHcLARZH8_pEqI_Zj7FthC07lI0g.jpg"
+      ]
+    },
+    {
+      "post_id": "24822"
+    },
+    {
       "datetime": "2026-04-24T03:10:05+00:00",
       "time_text": "03:10",
       "link": "https://t.me/hackernews_summary/24821",
@@ -282,56 +328,10 @@
     },
     {
       "post_id": "24805"
-    },
-    {
-      "datetime": "2026-04-23T19:10:05+00:00",
-      "time_text": "19:10",
-      "link": "https://t.me/hackernews_summary/24804",
-      "views": "5"
-    },
-    {
-      "text": "I spent years trying to make CSS states predictable\n\n🔸The author describes a problem with CSS where component state is managed through overlap, leading to complexity and potential bugs. They created a system called Tasty that allows component state to be expressed declaratively, making it easier to extend or change components without reopening the state-resolution problem.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "post_id": "24804"
-    },
-    {
-      "datetime": "2026-04-23T19:00:04+00:00",
-      "time_text": "19:00",
-      "link": "https://t.me/hackernews_summary/24803",
-      "views": "4"
-    },
-    {
-      "text": "Middle Eastern News Sites Are U.S. Government Propaganda Ops\n\n🔸Al-Fassel and Pishtaz News are propaganda websites funded by the US government, spreading pro-US and anti-Iranian content. They use social media to disseminate biased information, often masquerading as independent news outlets.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:3840340077170204417:1:65b5e3e3fd6f689ba73a203ae529e0e58211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24803"
-    },
-    {
-      "datetime": "2026-04-23T18:15:04+00:00",
-      "time_text": "18:15",
-      "link": "https://t.me/hackernews_summary/24802",
-      "views": "6"
-    },
-    {
-      "text": "People Do Not Yearn for Automation\n\n🔸Is editor-in-chief of the verge, host of the decoder podcast and co-host of tv show. he says software brain is changing the world, but most people aren't buying it. poll after poll shows that gen z uses ai the most and has most negative feelings about it - edward mccaffery. the tech industry needs to make the case for the investments it's making in ai, author says\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:-4729570629158691071:1:65b5e3e3fd6f689b338c5b7d342f2e1b8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24802"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T07:06:59.947069",
-    "new_count": 0
+    "last_update": "2026-04-24T07:27:19.962328",
+    "new_count": 3
   }
 }
