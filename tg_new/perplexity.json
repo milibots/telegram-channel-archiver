@@ -3,7 +3,7 @@
   "channel": "perplexity",
   "channel_title": "Discover • Tech News",
   "channel_username": "@perplexity",
-  "channel_avatar": "bale:46627310:3961957701314682627:1:65b5e3e3fd6f689bf0794d4f5cad39558211e6c76420e4b7",
+  "channel_avatar": "https://cdn4.telesco.pe/file/oonGC-sROaEAJHkSMNEuDR-o4QyPV8p6AJ0TLrwrSMtu8RhK-MRcOuH5axV607XpipjH-rmtFwlnUasRamJHthscX7wAnL2H6o7i_A9dHaKPBsCCeHlFbPnAOb-hfSL63Yea75Nfcgf1UtYWUmoUmt37jIDien27hQd51TlKsDqv2f7d_psK0JRwrl9uXEGJLhAZcGjf2IpAZMjjqsEWL7z4ChH3imM5vBOnaYu7Ye6B4jwXKmknh5OK9P_t7A20NFfIcda9Ot8NPgdpOUZ7_QAD48QFRGQeWX-Rr3KoLT5boK4rLZtlZYAi17jWAtVymiL99xkml8cFUt5S3iisDA.jpg",
   "channel_verified": false,
   "channel_subscribers": "1.52M",
   "channel_photos": null,
@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T18:58:18+00:00",
       "time_text": "18:58",
       "link": "https://t.me/perplexity/949",
-      "views": "12.3K"
+      "views": "12.6K"
     },
     {
       "text": "💬 OpenAI Releases GPT-5.5\n\nThe new model tops the benchmarks against its main rivals, Claude Opus 4.7 and Google's Gemini 3.1 Pro, even outperforming GPT-5.4 Pro in some areas.\n\nThe model is built for agentic tasks and ease of use: GPT-5.5 figures out what you're trying to do and handles most of the work on its own.\n\n💰 Paid ChatGPT subscribers are already getting access, but the API price is twice that of GPT-5.4: &#036;5/&#036;30 per 1M input/output tokens. \n\nIs the price worth it?\n\n❤️ — Yes, the best always costs more\n🔥 — No, it's too much"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-23T11:12:58+00:00",
       "time_text": "11:12",
       "link": "https://t.me/perplexity/948",
-      "views": "23.6K"
+      "views": "23.7K"
     },
     {
       "text": "🦖 Dobot Shows Ultra-Realistic Robotic Dino\n\nChinese company Dobot has unveiled the third version of its Sinornithosaurus robot, a dinosaur that lived around 120 million years ago.\n\nThe new version breathes, has realistic artificial muscles and synthetic skin, and can respond to human commands and even touch.\n\nDoes it look like a real dinosaur?\n\n❤️ — Yes&#33;\n👎 — No, just a plastic toy..."
@@ -52,7 +52,7 @@
       "datetime": "2026-04-22T12:38:42+00:00",
       "time_text": "12:38",
       "link": "https://t.me/perplexity/947",
-      "views": "34.9K"
+      "views": "35K"
     },
     {
       "text": "🐢 Turtle on a Skateboard\n\nAn owner put a small skateboard under his pet turtle to help it move faster. The video shows how active and playful turtles can be when they are not slowed down by the floor."
@@ -265,7 +265,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T05:45:30.082592",
+    "last_update": "2026-04-24T06:05:49.515840",
     "new_count": 0
   }
 }
