@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T23:20:05+00:00",
       "time_text": "23:20",
       "link": "https://t.me/hackernews_summary/24820",
-      "views": "2"
+      "views": "3"
     },
     {
       "text": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale\n\n🔸Google's Tensor Processing Units (TPUs) require a software stack that meets demands for performance, hardware portability, and reliability, leading to the development of TorchTPU, a PyTorch integration for native and efficient TPU usage. TorchTPU achieves this through its \"Eager First\" philosophy, Fused Eager mode, and native support for custom kernels, ensuring a seamless and ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-23T23:10:05+00:00",
       "time_text": "23:10",
       "link": "https://t.me/hackernews_summary/24819",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market\n\n🔸US Army Soldier Gannon Ken Van Dyke charged with using classified information for personal gain, making over &#036;400,000 in illegal trades on Polymarket. He faces up to 40 years in prison for violating federal laws and misusing national security information.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -212,7 +212,7 @@
       "datetime": "2026-04-23T20:20:05+00:00",
       "time_text": "20:20",
       "link": "https://t.me/hackernews_summary/24808",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "WireGuard for Windows Reaches v1.0\n\n🔸Jason Donenfeld announced the v1.0 release of WireGuardNT and WireGuard for Windows with bug fixes and improvements including NdisWdfGetAdapterContextFromAdapterHandle() and proper MTU change notifications. The release also includes 42 bug and correctness fixes for WireGuardNT and a new feature for setting system DNS server programmatically on older Windows 10 versions.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -224,7 +224,7 @@
       "datetime": "2026-04-23T20:15:05+00:00",
       "time_text": "20:15",
       "link": "https://t.me/hackernews_summary/24807",
-      "views": "5"
+      "views": "6"
     },
     {
       "text": "Astronomers Find the Edge of the Milky Way\n\n🔸A team of astronomers found that the Milky Way's star-forming disk ends at 35,000-40,000 light-years from its center. Stars beyond this point are older and likely migrated outward due to the galaxy's spiral waves.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -336,7 +336,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T04:24:06.750671",
+    "last_update": "2026-04-24T04:44:27.656169",
     "new_count": 0
   }
 }
