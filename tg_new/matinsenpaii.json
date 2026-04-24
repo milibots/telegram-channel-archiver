@@ -5,7 +5,7 @@
   "channel_username": "@matinsenpaii",
   "channel_avatar": "bale:46627310:7272880628200775424:1:65b5e3e3fd6f689b57d4ee10062c693d8211e6c76420e4b7",
   "channel_verified": false,
-  "channel_subscribers": "66.8K",
+  "channel_subscribers": "66.9K",
   "channel_photos": null,
   "channel_videos": null,
   "channel_files": null,
@@ -18,7 +18,7 @@
       "datetime": "2026-04-23T18:54:02+00:00",
       "time_text": "18:54",
       "link": "https://t.me/MatinSenPaii/2828",
-      "views": "23.8K"
+      "views": "24K"
     },
     {
       "text": "سایت Supercell.com روی همراه اول وایت لیست شده. جدای از احمقانه بودنش، این کار دوتا پیام ممکنه داشته باشه:\n1- دارن واقعا فیلترینگ رو شل تر میکنن که خب خوبه.\n2- تلاش مذبوحانه برای وایت لیستینگ ادامه داره و می‌خوان صدای اونایی که از خودشونن کمتر در بیاد که این باعث میشه بتونیم سوراخ‌های بیشتری توی دیوار فیلترینگ پیدا کنیم و بازم خوبه"
@@ -35,7 +35,7 @@
       "datetime": "2026-04-23T18:21:29+00:00",
       "time_text": "18:21",
       "link": "https://t.me/MatinSenPaii/2827",
-      "views": "24.2K"
+      "views": "24.3K"
     },
     {
       "text": "چند بار گفتم سرور نخرید... فعلا هیچ راه عمومی‌ای برای تانل زدن وجود نداره"
@@ -50,7 +50,7 @@
       "datetime": "2026-04-23T18:17:36+00:00",
       "time_text": "18:17",
       "link": "https://t.me/MatinSenPaii/2826",
-      "views": "24.1K"
+      "views": "24.2K"
     },
     {
       "text": "2- توی ویندوز: \n\nالف- دکمه‌های Win + R رو بزن\nب- بنویس: certmgr.msc و Enter\nج- توی همون بخشی که توی ویدئو گفتم:\nTrusted Root Certification Authorities > Certificates\n\nسرتیفیکیت موردنظر رو پیدا کن\nروش راست‌کلیک و Delete"
@@ -65,7 +65,7 @@
       "datetime": "2026-04-23T18:12:29+00:00",
       "time_text": "18:12",
       "link": "https://t.me/MatinSenPaii/2825",
-      "views": "24.4K"
+      "views": "24.5K"
     },
     {
       "text": "برای حذف کردن سرتیفیکیت،\n\n1- توی اندروید، از همون قسمتی که رفتید Privacy and security, more security settings, User certificates اون مستر دی ان اس پایین رو ریموو کنید"
@@ -83,7 +83,7 @@
       "datetime": "2026-04-23T18:00:29+00:00",
       "time_text": "18:00",
       "link": "https://t.me/MatinSenPaii/2824",
-      "views": "24.3K"
+      "views": "24.4K"
     },
     {
       "text": "حواستون باشه که بعد از تموم شدن این داستان‌ها، سرتیفیکیت ها و دسترسی‌شون رو پاک کنید کلا.\nهمینطور دوباره تاکید میکنم از حساب اصلی گوگلتون استفاده نکنید توی سایت اسکریپت. ممکنه مسدود بشه یا مشکلی واسش پیش بیاد"
@@ -110,7 +110,7 @@
       "datetime": "2026-04-23T09:06:47+00:00",
       "time_text": "09:06",
       "link": "https://t.me/MatinSenPaii/2822",
-      "views": "31.9K"
+      "views": "32K"
     },
     {
       "text": "ببینید من سر این تمام مراحل دیپلوی‌منت رو با گوشی انجام دادم که بهتون بگم آقا، کسی که لپ تاپ نداره هم میتونه.\n1- این کد رو کپی می‌کنید:\n\n/**\n * DomainFront Relay — Google Apps Script\n *\n * TWO modes:\n *   1. Single:  POST { k, m, u, h, b, ct, r }       → { s, h, b }\n *   2. Batch:   POST { k, q: [{m,u,h,b,ct,r}, ...] } → { q: [{s,h,b}, ...] }\n *      Uses UrlFetchApp.fetchAll() — all URLs fetched IN PARALLEL.\n *\n * DEPLOYMENT:\n *   1. Go to https://script.google.com → New project\n *   2. Delete the default code, paste THIS entire file\n *   3. Click Deploy → New deployment\n *   4. Type: Web app  |  Execute as: Me  |  Who has access: Anyone\n *   5. Copy the Deployment ID into config.json as \"script_id\"\n *\n * CHANGE THE AUTH KEY BELOW TO YOUR OWN SECRET&#33;\n */\n\nconst AUTH_KEY = \"CHANGE_ME_TO_A_STRONG_SECRET\";\n\n// Keep browser capability headers (sec-ch-ua*, sec-fetch-*) intact.\n// Some modern apps, notably Google Meet, use them for browser gating.\nconst SKIP_HEADERS = {\n  host: 1, connection: 1, \"content-length\": 1,\n  \"transfer-encoding\": 1, \"proxy-connection\": 1, \"proxy-authorization\": 1,\n  \"priority\": 1, te: 1,\n};\n\nfunction doPost(e) {\n  try {\n    var req = JSON.parse(e.postData.contents);\n    if (req.k &#33;== AUTH_KEY) return _json({ e: \"unauthorized\" });\n\n    // Batch mode: { k, q: [...] }\n    if (Array.isArray(req.q)) return _doBatch(req.q);\n\n    // Single mode\n    return _doSingle(req);\n  } catch (err) {\n    return _json({ e: String(err) });\n  }\n}\n\nfunction _doSingle(req) {\n  if (&#33;req.u  typeof req.u &#33;== \"string\"  &#33;req.u.match(/^https?:&#092;/&#092;//i)) {\n    return _json({ e: \"bad url\" });\n  }\n  var opts = _buildOpts(req);\n  var resp = UrlFetchApp.fetch(req.u, opts);\n  return _json({\n    s: resp.getResponseCode(),\n    h: _respHeaders(resp),\n    b: Utilities.base64Encode(resp.getContent()),\n  });\n}\n\nfunction _doBatch(items) {\n  var fetchArgs = [];\n  var errorMap = {};\n\n  for (var i = 0; i < items.length; i++) {\n    var item = items[i];\n    if (&#33;item.u  typeof item.u &#33;== \"string\"  &#33;item.u.match(/^https?:&#092;/&#092;//i)) {\n      errorMap[i] = \"bad url\";\n      continue;\n    }\n    var opts = _buildOpts(item);\n    opts.url = item.u;\n    fetchArgs.push({ _i: i, _o: opts });\n  }\n\n  // fetchAll() processes all requests in parallel inside Google\n  var responses = [];\n  if (fetchArgs.length > 0) {\n    responses = UrlFetchApp.fetchAll(fetchArgs.map(function(x) { return x._o; }));\n  }\n\n  var results = [];\n  var rIdx = 0;\n  for (var i = 0; i < items.length; i++) {\n    if (errorMap.hasOwnProperty(i)) {\n      results.push({ e: errorMap[i] });\n    } else {\n      var resp = responses[rIdx++];\n      results.push({\n        s: resp.getResponseCode(),\n        h: _respHeaders(resp),\n        b: Utilities.base64Encode(resp.getContent()),\n      });\n    }\n  }\n  return _json({ q: results });\n}\n\nfunction _buildOpts(req) {\n  var opts = {\n    method: (req.m || \"GET\").toLowerCase(),\n    muteHttpExceptions: true,\n    followRedirects: req.r &#33;== false,\n    validateHttpsCertificates: true,\n    escaping: false,\n  };\n  if (req.h && typeof req.h === \"object\") {\n    var headers = {};\n    for (var k in req.h) {\n      if (req.h.hasOwnProperty(k) && &#33;SKIP_HEADERS[k.toLowerCase()]) {\n        headers[k] = req.h[k];\n      }\n    }\n    opts.headers = headers;\n  }\n  if (req.b) {\n    opts.payload = Utilities.base64Decode(req.b);\n    if (req.ct) opts.contentType = req.ct;\n  }\n  return opts;\n}\n\nfunction _respHeaders(resp) {\n  try {\n    if (typeof resp.getAllHeaders === \"function\") {\n      return resp.getAllHeaders();\n    }\n  } catch (err) {}\n  return resp.getHeaders();\n}\n\nfunction doGet(e) {\n  return HtmlService.createHtmlOutput(\n    \"<&#33;DOCTYPE html><html><head><title>My App</title></head>\" +\n      '<body style=\"font-family:sans-serif;max-width:600px;margin:40px auto\">' +\n      \"<h1>Welcome</h1><p>This application is running normally.</p>\" +\n      \"</body></html>\"\n  );\n}\n\nfunction _json(obj) {\n  return ContentService.createTextOutput(JSON.stringify(obj)).setMimeType(\n    ContentService.MimeType.JSON\n  );\n}"
@@ -122,7 +122,7 @@
       "datetime": "2026-04-23T08:50:10+00:00",
       "time_text": "08:50",
       "link": "https://t.me/MatinSenPaii/2821",
-      "views": "31.4K"
+      "views": "31.5K"
     },
     {
       "text": "به خدا شبیه هیچی جز بیلبیلک نیست😂"
@@ -137,7 +137,7 @@
       "datetime": "2026-04-23T08:44:48+00:00",
       "time_text": "08:44",
       "link": "https://t.me/MatinSenPaii/2820",
-      "views": "31.2K"
+      "views": "31.3K"
     },
     {
       "text": "اون بیلبیلک سبزه که میاد بالا یعنی وصله. m.youtube.com بزنید توی مرورگر، بالا میاد. ویدئو پلی نشد، دیپلویمنت رو عوض کنید"
@@ -269,7 +269,7 @@
       "datetime": "2026-04-22T08:55:28+00:00",
       "time_text": "08:55",
       "link": "https://t.me/MatinSenPaii/2807",
-      "views": "39.3K"
+      "views": "39.4K"
     },
     {
       "text": "💎توضیح ساده:\nبا نصب این نسخه نیازی به Python و کتابخونه‌هاش نیست. همه چیز توی یه باندل آماده، یک جا"
@@ -292,7 +292,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T05:24:55.269716",
+    "last_update": "2026-04-24T05:45:15.819076",
     "new_count": 0
   }
 }
