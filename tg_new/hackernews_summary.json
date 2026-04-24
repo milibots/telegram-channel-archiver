@@ -11,14 +11,26 @@
   "channel_files": null,
   "channel_links": null,
   "channel_description": "Get quick, clear summaries for every Hacker News story—no more info overload. This bot reads each post and gives you the key points in seconds. Perfect for staying updated without reading full threads.",
-  "total_posts": 76,
-  "returned_posts": 76,
+  "total_posts": 75,
+  "returned_posts": 75,
   "posts": [
+    {
+      "datetime": "2026-04-24T03:10:05+00:00",
+      "time_text": "03:10",
+      "link": "https://t.me/hackernews_summary/24821",
+      "views": "2"
+    },
+    {
+      "text": "Why I Write (1946)\n\n🔸The author's early life influenced his writing, with a desire to escape loneliness and create a private world through words. He developed a habit of making up stories and describing scenes, which continued into adulthood.\n\n24 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
+    },
+    {
+      "post_id": "24821"
+    },
     {
       "datetime": "2026-04-23T23:20:05+00:00",
       "time_text": "23:20",
       "link": "https://t.me/hackernews_summary/24820",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale\n\n🔸Google's Tensor Processing Units (TPUs) require a software stack that meets demands for performance, hardware portability, and reliability, leading to the development of TorchTPU, a PyTorch integration for native and efficient TPU usage. TorchTPU achieves this through its \"Eager First\" philosophy, Fused Eager mode, and native support for custom kernels, ensuring a seamless and ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -35,7 +47,7 @@
       "datetime": "2026-04-23T23:10:05+00:00",
       "time_text": "23:10",
       "link": "https://t.me/hackernews_summary/24819",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market\n\n🔸US Army Soldier Gannon Ken Van Dyke charged with using classified information for personal gain, making over &#036;400,000 in illegal trades on Polymarket. He faces up to 40 years in prison for violating federal laws and misusing national security information.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -52,7 +64,7 @@
       "datetime": "2026-04-23T22:50:05+00:00",
       "time_text": "22:50",
       "link": "https://t.me/hackernews_summary/24818",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases\n\n🔸Tolaria is a Mac app for managing markdown knowledge bases with features like offline use, open source, and keyboard-first design. It's built for power-users with a focus on flexibility and portability.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -64,7 +76,7 @@
       "datetime": "2026-04-23T21:45:05+00:00",
       "time_text": "21:45",
       "link": "https://t.me/hackernews_summary/24817",
-      "views": "8"
+      "views": "9"
     },
     {
       "text": "GPT-5.5: Mythos-Like Hacking, Open to All\n\n🔸OpenAI's GPT-5.5 model outperforms previous versions in vulnerability detection, reducing the miss rate to 10%. It also excels in black box testing and white box testing, making it a key part of the stack for penetration testing workflows.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -81,7 +93,7 @@
       "datetime": "2026-04-23T21:35:05+00:00",
       "time_text": "21:35",
       "link": "https://t.me/hackernews_summary/24816",
-      "views": "7"
+      "views": "8"
     },
     {
       "text": "How the Tech World Turned Evil\n\n🔸Silicon Valley tech leaders like Peter Thiel and Marc Andreessen are framing their economic self-interest as a religious imperative, warning of a war between good (AI) and evil (government regulation) and predicting a Singularity where human intelligence is eclipsed by intellectually superior computers. The tech industry has shifted from a counterculture that promised to disperse power and ...\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -98,7 +110,7 @@
       "datetime": "2026-04-23T21:25:04+00:00",
       "time_text": "21:25",
       "link": "https://t.me/hackernews_summary/24815",
-      "views": "6"
+      "views": "7"
     },
     {
       "text": "UK Biobank health data keeps ending up on GitHub\n\n🔸UK Biobank has used copyright takedown notices to remove health data from GitHub, targeting 110 requests since July 2025. The notices mostly target Jupyter or R notebooks, genetic and genomic data files, and tabular datasets containing participant health records.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -115,7 +127,7 @@
       "datetime": "2026-04-23T21:15:46+00:00",
       "time_text": "21:15",
       "link": "https://t.me/hackernews_summary/24814",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "My phone replaced a brass plug\n\n🔸The author spent six months developing a computer vision model to automate scoring of shooting targets, using a combination of OpenCV and YOLOv8, and eventually created an offline-first app to track shooting performance.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -275,7 +287,7 @@
       "datetime": "2026-04-23T19:10:05+00:00",
       "time_text": "19:10",
       "link": "https://t.me/hackernews_summary/24804",
-      "views": "4"
+      "views": "5"
     },
     {
       "text": "I spent years trying to make CSS states predictable\n\n🔸The author describes a problem with CSS where component state is managed through overlap, leading to complexity and potential bugs. They created a system called Tasty that allows component state to be expressed declaratively, making it easier to extend or change components without reopening the state-resolution problem.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -287,7 +299,7 @@
       "datetime": "2026-04-23T19:00:04+00:00",
       "time_text": "19:00",
       "link": "https://t.me/hackernews_summary/24803",
-      "views": "3"
+      "views": "4"
     },
     {
       "text": "Middle Eastern News Sites Are U.S. Government Propaganda Ops\n\n🔸Al-Fassel and Pishtaz News are propaganda websites funded by the US government, spreading pro-US and anti-Iranian content. They use social media to disseminate biased information, often masquerading as independent news outlets.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
@@ -316,27 +328,10 @@
     },
     {
       "post_id": "24802"
-    },
-    {
-      "datetime": "2026-04-23T18:05:05+00:00",
-      "time_text": "18:05",
-      "link": "https://t.me/hackernews_summary/24801",
-      "views": "5"
-    },
-    {
-      "text": "An update on recent Claude Code quality reports\n\n🔸Claude's responses worsened for some users due to three separate changes affecting Claude Code, the Claude Agent SDK, and Claude Cowork. We've fixed the issues and will implement changes to prevent similar problems in the future.\n\n23 Apr 2026\n\n💬 comments\n🌍 @hackernews_summary"
-    },
-    {
-      "photos": [
-        "bale:46627310:2092779445809979139:1:65b5e3e3fd6f689b338c5b7d342f2e1b8211e6c76420e4b7"
-      ]
-    },
-    {
-      "post_id": "24801"
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T06:26:08.862346",
-    "new_count": 0
+    "last_update": "2026-04-24T06:46:35.889083",
+    "new_count": 1
   }
 }
