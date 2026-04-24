@@ -54,7 +54,7 @@
       "datetime": "2026-04-22T17:52:50+00:00",
       "time_text": "17:52",
       "link": "https://t.me/papFransiz/398",
-      "views": "696"
+      "views": "698"
     },
     {
       "text": "اسکریپت نصب ترکیبی و خودکار پکیجهای : \n\n-امنیزیا وایرگارد(AmneziaWG) بهمراه pbr و لیست آدرسهای آي پی ایران مناسب برای همه روترهای دارای پشتیبانی از OpenWrt آخرین نسخه 24.10.3:\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --amnezia --pbr --ir\n\n-پسوال ۲ بهمراه جئولیست وبسایتها و آدرسهای آیپی ایران مناسب برای روترهای دارای حداقل پردازنده Arm 64 دو هسته ای و ۲۵۶ مگابایت رم(‌۵۱۲ مگ رم به بالا پیشنهاد میشود):\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --passwall2 --ir --rebind\n\n-پسوال ۲ بهمراه جئولیست وبسایتها و آدرسهای آیپی ایران و AmneziaWG. برای استفاده ترکیبی از پروتوکل ها حداقل پردازنده Arm 64 چهار هسته ای و ۱ گیگابایت رم:\ncd /tmp/ && wget -O install.sh https://github.com/iranopenwrt/auto/releases/latest/download/install.sh && sh install.sh --passwall2 --ir --rebind --amneziawg\n\nلینک گیتهاب جهت مشارکت در پروژه\nhttps://github.com/iranopenwrt/auto"
@@ -270,7 +270,7 @@
     }
   ],
   "fetch_metadata": {
-    "last_update": "2026-04-24T04:03:35.538872",
+    "last_update": "2026-04-24T04:23:58.022444",
     "new_count": 0
   }
 }
